@@ -1,0 +1,7 @@
+pandas
+requests
+plotly
+ipywidgets
+python-dotenv
+nbformat>=4.2.0
+ipython
