@@ -1,0 +1,397 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/oblUNeHlwV3VsjB5ITMlco5ZSOF.jpg",
+    "genre_ids": [
+      12,
+      14,
+      35
+    ],
+    "id": 493529,
+    "original_language": "en",
+    "original_title": "Dungeons & Dragons: Honor Among Thieves",
+    "overview": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+    "popularity": 11.7025,
+    "poster_path": "/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg",
+    "release_date": "2023-03-23",
+    "title": "Dungeons & Dragons: Honor Among Thieves",
+    "video": false,
+    "vote_average": 7.338,
+    "vote_count": 3961
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/p3WiF8qYS7Qp17YRYgrFh7gf9P9.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "id": 24,
+    "original_language": "en",
+    "original_title": "Kill Bill: Vol. 1",
+    "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+    "popularity": 11.6887,
+    "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+    "release_date": "2003-10-10",
+    "title": "Kill Bill: Vol. 1",
+    "video": false,
+    "vote_average": 7.97,
+    "vote_count": 17842
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 453,
+    "original_language": "en",
+    "original_title": "A Beautiful Mind",
+    "overview": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
+    "popularity": 11.6682,
+    "poster_path": "/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+    "release_date": "2001-12-14",
+    "title": "A Beautiful Mind",
+    "video": false,
+    "vote_average": 7.9,
+    "vote_count": 10455
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bgkFOoXEQMRjKkCvgoj7smdGbuh.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 157350,
+    "original_language": "en",
+    "original_title": "Divergent",
+    "overview": "In a world divided into factions based on personality types, Tris learns that she's been classified as Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.",
+    "popularity": 11.6641,
+    "poster_path": "/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg",
+    "release_date": "2014-03-14",
+    "title": "Divergent",
+    "video": false,
+    "vote_average": 6.915,
+    "vote_count": 12971
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rOJb0yQOCny0bPjg8bCLw8DyAD7.jpg",
+    "genre_ids": [
+      35,
+      12,
+      878
+    ],
+    "id": 550988,
+    "original_language": "en",
+    "original_title": "Free Guy",
+    "overview": "A bank teller discovers he is actually a background player in an open-world video game, and decides to become the hero of his own story. Now, in a world where there are no limits, he is determined to be the guy who saves his world his way before it's too late.",
+    "popularity": 11.6594,
+    "poster_path": "/6PFJrMvoQwBxQITLYHj09VeJ37q.jpg",
+    "release_date": "2021-08-11",
+    "title": "Free Guy",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 9067
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/AoSZyb37ljMAxw0RdeQEBHKtgcc.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      12,
+      35,
+      14
+    ],
+    "id": 330457,
+    "original_language": "en",
+    "original_title": "Frozen II",
+    "overview": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
+    "popularity": 11.6539,
+    "poster_path": "/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+    "release_date": "2019-11-20",
+    "title": "Frozen II",
+    "video": false,
+    "vote_average": 7.249,
+    "vote_count": 9898
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1aOPPkXASkd2By3EKIw66Ilx5qF.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1094974,
+    "original_language": "en",
+    "original_title": "Take Cover",
+    "overview": "A burned-out professional sniper finds himself trapped in an all-glass penthouse by a lethal competitor and must find a way to survive and escape with little to no cover between him and the killer.",
+    "popularity": 11.6509,
+    "poster_path": "/xNLiMNyFzKTL9PVIEulG55Hei8j.jpg",
+    "release_date": "2024-10-04",
+    "title": "Take Cover",
+    "video": false,
+    "vote_average": 6.634,
+    "vote_count": 119
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7bWxAsNPv9CXHOhZbJVlj2KxgfP.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 713704,
+    "original_language": "en",
+    "original_title": "Evil Dead Rise",
+    "overview": "A reunion between two estranged sisters gets cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+    "popularity": 11.6491,
+    "poster_path": "/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",
+    "release_date": "2023-04-12",
+    "title": "Evil Dead Rise",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 3259
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lpZRUK5AuFW4Rw6bISIWOBJhS7P.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1100287,
+    "original_language": "en",
+    "original_title": "Making of The Last of Us",
+    "overview": "Featuring extensive interviews with the cast and crew, this all-access documentary gives a rare glimpse into the daunting behind-the-scenes efforts that went into the production of the HBO Original smash hit series The Last of Us.",
+    "popularity": 11.648,
+    "poster_path": "/nter1KTaQjmkGCjvSu5u01FoecP.jpg",
+    "release_date": "2023-03-12",
+    "title": "Making of The Last of Us",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 23
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/v23fWgJUEt8EMmvn19btIacxP8E.jpg",
+    "genre_ids": [
+      10749,
+      14,
+      16
+    ],
+    "id": 3933,
+    "original_language": "en",
+    "original_title": "Corpse Bride",
+    "overview": "In a 19th-century European village, a young man about to be married is whisked away to the underworld and wed to a mysterious corpse bride, while his real bride waits bereft in the land of the living.",
+    "popularity": 11.6417,
+    "poster_path": "/isb2Qow76GpqYmsSyfdMfsYAjts.jpg",
+    "release_date": "2005-09-12",
+    "title": "Corpse Bride",
+    "video": false,
+    "vote_average": 7.578,
+    "vote_count": 9530
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6WA9stUMbIkEPxn3D5SWlA8FIi7.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878,
+      53
+    ],
+    "id": 351286,
+    "original_language": "en",
+    "original_title": "Jurassic World: Fallen Kingdom",
+    "overview": "Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+    "popularity": 11.634,
+    "poster_path": "/270MrJNqJovumHXGE6SSt0zwUIF.jpg",
+    "release_date": "2018-06-06",
+    "title": "Jurassic World: Fallen Kingdom",
+    "video": false,
+    "vote_average": 6.538,
+    "vote_count": 12045
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/AqfqJzuO7dwbRGqlPUILoowy9TQ.jpg",
+    "genre_ids": [
+      80,
+      28
+    ],
+    "id": 377579,
+    "original_language": "zh",
+    "original_title": "角頭",
+    "overview": "Qing Feng is the top lieutenant under gang boss Yong. Three years ago, his good friend Xiong went to jail for him in the name of brotherhood. Upon his return, Xiong is immediately favored by Yong, which plants a growing rift in his friendship with Qing Feng. Over on the rival gang side, U.S.-educated Michael returns to Taiwan to take over for his late father and applies ruthless business strategies to expand his turf. With his eyes set on a profitable property development project, Michael will stop at nothing to eliminate Yong and take over his turf.",
+    "popularity": 11.6265,
+    "poster_path": "/zSjHhyv5EnJOsUEiAUHioC3KlyH.jpg",
+    "release_date": "2015-07-05",
+    "title": "Gatao",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 6
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8AE7M2lMsyvowfT36porzGtmOtI.jpg",
+    "genre_ids": [
+      878,
+      18,
+      10749
+    ],
+    "id": 38,
+    "original_language": "en",
+    "original_title": "Eternal Sunshine of the Spotless Mind",
+    "overview": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+    "popularity": 11.6264,
+    "poster_path": "/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+    "release_date": "2004-03-19",
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "video": false,
+    "vote_average": 8.091,
+    "vote_count": 15430
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/puJKgNcWaGgMk5VHanSSomUTpmw.jpg",
+    "genre_ids": [
+      10751,
+      14,
+      16,
+      10749
+    ],
+    "id": 11224,
+    "original_language": "en",
+    "original_title": "Cinderella",
+    "overview": "Cinderella has faith her dreams of a better life will come true. With help from her loyal mice friends and a wave of her Fairy Godmother's wand, Cinderella's rags are magically turned into a glorious gown and off she goes to the Royal Ball. But when the clock strikes midnight, the spell is broken, leaving a single glass slipper... the only key to the ultimate fairy-tale ending!",
+    "popularity": 11.6256,
+    "poster_path": "/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
+    "release_date": "1950-02-22",
+    "title": "Cinderella",
+    "video": false,
+    "vote_average": 7.044,
+    "vote_count": 6833
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tva2OlLELCagFynFibcefhn2D9i.jpg",
+    "genre_ids": [
+      12,
+      28,
+      53,
+      878
+    ],
+    "id": 604,
+    "original_language": "en",
+    "original_title": "The Matrix Reloaded",
+    "overview": "Six months after the events depicted in The Matrix, Neo has proved to be a good omen for the free humans, as more and more humans are being freed from the matrix and brought to Zion, the one and only stronghold of the Resistance.  Neo himself has discovered his superpowers including super speed, ability to see the codes of the things inside the matrix and a certain degree of pre-cognition. But a nasty piece of news hits the human resistance: 250,000 machine sentinels are digging to Zion and would reach them in 72 hours. As Zion prepares for the ultimate war, Neo, Morpheus and Trinity are advised by the Oracle to find the Keymaker who would help them reach the Source.  Meanwhile Neo's recurrent dreams depicting Trinity's death have got him worried and as if it was not enough, Agent Smith has somehow escaped deletion, has become more powerful than before and has fixed Neo as his next target.",
+    "popularity": 11.603,
+    "poster_path": "/9TGHDvWrqKBzwDxDodHYXEmOE6J.jpg",
+    "release_date": "2003-05-15",
+    "title": "The Matrix Reloaded",
+    "video": false,
+    "vote_average": 7.057,
+    "vote_count": 11241
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4V1yIoAKPMRQwGBaSses8Bp2nsi.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "id": 137113,
+    "original_language": "en",
+    "original_title": "Edge of Tomorrow",
+    "overview": "Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.",
+    "popularity": 11.6025,
+    "poster_path": "/uUHvlkLavotfGsNtosDy8ShsIYF.jpg",
+    "release_date": "2014-05-27",
+    "title": "Edge of Tomorrow",
+    "video": false,
+    "vote_average": 7.63,
+    "vote_count": 14182
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4PAtIaArgPMpKe6fkXw051SYR88.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 50270,
+    "original_language": "it",
+    "original_title": "Paprika",
+    "overview": "Mimma starts working in Madame Colette’s brothel to help her boyfriend financially. There she is rechristened “Paprika,” and falls in love with her first client, naval officer Franco. Despite this attraction, she begins her climb through the sex trade, residing in Italy’s most illustrious brothels.",
+    "popularity": 11.5855,
+    "poster_path": "/7ArZvonETUbFYuNBa5PWkYJjG1u.jpg",
+    "release_date": "1991-02-13",
+    "title": "Paprika",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 527
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg",
+    "genre_ids": [
+      36,
+      18,
+      53,
+      10752
+    ],
+    "id": 205596,
+    "original_language": "en",
+    "original_title": "The Imitation Game",
+    "overview": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+    "popularity": 11.5467,
+    "poster_path": "/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+    "release_date": "2014-11-14",
+    "title": "The Imitation Game",
+    "video": false,
+    "vote_average": 7.994,
+    "vote_count": 17330
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/z9ft5HYHzWcasR6SGcgeluxTznB.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      10402
+    ],
+    "id": 335797,
+    "original_language": "en",
+    "original_title": "Sing",
+    "overview": "A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.",
+    "popularity": 11.5441,
+    "poster_path": "/zZTlF2eVVUkbdmccd3bNUU9T9sD.jpg",
+    "release_date": "2016-11-23",
+    "title": "Sing",
+    "video": false,
+    "vote_average": 7.114,
+    "vote_count": 8089
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kmLssINCNdXnIDjWkBsk6LUNSbe.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1028196,
+    "original_language": "en",
+    "original_title": "Nickel Boys",
+    "overview": "Chronicles the powerful friendship between two young Black teenagers navigating the harrowing trials of reform school together in Florida.",
+    "popularity": 11.5428,
+    "poster_path": "/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg",
+    "release_date": "2024-12-13",
+    "title": "Nickel Boys",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 248
+  }
+]

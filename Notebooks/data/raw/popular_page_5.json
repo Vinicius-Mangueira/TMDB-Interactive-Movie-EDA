@@ -1,0 +1,396 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/auJKGst3vXpJozHZh4nMFs0xWIU.jpg",
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "id": 181812,
+    "original_language": "en",
+    "original_title": "Star Wars: The Rise of Skywalker",
+    "overview": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
+    "popularity": 46.1047,
+    "poster_path": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+    "release_date": "2019-12-18",
+    "title": "Star Wars: The Rise of Skywalker",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 10174
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zTwoyVOAc6XCLjYfzWER6oQgpbO.jpg",
+    "genre_ids": [
+      53,
+      9648
+    ],
+    "id": 402,
+    "original_language": "en",
+    "original_title": "Basic Instinct",
+    "overview": "Catherine, a novelist with an insatiable sexual appetite, becomes a prime suspect when her boyfriend is brutally murdered -- a crime she had described in her latest story.",
+    "popularity": 45.6167,
+    "poster_path": "/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+    "release_date": "1992-03-20",
+    "title": "Basic Instinct",
+    "video": false,
+    "vote_average": 6.933,
+    "vote_count": 4031
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/euYIwmwkmz95mnXvufEmbL6ovhZ.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18
+    ],
+    "id": 558449,
+    "original_language": "en",
+    "original_title": "Gladiator II",
+    "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+    "popularity": 44.6585,
+    "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+    "release_date": "2024-11-13",
+    "title": "Gladiator II",
+    "video": false,
+    "vote_average": 6.741,
+    "vote_count": 3317
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+    "genre_ids": [
+      16,
+      12,
+      35,
+      10751
+    ],
+    "id": 1022789,
+    "original_language": "en",
+    "original_title": "Inside Out 2",
+    "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+    "popularity": 44.5131,
+    "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "release_date": "2024-06-11",
+    "title": "Inside Out 2",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 5820
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kQGxGXzYiCumY8kmXXpgbZyZQK8.jpg",
+    "genre_ids": [
+      80,
+      9648,
+      53
+    ],
+    "id": 395834,
+    "original_language": "en",
+    "original_title": "Wind River",
+    "overview": "An FBI agent teams with the town's veteran game tracker to investigate a murder that occurred on a Native American reservation.",
+    "popularity": 44.4109,
+    "poster_path": "/pySivdR845Hom4u4T2WNkJxe6Ad.jpg",
+    "release_date": "2017-08-03",
+    "title": "Wind River",
+    "video": false,
+    "vote_average": 7.438,
+    "vote_count": 5370
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2qluV8y79LnBBHaMpwewCjQ1Htk.jpg",
+    "genre_ids": [
+      878,
+      27,
+      53
+    ],
+    "id": 126889,
+    "original_language": "en",
+    "original_title": "Alien: Covenant",
+    "overview": "The crew of the colony ship Covenant, bound for a remote planet on the far side of the galaxy, discovers what they think is an uncharted paradise but is actually a dark, dangerous world.",
+    "popularity": 44.3582,
+    "poster_path": "/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg",
+    "release_date": "2017-05-09",
+    "title": "Alien: Covenant",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 8881
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53,
+      80
+    ],
+    "id": 7451,
+    "original_language": "en",
+    "original_title": "xXx",
+    "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+    "popularity": 43.9565,
+    "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+    "release_date": "2002-08-09",
+    "title": "xXx",
+    "video": false,
+    "vote_average": 5.942,
+    "vote_count": 4411
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "id": 539972,
+    "original_language": "en",
+    "original_title": "Kraven the Hunter",
+    "overview": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
+    "popularity": 43.9032,
+    "poster_path": "/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
+    "release_date": "2024-12-11",
+    "title": "Kraven the Hunter",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 1666
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      878
+    ],
+    "id": 519182,
+    "original_language": "en",
+    "original_title": "Despicable Me 4",
+    "overview": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+    "popularity": 43.7381,
+    "poster_path": "/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+    "release_date": "2024-06-20",
+    "title": "Despicable Me 4",
+    "video": false,
+    "vote_average": 7.046,
+    "vote_count": 2750
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3xKJ0nyUTlySmMBCpOcsuSnFPI1.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "id": 1232546,
+    "original_language": "en",
+    "original_title": "Until Dawn",
+    "overview": "One year after her sister Melanie mysteriously disappeared, Clover and her friends head into the remote valley where she vanished in search of answers. Exploring an abandoned visitor center, they find themselves stalked by a masked killer and horrifically murdered one by one...only to wake up and find themselves back at the beginning of the same evening.",
+    "popularity": 43.3978,
+    "poster_path": "/6O9nkcmZBymDXtxOGJmulqcxJdv.jpg",
+    "release_date": "2025-04-23",
+    "title": "Until Dawn",
+    "video": false,
+    "vote_average": 6.249,
+    "vote_count": 167
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ohE1z6FSjdvKKMR3Kzaj8XzFtIT.jpg",
+    "genre_ids": [
+      10752,
+      18
+    ],
+    "id": 1076291,
+    "original_language": "sr",
+    "original_title": "Олуја",
+    "overview": "Follow the story of the people who were expelled from Krajina in 1995 and the suffering of the Serb people in Croatia.",
+    "popularity": 43.0749,
+    "poster_path": "/l1RW2ZyL2W4bqjibbWFBX2Eo3a2.jpg",
+    "release_date": "2023-01-17",
+    "title": "Operation Storm",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/87GU2ifjNYtgYtcRH1NNH1P4ODo.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ],
+    "id": 1064213,
+    "original_language": "en",
+    "original_title": "Anora",
+    "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+    "popularity": 42.545,
+    "poster_path": "/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
+    "release_date": "2024-10-14",
+    "title": "Anora",
+    "video": false,
+    "vote_average": 7.045,
+    "vote_count": 2144
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      16,
+      28
+    ],
+    "id": 950784,
+    "original_language": "ja",
+    "original_title": "烈火の炎 FINAL BURNING",
+    "overview": "A retold ending based on the final few chapters of the Flame of Recca manga series.",
+    "popularity": 42.4887,
+    "poster_path": "/mz4JRlydPga303keGQh5Ib0rLDC.jpg",
+    "release_date": "2004-06-10",
+    "title": "Flame of Recca: Final Burning",
+    "video": false,
+    "vote_average": 9.5,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zksO4lVnRKRoaSYzh2EDn2Z3Pel.jpg",
+    "genre_ids": [
+      37,
+      28
+    ],
+    "id": 1293286,
+    "original_language": "en",
+    "original_title": "Gunslingers",
+    "overview": "When the most wanted man in America surfaces in a small Kentucky town, his violent history -- and a blood-thirsty mob seeking vengeance and a king’s ransom -- soon follow. As brothers face off against one another and bullets tear the town to shreds, this lightning-fast gunslinger makes his enemies pay the ultimate price for their greed.",
+    "popularity": 41.4391,
+    "poster_path": "/O7REXWPANWXvX2jhQydHjAq2DV.jpg",
+    "release_date": "2025-04-11",
+    "title": "Gunslingers",
+    "video": false,
+    "vote_average": 6.549,
+    "vote_count": 51
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zMrk2G3XsnfYKiIp1NEfdtvDyBH.jpg",
+    "genre_ids": [
+      12,
+      14,
+      28,
+      10751
+    ],
+    "id": 337401,
+    "original_language": "en",
+    "original_title": "Mulan",
+    "overview": "When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.",
+    "popularity": 41.3371,
+    "poster_path": "/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+    "release_date": "2020-09-04",
+    "title": "Mulan",
+    "video": false,
+    "vote_average": 6.865,
+    "vote_count": 6776
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/k24eZq5I3jyz4htPkZCRpnUmBzE.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1156593,
+    "original_language": "es",
+    "original_title": "Culpa tuya",
+    "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+    "popularity": 40.9673,
+    "poster_path": "/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+    "release_date": "2024-12-26",
+    "title": "Your Fault",
+    "video": false,
+    "vote_average": 7.143,
+    "vote_count": 1241
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6KDLAU9OnA0FhXP1av8jqavCGG9.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 9532,
+    "original_language": "en",
+    "original_title": "Final Destination",
+    "overview": "After a teenager has a terrifying vision of him and his friends dying in a plane crash, he prevents the accident only to have Death hunt them down, one by one.",
+    "popularity": 39.8061,
+    "poster_path": "/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg",
+    "release_date": "2000-03-17",
+    "title": "Final Destination",
+    "video": false,
+    "vote_average": 6.613,
+    "vote_count": 5883
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/b3mdmjYTEL70j7nuXATUAD9qgu4.jpg",
+    "genre_ids": [
+      16,
+      14,
+      12
+    ],
+    "id": 823219,
+    "original_language": "lv",
+    "original_title": "Straume",
+    "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+    "popularity": 39.5489,
+    "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
+    "release_date": "2024-08-29",
+    "title": "Flow",
+    "video": false,
+    "vote_average": 8.196,
+    "vote_count": 1921
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9Eu5yFP75Ky0JAPiF985mxCdIIY.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 1038392,
+    "original_language": "en",
+    "original_title": "The Conjuring: Last Rites",
+    "overview": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
+    "popularity": 38.5459,
+    "poster_path": "/29ES27icY5CzTcMhlz1H4SdQRod.jpg",
+    "release_date": "2025-09-04",
+    "title": "The Conjuring: Last Rites",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/34jW8LvjRplM8Pv06cBFDpLlenR.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 429617,
+    "original_language": "en",
+    "original_title": "Spider-Man: Far From Home",
+    "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+    "popularity": 38.4999,
+    "poster_path": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+    "release_date": "2019-06-28",
+    "title": "Spider-Man: Far From Home",
+    "video": false,
+    "vote_average": 7.41,
+    "vote_count": 16058
+  }
+]

@@ -1,0 +1,401 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/tPK1kSevALeVGPfDFv1pwyHnoJ9.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "id": 863,
+    "original_language": "en",
+    "original_title": "Toy Story 2",
+    "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+    "popularity": 14.1141,
+    "poster_path": "/yFWQkz2ynjwsazT6xQiIXEUsyuh.jpg",
+    "release_date": "1999-10-30",
+    "title": "Toy Story 2",
+    "video": false,
+    "vote_average": 7.597,
+    "vote_count": 14130
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kg2FOT2Oe5PSCgs3L4vLel6B7ck.jpg",
+    "genre_ids": [
+      28,
+      27,
+      878,
+      53
+    ],
+    "id": 72190,
+    "original_language": "en",
+    "original_title": "World War Z",
+    "overview": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+    "popularity": 14.1066,
+    "poster_path": "/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg",
+    "release_date": "2013-06-19",
+    "title": "World War Z",
+    "video": false,
+    "vote_average": 6.82,
+    "vote_count": 15697
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iveeHEGtkq0dBJZtOcoK650sZ6x.jpg",
+    "genre_ids": [
+      80,
+      18,
+      36
+    ],
+    "id": 1013601,
+    "original_language": "en",
+    "original_title": "The Alto Knights",
+    "overview": "Two of New York's most notorious organized crime bosses, Frank Costello and Vito Genovese, vie for control of the city's streets. Once the best of friends, petty jealousies and a series of betrayals place them on a deadly collision course that will reshape the Mafia (and America) forever.",
+    "popularity": 14.1036,
+    "poster_path": "/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg",
+    "release_date": "2025-03-14",
+    "title": "The Alto Knights",
+    "video": false,
+    "vote_average": 6.205,
+    "vote_count": 166
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/roYyPiQDQKmIKUEhO912693tSja.jpg",
+    "genre_ids": [
+      27,
+      18,
+      878
+    ],
+    "id": 447332,
+    "original_language": "en",
+    "original_title": "A Quiet Place",
+    "overview": "A family is forced to live in silence while hiding from creatures that hunt by sound.",
+    "popularity": 14.0772,
+    "poster_path": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+    "release_date": "2018-04-03",
+    "title": "A Quiet Place",
+    "video": false,
+    "vote_average": 7.399,
+    "vote_count": 14539
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/n3pJwYuPnkw7JX7tOMbH0GRfBPn.jpg",
+    "genre_ids": [
+      14,
+      16,
+      10751
+    ],
+    "id": 408,
+    "original_language": "en",
+    "original_title": "Snow White and the Seven Dwarfs",
+    "overview": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as \"the fairest in the land,\" and Snow White's beauty surpasses her own.",
+    "popularity": 14.0577,
+    "poster_path": "/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
+    "release_date": "1938-01-14",
+    "title": "Snow White and the Seven Dwarfs",
+    "video": false,
+    "vote_average": 7.122,
+    "vote_count": 7594
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mkXwF7FFWpf2dkOGCzQoeWX7M6R.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "id": 6977,
+    "original_language": "en",
+    "original_title": "No Country for Old Men",
+    "overview": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+    "popularity": 14.0092,
+    "poster_path": "/bj1v6YKF8yHqA489VFfnQvOJpnc.jpg",
+    "release_date": "2007-06-13",
+    "title": "No Country for Old Men",
+    "video": false,
+    "vote_average": 7.946,
+    "vote_count": 12360
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4rsomWxlqnHt3muGYK06auhOib6.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      35
+    ],
+    "id": 818647,
+    "original_language": "es",
+    "original_title": "A través de mi ventana",
+    "overview": "Raquel's longtime crush on her next-door neighbor turns into something more when he starts developing feelings for her, despite his family's objections.",
+    "popularity": 13.9931,
+    "poster_path": "/jmkpZvMVIRrMFevxzOubSBfG0s0.jpg",
+    "release_date": "2022-02-04",
+    "title": "Through My Window",
+    "video": false,
+    "vote_average": 7.365,
+    "vote_count": 3227
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "id": 103,
+    "original_language": "en",
+    "original_title": "Taxi Driver",
+    "overview": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action.",
+    "popularity": 13.989,
+    "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+    "release_date": "1976-02-09",
+    "title": "Taxi Driver",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 12634
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1ZKHzSGJm0kvlCp4echAOtKnDTm.jpg",
+    "genre_ids": [
+      16,
+      18,
+      10751
+    ],
+    "id": 3170,
+    "original_language": "en",
+    "original_title": "Bambi",
+    "overview": "Bambi's tale unfolds from season to season as the young prince of the forest learns about life, love, and friends.",
+    "popularity": 13.9755,
+    "poster_path": "/wV9e2y4myJ4KMFsyFfWYcUOawyK.jpg",
+    "release_date": "1942-08-14",
+    "title": "Bambi",
+    "video": false,
+    "vote_average": 7.009,
+    "vote_count": 5752
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9iQWsXwjOMGDvTDdvCnpiyR0UG3.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 8681,
+    "original_language": "en",
+    "original_title": "Taken",
+    "overview": "Bryan Mills, a former government operative, is trying to reconnect with his teenage daughter Kim. After reluctantly agreeing with his ex-wife to let Kim go to Paris on vacation with a friend, his worst nightmare comes true. While on the phone with his daughter shortly after she arrives in Paris, she and her friend are abducted by a gang of human traffickers. Working against the clock, Bryan relies on his extensive training and skills to track down the ruthless gang that abducted her and launch a one-man war to rescue his daughter.",
+    "popularity": 13.9503,
+    "poster_path": "/y5Va1WXDX6nZElVirPrGxf6w99B.jpg",
+    "release_date": "2008-02-18",
+    "title": "Taken",
+    "video": false,
+    "vote_average": 7.396,
+    "vote_count": 11470
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9dfHalOBi4fj2GY2YW9H7IuyaXC.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      12
+    ],
+    "id": 438148,
+    "original_language": "en",
+    "original_title": "Minions: The Rise of Gru",
+    "overview": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
+    "popularity": 13.9463,
+    "poster_path": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+    "release_date": "2022-06-29",
+    "title": "Minions: The Rise of Gru",
+    "video": false,
+    "vote_average": 7.299,
+    "vote_count": 3731
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xFYpUmB01nswPgbzi8EOCT1ZYFu.jpg",
+    "genre_ids": [
+      12,
+      28,
+      18
+    ],
+    "id": 980489,
+    "original_language": "en",
+    "original_title": "Gran Turismo",
+    "overview": "The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.",
+    "popularity": 13.939,
+    "poster_path": "/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
+    "release_date": "2023-08-09",
+    "title": "Gran Turismo",
+    "video": false,
+    "vote_average": 7.758,
+    "vote_count": 2940
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6w4WKcZc0Qqi1fm9LfaIER7Hr0L.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "id": 10576,
+    "original_language": "en",
+    "original_title": "Psycho II",
+    "overview": "Norman Bates is declared sane and released from the facility in which he was being held, despite the complaints of Lila Loomis, sister of his most famous victim. Is he really cured, or will he kill again?",
+    "popularity": 13.8971,
+    "poster_path": "/sJAPRj3vHmjV4z97YK84iDovYlm.jpg",
+    "release_date": "1983-06-03",
+    "title": "Psycho II",
+    "video": false,
+    "vote_average": 6.482,
+    "vote_count": 662
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/huzHIuaWRMDIAB8jIXYAwE7CJzS.jpg",
+    "genre_ids": [
+      35,
+      80,
+      12
+    ],
+    "id": 337404,
+    "original_language": "en",
+    "original_title": "Cruella",
+    "overview": "In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella’s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.",
+    "popularity": 13.8891,
+    "poster_path": "/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg",
+    "release_date": "2021-05-26",
+    "title": "Cruella",
+    "video": false,
+    "vote_average": 7.994,
+    "vote_count": 9558
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4mM7m9L3XlPLq4vNNy3P8yDSXNM.jpg",
+    "genre_ids": [
+      53,
+      80,
+      18
+    ],
+    "id": 1371202,
+    "original_language": "nl",
+    "original_title": "iHostage",
+    "overview": "When a gunman enters an Apple Store in the heart of Amsterdam, the police face a delicate challenge to resolve the standoff.",
+    "popularity": 13.8316,
+    "poster_path": "/tn3Ckxyc7OWXnhMPkiIBvqLdFC6.jpg",
+    "release_date": "2025-04-18",
+    "title": "iHostage",
+    "video": false,
+    "vote_average": 6.072,
+    "vote_count": 187
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vYA4qUPWY0EbjpcIXAL4h4pVmTC.jpg",
+    "genre_ids": [
+      18,
+      53,
+      9648
+    ],
+    "id": 345,
+    "original_language": "en",
+    "original_title": "Eyes Wide Shut",
+    "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+    "popularity": 13.8147,
+    "poster_path": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+    "release_date": "1999-07-16",
+    "title": "Eyes Wide Shut",
+    "video": false,
+    "vote_average": 7.486,
+    "vote_count": 6410
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
+    "genre_ids": [
+      16,
+      35,
+      14,
+      12,
+      10751
+    ],
+    "id": 508943,
+    "original_language": "en",
+    "original_title": "Luca",
+    "overview": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
+    "popularity": 13.8021,
+    "poster_path": "/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg",
+    "release_date": "2021-06-17",
+    "title": "Luca",
+    "video": false,
+    "vote_average": 7.805,
+    "vote_count": 8517
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/poWMPKjfUDO96dm1lA3hvbHLbdb.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1377424,
+    "original_language": "ml",
+    "original_title": "വിക്ടോറിയ",
+    "overview": "Victoria, a young beautician in a suburban beauty parlour, decides to elope with her Hindu boyfriend after a fierce clash with her conservative Catholic parents. Amidst the turmoil, a neighbour asks her to temporarily house an offering rooster destined for a festival at St. George church inside the parlour. Juggling the rooster's antics, unexpected clients, and her boyfriend's uncertainty, Victoria grapples with conflicting emotions leading to a day of intense personal and spiritual revelations.",
+    "popularity": 13.773,
+    "poster_path": "/hw09PdM2o7pF1zxn1pM8NTMPzno.jpg",
+    "release_date": "2024-12-14",
+    "title": "Victoria",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "id": 283995,
+    "original_language": "en",
+    "original_title": "Guardians of the Galaxy Vol. 2",
+    "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+    "popularity": 13.7459,
+    "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+    "release_date": "2017-04-19",
+    "title": "Guardians of the Galaxy Vol. 2",
+    "video": false,
+    "vote_average": 7.612,
+    "vote_count": 21949
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/85k0kaoRgGmF6ACq0M61AFxhjLN.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "id": 12153,
+    "original_language": "en",
+    "original_title": "White Chicks",
+    "overview": "Two FBI agent brothers, Marcus and Kevin Copeland, accidentally foil a drug bust. To avoid being fired they accept a mission escorting a pair of socialites to the Hamptons--but when the girls are disfigured in a car accident, they refuse to go. Left without options, Marcus and Kevin decide to pose as the sisters, transforming themselves from black men into rich white women.",
+    "popularity": 13.7379,
+    "poster_path": "/aHTUpo45qy9QYIOnVITGGqLoVcA.jpg",
+    "release_date": "2004-06-23",
+    "title": "White Chicks",
+    "video": false,
+    "vote_average": 6.929,
+    "vote_count": 4158
+  }
+]

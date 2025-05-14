@@ -1,0 +1,388 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/zvOJawrnmgK0sL293mOXOdLvTXQ.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 398818,
+    "original_language": "en",
+    "original_title": "Call Me by Your Name",
+    "overview": "In 1980s Italy, a relationship begins between seventeen-year-old teenage Elio and the older adult man hired as his father's research assistant.",
+    "popularity": 12.6186,
+    "poster_path": "/gXiE0WveDnT0n5J4sW9TMxXF4oT.jpg",
+    "release_date": "2017-07-28",
+    "title": "Call Me by Your Name",
+    "video": false,
+    "vote_average": 8.117,
+    "vote_count": 12298
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xwgBHC2FgoIrQitl8jZwXXdsR9u.jpg",
+    "genre_ids": [
+      35,
+      18,
+      53
+    ],
+    "id": 466272,
+    "original_language": "en",
+    "original_title": "Once Upon a Time... in Hollywood",
+    "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
+    "popularity": 12.6079,
+    "poster_path": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+    "release_date": "2019-07-24",
+    "title": "Once Upon a Time... in Hollywood",
+    "video": false,
+    "vote_average": 7.429,
+    "vote_count": 13872
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/k6ANeyxAfMRi5xhxIXv1Scn9vc2.jpg",
+    "genre_ids": [
+      27,
+      80,
+      53
+    ],
+    "id": 934433,
+    "original_language": "en",
+    "original_title": "Scream VI",
+    "overview": "Following the latest Ghostface killings, the four survivors leave Woodsboro behind and start a fresh chapter.",
+    "popularity": 12.6037,
+    "poster_path": "/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
+    "release_date": "2023-03-08",
+    "title": "Scream VI",
+    "video": false,
+    "vote_average": 6.994,
+    "vote_count": 2787
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ehumsuIBbgAe1hg343oszCLrAfI.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14,
+      12
+    ],
+    "id": 1022796,
+    "original_language": "en",
+    "original_title": "Wish",
+    "overview": "Asha, a sharp-witted idealist, makes a wish so powerful that it is answered by a cosmic force – a little ball of boundless energy called Star. Together, Asha and Star confront a most formidable foe - the ruler of Rosas, King Magnifico - to save her community and prove that when the will of one courageous human connects with the magic of the stars, wondrous things can happen.",
+    "popularity": 12.5917,
+    "poster_path": "/m9ckCVKU9vW3Dxc8hbodx7mjJbe.jpg",
+    "release_date": "2023-11-13",
+    "title": "Wish",
+    "video": false,
+    "vote_average": 6.317,
+    "vote_count": 1596
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      18
+    ],
+    "id": 1010335,
+    "original_language": "ja",
+    "original_title": "主婦と性生活",
+    "overview": "A woman marries the fiancé of her late sister but begins to have doubts when he starts to get overly friendly with a former classmate.",
+    "popularity": 12.5747,
+    "poster_path": "/7Pk6FsCrWTJYDiaQjnQipoP0rg1.jpg",
+    "release_date": "1984-11-23",
+    "title": "Shufu to Sei-seikatsu",
+    "video": false,
+    "vote_average": 1.333,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tXJwsqVttZBTuuTI9iG2SilfOJT.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1457124,
+    "original_language": "en",
+    "original_title": "Titanic: The Digital Resurrection",
+    "overview": "Using cutting-edge scanning technology and state-of-the-art CGI, a team of experts creates the first high-resolution 3D digital twin of the Titanic wreck. Through a groundbreaking immersive investigation, they uncover the ship’s final moments, shedding light on the acts of heroism and cowardice aboard—and revealing the true story behind the sinking of the “unsinkable” ship.",
+    "popularity": 12.5742,
+    "poster_path": "/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg",
+    "release_date": "2025-04-12",
+    "title": "Titanic: The Digital Resurrection",
+    "video": false,
+    "vote_average": 7.974,
+    "vote_count": 19
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/58D6ZAvOKxlHjyX9S8qNKSBE9Y.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 718821,
+    "original_language": "en",
+    "original_title": "Twisters",
+    "overview": "As storm season intensifies, the paths of former storm chaser Kate Carter and reckless social-media superstar Tyler Owens collide when terrifying phenomena never seen before are unleashed. The pair and their competing teams find themselves squarely in the paths of multiple storm systems converging over central Oklahoma in the fight of their lives.",
+    "popularity": 12.5696,
+    "poster_path": "/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
+    "release_date": "2024-07-10",
+    "title": "Twisters",
+    "video": false,
+    "vote_average": 6.83,
+    "vote_count": 2444
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4QLdZ2A8mkDWp2rpfgDrwmeCtUW.jpg",
+    "genre_ids": [
+      28,
+      12,
+      80
+    ],
+    "id": 47971,
+    "original_language": "en",
+    "original_title": "xXx: Return of Xander Cage",
+    "overview": "Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment with his handler Augustus Gibbons.",
+    "popularity": 12.5176,
+    "poster_path": "/hba8zREJpP1AYhaXgb2oJLQeO0K.jpg",
+    "release_date": "2017-01-13",
+    "title": "xXx: Return of Xander Cage",
+    "video": false,
+    "vote_average": 6.134,
+    "vote_count": 9026
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pulJ1iY7GVeppMRipiR7ZGDW7EW.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 615,
+    "original_language": "en",
+    "original_title": "The Passion of the Christ",
+    "overview": "A graphic portrayal of the last twelve hours of Jesus of Nazareth's life.",
+    "popularity": 12.4732,
+    "poster_path": "/v9f9MMrq2nGQrN7cHnQRmEq9lSE.jpg",
+    "release_date": "2004-02-25",
+    "title": "The Passion of the Christ",
+    "video": false,
+    "vote_average": 7.523,
+    "vote_count": 4841
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jcVHl3PNxeKRg3SGK2sZrKxh94a.jpg",
+    "genre_ids": [
+      35,
+      14
+    ],
+    "id": 214756,
+    "original_language": "en",
+    "original_title": "Ted 2",
+    "overview": "Newlywed couple Ted and Tami-Lynn want to have a baby, but in order to qualify to be a parent, Ted will have to prove he's a person in a court of law.",
+    "popularity": 12.4674,
+    "poster_path": "/38C91I7Xft0gyY7BITm8i4yvuRb.jpg",
+    "release_date": "2015-06-25",
+    "title": "Ted 2",
+    "video": false,
+    "vote_average": 6.313,
+    "vote_count": 7636
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
+    "genre_ids": [
+      12,
+      14,
+      28
+    ],
+    "id": 10195,
+    "original_language": "en",
+    "original_title": "Thor",
+    "overview": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.",
+    "popularity": 12.4655,
+    "poster_path": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+    "release_date": "2011-04-21",
+    "title": "Thor",
+    "video": false,
+    "vote_average": 6.769,
+    "vote_count": 21487
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lMWOcXVA62xnk1jSaz8iwrxVJR7.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 795514,
+    "original_language": "en",
+    "original_title": "The Fallout",
+    "overview": "In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic bond as they navigate the never linear, often confusing journey to heal in a world that feels forever changed.",
+    "popularity": 12.4462,
+    "poster_path": "/4ByHl9XRKR2iXbvF0ZilMRD1RcL.jpg",
+    "release_date": "2021-03-17",
+    "title": "The Fallout",
+    "video": false,
+    "vote_average": 7.578,
+    "vote_count": 1192
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3rwszCm4XyBtIWSjbUbgNwJOidu.jpg",
+    "genre_ids": [
+      53
+    ],
+    "id": 645710,
+    "original_language": "en",
+    "original_title": "The Voyeurs",
+    "overview": "When Pippa and Thomas move into their dream apartment, they notice that their windows look directly into the apartment opposite – inviting them to witness the volatile relationship of the attractive couple across the street. But what starts as a simple curiosity turns into full-blown obsession with increasingly dangerous consequences.",
+    "popularity": 12.4442,
+    "poster_path": "/8Y4XOIWhpOvSOEn8XrxbkH9yAXO.jpg",
+    "release_date": "2021-08-25",
+    "title": "The Voyeurs",
+    "video": false,
+    "vote_average": 6.56,
+    "vote_count": 1009
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iSbgsxHTN6q3YA34DAoQtXw5oIv.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 1127227,
+    "original_language": "tl",
+    "original_title": "Tayuan",
+    "overview": "Ella, an events project manager, usually takes a private transportation service. However, she is forced to take a bus, where bus conductor Rico becomes aroused when her body gets pressed into him due to the thick crowd.  This encounter deeply affects Ella, and from that night on, she starts pursuing Rico. Even after discovering that Rico already has a live-in partner and a daughter, Ella doesn’t care at all and she’ll do anything to make him want her just as much.",
+    "popularity": 12.4377,
+    "poster_path": "/5eX2JxR8djmoPBQhU0327uehqBf.jpg",
+    "release_date": "2023-06-23",
+    "title": "Tayuan",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 11
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vFm4pF0BgaWPj0i2zEiZO6TqEQ0.jpg",
+    "genre_ids": [
+      53,
+      28
+    ],
+    "id": 260346,
+    "original_language": "en",
+    "original_title": "Taken 3",
+    "overview": "Ex-government operative Bryan Mills finds his life is shattered when he's falsely accused of a murder that hits close to home. As he's pursued by a savvy police inspector, Mills employs his particular set of skills to track the real killer and exact his unique brand of justice.",
+    "popularity": 12.4069,
+    "poster_path": "/vzvMXMypMq7ieDofKThsxjHj9hn.jpg",
+    "release_date": "2014-12-16",
+    "title": "Taken 3",
+    "video": false,
+    "vote_average": 6.259,
+    "vote_count": 5866
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xVEBLD278GuFZoPFskpD3dvdJlV.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35
+    ],
+    "id": 20352,
+    "original_language": "en",
+    "original_title": "Despicable Me",
+    "overview": "Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.",
+    "popularity": 12.4017,
+    "poster_path": "/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg",
+    "release_date": "2010-07-08",
+    "title": "Despicable Me",
+    "video": false,
+    "vote_average": 7.247,
+    "vote_count": 15367
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eDLp4uFdqP1gpy9oMrutwH6Q64I.jpg",
+    "genre_ids": [
+      18,
+      53,
+      27
+    ],
+    "id": 44214,
+    "original_language": "en",
+    "original_title": "Black Swan",
+    "overview": "The story of Nina, a ballerina in a New York City ballet company whose life, like all those in her profession, is completely consumed with dance. She lives with her retired ballerina mother Erica who zealously supports her daughter's professional ambition. When artistic director Thomas Leroy decides to replace prima ballerina Beth MacIntyre for the opening production of their new season, Swan Lake, Nina is his first choice.",
+    "popularity": 12.3967,
+    "poster_path": "/viWheBd44bouiLCHgNMvahLThqx.jpg",
+    "release_date": "2010-12-03",
+    "title": "Black Swan",
+    "video": false,
+    "vote_average": 7.686,
+    "vote_count": 14796
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zbTaYrQzZaaEf1SZlv3RTZiUvZw.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 86331,
+    "original_language": "fr",
+    "original_title": "Q",
+    "overview": "In a social context deteriorated by a countrywide economic crisis, the life of several people will be turned upside down after they meet Cécile, a character who symbolizes desire.",
+    "popularity": 12.3867,
+    "poster_path": "/wxvvNXY3n0637cOcdeC61eyVAnC.jpg",
+    "release_date": "2011-10-06",
+    "title": "Desire",
+    "video": false,
+    "vote_average": 6.288,
+    "vote_count": 1309
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      14
+    ],
+    "id": 508947,
+    "original_language": "en",
+    "original_title": "Turning Red",
+    "overview": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.",
+    "popularity": 12.3709,
+    "poster_path": "/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+    "release_date": "2022-03-10",
+    "title": "Turning Red",
+    "video": false,
+    "vote_average": 7.35,
+    "vote_count": 5393
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/12fRHZSl9o80w7nl6RjaX7pyjIi.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "id": 713364,
+    "original_language": "en",
+    "original_title": "Clown in a Cornfield",
+    "overview": "Quinn and her father have just moved to the quiet town of Kettle Springs hoping for a fresh start. Instead, she discovers a fractured community that has fallen on hard times after the treasured Baypen Corn Syrup Factory burned down. As the locals bicker amongst themselves and tensions boil over, a sinister, grinning figure emerges from the cornfields to cleanse the town of its burdens, one bloody victim at a time.",
+    "popularity": 12.3368,
+    "poster_path": "/waQEkoCtrf7zAgZSic26tcDnS0a.jpg",
+    "release_date": "2025-05-08",
+    "title": "Clown in a Cornfield",
+    "video": false,
+    "vote_average": 6.053,
+    "vote_count": 19
+  }
+]

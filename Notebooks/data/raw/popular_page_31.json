@@ -1,0 +1,404 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/ac0kRKTfiJ4GcoUfb0XIO5vgC8q.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 1930,
+    "original_language": "en",
+    "original_title": "The Amazing Spider-Man",
+    "overview": "Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance – leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
+    "popularity": 13.0877,
+    "poster_path": "/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
+    "release_date": "2012-06-23",
+    "title": "The Amazing Spider-Man",
+    "video": false,
+    "vote_average": 6.715,
+    "vote_count": 17695
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      12
+    ],
+    "id": 166428,
+    "original_language": "en",
+    "original_title": "How to Train Your Dragon: The Hidden World",
+    "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+    "popularity": 13.0674,
+    "poster_path": "/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+    "release_date": "2019-01-03",
+    "title": "How to Train Your Dragon: The Hidden World",
+    "video": false,
+    "vote_average": 7.747,
+    "vote_count": 6581
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6XjMwQTvnICBz6TguiDKkDVHvgS.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "id": 762441,
+    "original_language": "en",
+    "original_title": "A Quiet Place: Day One",
+    "overview": "As New York City is invaded by alien creatures who hunt by sound, a woman named Sam fights to survive with her cat.",
+    "popularity": 13.0637,
+    "poster_path": "/hU42CRk14JuPEdqZG3AWmagiPAP.jpg",
+    "release_date": "2024-06-26",
+    "title": "A Quiet Place: Day One",
+    "video": false,
+    "vote_average": 6.729,
+    "vote_count": 2750
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ytTQoYkdpsgtfDWrNFCei8Mfbxu.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      12,
+      14,
+      35
+    ],
+    "id": 529203,
+    "original_language": "en",
+    "original_title": "The Croods: A New Age",
+    "overview": "Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.",
+    "popularity": 13.027,
+    "poster_path": "/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg",
+    "release_date": "2020-11-25",
+    "title": "The Croods: A New Age",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 3920
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jLRtQNOwA0ul2gnRoZ0QjNwMUN1.jpg",
+    "genre_ids": [
+      28,
+      35,
+      10752
+    ],
+    "id": 799583,
+    "original_language": "en",
+    "original_title": "The Ministry of Ungentlemanly Warfare",
+    "overview": "During World War II, the British Army assigns a group of competent soldiers to carry out a mission against the Nazi forces behind enemy lines... A true story about a secret British WWII organization – the Special Operations Executive. Founded by Winston Churchill, their irregular warfare against the Germans helped to change the course of the war, and gave birth to modern black operations.",
+    "popularity": 13.0257,
+    "poster_path": "/8aF0iAKH9MJMYAZdi0Slg77RYa2.jpg",
+    "release_date": "2024-04-18",
+    "title": "The Ministry of Ungentlemanly Warfare",
+    "video": false,
+    "vote_average": 7.083,
+    "vote_count": 1462
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aAM3cQmYGjjLQ24m0F0RWfjKQ57.jpg",
+    "genre_ids": [
+      27,
+      18,
+      9648
+    ],
+    "id": 530385,
+    "original_language": "en",
+    "original_title": "Midsommar",
+    "overview": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
+    "popularity": 13.022,
+    "poster_path": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+    "release_date": "2019-07-03",
+    "title": "Midsommar",
+    "video": false,
+    "vote_average": 7.152,
+    "vote_count": 7395
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/y5tad0a4yRbxYgOHGllEIEeCCKt.jpg",
+    "genre_ids": [
+      16,
+      10749,
+      14,
+      10751
+    ],
+    "id": 10198,
+    "original_language": "en",
+    "original_title": "The Princess and the Frog",
+    "overview": "A waitress, desperate to fulfill her dreams as a restaurant owner, is set on a journey to turn a frog prince back into a human being, but she has to face the same problem after she kisses him.",
+    "popularity": 13.0198,
+    "poster_path": "/v6nAUs62OJ4DXmnnmPFeVmMz8H9.jpg",
+    "release_date": "2009-12-08",
+    "title": "The Princess and the Frog",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 5767
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ztiFxuG0gC6wQ8y7JZFYbCQyN4Y.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      10402,
+      35
+    ],
+    "id": 438695,
+    "original_language": "en",
+    "original_title": "Sing 2",
+    "overview": "Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.",
+    "popularity": 13.0063,
+    "poster_path": "/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
+    "release_date": "2021-12-01",
+    "title": "Sing 2",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 4515
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
+    "genre_ids": [
+      12,
+      28,
+      14
+    ],
+    "id": 564,
+    "original_language": "en",
+    "original_title": "The Mummy",
+    "overview": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken.",
+    "popularity": 12.9898,
+    "poster_path": "/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
+    "release_date": "1999-04-16",
+    "title": "The Mummy",
+    "video": false,
+    "vote_average": 6.941,
+    "vote_count": 9320
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/d84M69u6Q202dm6EvhVxbiqrK9f.jpg",
+    "genre_ids": [
+      12,
+      18
+    ],
+    "id": 334533,
+    "original_language": "en",
+    "original_title": "Captain Fantastic",
+    "overview": "Deep in the forests of the Pacific Northwest, a father devoted to raising his six kids with a rigorous physical and intellectual education is forced to leave his paradise and enter the world, beginning a journey that challenges his idea of what it means to be a parent.",
+    "popularity": 12.9839,
+    "poster_path": "/2sFME73GaD8UsUxPUKe60cPdLif.jpg",
+    "release_date": "2016-07-08",
+    "title": "Captain Fantastic",
+    "video": false,
+    "vote_average": 7.897,
+    "vote_count": 6515
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/unthV1mq9llhEinIMPcCUImFodt.jpg",
+    "genre_ids": [
+      878,
+      12
+    ],
+    "id": 617126,
+    "original_language": "en",
+    "original_title": "The Fantastic Four: First Steps",
+    "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+    "popularity": 12.9406,
+    "poster_path": "/x26MtUlwtWD26d0G0FXcppxCJio.jpg",
+    "release_date": "2025-07-23",
+    "title": "The Fantastic Four: First Steps",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10752
+    ],
+    "id": 857,
+    "original_language": "en",
+    "original_title": "Saving Private Ryan",
+    "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+    "popularity": 12.9361,
+    "poster_path": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+    "release_date": "1998-07-24",
+    "title": "Saving Private Ryan",
+    "video": false,
+    "vote_average": 8.218,
+    "vote_count": 16270
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mkylBNgH4DSvVWm3SdaKr63rDdt.jpg",
+    "genre_ids": [
+      53,
+      10402
+    ],
+    "id": 1093237,
+    "original_language": "en",
+    "original_title": "Hurry Up Tomorrow",
+    "overview": "A musician plagued by insomnia is pulled into an odyssey with a stranger who begins to unravel the very core of his existence.",
+    "popularity": 12.9203,
+    "poster_path": "/vjNYHZjoCya803vJXxJXUkNJQWO.jpg",
+    "release_date": "2025-05-14",
+    "title": "Hurry Up Tomorrow",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      878
+    ],
+    "id": 1091,
+    "original_language": "en",
+    "original_title": "The Thing",
+    "overview": "In the winter of 1982, a twelve-man research team at a remote Antarctic research station discovers an alien buried in the snow for over 100,000 years. Soon unfrozen, the form-changing creature wreaks havoc, creates terror... and becomes one of them.",
+    "popularity": 12.9192,
+    "poster_path": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+    "release_date": "1982-06-25",
+    "title": "The Thing",
+    "video": false,
+    "vote_average": 8.068,
+    "vote_count": 7280
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/j9eOeLlTGoHoM8BNUJVNyWmIvCi.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 1072790,
+    "original_language": "en",
+    "original_title": "Anyone But You",
+    "overview": "After an amazing first date, Bea and Ben’s fiery attraction turns ice cold — until they find themselves unexpectedly reunited at a destination wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+    "popularity": 12.8855,
+    "poster_path": "/5qHoazZiaLe7oFBok7XlUhg96f2.jpg",
+    "release_date": "2023-12-21",
+    "title": "Anyone But You",
+    "video": false,
+    "vote_average": 6.882,
+    "vote_count": 2542
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yfQXs8yXplCVXTLi9mxgvRf4ymE.jpg",
+    "genre_ids": [
+      18,
+      878,
+      12,
+      28
+    ],
+    "id": 695721,
+    "original_language": "en",
+    "original_title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "overview": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+    "popularity": 12.8796,
+    "poster_path": "/lrkOYL5GBTFW9cgs9RlojxAcZZF.jpg",
+    "release_date": "2023-11-15",
+    "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "video": false,
+    "vote_average": 7.018,
+    "vote_count": 3028
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jPu8yiadqgzwFPGKJmGo637ASVP.jpg",
+    "genre_ids": [
+      878,
+      28,
+      12
+    ],
+    "id": 1724,
+    "original_language": "en",
+    "original_title": "The Incredible Hulk",
+    "overview": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.",
+    "popularity": 12.8765,
+    "poster_path": "/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+    "release_date": "2008-06-12",
+    "title": "The Incredible Hulk",
+    "video": false,
+    "vote_average": 6.221,
+    "vote_count": 12039
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3m0j3hCS8kMAaP9El6Vy5Lqnyft.jpg",
+    "genre_ids": [
+      878,
+      27,
+      53
+    ],
+    "id": 1125510,
+    "original_language": "es",
+    "original_title": "El hoyo 2",
+    "overview": "After a mysterious leader imposes his law in a brutal system of vertical cells, a new arrival battles against a dubious food distribution method.",
+    "popularity": 12.8732,
+    "poster_path": "/tvIpBg12IIA5Dr9Sjn38ygS1vQp.jpg",
+    "release_date": "2024-09-27",
+    "title": "The Platform 2",
+    "video": false,
+    "vote_average": 5.546,
+    "vote_count": 1177
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg",
+    "genre_ids": [
+      12,
+      16,
+      35,
+      10751,
+      14
+    ],
+    "id": 11688,
+    "original_language": "en",
+    "original_title": "The Emperor's New Groove",
+    "overview": "When self-centered Emperor Kuzco is turned into a llama by his scheming advisor, he is forced to rely on good-hearted peasant Pacha to get back home.",
+    "popularity": 12.865,
+    "poster_path": "/xU635vn1lMD9DWDloeuKmuhxxnQ.jpg",
+    "release_date": "2000-12-15",
+    "title": "The Emperor's New Groove",
+    "video": false,
+    "vote_average": 7.556,
+    "vote_count": 6892
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eD7FnB7LLrBV5ewjdGLYTAoV9Mv.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 245891,
+    "original_language": "en",
+    "original_title": "John Wick",
+    "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+    "popularity": 12.8576,
+    "poster_path": "/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+    "release_date": "2014-10-22",
+    "title": "John Wick",
+    "video": false,
+    "vote_average": 7.444,
+    "vote_count": 19667
+  }
+]

@@ -1,0 +1,403 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/EnDlndEvw6Ptpp8HIwmRcSSNKQ.jpg",
+    "genre_ids": [
+      14,
+      35,
+      12,
+      878
+    ],
+    "id": 425909,
+    "original_language": "en",
+    "original_title": "Ghostbusters: Afterlife",
+    "overview": "When single mom Callie and her two kids Trevor and Phoebe arrive in a small Oklahoma town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
+    "popularity": 14.4002,
+    "poster_path": "/sg4xJaufDiQl7caFEskBtQXfD4x.jpg",
+    "release_date": "2021-11-18",
+    "title": "Ghostbusters: Afterlife",
+    "video": false,
+    "vote_average": 7.346,
+    "vote_count": 4798
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
+    "genre_ids": [
+      12,
+      14,
+      28
+    ],
+    "id": 285,
+    "original_language": "en",
+    "original_title": "Pirates of the Caribbean: At World's End",
+    "overview": "Will Turner and Elizabeth Swann join forces with the revived Captain Barbossa to free Jack Sparrow from Davy Jones' locker. The group must navigate dangerous waters, confront many foes and, ultimately, choose sides in a battle wherein piracy itself hangs in the balance.",
+    "popularity": 14.3864,
+    "poster_path": "/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+    "release_date": "2007-05-19",
+    "title": "Pirates of the Caribbean: At World's End",
+    "video": false,
+    "vote_average": 7.259,
+    "vote_count": 14689
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hgFJd0IsXDPFF77F4VqjlJvTlkc.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 477187,
+    "original_language": "es",
+    "original_title": "El habitante",
+    "overview": "Three sisters enter the house of a senator with the intention of stealing money obtained from bribes, but once inside, they begin to hear strange cries coming from the basement.",
+    "popularity": 14.3746,
+    "poster_path": "/E1ryc3622t0iQqyqJTZnhHripg.jpg",
+    "release_date": "2018-06-21",
+    "title": "The Inhabitant",
+    "video": false,
+    "vote_average": 5.865,
+    "vote_count": 89
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
+    "genre_ids": [
+      28,
+      12,
+      16,
+      14
+    ],
+    "id": 1014505,
+    "original_language": "ja",
+    "original_title": "劇場版「オーバーロード」聖王国編",
+    "overview": "After twelve years of playing his favorite MMORPG game, Momonga logs in for the last time only to find himself transported into its world playing it indefinitely. Throughout his adventures, his avatar ascends to the title of Sorcerer King Ains Ooal Gown. Once prosperous but now on the brink of ruin, The Sacred Kingdom enjoyed years of peace after construction of an enormous wall protecting them from neighboring invasions. But, one day this comes to an end when the Demon Emperor Jaldabaoth arrives with an army of villainous demi-humans. Fearing invasion of their own lands, the neighboring territory of the Slane Theocracy is forced to beg their enemies at the Sorcerer Kingdom for help. Heeding the call, Momonga, now known as the Sorcerer King Ains Ooal Gown, rallies the Sorcerer Kingdom and its undead army to join the fight alongside the Sacred Kingdom and the Slane Theocracy in hopes to defeat the Demon Emperor.",
+    "popularity": 14.3645,
+    "poster_path": "/jEvytxNa5mfW7VAUmDWsZtIdATc.jpg",
+    "release_date": "2024-09-20",
+    "title": "OVERLORD: The Sacred Kingdom",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 96
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hQ9grQ2RjHS3X7crItJqhoGvUPm.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "id": 1147710,
+    "original_language": "ko",
+    "original_title": "하이재킹",
+    "overview": "Pilots Tae-in and Gyu-sik are set to fly to Gimpo. Under the guidance of flight attendant Ok-soon, passengers are busy boarding. However, shortly after takeoff, a homemade bomb explodes, turning the cabin into chaos.",
+    "popularity": 14.3624,
+    "poster_path": "/68jNkFi61MQjrJEqj2up5wZ4w5R.jpg",
+    "release_date": "2024-06-21",
+    "title": "Hijack 1971",
+    "video": false,
+    "vote_average": 6.425,
+    "vote_count": 107
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eFlx3fW8FHXOktGa7Tzy57RajtG.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 1357459,
+    "original_language": "tl",
+    "original_title": "Tatsulok",
+    "overview": "Story about a happily married couple visited by an old friend, who ends up stirring the pot by becoming sexually involved with both the husband and the wife.",
+    "popularity": 14.3405,
+    "poster_path": "/zcmPxGIBxxsGVyYuzNWPCWjlQ8X.jpg",
+    "release_date": "2024-10-11",
+    "title": "Tatsulok",
+    "video": false,
+    "vote_average": 5.273,
+    "vote_count": 11
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/AaABt75ZzfMGrscUR2seabz4PEX.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14
+    ],
+    "id": 297762,
+    "original_language": "en",
+    "original_title": "Wonder Woman",
+    "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+    "popularity": 14.3375,
+    "poster_path": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+    "release_date": "2017-05-30",
+    "title": "Wonder Woman",
+    "video": false,
+    "vote_average": 7.217,
+    "vote_count": 20213
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iryef4LKiPQkvhNJS1EtLlay3br.jpg",
+    "genre_ids": [
+      28,
+      9648,
+      53,
+      878
+    ],
+    "id": 615173,
+    "original_language": "ko",
+    "original_title": "마녀 2",
+    "overview": "A girl wakes up in a huge secret laboratory, then accidentally meets another girl who is trying to protect her house from a gang. The mystery girl overthrows the gang with her unexpected powers, and laboratory staff set out to find her.",
+    "popularity": 14.3299,
+    "poster_path": "/9YTuscJXmr9Iua62amCgGSU8PDW.jpg",
+    "release_date": "2022-06-15",
+    "title": "The Witch: Part 2. The Other One",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 362
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zZKmEmRDc7ZjFucPm2UGNgDRlDc.jpg",
+    "genre_ids": [
+      12,
+      35,
+      14,
+      28,
+      10751
+    ],
+    "id": 353486,
+    "original_language": "en",
+    "original_title": "Jumanji: Welcome to the Jungle",
+    "overview": "Four teenagers in detention discover an old video game console with a game they’ve never heard of. When they decide to play, they are immediately sucked into the jungle world of Jumanji in the bodies of their avatars. They’ll have to complete the adventure of their lives filled with fun, thrills and danger or be stuck in the game forever!",
+    "popularity": 14.3241,
+    "poster_path": "/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg",
+    "release_date": "2017-12-09",
+    "title": "Jumanji: Welcome to the Jungle",
+    "video": false,
+    "vote_average": 6.82,
+    "vote_count": 13872
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bSvUW4JQ6g4QiKvwejcfcPRd4Ke.jpg",
+    "genre_ids": [
+      12,
+      35,
+      10751,
+      14
+    ],
+    "id": 118,
+    "original_language": "en",
+    "original_title": "Charlie and the Chocolate Factory",
+    "overview": "A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.",
+    "popularity": 14.2948,
+    "poster_path": "/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg",
+    "release_date": "2005-07-13",
+    "title": "Charlie and the Chocolate Factory",
+    "video": false,
+    "vote_average": 7.042,
+    "vote_count": 15450
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14
+    ],
+    "id": 791373,
+    "original_language": "en",
+    "original_title": "Zack Snyder's Justice League",
+    "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+    "popularity": 14.2909,
+    "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+    "release_date": "2021-03-18",
+    "title": "Zack Snyder's Justice League",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 10221
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yOm993lsJyPmBodlYjgpPwBjXP9.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      14
+    ],
+    "id": 787699,
+    "original_language": "en",
+    "original_title": "Wonka",
+    "overview": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.",
+    "popularity": 14.2819,
+    "poster_path": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+    "release_date": "2023-12-06",
+    "title": "Wonka",
+    "video": false,
+    "vote_average": 7.083,
+    "vote_count": 3868
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qvo0g1yeQnYoCcXctSHI4mkoFMc.jpg",
+    "genre_ids": [
+      878,
+      12,
+      53
+    ],
+    "id": 131631,
+    "original_language": "en",
+    "original_title": "The Hunger Games: Mockingjay - Part 1",
+    "overview": "Katniss Everdeen reluctantly becomes the symbol of a mass rebellion against the autocratic Capitol.",
+    "popularity": 14.2794,
+    "poster_path": "/2hTPkBiXoMmrdtYgHtB9WU5dg80.jpg",
+    "release_date": "2014-11-19",
+    "title": "The Hunger Games: Mockingjay - Part 1",
+    "video": false,
+    "vote_average": 6.817,
+    "vote_count": 16083
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8MksSPtPvqcSDruLdpibPmTP7LY.jpg",
+    "genre_ids": [
+      28,
+      53,
+      878
+    ],
+    "id": 280,
+    "original_language": "en",
+    "original_title": "Terminator 2: Judgment Day",
+    "overview": "Set ten years after the events of the original, James Cameron’s classic sci-fi action flick tells the story of a second attempt to get rid of rebellion leader John Connor, this time targeting the boy himself. However, the rebellion has sent a reprogrammed terminator to protect Connor.",
+    "popularity": 14.2567,
+    "poster_path": "/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
+    "release_date": "1991-07-03",
+    "title": "Terminator 2: Judgment Day",
+    "video": false,
+    "vote_average": 8.125,
+    "vote_count": 13295
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/X7zKxmyrVmYCfcyvDgVLH8iNzA.jpg",
+    "genre_ids": [
+      80,
+      18,
+      28
+    ],
+    "id": 949,
+    "original_language": "en",
+    "original_title": "Heat",
+    "overview": "Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.",
+    "popularity": 14.2387,
+    "poster_path": "/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+    "release_date": "1995-12-15",
+    "title": "Heat",
+    "video": false,
+    "vote_average": 7.9,
+    "vote_count": 7590
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg",
+    "genre_ids": [
+      12,
+      28,
+      14
+    ],
+    "id": 1865,
+    "original_language": "en",
+    "original_title": "Pirates of the Caribbean: On Stranger Tides",
+    "overview": "Captain Jack Sparrow crosses paths with a woman from his past, and he's not sure if it's love — or if she's a ruthless con artist who's using him to find the fabled Fountain of Youth. When she forces him aboard the Queen Anne's Revenge, the ship of the formidable pirate Blackbeard, Jack finds himself on an unexpected adventure in which he doesn't know who to fear more: Blackbeard or the woman from his past.",
+    "popularity": 14.2302,
+    "poster_path": "/keGfSvCmYj7CvdRx36OdVrAEibE.jpg",
+    "release_date": "2011-05-15",
+    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "video": false,
+    "vote_average": 6.558,
+    "vote_count": 14286
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uKNT3nHp0qCw9RbNpKj5OeXkeHS.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 559,
+    "original_language": "en",
+    "original_title": "Spider-Man 3",
+    "overview": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+    "popularity": 14.2168,
+    "poster_path": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+    "release_date": "2007-05-01",
+    "title": "Spider-Man 3",
+    "video": false,
+    "vote_average": 6.437,
+    "vote_count": 14438
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 76341,
+    "original_language": "en",
+    "original_title": "Mad Max: Fury Road",
+    "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+    "popularity": 14.2058,
+    "poster_path": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+    "release_date": "2015-05-13",
+    "title": "Mad Max: Fury Road",
+    "video": false,
+    "vote_average": 7.622,
+    "vote_count": 23072
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg",
+    "genre_ids": [
+      28,
+      14
+    ],
+    "id": 547016,
+    "original_language": "en",
+    "original_title": "The Old Guard",
+    "overview": "Four undying warriors who've secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.",
+    "popularity": 14.2036,
+    "poster_path": "/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg",
+    "release_date": "2020-07-10",
+    "title": "The Old Guard",
+    "video": false,
+    "vote_average": 7.13,
+    "vote_count": 4291
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2oZklIzUbvZXXzIFzv7Hi68d6xf.jpg",
+    "genre_ids": [
+      18,
+      37
+    ],
+    "id": 68718,
+    "original_language": "en",
+    "original_title": "Django Unchained",
+    "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+    "popularity": 14.1183,
+    "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+    "release_date": "2012-12-25",
+    "title": "Django Unchained",
+    "video": false,
+    "vote_average": 8.182,
+    "vote_count": 26745
+  }
+]

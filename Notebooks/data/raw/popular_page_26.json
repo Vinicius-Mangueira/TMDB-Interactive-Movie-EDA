@@ -1,0 +1,395 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/mKOBdgaEFguADkJhfFslY7TYxIh.jpg",
+    "genre_ids": [
+      28,
+      878,
+      35
+    ],
+    "id": 365177,
+    "original_language": "en",
+    "original_title": "Borderlands",
+    "overview": "Returning to her home planet, an infamous bounty hunter forms an unexpected alliance with a team of unlikely heroes. Together, they battle monsters and dangerous bandits to protect a young girl who holds the key to unimaginable power.",
+    "popularity": 14.6363,
+    "poster_path": "/4JGoZu1ZKFpMJTWAP35PCfkMgu8.jpg",
+    "release_date": "2024-08-07",
+    "title": "Borderlands",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 1190
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ozVwXlfxqNsariipatGwa5px3Pm.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "id": 240832,
+    "original_language": "en",
+    "original_title": "Lucy",
+    "overview": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",
+    "popularity": 14.6148,
+    "poster_path": "/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg",
+    "release_date": "2014-07-25",
+    "title": "Lucy",
+    "video": false,
+    "vote_average": 6.462,
+    "vote_count": 16309
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 299537,
+    "original_language": "en",
+    "original_title": "Captain Marvel",
+    "overview": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+    "popularity": 14.6147,
+    "poster_path": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+    "release_date": "2019-03-06",
+    "title": "Captain Marvel",
+    "video": false,
+    "vote_average": 6.802,
+    "vote_count": 16021
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yizL4cEKsVvl17Wc1mGEIrQtM2F.jpg",
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "id": 588228,
+    "original_language": "en",
+    "original_title": "The Tomorrow War",
+    "overview": "The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.",
+    "popularity": 14.6074,
+    "poster_path": "/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg",
+    "release_date": "2021-09-03",
+    "title": "The Tomorrow War",
+    "video": false,
+    "vote_average": 7.511,
+    "vote_count": 3671
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iWb6Kj2qDLPXut8JEvZb2xfwILH.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 1086548,
+    "original_language": "es",
+    "original_title": "Vera y el placer de los otros",
+    "overview": "17-year-old Vera divides her days between volleyball and school and has a good time with friends like an average teenager. She appears to be a perfect daughter who never gets into trouble. But she has a secret hobby: she anonymously rents out an empty apartment to teenagers looking for a place to have sex. She steals the keys from her distracted mother (who manages different properties) and organizes everything. The teenagers come and go, using the apartment for a few uninterrupted hours making Vera the saviour of all their needs. With that she unlocks a new world for herself – playing invisible, Vera stays behind the closed door; her own sexual desires unfolding as she listens to other people’s pleasure.",
+    "popularity": 14.5932,
+    "poster_path": "/e0ESGyso9K95glbbnTRenFfCC7l.jpg",
+    "release_date": "2024-09-26",
+    "title": "Vera and the Pleasure of Others",
+    "video": false,
+    "vote_average": 6.64,
+    "vote_count": 25
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iaNoLnnpQb5SNxGc4bkQmdCvEdG.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      14,
+      12
+    ],
+    "id": 809,
+    "original_language": "en",
+    "original_title": "Shrek 2",
+    "overview": "Shrek, Fiona, and Donkey set off to Far, Far Away to meet Fiona's mother and father, the Queen and King. But not everyone is happily ever after. Shrek and the King find it difficult to get along, and there's tension in the marriage. The Fairy Godmother discovers that Fiona has married Shrek instead of her son Prince Charming and plots to destroy their marriage.",
+    "popularity": 14.5837,
+    "poster_path": "/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+    "release_date": "2004-05-19",
+    "title": "Shrek 2",
+    "video": false,
+    "vote_average": 7.292,
+    "vote_count": 12654
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3xN4vNPWBSVDsiiOzL5sB95Sa1J.jpg",
+    "genre_ids": [
+      53,
+      9648
+    ],
+    "id": 257094,
+    "original_language": "en",
+    "original_title": "Holland",
+    "overview": "Teacher Nancy's life with her husband in Holland, Michigan, tumbles into a twisted tale when she and a colleague become suspicious of a secret.",
+    "popularity": 14.5827,
+    "poster_path": "/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg",
+    "release_date": "2025-03-09",
+    "title": "Holland",
+    "video": false,
+    "vote_average": 5.337,
+    "vote_count": 341
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gGgDMV1vN20q8qEdxV0K43UrK0y.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 507089,
+    "original_language": "en",
+    "original_title": "Five Nights at Freddy's",
+    "overview": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
+    "popularity": 14.582,
+    "poster_path": "/4dKRTUylqwXQ4VJz0BS84fqW2wa.jpg",
+    "release_date": "2023-10-25",
+    "title": "Five Nights at Freddy's",
+    "video": false,
+    "vote_average": 7.468,
+    "vote_count": 4334
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dcyPj11c00lOhMESAVWtJKzlHt4.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 250538,
+    "original_language": "en",
+    "original_title": "The Good Lie",
+    "overview": "A young refugee of the Sudanese Civil War who wins a lottery for relocation to the United States with three other lost boys. Encountering the modern world for the first time, they develop an unlikely friendship with a brash American woman assigned to help them, but the young man struggles to adjust to this new life and his feelings of guilt about the brother he left behind.",
+    "popularity": 14.5738,
+    "poster_path": "/yAhoeIwwtPxJ7uf9HLIMHIqWFnL.jpg",
+    "release_date": "2014-09-10",
+    "title": "The Good Lie",
+    "video": false,
+    "vote_average": 7.339,
+    "vote_count": 514
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oLsts7ct0NVkdYpx5rZg10MG6zh.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 489,
+    "original_language": "en",
+    "original_title": "Good Will Hunting",
+    "overview": "Headstrong yet aimless, Will Hunting has a genius-level IQ but chooses to work as a janitor at MIT. When he secretly solves highly difficult graduate-level math problems, his talents are discovered by Professor Gerald Lambeau, who decides to help the misguided youth reach his potential. When Will is arrested for attacking a police officer, Professor Lambeau makes a deal to get leniency for him if he gets court-ordered therapy. Eventually, therapist Dr. Sean Maguire helps Will confront the demons that are holding him back.",
+    "popularity": 14.5557,
+    "poster_path": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+    "release_date": "1997-12-05",
+    "title": "Good Will Hunting",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 12795
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tPaurpIUskVji5vwV0dhy9pq4Vs.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      12,
+      35
+    ],
+    "id": 953,
+    "original_language": "en",
+    "original_title": "Madagascar",
+    "overview": "Four animal friends get a taste of the wild life when they break out of captivity at the Central Park Zoo and wash ashore on the island of Madagascar.",
+    "popularity": 14.5396,
+    "poster_path": "/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg",
+    "release_date": "2005-05-25",
+    "title": "Madagascar",
+    "video": false,
+    "vote_average": 6.91,
+    "vote_count": 11108
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/UJje4GZglCtC8ZtYY8T4jj1RHm.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 72808,
+    "original_language": "it",
+    "original_title": "La carne",
+    "overview": "A beautiful film which is basically about a man, a piano player, who meets and falls in love with a beautiful and voluptuous woman, who, by some strange procedure, leaves the man unable to move but with a permanent priapism! After some time he becomes sick of it and she relieves his paralysis. Eventually she gets bored and decides to leave, but he can't take it because he loves her…",
+    "popularity": 14.5317,
+    "poster_path": "/quhlqvkeRZN6tZrDSfJ41en6CDs.jpg",
+    "release_date": "1991-05-09",
+    "title": "The Flesh",
+    "video": false,
+    "vote_average": 5.616,
+    "vote_count": 56
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hg0MTIFs49ef179C9Y1HRtzqbbK.jpg",
+    "genre_ids": [
+      18,
+      53,
+      10752
+    ],
+    "id": 16869,
+    "original_language": "en",
+    "original_title": "Inglourious Basterds",
+    "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+    "popularity": 14.5226,
+    "poster_path": "/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
+    "release_date": "2009-08-02",
+    "title": "Inglourious Basterds",
+    "video": false,
+    "vote_average": 8.215,
+    "vote_count": 22832
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/r17jFHAemzcWPPtoO0UxjIX0xas.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "id": 324552,
+    "original_language": "en",
+    "original_title": "John Wick: Chapter 2",
+    "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.",
+    "popularity": 14.5174,
+    "poster_path": "/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+    "release_date": "2017-02-08",
+    "title": "John Wick: Chapter 2",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 13394
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xNNF4l1OVscJNchJc5xvejHzTDO.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 370663,
+    "original_language": "en",
+    "original_title": "Below Her Mouth",
+    "overview": "An unexpected affair quickly escalates into a heart-stopping reality for two women whose passionate connection changes their lives forever.",
+    "popularity": 14.5005,
+    "poster_path": "/tPhBftWySbanfEialbsUzOuccgN.jpg",
+    "release_date": "2017-02-10",
+    "title": "Below Her Mouth",
+    "video": false,
+    "vote_average": 6.803,
+    "vote_count": 1227
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      12
+    ],
+    "id": 14160,
+    "original_language": "en",
+    "original_title": "Up",
+    "overview": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
+    "popularity": 14.4988,
+    "poster_path": "/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+    "release_date": "2009-05-28",
+    "title": "Up",
+    "video": false,
+    "vote_average": 7.957,
+    "vote_count": 20640
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yth78N88nwokepnOe5atwPGfTL1.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 1382406,
+    "original_language": "zh",
+    "original_title": "惊天大营救",
+    "overview": "A veteran Muay Thai expert goes on a take-no-prisoners mission of revenge after his wife and daughter are brutally murdered by mysterious forces.",
+    "popularity": 14.4423,
+    "poster_path": "/nML8rOI4GOiiEsXgknuhZeUF8M7.jpg",
+    "release_date": "2024-12-05",
+    "title": "Striking Rescue",
+    "video": false,
+    "vote_average": 7.25,
+    "vote_count": 20
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 240,
+    "original_language": "en",
+    "original_title": "The Godfather Part II",
+    "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+    "popularity": 14.4417,
+    "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+    "release_date": "1974-12-20",
+    "title": "The Godfather Part II",
+    "video": false,
+    "vote_average": 8.571,
+    "vote_count": 12946
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xAqv33zd06xRnYjYJRg7gW61bMc.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      53
+    ],
+    "id": 50433,
+    "original_language": "it",
+    "original_title": "L'alcova",
+    "overview": "In 1936 Italy, Elio returns home from Africa with a present for his wife in the form of Zerbal, the daughter of a tribal king. Unbeknown to him, his neglected wife Alessandra has formed a relationship with Elio’s otherwise frigid secretary Velma who is less than pleased at Elio’s return.",
+    "popularity": 14.4201,
+    "poster_path": "/ipFdgjiF3wsDB8NdoLxloFEeHYl.jpg",
+    "release_date": "1985-01-21",
+    "title": "The Alcove",
+    "video": false,
+    "vote_average": 5.242,
+    "vote_count": 31
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 755679,
+    "original_language": "en",
+    "original_title": "Fast X: Part 2",
+    "overview": "The eleventh installment in The Fast Saga, and a direct sequel to \"Fast X\".",
+    "popularity": 14.4029,
+    "poster_path": "/lD8V3DBban95Mxz4sjuA81Tw771.jpg",
+    "release_date": "2026-04-10",
+    "title": "Fast X: Part 2",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  }
+]

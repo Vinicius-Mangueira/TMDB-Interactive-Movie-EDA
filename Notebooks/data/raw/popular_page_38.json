@@ -1,0 +1,397 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/wvlIoof1FnKPLv9jAYanuP31V0C.jpg",
+    "genre_ids": [
+      878,
+      28,
+      53,
+      12
+    ],
+    "id": 87101,
+    "original_language": "en",
+    "original_title": "Terminator Genisys",
+    "overview": "The year is 2029. John Connor, leader of the resistance continues the war against the machines. At the Los Angeles offensive, John's fears of the unknown future begin to emerge when TECOM spies reveal a new plot by SkyNet that will attack him from both fronts; past and future, and will ultimately change warfare forever.",
+    "popularity": 11.5421,
+    "poster_path": "/oZRVDpNtmHk8M1VYy1aeOWUXgbC.jpg",
+    "release_date": "2015-06-23",
+    "title": "Terminator Genisys",
+    "video": false,
+    "vote_average": 5.942,
+    "vote_count": 8553
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/msgutegakwajb9vjC3Xgh4t7e0M.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ],
+    "id": 348893,
+    "original_language": "en",
+    "original_title": "Boyka: Undisputed IV",
+    "overview": "In the fourth installment of the fighting franchise, Boyka is shooting for the big leagues when an accidental death in the ring makes him question everything he stands for. When he finds out the wife of the man he accidentally killed is in trouble, Boyka offers to fight in a series of impossible battles to free her from a life of servitude.",
+    "popularity": 11.5404,
+    "poster_path": "/7QGdIJWWTkPhVjpQ0zA6z69khod.jpg",
+    "release_date": "2016-08-01",
+    "title": "Boyka: Undisputed IV",
+    "video": false,
+    "vote_average": 7.151,
+    "vote_count": 1363
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jB98SrdXAYSbiprjIwc7WfVCuCV.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 521029,
+    "original_language": "en",
+    "original_title": "Annabelle Comes Home",
+    "overview": "Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her “safely” behind sacred glass and enlisting a priest’s holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target—the Warrens' ten-year-old daughter, Judy, and her friends.",
+    "popularity": 11.5373,
+    "poster_path": "/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg",
+    "release_date": "2019-06-26",
+    "title": "Annabelle Comes Home",
+    "video": false,
+    "vote_average": 6.404,
+    "vote_count": 3588
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/A7KwHKB5faRRRRveVQC5TPI35kV.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 1232449,
+    "original_language": "nl",
+    "original_title": "Young Hearts",
+    "overview": "14-year-old Elias increasingly feels like an outsider in his village. When he meets his new neighbour of the same age, Alexander, Elias is confronted with his burgeoning sexuality.",
+    "popularity": 11.5062,
+    "poster_path": "/iGCtYxfuvXfy0BD5m6p7vKuPOxS.jpg",
+    "release_date": "2024-10-26",
+    "title": "Young Hearts",
+    "video": false,
+    "vote_average": 8.6,
+    "vote_count": 71
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 694,
+    "original_language": "en",
+    "original_title": "The Shining",
+    "overview": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+    "popularity": 11.4991,
+    "poster_path": "/xazWoLealQwEgqZ89MLZklLZD3k.jpg",
+    "release_date": "1980-05-23",
+    "title": "The Shining",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 17910
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mEP3mYBwuyS6jpGsSrCjPXPSgOX.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      27
+    ],
+    "id": 1032823,
+    "original_language": "en",
+    "original_title": "Trap",
+    "overview": "A father and teen daughter attend a pop concert, where they realize they're at the center of a dark and sinister event.",
+    "popularity": 11.4856,
+    "poster_path": "/jwoaKYVqPgYemFpaANL941EF94R.jpg",
+    "release_date": "2024-07-31",
+    "title": "Trap",
+    "video": false,
+    "vote_average": 6.32,
+    "vote_count": 2175
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2t8uXcm5CuChOoX5gEKl918yv6I.jpg",
+    "genre_ids": [
+      28,
+      878,
+      18
+    ],
+    "id": 39254,
+    "original_language": "en",
+    "original_title": "Real Steel",
+    "overview": "Charlie Kenton is a washed-up fighter who retired from the ring when robots took over the sport. After his robot is trashed, he reluctantly teams up with his estranged son to rebuild and train an unlikely contender.",
+    "popularity": 11.4801,
+    "poster_path": "/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg",
+    "release_date": "2011-09-28",
+    "title": "Real Steel",
+    "video": false,
+    "vote_average": 7.048,
+    "vote_count": 8573
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "id": 242,
+    "original_language": "en",
+    "original_title": "The Godfather Part III",
+    "overview": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
+    "popularity": 11.4714,
+    "poster_path": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+    "release_date": "1990-12-25",
+    "title": "The Godfather Part III",
+    "video": false,
+    "vote_average": 7.417,
+    "vote_count": 6402
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dGULFnPJKPh0sdu3F64YmQ0qcym.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "id": 972533,
+    "original_language": "en",
+    "original_title": "Last Breath",
+    "overview": "Seasoned deep-sea divers battle the raging elements to rescue their crewmate trapped hundreds of feet below the ocean's surface.",
+    "popularity": 11.469,
+    "poster_path": "/w04Xg5Bnqj7ECdCxTsHgqK6AtJW.jpg",
+    "release_date": "2025-02-27",
+    "title": "Last Breath",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 254
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/71FjlP0qZPc1iymcHf8u5vXfH50.jpg",
+    "genre_ids": [
+      16,
+      10751
+    ],
+    "id": 73723,
+    "original_language": "en",
+    "original_title": "The Lorax",
+    "overview": "A 12-year-old boy searches for the one thing that will enable him to win the affection of the girl of his dreams. To find it he must discover the story of the Lorax, the grumpy yet charming creature who fights to protect his world.",
+    "popularity": 11.4622,
+    "poster_path": "/tePFnZFw5JvjwjQjaKkqDPNMLPU.jpg",
+    "release_date": "2012-03-01",
+    "title": "The Lorax",
+    "video": false,
+    "vote_average": 6.505,
+    "vote_count": 3644
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/elzsm8vIpYVh0s6ztFEKElqgXqe.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      53
+    ],
+    "id": 1949,
+    "original_language": "en",
+    "original_title": "Zodiac",
+    "overview": "The Zodiac murders cause the lives of Paul Avery, David Toschi and Robert Graysmith to intersect.",
+    "popularity": 11.4572,
+    "poster_path": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+    "release_date": "2007-03-02",
+    "title": "Zodiac",
+    "video": false,
+    "vote_average": 7.527,
+    "vote_count": 10832
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7lX9Jx3hjRZ8K6KeKx5wqEoKVH2.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "id": 1232280,
+    "original_language": "ur",
+    "original_title": "ٹیکسالی گیٹ",
+    "overview": "In the red light district of Lahore, when the daughter of an underprivileged wedding dancer is raped by the powerful Choudhary's son, the neighbourhood pimp and the top prostitute help the pair seek justice.",
+    "popularity": 11.4543,
+    "poster_path": "/julSLBr4zqURYNRUiUvGOIk1ie3.jpg",
+    "release_date": "2024-02-16",
+    "title": "Taxali Gate",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/35z8hWuzfFUZQaYog8E9LsXW3iI.jpg",
+    "genre_ids": [
+      12,
+      28
+    ],
+    "id": 335977,
+    "original_language": "en",
+    "original_title": "Indiana Jones and the Dial of Destiny",
+    "overview": "Finding himself in a new era, and approaching retirement, Indy wrestles with fitting into a world that seems to have outgrown him. But as the tentacles of an all-too-familiar evil return in the form of an old rival, Indy must don his hat and pick up his whip once more to make sure an ancient and powerful artifact doesn't fall into the wrong hands.",
+    "popularity": 11.4522,
+    "poster_path": "/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
+    "release_date": "2023-06-25",
+    "title": "Indiana Jones and the Dial of Destiny",
+    "video": false,
+    "vote_average": 6.555,
+    "vote_count": 3647
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rcEDPOOOUTLFxLLQJggfLffbofe.jpg",
+    "genre_ids": [
+      16,
+      28,
+      14
+    ],
+    "id": 810693,
+    "original_language": "ja",
+    "original_title": "劇場版 呪術廻戦 0",
+    "overview": "Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won't leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. Gojo convinces Yuta to enroll, but can he learn enough in time to confront the curse that haunts him?",
+    "popularity": 11.4423,
+    "poster_path": "/23oJaeBh0FDk2mQ2P240PU9Xxfh.jpg",
+    "release_date": "2021-12-24",
+    "title": "Jujutsu Kaisen 0",
+    "video": false,
+    "vote_average": 8.13,
+    "vote_count": 1487
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/80uHK2xWwjlOxmfJ1wQB09omAht.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      80,
+      14
+    ],
+    "id": 854,
+    "original_language": "en",
+    "original_title": "The Mask",
+    "overview": "When timid bank clerk Stanley Ipkiss discovers a magical mask containing the spirit of the Norse god Loki, his entire life changes. While wearing the mask, Ipkiss becomes a supernatural playboy exuding charm and confidence which allows him to catch the eye of local nightclub singer Tina Carlyle. Unfortunately, under the mask's influence, Ipkiss also robs a bank, which angers junior crime lord Dorian Tyrell, whose goons get blamed for the heist.",
+    "popularity": 11.4398,
+    "poster_path": "/xbbXp9px4o8Oe7IbGd0yIbla8mZ.jpg",
+    "release_date": "1994-07-29",
+    "title": "The Mask",
+    "video": false,
+    "vote_average": 6.963,
+    "vote_count": 10553
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/12IP1jQLj3r2rUvO8WJ7KGEFlCR.jpg",
+    "genre_ids": [
+      53,
+      18,
+      80
+    ],
+    "id": 1058615,
+    "original_language": "en",
+    "original_title": "The Accidental Getaway Driver",
+    "overview": "During a routine pickup, an elderly Vietnamese cab driver is taken hostage by three recently escaped Orange County convicts. Based on a true story.",
+    "popularity": 11.4339,
+    "poster_path": "/1JpJK5nOQWBl6aaft1Tt1ymD3kK.jpg",
+    "release_date": "2025-02-28",
+    "title": "The Accidental Getaway Driver",
+    "video": false,
+    "vote_average": 9.5,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yvunjjIArbzlgjmIQaouuGAP6jB.jpg",
+    "genre_ids": [
+      12,
+      35,
+      18,
+      14
+    ],
+    "id": 116745,
+    "original_language": "en",
+    "original_title": "The Secret Life of Walter Mitty",
+    "overview": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
+    "popularity": 11.4089,
+    "poster_path": "/tY6ypjKOOtujhxiSwTmvA4OZ5IE.jpg",
+    "release_date": "2013-12-18",
+    "title": "The Secret Life of Walter Mitty",
+    "video": false,
+    "vote_average": 7.197,
+    "vote_count": 7777
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cBBIk8jCSt6vIVJkaCwjjDLSMKH.jpg",
+    "genre_ids": [
+      80,
+      28
+    ],
+    "id": 1303236,
+    "original_language": "zh",
+    "original_title": "角頭－大橋頭",
+    "overview": "Drug Prince Michael and Scorpion are seizing the old fellows' turfs, the gangs families tornado spins three nobodies who are trying to survive. You'll never know who's gonna get bit by reality through the alternation of generations?",
+    "popularity": 11.4084,
+    "poster_path": "/rJnpwN59avSW5vOu9BPiReHkQl4.jpg",
+    "release_date": "2024-08-16",
+    "title": "GATAO: Like Father Like Son",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dB0CxRwLXJoOrRPUvsJjb2hnPtq.jpg",
+    "genre_ids": [
+      878,
+      28,
+      12
+    ],
+    "id": 624860,
+    "original_language": "en",
+    "original_title": "The Matrix Resurrections",
+    "overview": "Plagued by strange memories, Neo's life takes an unexpected turn when he finds himself back inside the Matrix.",
+    "popularity": 11.4047,
+    "poster_path": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+    "release_date": "2021-12-16",
+    "title": "The Matrix Resurrections",
+    "video": false,
+    "vote_average": 6.38,
+    "vote_count": 5972
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nYQJYdfoy7Tkx6bPzUpmCMmyJ4y.jpg",
+    "genre_ids": [
+      53,
+      28
+    ],
+    "id": 1151470,
+    "original_language": "en",
+    "original_title": "The Vigilante",
+    "overview": "Returning from Afghanistan, Jessica, a Spec OPS Marine, finds herself in a war she never imagined and discovers middle America suburbia has changed when her thirteen year old sister, Aimee, is abducted by sex traffickers.",
+    "popularity": 11.4027,
+    "poster_path": "/xD9LpYZYmNch2EhHWIJXXFayENH.jpg",
+    "release_date": "2023-09-08",
+    "title": "The Vigilante",
+    "video": false,
+    "vote_average": 5.957,
+    "vote_count": 23
+  }
+]

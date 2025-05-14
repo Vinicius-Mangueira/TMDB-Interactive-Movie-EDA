@@ -1,0 +1,396 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/gN0eu6s2qIzsHgznnsgMIfbPw3u.jpg",
+    "genre_ids": [
+      16,
+      18,
+      10751,
+      14
+    ],
+    "id": 1181107,
+    "original_language": "en",
+    "original_title": "The King of Kings",
+    "overview": "Charles Dickens tells his young son Walter the greatest story ever told, and what begins as a bedtime tale becomes a life-changing journey. Through vivid imagination, the boy walks alongside Jesus, witnessing His miracles, facing His trials, and understanding His ultimate sacrifice.",
+    "popularity": 12.3286,
+    "poster_path": "/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg",
+    "release_date": "2025-04-07",
+    "title": "The King of Kings",
+    "video": false,
+    "vote_average": 7.786,
+    "vote_count": 21
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3nYlM34QhzdtAvWRV5bN4nLtnTc.jpg",
+    "genre_ids": [
+      27,
+      53,
+      12
+    ],
+    "id": 578,
+    "original_language": "en",
+    "original_title": "Jaws",
+    "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled hunter embark on a desperate quest to destroy the beast before it strikes again.",
+    "popularity": 12.3268,
+    "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+    "release_date": "1975-06-20",
+    "title": "Jaws",
+    "video": false,
+    "vote_average": 7.665,
+    "vote_count": 10739
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3NLczZ7sSIKoe3jLlH9yOfdqUcF.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 851644,
+    "original_language": "ko",
+    "original_title": "20세기 소녀",
+    "overview": "In 1999, a teen girl keeps close tabs on a boy in school on behalf of her deeply smitten best friend – then she gets swept up in a love story of her own.",
+    "popularity": 12.3217,
+    "poster_path": "/dbhk3PV7TmaL0FcelsArLFW0rRO.jpg",
+    "release_date": "2022-10-06",
+    "title": "20th Century Girl",
+    "video": false,
+    "vote_average": 8.178,
+    "vote_count": 729
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1R6cvRtZgsYCkh8UFuWFN33xBP4.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 545609,
+    "original_language": "en",
+    "original_title": "Extraction",
+    "overview": "A hardened gun-for-hire's latest mission becomes a soul-searching race to survive when he's sent into Bangladesh to rescue a drug lord's kidnapped son.",
+    "popularity": 12.3114,
+    "poster_path": "/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
+    "release_date": "2020-04-23",
+    "title": "Extraction",
+    "video": false,
+    "vote_average": 7.316,
+    "vote_count": 6222
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hd1TvTUGjkoYoqvXYfSBpI5Ri9B.jpg",
+    "genre_ids": [
+      16,
+      28,
+      12,
+      878
+    ],
+    "id": 1159311,
+    "original_language": "ja",
+    "original_title": "僕のヒーローアカデミア THE MOVIE ユアネクスト",
+    "overview": "In a society devastated by the effects of an all-out war between heroes and villains, a mysterious giant fortress suddenly appears, engulfing towns and people one after another. Then, a man reminiscent of All Might, the 'symbol of peace', stands in front of Izuku and his friends...",
+    "popularity": 12.3057,
+    "poster_path": "/8rdB1wkheEMMqcY8qLAKjCMPcnZ.jpg",
+    "release_date": "2024-08-02",
+    "title": "My Hero Academia: You're Next",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 123
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aqMBEpd4kC8GpUg6761qFPkvQuS.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "id": 1188104,
+    "original_language": "th",
+    "original_title": "ปล้นทะลุไมล์",
+    "overview": "A fast-paced action drama about siblings desperately needing money for their mother's treatment. Then the brother, who is the stunt performer, inevitably needs to be involved with.",
+    "popularity": 12.2966,
+    "poster_path": "/r6vVnsWyESNpiamrfBvnxXYcWlZ.jpg",
+    "release_date": "2023-11-09",
+    "title": "The X-Treme Riders",
+    "video": false,
+    "vote_average": 7.9,
+    "vote_count": 21
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iVped1djsF0tvGkvnHbzsE3ZPTF.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 68721,
+    "original_language": "en",
+    "original_title": "Iron Man 3",
+    "overview": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+    "popularity": 12.2796,
+    "poster_path": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+    "release_date": "2013-04-18",
+    "title": "Iron Man 3",
+    "video": false,
+    "vote_average": 6.93,
+    "vote_count": 22540
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gVl6aX2paJIHpMxAAe8X36VNExi.jpg",
+    "genre_ids": [
+      35,
+      12,
+      14,
+      16,
+      10751
+    ],
+    "id": 10192,
+    "original_language": "en",
+    "original_title": "Shrek Forever After",
+    "overview": "A bored and domesticated Shrek pacts with deal-maker Rumpelstiltskin to get back to feeling like a real ogre again, but when he's duped and sent to a twisted version of Far Far Away—where Rumpelstiltskin is king, ogres are hunted, and he and Fiona have never met—he sets out to restore his world and reclaim his true love.",
+    "popularity": 12.2765,
+    "poster_path": "/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg",
+    "release_date": "2010-05-20",
+    "title": "Shrek Forever After",
+    "video": false,
+    "vote_average": 6.381,
+    "vote_count": 7528
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/41Y3h2FVfoU4baFdTZwRrlD4MDM.jpg",
+    "genre_ids": [
+      28,
+      35,
+      878,
+      14
+    ],
+    "id": 257344,
+    "original_language": "en",
+    "original_title": "Pixels",
+    "overview": "Video game experts are recruited by the military to fight 1980s-era video game characters who've attacked New York.",
+    "popularity": 12.2713,
+    "poster_path": "/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg",
+    "release_date": "2015-07-16",
+    "title": "Pixels",
+    "video": false,
+    "vote_average": 5.7,
+    "vote_count": 7663
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7mHeyU0a538bgguOeF57I8ZroSk.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 324668,
+    "original_language": "en",
+    "original_title": "Jason Bourne",
+    "overview": "The most dangerous former operative of the CIA is drawn out of hiding to uncover hidden truths about his past.",
+    "popularity": 12.2639,
+    "poster_path": "/ziU0b3hRM6raH1u4wym02EYMLZ6.jpg",
+    "release_date": "2016-07-27",
+    "title": "Jason Bourne",
+    "video": false,
+    "vote_average": 6.363,
+    "vote_count": 5826
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eLPXcqgJPCEOf2cMwyTEXejRhrC.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 250546,
+    "original_language": "en",
+    "original_title": "Annabelle",
+    "overview": "A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.",
+    "popularity": 12.2556,
+    "poster_path": "/yLsuU2P2SpDYFwtZQ7dtfVAf6TE.jpg",
+    "release_date": "2014-10-02",
+    "title": "Annabelle",
+    "video": false,
+    "vote_average": 5.779,
+    "vote_count": 6210
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9YRKhVQx174hQn35f8k1MWKLAFQ.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80
+    ],
+    "id": 2109,
+    "original_language": "en",
+    "original_title": "Rush Hour",
+    "overview": "When Hong Kong Inspector Lee is summoned to Los Angeles to investigate a kidnapping, the FBI doesn't want any outside help and assigns cocky LAPD Detective James Carter to distract Lee from the case. Not content to watch the action from the sidelines, Lee and Carter form an unlikely partnership and investigate the case themselves.",
+    "popularity": 12.2556,
+    "poster_path": "/3WsLE6FtxEPRa6U9sbY1ckrn39s.jpg",
+    "release_date": "1998-09-18",
+    "title": "Rush Hour",
+    "video": false,
+    "vote_average": 7.045,
+    "vote_count": 5158
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3tWw50B1xXlCnJ9A7NX4nNzZF4j.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "id": 350,
+    "original_language": "en",
+    "original_title": "The Devil Wears Prada",
+    "overview": "Andy moves to New York to work in the fashion industry. Her boss is extremely demanding, cruel and won't let her succeed if she doesn't fit into the high class elegant look of their magazine.",
+    "popularity": 12.2553,
+    "poster_path": "/1LwW0W0Zyik00OmQPTnCUjmCh1C.jpg",
+    "release_date": "2006-06-29",
+    "title": "The Devil Wears Prada",
+    "video": false,
+    "vote_average": 7.392,
+    "vote_count": 12293
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oJ1MIABA0WF0a7MDVQnnMvBdex8.jpg",
+    "genre_ids": [
+      27,
+      35
+    ],
+    "id": 567609,
+    "original_language": "en",
+    "original_title": "Ready or Not",
+    "overview": "A young bride's wedding night turns into her worst nightmare when her ridiculously rich in-laws force her to play a gruesome game of hide-and-seek.",
+    "popularity": 12.2533,
+    "poster_path": "/oJD9KQFoObZmxAS1je56SIFVNJt.jpg",
+    "release_date": "2019-08-21",
+    "title": "Ready or Not",
+    "video": false,
+    "vote_average": 7.033,
+    "vote_count": 4777
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 284053,
+    "original_language": "en",
+    "original_title": "Thor: Ragnarok",
+    "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+    "popularity": 12.2387,
+    "poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+    "release_date": "2017-10-02",
+    "title": "Thor: Ragnarok",
+    "video": false,
+    "vote_average": 7.584,
+    "vote_count": 21111
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aTXhYyxx23AGWAqrkrs1fNGhgSO.jpg",
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "id": 1893,
+    "original_language": "en",
+    "original_title": "Star Wars: Episode I - The Phantom Menace",
+    "overview": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
+    "popularity": 12.2349,
+    "poster_path": "/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
+    "release_date": "1999-05-19",
+    "title": "Star Wars: Episode I - The Phantom Menace",
+    "video": false,
+    "vote_average": 6.559,
+    "vote_count": 14969
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/XNVdWNgiAHu8y4BsJv5ndUHXxN.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      16
+    ],
+    "id": 929204,
+    "original_language": "en",
+    "original_title": "Wallace & Gromit: Vengeance Most Fowl",
+    "overview": "Gromit’s concern that Wallace is becoming too dependent on his inventions proves justified, when Wallace invents a “smart” gnome that seems to develop a mind of its own. When it emerges that a vengeful figure from the past might be masterminding things, it falls to Gromit to battle sinister forces and save his master… or Wallace may never be able to invent again!",
+    "popularity": 12.2302,
+    "poster_path": "/6BxK38ehxuX2dJmZIMpJcVNbYks.jpg",
+    "release_date": "2024-12-18",
+    "title": "Wallace & Gromit: Vengeance Most Fowl",
+    "video": false,
+    "vote_average": 7.559,
+    "vote_count": 477
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zQKFPx03M9RKfEcRETXR2HoUZn1.jpg",
+    "genre_ids": [
+      10749
+    ],
+    "id": 587727,
+    "original_language": "ko",
+    "original_title": "가슴 큰 여자친구",
+    "overview": "Mincheol and Suhee go to greet Minchul father (grandmother) before marriage. Dae - sik welcomes her daughter - in - law, Su - hee. But before marriage, Minchol and Suhee are separated by the difference in personality. Soon-hee, who was only preparing for marriage, is soon to live.",
+    "popularity": 12.1887,
+    "poster_path": "/f6PfAXtFEkJRcBtOjbzOgz8qqSK.jpg",
+    "release_date": "2019-03-08",
+    "title": "Busty Girlfriend",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 32
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "id": 359940,
+    "original_language": "en",
+    "original_title": "Three Billboards Outside Ebbing, Missouri",
+    "overview": "After seven months have passed without a culprit in her daughter's murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town's revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother's boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing's law enforcement is only exacerbated.",
+    "popularity": 12.1676,
+    "poster_path": "/uGMM9ZObmPUFrGqcbFMVyv8L1lU.jpg",
+    "release_date": "2017-12-01",
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "video": false,
+    "vote_average": 8.068,
+    "vote_count": 10322
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kMZIMqEXO5MFd5Y1Ha2jZZF4pvF.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "id": 882598,
+    "original_language": "en",
+    "original_title": "Smile",
+    "overview": "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain.",
+    "popularity": 12.1353,
+    "poster_path": "/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg",
+    "release_date": "2022-09-23",
+    "title": "Smile",
+    "video": false,
+    "vote_average": 6.662,
+    "vote_count": 3563
+  }
+]

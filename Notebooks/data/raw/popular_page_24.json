@@ -1,0 +1,396 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/criPrxkTggCra1jch49jsiSeXo1.jpg",
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "id": 609681,
+    "original_language": "en",
+    "original_title": "The Marvels",
+    "overview": "When her duties send her to an anomalous wormhole linked to a Kree revolutionary, Carol's powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol's estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+    "popularity": 15.4801,
+    "poster_path": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+    "release_date": "2023-11-08",
+    "title": "The Marvels",
+    "video": false,
+    "vote_average": 6.001,
+    "vote_count": 2950
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ih4lZkUpmSE7AP3maymiO72xJ1z.jpg",
+    "genre_ids": [
+      28,
+      53,
+      12
+    ],
+    "id": 56292,
+    "original_language": "en",
+    "original_title": "Mission: Impossible - Ghost Protocol",
+    "overview": "Ethan Hunt and his team are racing against time to track down a dangerous terrorist named Hendricks, who has gained access to Russian nuclear launch codes and is planning a strike on the United States. An attempt to stop him ends in an explosion causing severe destruction to the Kremlin and the IMF to be implicated in the bombing, forcing the President to disavow them. No longer being aided by the government, Ethan and his team chase Hendricks around the globe, although they might still be too late to stop a disaster.",
+    "popularity": 15.4717,
+    "poster_path": "/eRZTGx7GsiKqPch96k27LK005ZL.jpg",
+    "release_date": "2011-12-07",
+    "title": "Mission: Impossible - Ghost Protocol",
+    "video": false,
+    "vote_average": 7.096,
+    "vote_count": 10099
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3WK7p9EdZmmvB1IbB2Vw9Rf4lXH.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 296096,
+    "original_language": "en",
+    "original_title": "Me Before You",
+    "overview": "A small town girl is caught between dead-end jobs. A high-profile, successful man becomes wheelchair bound following an accident. The man decides his life is not worth living until the girl is hired for six months to be his new caretaker. Worlds apart and trapped together by circumstance, the two get off to a rocky start. But the girl becomes determined to prove to the man that life is worth living and as they embark on a series of adventures together, each finds their world changing in ways neither of them could begin to imagine.",
+    "popularity": 15.4621,
+    "poster_path": "/Ia3dzj5LnCj1ZBdlVeJrbKJQxG.jpg",
+    "release_date": "2016-06-01",
+    "title": "Me Before You",
+    "video": false,
+    "vote_average": 7.929,
+    "vote_count": 12640
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+    "genre_ids": [
+      878,
+      28
+    ],
+    "id": 335983,
+    "original_language": "en",
+    "original_title": "Venom",
+    "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+    "popularity": 15.4566,
+    "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+    "release_date": "2018-09-28",
+    "title": "Venom",
+    "video": false,
+    "vote_average": 6.829,
+    "vote_count": 16524
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nP3y0TkR6XniFs9J53qQkg4Bnnk.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "id": 10625,
+    "original_language": "en",
+    "original_title": "Mean Girls",
+    "overview": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+    "popularity": 15.436,
+    "poster_path": "/alKvY5LuVcXraRBfi5UtVV8Ii6Y.jpg",
+    "release_date": "2004-04-30",
+    "title": "Mean Girls",
+    "video": false,
+    "vote_average": 7.219,
+    "vote_count": 8994
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4CcUgdiGe83MeqJW1NyJVmZqRrF.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 937287,
+    "original_language": "en",
+    "original_title": "Challengers",
+    "overview": "Tennis player turned coach Tashi has taken her husband, Art, and transformed him into a world-famous Major champion. To jolt him out of his recent losing streak, she signs him up for a \"Challenger\" event — close to the lowest level of pro tournament — where he finds himself standing across the net from his former best friend and Tashi's former boyfriend.",
+    "popularity": 15.4212,
+    "poster_path": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+    "release_date": "2024-04-18",
+    "title": "Challengers",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 2178
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/43VeglojU12NbT9AbuIWqTZOvpS.jpg",
+    "genre_ids": [
+      12,
+      28,
+      53
+    ],
+    "id": 36670,
+    "original_language": "en",
+    "original_title": "Never Say Never Again",
+    "overview": "James Bond returns as the secret agent 007 to battle the evil organization SPECTRE. Bond must defeat Largo, who has stolen two atomic warheads for nuclear blackmail. But Bond has an ally in Largo's girlfriend, the willowy Domino, who falls for Bond and seeks revenge.",
+    "popularity": 15.4075,
+    "poster_path": "/zhoAL4o1STGgLbLxJ9r1ijfyHC9.jpg",
+    "release_date": "1983-10-07",
+    "title": "Never Say Never Again",
+    "video": false,
+    "vote_average": 6.049,
+    "vote_count": 1486
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9trZvBr44UGedUOiGo3jgSUw13e.jpg",
+    "genre_ids": [
+      878,
+      27
+    ],
+    "id": 300668,
+    "original_language": "en",
+    "original_title": "Annihilation",
+    "overview": "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.",
+    "popularity": 15.4063,
+    "poster_path": "/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
+    "release_date": "2018-02-22",
+    "title": "Annihilation",
+    "video": false,
+    "vote_average": 6.426,
+    "vote_count": 8839
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1ApRLGSJ9ShDP1dUMAJQWbWBALz.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "id": 921436,
+    "original_language": "ko",
+    "original_title": "탈주",
+    "overview": "After completing his required decade of military service and being honored as a hero, a North Korean sergeant makes a sudden shocking attempt to defect to the South, risking life and limb for the chance to finally determine his own destiny.",
+    "popularity": 15.3941,
+    "poster_path": "/qiYaXpjoPASnLwyts0ZOLBjZO0u.jpg",
+    "release_date": "2024-07-03",
+    "title": "Escape",
+    "video": false,
+    "vote_average": 7.296,
+    "vote_count": 49
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yz8QL8WFD8yj0LA5zIlNOgcHvZK.jpg",
+    "genre_ids": [
+      12,
+      35,
+      878
+    ],
+    "id": 105,
+    "original_language": "en",
+    "original_title": "Back to the Future",
+    "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+    "popularity": 15.3149,
+    "poster_path": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+    "release_date": "1985-07-03",
+    "title": "Back to the Future",
+    "video": false,
+    "vote_average": 8.319,
+    "vote_count": 20502
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xi1VSt3DtkevUmzCx2mNlCoDe74.jpg",
+    "genre_ids": [
+      27,
+      35,
+      14
+    ],
+    "id": 917496,
+    "original_language": "en",
+    "original_title": "Beetlejuice Beetlejuice",
+    "overview": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Betelgeuse, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
+    "popularity": 15.2895,
+    "poster_path": "/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+    "release_date": "2024-09-04",
+    "title": "Beetlejuice Beetlejuice",
+    "video": false,
+    "vote_average": 7.021,
+    "vote_count": 2512
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/heMsXGykub43tU79I9hv6T1vHRc.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 1470086,
+    "original_language": "tl",
+    "original_title": "Ligaw",
+    "overview": "A sultry woman who charms the hearts of men in a remote province. Dolores, a devoted wife to her paraplegic husband, falls for a young mountaineer. What begins as a reckless escape turns into an affair drenched in passion and secrecy.",
+    "popularity": 15.2587,
+    "poster_path": "/yc8V3KEnhvPrzXpdYTXdTvjpOb5.jpg",
+    "release_date": "2025-05-09",
+    "title": "Ligaw",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lAs4Y5a8Pi86xDwuv8cx2prOVI2.jpg",
+    "genre_ids": [
+      12,
+      10751,
+      14,
+      10749
+    ],
+    "id": 447277,
+    "original_language": "en",
+    "original_title": "The Little Mermaid",
+    "overview": "The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy.",
+    "popularity": 15.2383,
+    "poster_path": "/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+    "release_date": "2023-05-18",
+    "title": "The Little Mermaid",
+    "video": false,
+    "vote_average": 6.315,
+    "vote_count": 3056
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nB6IR9XfdRpVRKCz85uT97EjgwB.jpg",
+    "genre_ids": [
+      16,
+      28,
+      12,
+      14
+    ],
+    "id": 1333100,
+    "original_language": "ja",
+    "original_title": "劇場版「進撃の巨人」完結編 THE LAST ATTACK",
+    "overview": "A colossal-sized omnibus film bringing together the last two episodes of Attack on Titan in the franchise's first-ever theatrical experience. After venturing beyond the walls and separated from his comrades, Eren finds himself inspired by this new truth and plots the \"Rumbling,\" a terrifying plan to eradicate every living thing in the world. With the fate of the world hanging in the balance, a motley crew of Eren's former comrades and enemies scramble to halt his deadly mission. The only question is, can they stop him?",
+    "popularity": 15.2195,
+    "poster_path": "/wgwldDDlTDDMrluOMkpSA8lyKjv.jpg",
+    "release_date": "2024-11-08",
+    "title": "Attack on Titan: THE LAST ATTACK",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 52
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pp3QUzMXfP7q0ocmE1b15FH6PQ6.jpg",
+    "genre_ids": [
+      28,
+      35,
+      10749
+    ],
+    "id": 868759,
+    "original_language": "en",
+    "original_title": "Ghosted",
+    "overview": "Salt-of-the-earth Cole falls head over heels for enigmatic Sadie—but then makes the shocking discovery that she's a secret agent. Before they can decide on a second date, Cole and Sadie are swept away on an international adventure to save the world.",
+    "popularity": 15.2073,
+    "poster_path": "/liLN69YgoovHVgmlHJ876PKi5Yi.jpg",
+    "release_date": "2023-04-18",
+    "title": "Ghosted",
+    "video": false,
+    "vote_average": 6.941,
+    "vote_count": 1919
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+    "genre_ids": [
+      18,
+      28,
+      36
+    ],
+    "id": 359724,
+    "original_language": "en",
+    "original_title": "Ford v Ferrari",
+    "overview": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
+    "popularity": 15.1869,
+    "poster_path": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+    "release_date": "2019-11-13",
+    "title": "Ford v Ferrari",
+    "video": false,
+    "vote_average": 8.003,
+    "vote_count": 8284
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tC78Pck2YCsUAtEdZwuHYUFYtOj.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "id": 926393,
+    "original_language": "en",
+    "original_title": "The Equalizer 3",
+    "overview": "Robert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia.",
+    "popularity": 15.17,
+    "poster_path": "/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
+    "release_date": "2023-08-30",
+    "title": "The Equalizer 3",
+    "video": false,
+    "vote_average": 7.315,
+    "vote_count": 3242
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/OvMX5sgJ0vLmKQbIiS5yy7jn5H.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 619278,
+    "original_language": "en",
+    "original_title": "Inside Man: Most Wanted",
+    "overview": "An NYPD hostage negotiator teams up with a federal agent to rescue dozens of tourists held hostage during a 10-hour seige at the U.S. Federal Reserve.",
+    "popularity": 15.1596,
+    "poster_path": "/zcDZisqVQK9akfKgyrB9HYzYuVh.jpg",
+    "release_date": "2019-09-24",
+    "title": "Inside Man: Most Wanted",
+    "video": false,
+    "vote_average": 6.416,
+    "vote_count": 315
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/chAGSv4DB9s3fsgULpSZQLN7LgN.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 514593,
+    "original_language": "en",
+    "original_title": "You Should Have Left",
+    "overview": "In an effort to repair their relationship, a couple books a vacation in the countryside for themselves and their daughter. What starts as a perfect retreat begins to fall apart as one loses their grip on reality, and a sinister force tries to tear them apart.",
+    "popularity": 15.1576,
+    "poster_path": "/tpOwE6xsWnu4lKeKbKW0R3iClM.jpg",
+    "release_date": "2020-06-18",
+    "title": "You Should Have Left",
+    "video": false,
+    "vote_average": 6.095,
+    "vote_count": 878
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rAgsOIhqRS6tUthmHoqnqh9PIAE.jpg",
+    "genre_ids": [
+      28,
+      35,
+      12
+    ],
+    "id": 436969,
+    "original_language": "en",
+    "original_title": "The Suicide Squad",
+    "overview": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+    "popularity": 15.132,
+    "poster_path": "/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+    "release_date": "2021-07-28",
+    "title": "The Suicide Squad",
+    "video": false,
+    "vote_average": 7.488,
+    "vote_count": 8882
+  }
+]
