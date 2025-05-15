@@ -1,279 +1,99 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/yMmhALrLWj9amm2pAelmdXggxk2.jpg",
-    "genre_ids": [
-      16,
-      10751,
-      12,
-      35
-    ],
-    "id": 49013,
-    "original_language": "en",
-    "original_title": "Cars 2",
-    "overview": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.",
-    "popularity": 10.6629,
-    "poster_path": "/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
-    "release_date": "2011-06-11",
-    "title": "Cars 2",
-    "video": false,
-    "vote_average": 6.1,
-    "vote_count": 7986
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/hC9QftCUwQxgOoYrO6TwQ3Qr3HH.jpg",
+    "backdrop_path": "/ojgXOhVi9Yk8irDpRfDkIzdD1LK.jpg",
     "genre_ids": [
       35,
-      10749
-    ],
-    "id": 10591,
-    "original_language": "en",
-    "original_title": "The Girl Next Door",
-    "overview": "Exceptionally ambitious high schooler Matthew has aspirations for a career in politics when he falls in love with his gorgeous 19-year-old neighbor, Danielle. But Matthew's bright future is jeopardized when he finds Danielle was once a porn star. As Danielle's past catches up with her, Matthew's love for her forces him to re-evaluate his goals.",
-    "popularity": 10.6582,
-    "poster_path": "/5mVyFHSY2rSsNgD4NfEwV82HigU.jpg",
-    "release_date": "2004-04-09",
-    "title": "The Girl Next Door",
-    "video": false,
-    "vote_average": 6.727,
-    "vote_count": 3663
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/djPXXv9pPyTLGl9kMPCTyiBmIA5.jpg",
-    "genre_ids": [
-      37,
-      28
-    ],
-    "id": 11969,
-    "original_language": "en",
-    "original_title": "Tombstone",
-    "overview": "Legendary marshal Wyatt Earp, now a weary gunfighter, joins his brothers Morgan and Virgil to pursue their collective fortune in the thriving mining town of Tombstone. But Earp is forced to don a badge again and get help from his notorious pal Doc Holliday when a gang of renegade brigands and rustlers begins terrorizing the town.",
-    "popularity": 10.6477,
-    "poster_path": "/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
-    "release_date": "1993-12-25",
-    "title": "Tombstone",
-    "video": false,
-    "vote_average": 7.6,
-    "vote_count": 2215
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cvH1gNIMRITdLzoWv1HNAbRyH3n.jpg",
-    "genre_ids": [
-      35,
-      10749
-    ],
-    "id": 2105,
-    "original_language": "en",
-    "original_title": "American Pie",
-    "overview": "At a high-school party, four friends find that losing their collective virginity isn't as easy as they had thought. But they still believe that they need to do so before college. To motivate themselves, they enter a pact to all \"score\" by their senior prom.",
-    "popularity": 10.6472,
-    "poster_path": "/5P68by2Thn8wHAziyWGEw2O7hco.jpg",
-    "release_date": "1999-07-09",
-    "title": "American Pie",
-    "video": false,
-    "vote_average": 6.588,
-    "vote_count": 7820
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/udQe3ULuZr82E2Pvqpl9CrGt6Fy.jpg",
-    "genre_ids": [
-      35,
-      10749
-    ],
-    "id": 8835,
-    "original_language": "en",
-    "original_title": "Legally Blonde",
-    "overview": "Fashionable sorority queen Elle Woods has it all, but, she wants nothing more than to be Mrs. Warner Huntington III. But he dumps her before heading to Harvard Law School. Elle rallies all of her resources and gets into Harvard, determined to win him back. While there, she figures out that there is more to herself than just good looks.",
-    "popularity": 10.6431,
-    "poster_path": "/9ohlMrJHQqKhfUKh7Zr3JQqHNLZ.jpg",
-    "release_date": "2001-07-13",
-    "title": "Legally Blonde",
-    "video": false,
-    "vote_average": 6.793,
-    "vote_count": 4154
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/Kj14WdD0Xqk7wZ5jXqHiyBMKtv.jpg",
-    "genre_ids": [
-      27,
-      28,
-      53,
-      10752
-    ],
-    "id": 1244361,
-    "original_language": "th",
-    "original_title": "ช.พ.๑ สมรภูมิคืนชีพ",
-    "overview": "Inexperienced Thai soldiers battle a growing undead menace in this gruesome survival horror. A Japanese military experiment that turns men into monsters escapes containment, it’s up to these troops to save their nation from annihilation.",
-    "popularity": 10.6379,
-    "poster_path": "/rs10lMBnJFnJX1Y7MYpyB8JiNAF.jpg",
-    "release_date": "2024-07-20",
-    "title": "Operation Undead",
-    "video": false,
-    "vote_average": 3.929,
-    "vote_count": 14
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/h3fsOC10IZ33ACi5VlGySuRJL4x.jpg",
-    "genre_ids": [
       10749,
-      18,
-      35
-    ],
-    "id": 1136867,
-    "original_language": "en",
-    "original_title": "Materialists",
-    "overview": "A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex.",
-    "popularity": 10.6364,
-    "poster_path": "/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
-    "release_date": "2025-06-11",
-    "title": "Materialists",
-    "video": false,
-    "vote_average": 0.0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
-    "genre_ids": [
-      9648,
-      53
-    ],
-    "id": 77,
-    "original_language": "en",
-    "original_title": "Memento",
-    "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
-    "popularity": 10.6333,
-    "poster_path": "/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
-    "release_date": "2000-10-11",
-    "title": "Memento",
-    "video": false,
-    "vote_average": 8.2,
-    "vote_count": 15272
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vlnSG1EQi0ez2A6MkFfjovPfkES.jpg",
-    "genre_ids": [
-      53,
-      9648
-    ],
-    "id": 591,
-    "original_language": "en",
-    "original_title": "The Da Vinci Code",
-    "overview": "A murder in Paris’ Louvre Museum and cryptic clues in some of Leonardo da Vinci’s most famous paintings lead to the discovery of a religious mystery. For 2,000 years a secret society closely guards information that — should it come to light — could rock the very foundations of Christianity.",
-    "popularity": 10.6258,
-    "poster_path": "/9ejKfNk0LBhSI9AahH4f9NJNZNM.jpg",
-    "release_date": "2006-05-17",
-    "title": "The Da Vinci Code",
-    "video": false,
-    "vote_average": 6.727,
-    "vote_count": 9529
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/oguoQWtQJcqIkmmUNbe3CmLx6AP.jpg",
-    "genre_ids": [
-      12,
-      14,
-      18,
-      10749
-    ],
-    "id": 24021,
-    "original_language": "en",
-    "original_title": "The Twilight Saga: Eclipse",
-    "overview": "Bella once again finds herself surrounded by danger as Seattle is ravaged by a string of mysterious killings and a malicious vampire continues her quest for revenge. In the midst of it all, she is forced to choose between her love for Edward and her friendship with Jacob, knowing that her decision has the potential to ignite the ageless struggle between vampire and werewolf. With her graduation quickly approaching, Bella is confronted with the most important decision of her life.",
-    "popularity": 10.6235,
-    "poster_path": "/3mFM80dPzSqoXXuC2UMvLIRWX32.jpg",
-    "release_date": "2010-06-23",
-    "title": "The Twilight Saga: Eclipse",
-    "video": false,
-    "vote_average": 6.205,
-    "vote_count": 8893
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zDIievPXqjfjLogXFqnnopU0OkK.jpg",
-    "genre_ids": [
-      12,
-      16,
-      35,
-      10751
-    ],
-    "id": 412117,
-    "original_language": "en",
-    "original_title": "The Secret Life of Pets 2",
-    "overview": "Max the terrier must cope with some major life changes when his owner gets married and has a baby. When the family takes a trip to the countryside, nervous Max has numerous run-ins with canine-intolerant cows, hostile foxes and a scary turkey. Luckily for Max, he soon catches a break when he meets Rooster, a gruff farm dog who tries to cure the lovable pooch of his neuroses.",
-    "popularity": 10.6174,
-    "poster_path": "/s9xg4V5EDKiphgIksVJ9gewBM11.jpg",
-    "release_date": "2019-05-24",
-    "title": "The Secret Life of Pets 2",
-    "video": false,
-    "vote_average": 6.957,
-    "vote_count": 3134
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/owAe5rRStnX7ibVAPmza3NCXjCy.jpg",
-    "genre_ids": [
-      80,
-      18,
-      53
-    ],
-    "id": 23168,
-    "original_language": "en",
-    "original_title": "The Town",
-    "overview": "Doug MacRay is a longtime thief, who, smarter than the rest of his crew, is looking for his chance to exit the game. When a bank job leads to the group kidnapping an attractive branch manager, he takes on the role of monitoring her – but their burgeoning relationship threatens to unveil the identities of Doug and his crew to the FBI Agent who is on their case.",
-    "popularity": 10.6083,
-    "poster_path": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
-    "release_date": "2010-09-15",
-    "title": "The Town",
-    "video": false,
-    "vote_average": 7.218,
-    "vote_count": 5191
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/naNXYdBzTEb1KwOdi1RbBkM9Zv1.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "id": 420634,
-    "original_language": "en",
-    "original_title": "Terrifier",
-    "overview": "A maniacal clown named Art terrorizes three young women on Halloween night and everyone else who stands in his way.",
-    "popularity": 10.606,
-    "poster_path": "/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
-    "release_date": "2018-01-25",
-    "title": "Terrifier",
-    "video": false,
-    "vote_average": 6.34,
-    "vote_count": 2669
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/2ZmbuDNbL6YUV2r8O5AAenKx01V.jpg",
-    "genre_ids": [
-      53,
       18
     ],
-    "id": 1147546,
-    "original_language": "hi",
-    "original_title": "राजनयिक",
-    "overview": "An Indian diplomat maneuvers political and moral tensions to free a young woman claiming forced marriage in Pakistan. Based on true events.",
-    "popularity": 10.6045,
-    "poster_path": "/uwl9Y4px8TTIQK4N19k6gnW1RnX.jpg",
-    "release_date": "2025-03-07",
-    "title": "The Diplomat",
+    "id": 18240,
+    "original_language": "en",
+    "original_title": "The Proposal",
+    "overview": "When she learns she's in danger of losing her visa status and being deported, overbearing book editor Margaret Tate forces her put-upon assistant, Andrew Paxton, to marry her.",
+    "popularity": 10.7813,
+    "poster_path": "/aEqtJDj8MvSDQwzggvcOfFTZMw.jpg",
+    "release_date": "2009-06-02",
+    "title": "The Proposal",
+    "video": false,
+    "vote_average": 7.153,
+    "vote_count": 7051
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      878
+    ],
+    "id": 1091,
+    "original_language": "en",
+    "original_title": "The Thing",
+    "overview": "In the winter of 1982, a twelve-man research team at a remote Antarctic research station discovers an alien buried in the snow for over 100,000 years. Soon unfrozen, the form-changing creature wreaks havoc, creates terror... and becomes one of them.",
+    "popularity": 10.7765,
+    "poster_path": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+    "release_date": "1982-06-25",
+    "title": "The Thing",
+    "video": false,
+    "vote_average": 8.068,
+    "vote_count": 7282
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o8u0NyEigCEaZHBdCYTRfXR8U4i.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 396422,
+    "original_language": "en",
+    "original_title": "Annabelle: Creation",
+    "overview": "Several years after the tragic death of their little girl, a doll maker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the doll maker's possessed creation—Annabelle.",
+    "popularity": 10.7667,
+    "poster_path": "/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg",
+    "release_date": "2017-08-03",
+    "title": "Annabelle: Creation",
     "video": false,
     "vote_average": 6.6,
-    "vote_count": 7
+    "vote_count": 5679
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/npCPnwDyWfQltGfIZKN6WqeUXGI.jpg",
+    "genre_ids": [
+      14,
+      12,
+      28
+    ],
+    "id": 57158,
+    "original_language": "en",
+    "original_title": "The Hobbit: The Desolation of Smaug",
+    "overview": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
+    "popularity": 10.7551,
+    "poster_path": "/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
+    "release_date": "2013-12-11",
+    "title": "The Hobbit: The Desolation of Smaug",
+    "video": false,
+    "vote_average": 7.57,
+    "vote_count": 13453
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 207,
+    "original_language": "en",
+    "original_title": "Dead Poets Society",
+    "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+    "popularity": 10.7285,
+    "poster_path": "/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg",
+    "release_date": "1989-06-02",
+    "title": "Dead Poets Society",
+    "video": false,
+    "vote_average": 8.302,
+    "vote_count": 11641
   },
   {
     "adult": false,
@@ -287,7 +107,7 @@
     "original_language": "en",
     "original_title": "Captain America: The First Avenger",
     "overview": "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull – Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.",
-    "popularity": 10.5896,
+    "popularity": 10.717,
     "poster_path": "/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
     "release_date": "2011-07-22",
     "title": "Captain America: The First Avenger",
@@ -297,99 +117,57 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/lh0uM88KjXsmRzWXUGAGWJ0AOJR.jpg",
+    "backdrop_path": "/wj2nLa0vfS0SLu2vJ6ABTRhMrok.jpg",
     "genre_ids": [
-      10751,
-      35,
-      14
+      18
     ],
-    "id": 21972,
+    "id": 334541,
     "original_language": "en",
-    "original_title": "Like Mike",
-    "overview": "Calvin and his friends, who all live in an orphanage, find old shoes with the faded letters MJ connected to a powerline. One stormy night, they go to get the shoes when Calvin and the shoes are struck by lightning. Calvin now has unbelievable basketball powers and has the chance to play for the NBA.",
-    "popularity": 10.5706,
-    "poster_path": "/zXTM3qAXVYAYrhfYBpmescKMoes.jpg",
-    "release_date": "2002-07-03",
-    "title": "Like Mike",
+    "original_title": "Manchester by the Sea",
+    "overview": "After his older brother passes away, Lee Chandler is forced to return home to care for his 16-year-old nephew. There he is compelled to deal with a tragic past that separated him from his family and the community where he was born and raised.",
+    "popularity": 10.7039,
+    "poster_path": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+    "release_date": "2016-11-17",
+    "title": "Manchester by the Sea",
     "video": false,
-    "vote_average": 6.091,
-    "vote_count": 527
+    "vote_average": 7.547,
+    "vote_count": 5989
   },
   {
     "adult": false,
-    "backdrop_path": "/5o4iH2N4jX3HmNCBbC6rJqxtWj2.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "id": 1222064,
-    "original_language": "en",
-    "original_title": "River of Blood",
-    "overview": "Four kayakers take the wrong river into a jungle inhabited by a tribe of merciless cannibals.",
-    "popularity": 10.5628,
-    "poster_path": "/7lkm4eAvHy1uCs48GEwMxgwNdgd.jpg",
-    "release_date": "2024-08-29",
-    "title": "River of Blood",
-    "video": false,
-    "vote_average": 6.0,
-    "vote_count": 47
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/kl3rMfydlxyLDsZidSUCEWm8K0M.jpg",
-    "genre_ids": [
-      12,
-      35,
-      878
-    ],
-    "id": 39513,
-    "original_language": "en",
-    "original_title": "Paul",
-    "overview": "For the past 60 years, a space-traveling smart-ass named Paul has been locked up in a top-secret military base, advising world leaders about his kind. But when he worries he’s outlived his usefulness and the dissection table is drawing uncomfortably close, Paul escapes on the first RV that passes by his compound in Area 51. Fortunately, it contains the two earthlings who are most likely to rescue and harbor an alien on the run.",
-    "popularity": 10.5507,
-    "poster_path": "/e57pNjhWbRos9BTvgeUYUzB8VfO.jpg",
-    "release_date": "2011-02-14",
-    "title": "Paul",
-    "video": false,
-    "vote_average": 6.733,
-    "vote_count": 5901
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3HnkKX1B9h4govdAa3Ku8qMZaoZ.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "id": 1100856,
-    "original_language": "ru",
-    "original_title": "Заклятье. Шепот ведьм",
-    "overview": "Mara, an ancient pagan spirit, hunts a group of teenagers taking their body parts to be reborn. A disillusioned and desperate investigator has to face his deepest fears to save the teenagers.",
-    "popularity": 10.5274,
-    "poster_path": "/raDMchyq3dJMqso2TVh75A123Xb.jpg",
-    "release_date": "2024-06-13",
-    "title": "Whisper of the Witch",
-    "video": false,
-    "vote_average": 6.5,
-    "vote_count": 41
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5i6SjyDbDWqyun8klUuCxrlFbyw.jpg",
+    "backdrop_path": "/u2eA9pqi1q3DvevT7RuDuJHxxBT.jpg",
     "genre_ids": [
       18,
-      28
+      53
     ],
-    "id": 677179,
-    "original_language": "en",
-    "original_title": "Creed III",
-    "overview": "After dominating the boxing world, Adonis Creed has thrived in his career and family life. When a childhood friend and former boxing prodigy, Damian Anderson, resurfaces after serving a long sentence in prison, he is eager to prove that he deserves his shot in the ring. The face-off between former friends is more than just a fight. To settle the score, Adonis must put his future on the line to battle Damian — a fighter with nothing to lose.",
-    "popularity": 10.5192,
-    "poster_path": "/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
-    "release_date": "2023-03-01",
-    "title": "Creed III",
+    "id": 974950,
+    "original_language": "fr",
+    "original_title": "Emilia Pérez",
+    "overview": "Rita, an underrated lawyer working for a large law firm more interested in getting criminals out of jail than bringing them to justice, is hired by the leader of a criminal organization.",
+    "popularity": 10.6616,
+    "poster_path": "/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg",
+    "release_date": "2024-08-21",
+    "title": "Emilia Pérez",
     "video": false,
-    "vote_average": 7.112,
-    "vote_count": 2631
+    "vote_average": 6.674,
+    "vote_count": 1615
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4PAtIaArgPMpKe6fkXw051SYR88.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 50270,
+    "original_language": "it",
+    "original_title": "Paprika",
+    "overview": "Mimma starts working in Madame Colette’s brothel to help her boyfriend financially. There she is rechristened “Paprika,” and falls in love with her first client, naval officer Franco. Despite this attraction, she begins her climb through the sex trade, residing in Italy’s most illustrious brothels.",
+    "popularity": 10.6566,
+    "poster_path": "/7ArZvonETUbFYuNBa5PWkYJjG1u.jpg",
+    "release_date": "1991-02-13",
+    "title": "Paprika",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 527
   }
 ]

@@ -1,102 +1,98 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/5rARlA8beRAVXPYzSaF2NoS8Ry5.jpg",
+    "backdrop_path": "/g1LcYjBXzjqNrGXYTRll1jNRTfb.jpg",
     "genre_ids": [
-      16,
-      35,
       10751,
-      14
+      14,
+      35
     ],
-    "id": 76492,
+    "id": 25694,
     "original_language": "en",
-    "original_title": "Hotel Transylvania",
-    "overview": "Welcome to Hotel Transylvania, Dracula's lavish five-stake resort, where monsters and their families can live it up and no humans are allowed. One special weekend, Dracula has invited all his best friends to celebrate his beloved daughter Mavis's 118th birthday. For Dracula catering to all of these legendary monsters is no problem but the party really starts when one ordinary guy stumbles into the hotel and changes everything!",
-    "popularity": 11.3514,
-    "poster_path": "/3sKT6vtydJ4DkTJtdP5pvfpPa0n.jpg",
-    "release_date": "2012-09-20",
-    "title": "Hotel Transylvania",
+    "original_title": "Alice in Wonderland",
+    "overview": "In Victorian England, a bored young girl dreams that she has entered a fantasy world called Wonderland, populated by even more fantastic characters.",
+    "popularity": 9.7151,
+    "poster_path": "/k4hlsqfhEtTrEtiDE647qxTR6PI.jpg",
+    "release_date": "1933-12-18",
+    "title": "Alice in Wonderland",
     "video": false,
-    "vote_average": 6.959,
-    "vote_count": 8764
+    "vote_average": 5.983,
+    "vote_count": 59
   },
   {
     "adult": false,
-    "backdrop_path": "/dlrWhn0G3AtxYUx2D9P2bmzcsvF.jpg",
-    "genre_ids": [
-      878,
-      27
-    ],
-    "id": 536554,
-    "original_language": "en",
-    "original_title": "M3GAN",
-    "overview": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.",
-    "popularity": 9.4773,
-    "poster_path": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
-    "release_date": "2022-12-28",
-    "title": "M3GAN",
-    "video": false,
-    "vote_average": 7.048,
-    "vote_count": 4227
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/eGhjeUbzttA3E4flxdAm8gHz4h4.jpg",
+    "backdrop_path": "/aWILNXgq07riueQknYXMvum11jo.jpg",
     "genre_ids": [
       28,
-      12,
-      10752
+      53
     ],
-    "id": 1271,
+    "id": 1081012,
     "original_language": "en",
-    "original_title": "300",
-    "overview": "Based on Frank Miller's graphic novel, \"300\" is very loosely based the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians; the battle is said to have inspired all of Greece to band together against the Persians, and helped usher in the world's first democracy.",
-    "popularity": 9.2977,
-    "poster_path": "/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
-    "release_date": "2007-03-07",
-    "title": "300",
+    "original_title": "Aftermath",
+    "overview": "A returning war veteran, stricken with PTSD, gets trapped with his teenage sister on Boston's Tobin Memorial Bridge when a heavily armed group of ex-military revolutionaries take everyone hostage.",
+    "popularity": 9.7127,
+    "poster_path": "/v9knhuvYKwMUAta6fltNOuun3zF.jpg",
+    "release_date": "2024-09-27",
+    "title": "Aftermath",
     "video": false,
-    "vote_average": 7.188,
-    "vote_count": 13995
+    "vote_average": 6.248,
+    "vote_count": 137
   },
   {
     "adult": false,
-    "backdrop_path": "/sd4xN5xi8tKRPrJOWwNiZEile7f.jpg",
-    "genre_ids": [
-      16,
-      12,
-      35,
-      10751
-    ],
-    "id": 920,
-    "original_language": "en",
-    "original_title": "Cars",
-    "overview": "Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town's offbeat characters.",
-    "popularity": 10.2071,
-    "poster_path": "/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
-    "release_date": "2006-06-08",
-    "title": "Cars",
-    "video": false,
-    "vote_average": 6.998,
-    "vote_count": 14302
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jpFcZH2eyh6gcoxCa637TrGe4bT.jpg",
+    "backdrop_path": "/P3GAbRjzVo9RKU4WxzvtgwlITc.jpg",
     "genre_ids": [
       28,
-      878
+      18
     ],
-    "id": 2048,
+    "id": 678512,
     "original_language": "en",
-    "original_title": "I, Robot",
-    "overview": "In 2035, where robots are commonplace and abide by the three laws of robotics, a technophobic cop investigates an apparent suicide. Suspecting that a robot may be responsible for the death, his investigation leads him to believe that humanity may be in danger.",
-    "popularity": 9.5999,
-    "poster_path": "/efwv6F2lGaghjPpBRSINHtoEiZB.jpg",
-    "release_date": "2004-07-15",
-    "title": "I, Robot",
+    "original_title": "Sound of Freedom",
+    "overview": "The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.",
+    "popularity": 9.7031,
+    "poster_path": "/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
+    "release_date": "2023-07-03",
+    "title": "Sound of Freedom",
     "video": false,
-    "vote_average": 6.951,
-    "vote_count": 12024
+    "vote_average": 7.991,
+    "vote_count": 2539
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zzK0HDEswyhHFDFWlPz6HdgXKH5.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 820525,
+    "original_language": "en",
+    "original_title": "After Everything",
+    "overview": "Besieged by writer’s block and the crushing breakup with Tessa, Hardin travels to Portugal in search of a woman he wronged in the past – and to find himself. Hoping to win back Tessa, he realizes he needs to change his ways before he can make the ultimate commitment.",
+    "popularity": 9.6819,
+    "poster_path": "/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg",
+    "release_date": "2023-09-13",
+    "title": "After Everything",
+    "video": false,
+    "vote_average": 6.901,
+    "vote_count": 920
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/16aJtXO6lObbBUr11IvkjB1QD1f.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 341174,
+    "original_language": "en",
+    "original_title": "Fifty Shades Darker",
+    "overview": "When a wounded Christian Grey tries to entice a cautious Ana Steele back into his life, she demands a new arrangement before she will give him another chance. As the two begin to build trust and find stability, shadowy figures from Christian’s past start to circle the couple, determined to destroy their hopes for a future together.",
+    "popularity": 9.6496,
+    "poster_path": "/w3qa274gvca9t8pkUoG8nfQgTU3.jpg",
+    "release_date": "2017-02-08",
+    "title": "Fifty Shades Darker",
+    "video": false,
+    "vote_average": 6.486,
+    "vote_count": 7727
   }
 ]

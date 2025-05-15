@@ -1,217 +1,62 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+    "backdrop_path": "/vAsxVpXP53cMSsD9u4EekQKz4ur.jpg",
     "genre_ids": [
+      9648,
       53,
-      80
+      18
     ],
-    "id": 680,
-    "original_language": "en",
-    "original_title": "Pulp Fiction",
-    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
-    "popularity": 17.5495,
-    "poster_path": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
-    "release_date": "1994-09-10",
-    "title": "Pulp Fiction",
+    "id": 1050035,
+    "original_language": "ja",
+    "original_title": "怪物",
+    "overview": "When a young boy begins behaving strangely, shocking truths emerge as the story unfolds through the eyes of his single mother, a teacher who is believed to be responsible, and the child himself.",
+    "popularity": 17.4377,
+    "poster_path": "/kvUJUyUGOhEoiWWNH04IXoExPE2.jpg",
+    "release_date": "2023-06-02",
+    "title": "Monster",
     "video": false,
-    "vote_average": 8.489,
-    "vote_count": 28645
+    "vote_average": 7.975,
+    "vote_count": 683
   },
   {
     "adult": false,
-    "backdrop_path": "/585hAEHBMNqyCt3pswF5MjImBrR.jpg",
+    "backdrop_path": "/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
     "genre_ids": [
       12,
-      18,
-      14,
-      16
+      28,
+      878
     ],
-    "id": 1333099,
-    "original_language": "es",
-    "original_title": "Dalia y el libro rojo",
-    "overview": "Dalia, the daughter of a famous writer who has recently died, inherits the legacy of finishing his book. To do this, Dalia will become part of the book and will come face to face with the characters who have taken the theme of the book in order to be the protagonists.",
-    "popularity": 17.4881,
-    "poster_path": "/brk5WOAEQWPcMLMsRrkPBtpVk3f.jpg",
-    "release_date": "2024-10-17",
-    "title": "Dalia and the Red Book",
-    "video": false,
-    "vote_average": 7.3,
-    "vote_count": 17
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/wcUohmHc9oDZXarXDp905TYVui4.jpg",
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "id": 82023,
-    "original_language": "de",
-    "original_title": "Hotel Desire",
-    "overview": "Antonia is a single mother who works as a hotel maid in Berlin. A normal hot summer day takes a dramatic turn when she crosses paths with a particular guest of the hotel, famous blind portrait painter Julius Pass.",
-    "popularity": 17.4739,
-    "poster_path": "/myzQj8Rk178DrWsiZjVKjz7Kj9P.jpg",
-    "release_date": "2011-12-07",
-    "title": "Hotel Desire",
-    "video": false,
-    "vote_average": 6.0,
-    "vote_count": 120
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/v7JSw9XCkdv533TP7VabRZJ63PC.jpg",
-    "genre_ids": [
-      35,
-      28
-    ],
-    "id": 325358,
+    "id": 271110,
     "original_language": "en",
-    "original_title": "Superfast!",
-    "overview": "Undercover cop Lucas White joins Vin Serento's gang of illegal street racers. They are fast and they are furious and they plan to double cross Los Angeles kingpin Juan Carlos de la Sol, who hides his cash in a downtown Taco Bell.",
-    "popularity": 17.4658,
-    "poster_path": "/iuIWl90qCpoxv6g775JB6Kg0m86.jpg",
-    "release_date": "2015-03-05",
-    "title": "Superfast!",
+    "original_title": "Captain America: Civil War",
+    "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+    "popularity": 17.387,
+    "poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+    "release_date": "2016-04-27",
+    "title": "Captain America: Civil War",
     "video": false,
-    "vote_average": 5.062,
-    "vote_count": 463
+    "vote_average": 7.446,
+    "vote_count": 23106
   },
   {
     "adult": false,
-    "backdrop_path": "/nxxCPRGTzxUH8SFMrIsvMmdxHti.jpg",
-    "genre_ids": [
-      35,
-      14,
-      10751
-    ],
-    "id": 639720,
-    "original_language": "en",
-    "original_title": "IF",
-    "overview": "After discovering she can see everyone's imaginary friends, a girl embarks on a magical adventure to reconnect forgotten imaginary friends with their kids.",
-    "popularity": 17.4214,
-    "poster_path": "/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
-    "release_date": "2024-05-08",
-    "title": "IF",
-    "video": false,
-    "vote_average": 7.068,
-    "vote_count": 1349
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
-    "genre_ids": [
-      18,
-      53,
-      9648
-    ],
-    "id": 11324,
-    "original_language": "en",
-    "original_title": "Shutter Island",
-    "overview": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
-    "popularity": 17.415,
-    "poster_path": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
-    "release_date": "2010-02-14",
-    "title": "Shutter Island",
-    "video": false,
-    "vote_average": 8.201,
-    "vote_count": 24511
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/sI6uCeF8mUlZx22mFfHSi9W3XQ9.jpg",
-    "genre_ids": [
-      10749,
-      18,
-      35
-    ],
-    "id": 843527,
-    "original_language": "en",
-    "original_title": "The Idea of You",
-    "overview": "40-year-old single mom Solène begins an unexpected romance with 24-year-old Hayes Campbell, the lead singer of August Moon, the hottest boy band on the planet. As they begin a whirlwind romance, it isn't long before Hayes' superstar status poses unavoidable challenges to their relationship, and Solène soon discovers that life in the glare of his spotlight might be more than she bargained for.",
-    "popularity": 17.3447,
-    "poster_path": "/Y5P4Q3q8nrruZ9aD3wXeJS2Plg.jpg",
-    "release_date": "2024-05-02",
-    "title": "The Idea of You",
-    "video": false,
-    "vote_average": 7.381,
-    "vote_count": 1674
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cMnVmutb5mVgIBeiMOncAbwNjvG.jpg",
-    "genre_ids": [
-      27
-    ],
-    "id": 439079,
-    "original_language": "en",
-    "original_title": "The Nun",
-    "overview": "A priest with a haunted past and a novice on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun in Romania and confront a malevolent force in the form of a demonic nun.",
-    "popularity": 17.3258,
-    "poster_path": "/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg",
-    "release_date": "2018-09-05",
-    "title": "The Nun",
-    "video": false,
-    "vote_average": 5.896,
-    "vote_count": 6785
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/70AV2Xx5FQYj20labp0EGdbjI6E.jpg",
+    "backdrop_path": "/kuYZz7aRnZvsyYyXwjuMCy0dPj4.jpg",
     "genre_ids": [
       28,
-      80,
-      53
-    ],
-    "id": 637649,
-    "original_language": "en",
-    "original_title": "Wrath of Man",
-    "overview": "A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman's ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.",
-    "popularity": 17.3082,
-    "poster_path": "/M7SUK85sKjaStg4TKhlAVyGlz3.jpg",
-    "release_date": "2021-04-22",
-    "title": "Wrath of Man",
-    "video": false,
-    "vote_average": 7.616,
-    "vote_count": 5566
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/opNdWurarqYxrzqpVRPyZrbWb3K.jpg",
-    "genre_ids": [
-      27,
-      53,
-      9648
-    ],
-    "id": 1029880,
-    "original_language": "da",
-    "original_title": "Nattevagten - Dæmoner går i arv",
-    "overview": "Martin's daughter, Emma, takes up a night watch job to find out what happened to her parents almost thirty years ago. A meeting with Wörmer in his cell pulls the serial killer out of his coma and sets in motion a chain of fateful events.",
-    "popularity": 17.2804,
-    "poster_path": "/7Bj9qbmTiBdOmVlHeQqoEjsDxul.jpg",
-    "release_date": "2023-12-14",
-    "title": "Nightwatch: Demons Are Forever",
-    "video": false,
-    "vote_average": 6.208,
-    "vote_count": 65
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8U1xsLUtWSN8WlH0xzwYGZxHMUi.jpg",
-    "genre_ids": [
       35
     ],
-    "id": 1304594,
-    "original_language": "es",
-    "original_title": "Una pequeña confusión",
-    "overview": "Lola and Cuau, a progressive middle-class pair, and Iñigo and Majo, a young conservative, well-heeled duo, turn to artificial insemination as a last resort to have children. In a madcap twist based on actual events, a mix-up at the clinic results in each mom-to-be carrying the other one's baby.",
-    "popularity": 17.2416,
-    "poster_path": "/ApXr9phfcvIX06tLGhxOH2kmndb.jpg",
-    "release_date": "2024-12-25",
-    "title": "Una pequeña confusión",
+    "id": 1077782,
+    "original_language": "en",
+    "original_title": "Old Guy",
+    "overview": "Stuck at a dead end but vying for the love of spunky club manager Anata, aging contract killer Danny Dolinski is thrilled when The Company pulls him back in the field, but only to train Gen Z newcomer Wihlborg, a prodigy assassin with an attitude.",
+    "popularity": 17.3257,
+    "poster_path": "/ulVVfNY8bmy1RbHfY4zi3fOwGzh.jpg",
+    "release_date": "2024-12-13",
+    "title": "Old Guy",
     "video": false,
-    "vote_average": 7.4,
-    "vote_count": 70
+    "vote_average": 5.8,
+    "vote_count": 97
   },
   {
     "adult": false,
@@ -226,7 +71,7 @@
     "original_language": "en",
     "original_title": "Migration",
     "overview": "After a migrating duck family alights on their pond with thrilling tales of far-flung places, the Mallard family embarks on a family road trip, from New England, to New York City, to tropical Jamaica.",
-    "popularity": 17.228,
+    "popularity": 17.1745,
     "poster_path": "/dpXxBDi0ut5svjh5fbAqLoaJSq8.jpg",
     "release_date": "2023-12-06",
     "title": "Migration",
@@ -236,102 +81,23 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/5Iw7zQTHVRBOYpA0V6z0yypOPZh.jpg",
+    "backdrop_path": "/veUl0QT8swshQ9Dz0fQ1k6ZkthD.jpg",
     "genre_ids": [
-      12,
-      28,
-      878
-    ],
-    "id": 181808,
-    "original_language": "en",
-    "original_title": "Star Wars: The Last Jedi",
-    "overview": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
-    "popularity": 17.1959,
-    "poster_path": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
-    "release_date": "2017-12-13",
-    "title": "Star Wars: The Last Jedi",
-    "video": false,
-    "vote_average": 6.778,
-    "vote_count": 15593
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8PHTO4a11JuZwYko7QPBUWq45wJ.jpg",
-    "genre_ids": [
-      28,
-      18
-    ],
-    "id": 911430,
-    "original_language": "en",
-    "original_title": "F1",
-    "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
-    "popularity": 17.1624,
-    "poster_path": "/6H6p82aWQFEKEuVUiZll6JxV8Ft.jpg",
-    "release_date": "2025-06-23",
-    "title": "F1",
-    "video": false,
-    "vote_average": 0.0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9eAn20y26wtB3aet7w9lHjuSgZ3.jpg",
-    "genre_ids": [
-      12,
-      28,
-      878
-    ],
-    "id": 507086,
-    "original_language": "en",
-    "original_title": "Jurassic World Dominion",
-    "overview": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
-    "popularity": 17.1558,
-    "poster_path": "/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
-    "release_date": "2022-06-01",
-    "title": "Jurassic World Dominion",
-    "video": false,
-    "vote_average": 6.663,
-    "vote_count": 6357
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/r9oTasGQofvkQY5vlUXglneF64Z.jpg",
-    "genre_ids": [
-      28,
-      35,
-      10751
-    ],
-    "id": 1029575,
-    "original_language": "en",
-    "original_title": "The Family Plan",
-    "overview": "Dan Morgan is many things: a devoted husband, a loving father, a celebrated car salesman. He's also a former assassin. And when his past catches up to his present, he's forced to take his unsuspecting family on a road trip unlike any other.",
-    "popularity": 17.1034,
-    "poster_path": "/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg",
-    "release_date": "2023-12-14",
-    "title": "The Family Plan",
-    "video": false,
-    "vote_average": 7.269,
-    "vote_count": 1512
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/nb1s8r6MhDcPyMjx3sjw9rFsEP5.jpg",
-    "genre_ids": [
+      27,
       53,
-      80,
-      35
+      878
     ],
-    "id": 484247,
+    "id": 170,
     "original_language": "en",
-    "original_title": "A Simple Favor",
-    "overview": "Stephanie, a dedicated mother and popular vlogger, befriends Emily, a mysterious upper-class woman whose son Nicky attends the same school as Miles, Stephanie's son. When Emily asks her to pick Nicky up from school and then disappears, Stephanie undertakes an investigation that will dive deep into Emily's cloudy past.",
-    "popularity": 17.0524,
-    "poster_path": "/aIYsjQM0piKc0ibPBCTWv3sqshj.jpg",
-    "release_date": "2018-09-13",
-    "title": "A Simple Favor",
+    "original_title": "28 Days Later",
+    "overview": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+    "popularity": 17.0782,
+    "poster_path": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+    "release_date": "2002-10-31",
+    "title": "28 Days Later",
     "video": false,
-    "vote_average": 6.6,
-    "vote_count": 4316
+    "vote_average": 7.234,
+    "vote_count": 7085
   },
   {
     "adult": false,
@@ -347,7 +113,7 @@
     "original_language": "en",
     "original_title": "Kingdom of the Planet of the Apes",
     "overview": "Several generations following Caesar's reign, apes – now the dominant species – live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike.",
-    "popularity": 16.985,
+    "popularity": 17.0453,
     "poster_path": "/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
     "release_date": "2024-05-08",
     "title": "Kingdom of the Planet of the Apes",
@@ -357,41 +123,42 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/1GU0jS5ZG5MhfdDrpj8s9XxbgJJ.jpg",
+    "backdrop_path": "/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
     "genre_ids": [
-      28,
-      12,
-      878
+      18,
+      53,
+      9648
     ],
-    "id": 505642,
+    "id": 11324,
     "original_language": "en",
-    "original_title": "Black Panther: Wakanda Forever",
-    "overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
-    "popularity": 16.8971,
-    "poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
-    "release_date": "2022-11-09",
-    "title": "Black Panther: Wakanda Forever",
+    "original_title": "Shutter Island",
+    "overview": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+    "popularity": 17.0234,
+    "poster_path": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+    "release_date": "2010-02-14",
+    "title": "Shutter Island",
     "video": false,
-    "vote_average": 7.063,
-    "vote_count": 6816
+    "vote_average": 8.201,
+    "vote_count": 24511
   },
   {
     "adult": false,
-    "backdrop_path": "/wwARk7hRIfHfh2n2ubN6N7lvTne.jpg",
+    "backdrop_path": "/nxxCPRGTzxUH8SFMrIsvMmdxHti.jpg",
     "genre_ids": [
-      27,
-      53
+      35,
+      14,
+      10751
     ],
-    "id": 710295,
+    "id": 639720,
     "original_language": "en",
-    "original_title": "Wolf Man",
-    "overview": "With his marriage fraying, Blake persuades his wife Charlotte to take a break from the city and visit his remote childhood home in rural Oregon. As they arrive at the farmhouse in the dead of night, they're attacked by an unseen animal and barricade themselves inside the home as the creature prowls the perimeter. But as the night stretches on, Blake begins to behave strangely, transforming into something unrecognizable.",
-    "popularity": 16.8419,
-    "poster_path": "/wpSDzTBfF0Eeo5lzu2w9FTujGqd.jpg",
-    "release_date": "2025-01-15",
-    "title": "Wolf Man",
+    "original_title": "IF",
+    "overview": "After discovering she can see everyone's imaginary friends, a girl embarks on a magical adventure to reconnect forgotten imaginary friends with their kids.",
+    "popularity": 16.9135,
+    "poster_path": "/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
+    "release_date": "2024-05-08",
+    "title": "IF",
     "video": false,
-    "vote_average": 6.369,
-    "vote_count": 613
+    "vote_average": 7.068,
+    "vote_count": 1349
   }
 ]

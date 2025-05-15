@@ -1,401 +1,42 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/iKqItVltY6r0eJeIRdIZV8IrBpz.jpg",
-    "genre_ids": [
-      28,
-      10752,
-      53
-    ],
-    "id": 969492,
-    "original_language": "en",
-    "original_title": "Land of Bad",
-    "overview": "When a Delta Force special ops mission goes terribly wrong, Air Force drone pilot Reaper has 48 hours to remedy what has devolved into a wild rescue operation. With no weapons and no communication other than the drone above, the ground mission suddenly becomes a full-scale battle when the team is discovered by the enemy.",
-    "popularity": 10.0164,
-    "poster_path": "/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg",
-    "release_date": "2024-02-09",
-    "title": "Land of Bad",
-    "video": false,
-    "vote_average": 7.258,
-    "vote_count": 1262
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/wxr4Z6E83h14CogsZOzDm1vuDX3.jpg",
-    "genre_ids": [
-      878,
-      28,
-      12
-    ],
-    "id": 91314,
-    "original_language": "en",
-    "original_title": "Transformers: Age of Extinction",
-    "overview": "As humanity picks up the pieces after the battle of Chicago, a shadowy group reveals itself in an attempt to control the direction of history…while an ancient, powerful new menace sets Earth in its crosshairs. With help from Cade Yeager, Optimus Prime and the Autobots rise to meet their most fearsome challenge yet.",
-    "popularity": 9.9965,
-    "poster_path": "/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg",
-    "release_date": "2014-06-25",
-    "title": "Transformers: Age of Extinction",
-    "video": false,
-    "vote_average": 5.942,
-    "vote_count": 8314
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/d1YxrmqIzS30haejpT7DcJMz3Md.jpg",
-    "genre_ids": [
-      18,
-      10749,
-      14
-    ],
-    "id": 1059372,
-    "original_language": "id",
-    "original_title": "Dear David",
-    "overview": "A secret fantasy blog might jeopardize the promising future of Laras, a talented student, when the blog is revealed to her entire school.",
-    "popularity": 9.9809,
-    "poster_path": "/Ab1OedAN42deqjIkOu7X94nJwkG.jpg",
-    "release_date": "2023-02-09",
-    "title": "Dear David",
-    "video": false,
-    "vote_average": 6.097,
-    "vote_count": 36
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5sQxHvEZNnR8Zw9JTqws6xzTpAJ.jpg",
-    "genre_ids": [
-      27
-    ],
-    "id": 34479,
-    "original_language": "en",
-    "original_title": "Scars of Dracula",
-    "overview": "The Prince of Darkness casts his undead shadow once more over the cursed village of Kleinenberg when his ashes are splashed with bat's blood and Dracula is resurrected. And two innocent victims search for a missing loved one... loved to death by Dracula's mistress. But after they discover his blood-drained corpse in Dracula's castle necropolis, the Vampire Lord's lustful vengeance begins.",
-    "popularity": 9.9805,
-    "poster_path": "/oePH4PP5EonJP7taMl1C6X73PuD.jpg",
-    "release_date": "1970-11-08",
-    "title": "Scars of Dracula",
-    "video": false,
-    "vote_average": 6.1,
-    "vote_count": 171
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9Htc6RoobykyeYZgFAd4lvfs7Pu.jpg",
+    "backdrop_path": "/zTxHf9iIOCqRbxvl8W5QYKrsMLq.jpg",
     "genre_ids": [
       12,
-      16,
       35,
-      10751
+      14
     ],
-    "id": 332210,
+    "id": 512200,
     "original_language": "en",
-    "original_title": "Storks",
-    "overview": "Storks deliver babies…or at least they used to. Now they deliver packages for a global internet retail giant. Junior, the company’s top delivery stork, is about to be promoted when he accidentally activates the Baby Making Machine, producing an adorable and wholly unauthorized baby girl...",
-    "popularity": 9.9743,
-    "poster_path": "/pwGolX8JmGJhhcUjO5SJt38Uk0m.jpg",
-    "release_date": "2016-09-22",
-    "title": "Storks",
+    "original_title": "Jumanji: The Next Level",
+    "overview": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
+    "popularity": 12.1376,
+    "poster_path": "/4kh9dxAiClS2GMUpkRyzGwpNWWX.jpg",
+    "release_date": "2019-12-04",
+    "title": "Jumanji: The Next Level",
     "video": false,
-    "vote_average": 6.664,
-    "vote_count": 2380
+    "vote_average": 6.895,
+    "vote_count": 8875
   },
   {
     "adult": false,
-    "backdrop_path": "/hdQcJFEy1GSYzwVOE0VOOAAexs8.jpg",
+    "backdrop_path": "/qDVdTL1KqGmGLGsy7UPA3vksku7.jpg",
     "genre_ids": [
-      27,
-      9648,
-      80
-    ],
-    "id": 176,
-    "original_language": "en",
-    "original_title": "Saw",
-    "overview": "Two men wake up to find themselves shackled in a grimy, abandoned bathroom. As they struggle to comprehend their predicament, they discover a disturbing tape left behind by the sadistic mastermind known as Jigsaw. With a chilling voice and cryptic instructions, Jigsaw informs them that they must partake in a gruesome game in order to secure their freedom.",
-    "popularity": 9.9713,
-    "poster_path": "/4da0TS3iQ1IzuyhDS8elgkmOfrN.jpg",
-    "release_date": "2004-10-01",
-    "title": "Saw",
-    "video": false,
-    "vote_average": 7.419,
-    "vote_count": 9471
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ayDMYGUNVvXS76wQgFwTiUIDNb5.jpg",
-    "genre_ids": [
-      10752,
       28,
-      36,
-      18,
+      12,
       53
     ],
-    "id": 300671,
+    "id": 9802,
     "original_language": "en",
-    "original_title": "13 Hours: The Secret Soldiers of Benghazi",
-    "overview": "An American Ambassador is killed during an attack at a U.S. compound in Libya as a security team struggles to make sense out of the chaos.",
-    "popularity": 9.9622,
-    "poster_path": "/AskDcQ6Sa6jImyt2KDQbgRuPebH.jpg",
-    "release_date": "2016-01-14",
-    "title": "13 Hours: The Secret Soldiers of Benghazi",
-    "video": false,
-    "vote_average": 7.271,
-    "vote_count": 3668
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/eAIHqfS3kXm7kZl4j7ZBfdegyEz.jpg",
-    "genre_ids": [
-      53,
-      28,
-      80
-    ],
-    "id": 38700,
-    "original_language": "en",
-    "original_title": "Bad Boys for Life",
-    "overview": "Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel.",
-    "popularity": 9.9543,
-    "poster_path": "/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
-    "release_date": "2020-01-15",
-    "title": "Bad Boys for Life",
+    "original_title": "The Rock",
+    "overview": "When vengeful General Francis X. Hummel seizes control of Alcatraz Island and threatens to launch missiles loaded with deadly chemical weapons into San Francisco, only a young FBI chemical weapons expert and notorious Federal prisoner have the skills to penetrate the impregnable island fortress and take him down.",
+    "popularity": 9.6284,
+    "poster_path": "/j5mxLNWjUlXUUk8weFBtnF4afIR.jpg",
+    "release_date": "1996-06-07",
+    "title": "The Rock",
     "video": false,
     "vote_average": 7.131,
-    "vote_count": 8411
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vfkzNcVzTRCq3C2jYIZtIjSdwf7.jpg",
-    "genre_ids": [
-      27,
-      53,
-      28
-    ],
-    "id": 1247019,
-    "original_language": "th",
-    "original_title": "ธี่หยด 2",
-    "overview": "Three years after his sister's death, Yak relentlessly searches for the dark spirit that killed her in hopes of seeking revenge.",
-    "popularity": 9.9509,
-    "poster_path": "/uDW5eeFUYp1vaU2ymEdVBG6g7iq.jpg",
-    "release_date": "2024-10-10",
-    "title": "Death Whisperer 2",
-    "video": false,
-    "vote_average": 6.968,
-    "vote_count": 93
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/14FK4FjArsTdpmbqwlROrWA4Npl.jpg",
-    "genre_ids": [
-      12,
-      28,
-      878
-    ],
-    "id": 101299,
-    "original_language": "en",
-    "original_title": "The Hunger Games: Catching Fire",
-    "overview": "Katniss Everdeen has returned home safe after winning the 74th Annual Hunger Games along with fellow tribute Peeta Mellark. Winning means that they must turn around and leave their family and close friends, embarking on a \"Victor's Tour\" of the districts. Along the way Katniss senses that a rebellion is simmering, but the Capitol is still very much in control as President Snow prepares the 75th Annual Hunger Games (The Quarter Quell) - a competition that could change Panem forever.",
-    "popularity": 9.9376,
-    "poster_path": "/qdXXEFGuLLfMWa1DGEkWFUo8Zwd.jpg",
-    "release_date": "2013-11-15",
-    "title": "The Hunger Games: Catching Fire",
-    "video": false,
-    "vote_average": 7.428,
-    "vote_count": 17664
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/wC36tEU7AqP5llAvjXkZhZ248tX.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 1366,
-    "original_language": "en",
-    "original_title": "Rocky",
-    "overview": "An uneducated collector for a Philadelphia loan shark is given a once-in-a-lifetime opportunity to fight against the world heavyweight boxing champion.",
-    "popularity": 9.9239,
-    "poster_path": "/8kEun6U9hTddM7NEfLLCGQKU2Mp.jpg",
-    "release_date": "1976-11-20",
-    "title": "Rocky",
-    "video": false,
-    "vote_average": 7.788,
-    "vote_count": 8070
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
-    "genre_ids": [
-      10751,
-      12,
-      16,
-      35,
-      14
-    ],
-    "id": 301528,
-    "original_language": "en",
-    "original_title": "Toy Story 4",
-    "overview": "Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called \"Forky\" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.",
-    "popularity": 9.92,
-    "poster_path": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
-    "release_date": "2019-06-19",
-    "title": "Toy Story 4",
-    "video": false,
-    "vote_average": 7.477,
-    "vote_count": 9986
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xkXsV1WOiKfAJ6dzXiavdwsZ3E2.jpg",
-    "genre_ids": [
-      28,
-      53,
-      27,
-      80
-    ],
-    "id": 799379,
-    "original_language": "ko",
-    "original_title": "늑대사냥",
-    "overview": "While under heavily armed guard, the dangerous convicts aboard a cargo ship unite in a coordinated escape attempt that soon escalates into a bloody, all-out riot. But as the fugitives continue their brutal campaign of terror, they soon discover that not even the most vicious among them is safe from the horror they unknowingly unleashed from the darkness below deck.",
-    "popularity": 9.9188,
-    "poster_path": "/dniWicB6fa7NvpGbguxWlNPMc5f.jpg",
-    "release_date": "2022-09-21",
-    "title": "Project Wolf Hunting",
-    "video": false,
-    "vote_average": 6.384,
-    "vote_count": 384
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
-    "genre_ids": [
-      27
-    ],
-    "id": 9552,
-    "original_language": "en",
-    "original_title": "The Exorcist",
-    "overview": "When a charming 12-year-old girl takes on the characteristics and voices of others, doctors say there is nothing they can do. As people begin to die, the girl's mother realizes her daughter has been possessed by the Devil. Her daughter's only possible hope lies with two priests and the ancient rite of demonic exorcism.",
-    "popularity": 9.9064,
-    "poster_path": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
-    "release_date": "1973-12-26",
-    "title": "The Exorcist",
-    "video": false,
-    "vote_average": 7.732,
-    "vote_count": 8146
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
-    "genre_ids": [
-      878,
-      12,
-      10751,
-      14
-    ],
-    "id": 601,
-    "original_language": "en",
-    "original_title": "E.T. the Extra-Terrestrial",
-    "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliot who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliot, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
-    "popularity": 9.9048,
-    "poster_path": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
-    "release_date": "1982-06-11",
-    "title": "E.T. the Extra-Terrestrial",
-    "video": false,
-    "vote_average": 7.513,
-    "vote_count": 11388
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/sGEqHTylawwS6hwKultk1mKUjdB.jpg",
-    "genre_ids": [
-      10749,
-      35
-    ],
-    "id": 114,
-    "original_language": "en",
-    "original_title": "Pretty Woman",
-    "overview": "While on a business trip in Los Angeles, Edward Lewis, a millionaire entrepreneur who makes a living buying and breaking up companies, picks up a prostitute, Vivian, while asking for directions; after, Edward hires Vivian to stay with him for the weekend to accompany him to a few social events, and the two get closer only to discover there are significant hurdles to overcome as they try to bridge the gap between their very different worlds.",
-    "popularity": 9.9024,
-    "poster_path": "/hVHUfT801LQATGd26VPzhorIYza.jpg",
-    "release_date": "1990-03-23",
-    "title": "Pretty Woman",
-    "video": false,
-    "vote_average": 7.465,
-    "vote_count": 8496
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
-    "genre_ids": [
-      16,
-      18,
-      10749
-    ],
-    "id": 378064,
-    "original_language": "ja",
-    "original_title": "映画 聲の形",
-    "overview": "Shouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because she is deaf. But as the teasing continues, the rest of the class starts to turn on Shouya for his lack of compassion. When they leave elementary school, Shouko and Shouya do not speak to each other again... until an older, wiser Shouya, tormented by his past behaviour, decides he must see Shouko once more. He wants to atone for his sins, but is it already too late...?",
-    "popularity": 9.8901,
-    "poster_path": "/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg",
-    "release_date": "2016-09-17",
-    "title": "A Silent Voice: The Movie",
-    "video": false,
-    "vote_average": 8.384,
-    "vote_count": 4110
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/kszooR7v1TLFM4pzx6IkKq2jDAN.jpg",
-    "genre_ids": [
-      53,
-      9648,
-      80
-    ],
-    "id": 915935,
-    "original_language": "fr",
-    "original_title": "Anatomie d'une chute",
-    "overview": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.",
-    "popularity": 9.8893,
-    "poster_path": "/kQs6keheMwCxJxrzV83VUwFtHkB.jpg",
-    "release_date": "2023-08-23",
-    "title": "Anatomy of a Fall",
-    "video": false,
-    "vote_average": 7.544,
-    "vote_count": 2796
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8Qsr8pvDL3s1jNZQ4HK1d1Xlvnh.jpg",
-    "genre_ids": [
-      14,
-      12
-    ],
-    "id": 259316,
-    "original_language": "en",
-    "original_title": "Fantastic Beasts and Where to Find Them",
-    "overview": "In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.",
-    "popularity": 9.8864,
-    "poster_path": "/fLsaFKExQt05yqjoAvKsmOMYvJR.jpg",
-    "release_date": "2016-11-16",
-    "title": "Fantastic Beasts and Where to Find Them",
-    "video": false,
-    "vote_average": 7.316,
-    "vote_count": 19049
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
-    "genre_ids": [
-      28,
-      53,
-      878
-    ],
-    "id": 577922,
-    "original_language": "en",
-    "original_title": "Tenet",
-    "overview": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
-    "popularity": 9.8836,
-    "poster_path": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
-    "release_date": "2020-08-22",
-    "title": "Tenet",
-    "video": false,
-    "vote_average": 7.18,
-    "vote_count": 10235
+    "vote_count": 4826
   }
 ]

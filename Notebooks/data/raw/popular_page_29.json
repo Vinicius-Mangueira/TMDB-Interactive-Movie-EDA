@@ -1,41 +1,276 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+    "backdrop_path": "/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
     "genre_ids": [
-      878,
-      12,
-      28
+      37
     ],
-    "id": 283995,
-    "original_language": "en",
-    "original_title": "Guardians of the Galaxy Vol. 2",
-    "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
-    "popularity": 13.6904,
-    "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
-    "release_date": "2017-04-19",
-    "title": "Guardians of the Galaxy Vol. 2",
+    "id": 429,
+    "original_language": "it",
+    "original_title": "Il buono, il brutto, il cattivo",
+    "overview": "While the Civil War rages on between the Union and the Confederacy, three men – a quiet loner, a ruthless hitman, and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+    "popularity": 13.4566,
+    "poster_path": "/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+    "release_date": "1966-12-22",
+    "title": "The Good, the Bad and the Ugly",
     "video": false,
-    "vote_average": 7.612,
-    "vote_count": 21951
+    "vote_average": 8.5,
+    "vote_count": 8973
   },
   {
     "adult": false,
-    "backdrop_path": "/85k0kaoRgGmF6ACq0M61AFxhjLN.jpg",
+    "backdrop_path": "/4ybnt8HD4slaCykBXNZwZaLd5LQ.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      18
+    ],
+    "id": 1254786,
+    "original_language": "en",
+    "original_title": "The Life List",
+    "overview": "When her mother sends her on a quest to complete a teenage bucket list, a young woman uncovers family secrets, finds romance — and rediscovers herself.",
+    "popularity": 13.682,
+    "poster_path": "/5fg98cVo7da7OIK45csdLSd4NaU.jpg",
+    "release_date": "2025-03-27",
+    "title": "The Life List",
+    "video": false,
+    "vote_average": 6.855,
+    "vote_count": 365
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lcITbesmy0IBO6TXTAgQHJE6Asx.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      53
+    ],
+    "id": 619979,
+    "original_language": "en",
+    "original_title": "Deep Water",
+    "overview": "A well-to-do husband who allows his wife to have affairs in order to avoid a divorce becomes a prime suspect in the disappearance of her lovers.",
+    "popularity": 13.2854,
+    "poster_path": "/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg",
+    "release_date": "2022-03-17",
+    "title": "Deep Water",
+    "video": false,
+    "vote_average": 5.827,
+    "vote_count": 1459
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rcY15o06DwI8Agt9lh6i5Ruv6QJ.jpg",
+    "genre_ids": [
+      878,
+      12
+    ],
+    "id": 2157,
+    "original_language": "en",
+    "original_title": "Lost in Space",
+    "overview": "The prospects for continuing life on Earth in the year 2058 are grim. So the Robinsons are launched into space to colonize Alpha Prime, the only other inhabitable planet in the galaxy. But when a stowaway sabotages the mission, the Robinsons find themselves hurtling through uncharted space.",
+    "popularity": 12.0169,
+    "poster_path": "/fCocPDUFuKswY2GxDdfYsT9BXMd.jpg",
+    "release_date": "1998-04-03",
+    "title": "Lost in Space",
+    "video": false,
+    "vote_average": 5.4,
+    "vote_count": 1229
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+    "genre_ids": [
+      14,
+      28,
+      35
+    ],
+    "id": 616037,
+    "original_language": "en",
+    "original_title": "Thor: Love and Thunder",
+    "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+    "popularity": 13.6873,
+    "poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+    "release_date": "2022-07-06",
+    "title": "Thor: Love and Thunder",
+    "video": false,
+    "vote_average": 6.417,
+    "vote_count": 7903
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/e3gVl1gnxEFKLTF6pn6KRqUPi9K.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1127166,
+    "original_language": "it",
+    "original_title": "Fabbricante di lacrime",
+    "overview": "Adopted together after a tough childhood in an orphanage, Nica and Rigel realize that unexpected but irresistible feelings pull them together.",
+    "popularity": 12.9827,
+    "poster_path": "/uoBHsxSgfc3PQsSn98RfnbePHOy.jpg",
+    "release_date": "2024-04-03",
+    "title": "The Tearsmith",
+    "video": false,
+    "vote_average": 6.517,
+    "vote_count": 870
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sjcPWJ5TXgFglsoixNxyZRyEUq3.jpg",
+    "genre_ids": [
+      12,
+      28,
+      53
+    ],
+    "id": 956,
+    "original_language": "en",
+    "original_title": "Mission: Impossible III",
+    "overview": "Retired from active duty, and training recruits for the Impossible Mission Force, agent Ethan Hunt faces the toughest foe of his career: Owen Davian, an international broker of arms and information, who's as cunning as he is ruthless. Davian emerges to threaten Hunt and all that he holds dear – including the woman Hunt loves.",
+    "popularity": 14.2976,
+    "poster_path": "/vKGYCpmQyV9uHybWDzXuII8Los5.jpg",
+    "release_date": "2006-04-25",
+    "title": "Mission: Impossible III",
+    "video": false,
+    "vote_average": 6.74,
+    "vote_count": 7032
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1DBDwevWS8OhiT3wqqlW7KGPd6m.jpg",
+    "genre_ids": [
+      53
+    ],
+    "id": 985939,
+    "original_language": "en",
+    "original_title": "Fall",
+    "overview": "For best friends Becky and Hunter, life is all about conquering fears and pushing limits. But after they climb 2,000 feet to the top of a remote, abandoned radio tower, they find themselves stranded with no way down. Now Becky and Hunter’s expert climbing skills will be put to the ultimate test as they desperately fight to survive the elements, a lack of supplies, and vertigo-inducing heights",
+    "popularity": 13.6229,
+    "poster_path": "/v28T5F1IygM8vXWZIycfNEm3xcL.jpg",
+    "release_date": "2022-08-11",
+    "title": "Fall",
+    "video": false,
+    "vote_average": 7.144,
+    "vote_count": 4117
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6RcBQkC2PZJwwbFugqzgvN3moYL.jpg",
+    "genre_ids": [
+      53,
+      28
+    ],
+    "id": 1005331,
+    "original_language": "en",
+    "original_title": "Carry-On",
+    "overview": "An airport security officer races to outsmart a mysterious traveler forcing him to let a dangerous item slip onto a Christmas Eve flight.",
+    "popularity": 13.1886,
+    "poster_path": "/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",
+    "release_date": "2024-12-05",
+    "title": "Carry-On",
+    "video": false,
+    "vote_average": 6.909,
+    "vote_count": 2190
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vIgyYkXkg6NC2whRbYjBD7eb3Er.jpg",
+    "genre_ids": [
+      878,
+      28,
+      12
+    ],
+    "id": 580489,
+    "original_language": "en",
+    "original_title": "Venom: Let There Be Carnage",
+    "overview": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
+    "popularity": 12.8165,
+    "poster_path": "/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
+    "release_date": "2021-09-30",
+    "title": "Venom: Let There Be Carnage",
+    "video": false,
+    "vote_average": 6.774,
+    "vote_count": 10641
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uU1Mt4JWhDvl4vKb3AfxNsorkoM.jpg",
+    "genre_ids": [
+      10751,
+      14,
+      10749
+    ],
+    "id": 321612,
+    "original_language": "en",
+    "original_title": "Beauty and the Beast",
+    "overview": "A live-action adaptation of Disney's version of the classic tale of a cursed prince and a beautiful young woman who helps him break the spell.",
+    "popularity": 13.1054,
+    "poster_path": "/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+    "release_date": "2017-03-16",
+    "title": "Beauty and the Beast",
+    "video": false,
+    "vote_average": 6.972,
+    "vote_count": 15618
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+    "genre_ids": [
+      28,
+      35,
+      18,
+      10749
+    ],
+    "id": 746036,
+    "original_language": "en",
+    "original_title": "The Fall Guy",
+    "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+    "popularity": 12.6078,
+    "poster_path": "/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+    "release_date": "2024-04-24",
+    "title": "The Fall Guy",
+    "video": false,
+    "vote_average": 7.022,
+    "vote_count": 2963
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
     "genre_ids": [
       35,
-      80
+      80,
+      9648
     ],
-    "id": 12153,
+    "id": 546554,
     "original_language": "en",
-    "original_title": "White Chicks",
-    "overview": "Two FBI agent brothers, Marcus and Kevin Copeland, accidentally foil a drug bust. To avoid being fired they accept a mission escorting a pair of socialites to the Hamptons--but when the girls are disfigured in a car accident, they refuse to go. Left without options, Marcus and Kevin decide to pose as the sisters, transforming themselves from black men into rich white women.",
-    "popularity": 13.7489,
-    "poster_path": "/aHTUpo45qy9QYIOnVITGGqLoVcA.jpg",
-    "release_date": "2004-06-23",
-    "title": "White Chicks",
+    "original_title": "Knives Out",
+    "overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+    "popularity": 12.978,
+    "poster_path": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+    "release_date": "2019-11-27",
+    "title": "Knives Out",
     "video": false,
-    "vote_average": 6.929,
-    "vote_count": 4158
+    "vote_average": 7.843,
+    "vote_count": 12832
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg",
+    "genre_ids": [
+      28,
+      35,
+      53
+    ],
+    "id": 718930,
+    "original_language": "en",
+    "original_title": "Bullet Train",
+    "overview": "Unlucky assassin Ladybug is determined to do his job peacefully after one too many gigs gone off the rails. Fate, however, may have other plans, as Ladybug's latest mission puts him on a collision course with lethal adversaries from around the globe—all with connected, yet conflicting, objectives—on the world's fastest train.",
+    "popularity": 13.2112,
+    "poster_path": "/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+    "release_date": "2022-08-03",
+    "title": "Bullet Train",
+    "video": false,
+    "vote_average": 7.439,
+    "vote_count": 6637
   }
 ]

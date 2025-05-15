@@ -1,6 +1,25 @@
 [
   {
     "adult": false,
+    "backdrop_path": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+    "genre_ids": [
+      9648,
+      53
+    ],
+    "id": 77,
+    "original_language": "en",
+    "original_title": "Memento",
+    "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+    "popularity": 11.1026,
+    "poster_path": "/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+    "release_date": "2000-10-11",
+    "title": "Memento",
+    "video": false,
+    "vote_average": 8.179,
+    "vote_count": 15272
+  },
+  {
+    "adult": false,
     "backdrop_path": "/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
     "genre_ids": [
       28,
@@ -12,93 +31,33 @@
     "original_language": "en",
     "original_title": "Braveheart",
     "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
-    "popularity": 11.0638,
+    "popularity": 11.0976,
     "poster_path": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
     "release_date": "1995-05-24",
     "title": "Braveheart",
     "video": false,
     "vote_average": 7.944,
-    "vote_count": 10400
+    "vote_count": 10401
   },
   {
     "adult": false,
-    "backdrop_path": "/2Y7nbXrDtHwAfcTX7KBN0z40OAy.jpg",
+    "backdrop_path": "/sGOw65ZmfgGfistCjuNsazjs6j9.jpg",
     "genre_ids": [
-      12,
-      28
+      37,
+      18,
+      12
     ],
-    "id": 89,
+    "id": 281957,
     "original_language": "en",
-    "original_title": "Indiana Jones and the Last Crusade",
-    "overview": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
-    "popularity": 11.0557,
-    "poster_path": "/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
-    "release_date": "1989-05-24",
-    "title": "Indiana Jones and the Last Crusade",
+    "original_title": "The Revenant",
+    "overview": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+    "popularity": 11.0886,
+    "poster_path": "/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+    "release_date": "2015-12-25",
+    "title": "The Revenant",
     "video": false,
-    "vote_average": 7.847,
-    "vote_count": 10411
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
-    "genre_ids": [
-      28,
-      53,
-      878
-    ],
-    "id": 679,
-    "original_language": "en",
-    "original_title": "Aliens",
-    "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
-    "popularity": 11.0471,
-    "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
-    "release_date": "1986-07-18",
-    "title": "Aliens",
-    "video": false,
-    "vote_average": 8.0,
-    "vote_count": 10094
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rRcNmiH55Tz0ugUsDUGmj8Bsa4V.jpg",
-    "genre_ids": [
-      35,
-      10749
-    ],
-    "id": 884605,
-    "original_language": "en",
-    "original_title": "No Hard Feelings",
-    "overview": "On the brink of losing her childhood home, Maddie discovers an intriguing job listing: wealthy helicopter parents looking for someone to “date” their introverted 19-year-old son, Percy, before he leaves for college. To her surprise, Maddie soon discovers the awkward Percy is no sure thing.",
-    "popularity": 11.0396,
-    "poster_path": "/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg",
-    "release_date": "2023-06-15",
-    "title": "No Hard Feelings",
-    "video": false,
-    "vote_average": 6.739,
-    "vote_count": 3338
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/qSNz1G1Ts8fFw6v4Vae4aMAjcY7.jpg",
-    "genre_ids": [
-      14,
-      12,
-      16,
-      35,
-      10751
-    ],
-    "id": 810,
-    "original_language": "en",
-    "original_title": "Shrek the Third",
-    "overview": "The King of Far Far Away has died and Shrek and Fiona are to become King & Queen. However, Shrek wants to return to his cozy swamp and live in peace and quiet, so when he finds out there is another heir to the throne, they set off to bring him back to rule the kingdom.",
-    "popularity": 11.0299,
-    "poster_path": "/n4SexGGQzI26E269tfpa80MZaGV.jpg",
-    "release_date": "2007-05-17",
-    "title": "Shrek the Third",
-    "video": false,
-    "vote_average": 6.297,
-    "vote_count": 9246
+    "vote_average": 7.5,
+    "vote_count": 18428
   },
   {
     "adult": false,
@@ -110,7 +69,7 @@
     "original_language": "ko",
     "original_title": "내 친구의 아내",
     "overview": "I want to spend all night with my friend's wife who is extremely sexy. Jeong-woo is a husband who can't get an erection while his marriage is going down the drain.  A friend and his wife from the States suggest a couples trip and Jeong-woo meets his friend's wife Hye-sook who is extremely sexy. His 'package' keeps getting stimlated every time he sees her. He tries to ignore it but every time he sees her, he gets sexual fantasies. Finally, he suggests to his friend, to 'switch' partners...",
-    "popularity": 11.0254,
+    "popularity": 11.0811,
     "poster_path": "/6BZKRq3bvTOuG4G01H1jcE0F5TG.jpg",
     "release_date": "2015-12-03",
     "title": "My Friend's Wife",
@@ -120,283 +79,81 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/hjm1i9ZyueTaw7xCcpJmjKpb8Sv.jpg",
+    "backdrop_path": "/bgfqWW9mLs24hXuqiIcxU1j7Fgd.jpg",
     "genre_ids": [
-      16,
-      36,
-      28,
-      18,
-      14,
-      10749
+      18
     ],
-    "id": 483456,
-    "original_language": "ja",
-    "original_title": "PEACE MAKER 鐵 前篇 想道~オモウミチ~",
-    "overview": "Although traumatized by witnessing the murder of his parents by one of the Choushuu, Ichimura Tetsunosuke's thirst for revenge leads him to desire strength. At the age of 15, Tetsunosuke approached the Shinsengumi, wanting to become one of its members. However, Tetsunosuke lacked the skill, mind, and will to emotionlessly cut down whoever threatened peace and the Shinsengumi. Even with the support of his brother Tatsunosuke and his newfound friends of the Shinsengumi, little did Tetsunosuke know the blood and pain he would have to face being part of this historical group.",
-    "popularity": 10.9589,
-    "poster_path": "/wbyIM5s7ZgwOmXycjBttBhhXtTq.jpg",
-    "release_date": "2018-06-02",
-    "title": "Peacemaker Kurogane: Belief",
-    "video": false,
-    "vote_average": 5.125,
-    "vote_count": 4
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gTRXgigmgKpeJjW07iq686HZyBD.jpg",
-    "genre_ids": [
-      28,
-      16,
-      878
-    ],
-    "id": 9323,
-    "original_language": "ja",
-    "original_title": "GHOST IN THE SHELL",
-    "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
-    "popularity": 10.9585,
-    "poster_path": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
-    "release_date": "1995-11-18",
-    "title": "Ghost in the Shell",
-    "video": false,
-    "vote_average": 7.9,
-    "vote_count": 3516
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/deLWkOLZmBNkm8p16igfapQyqeq.jpg",
-    "genre_ids": [
-      14,
-      28,
-      12
-    ],
-    "id": 763215,
+    "id": 784524,
     "original_language": "en",
-    "original_title": "Damsel",
-    "overview": "A young woman's marriage to a charming prince turns into a fierce fight for survival when she's offered up as a sacrifice to a fire-breathing dragon.",
-    "popularity": 10.9573,
-    "poster_path": "/290Lsuy4GJF3VEVqMbJqHs7xFdv.jpg",
-    "release_date": "2024-03-07",
-    "title": "Damsel",
+    "original_title": "Magazine Dreams",
+    "overview": "Aspiring bodybuilder Killian Maddox struggles to find human connection in this exploration of celebrity and violence. Nothing deters him from his fiercely protected dream of superstardom, not even the doctors who warn him of the permanent damage he causes to himself with his quest.",
+    "popularity": 11.0287,
+    "poster_path": "/vSidx9NHKuQIPEQ4yI9b9zkTeh3.jpg",
+    "release_date": "2025-03-21",
+    "title": "Magazine Dreams",
     "video": false,
-    "vote_average": 7.022,
-    "vote_count": 2424
+    "vote_average": 6.458,
+    "vote_count": 24
   },
   {
     "adult": false,
-    "backdrop_path": "/5U3VLeWr2H4Nd3G7IkHItFimsIz.jpg",
+    "backdrop_path": "/mFt3dvxKugYPgUQgV16M6K2nEtc.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 8363,
+    "original_language": "en",
+    "original_title": "Superbad",
+    "overview": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+    "popularity": 11.0287,
+    "poster_path": "/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+    "release_date": "2007-08-17",
+    "title": "Superbad",
+    "video": false,
+    "vote_average": 7.256,
+    "vote_count": 7523
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/75nSb1fbWooipwcSU5bUttiOriI.jpg",
+    "genre_ids": [
+      16,
+      12,
+      14,
+      10751,
+      18
+    ],
+    "id": 508883,
+    "original_language": "ja",
+    "original_title": "君たちはどう生きるか",
+    "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother. As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
+    "popularity": 10.9887,
+    "poster_path": "/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
+    "release_date": "2023-07-14",
+    "title": "The Boy and the Heron",
+    "video": false,
+    "vote_average": 7.447,
+    "vote_count": 2169
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zgQQF04u3OgNBJqClRNby1FPz9s.jpg",
     "genre_ids": [
       10751,
       35,
       12,
-      16,
-      878
+      16
     ],
-    "id": 870360,
+    "id": 893723,
     "original_language": "en",
-    "original_title": "The Day the Earth Blew Up: A Looney Tunes Movie",
-    "overview": "Porky and Daffy, the classic animated odd couple, turn into unlikely heroes when their antics at the local bubble gum factory uncover a secret alien mind control plot. Against all odds, the two are determined to save their town (and the world!)...that is if they don't drive each other crazy in the process.",
-    "popularity": 10.955,
-    "poster_path": "/s2lB1kaYCdGSnZX5meQCiOR6HfX.jpg",
-    "release_date": "2024-08-01",
-    "title": "The Day the Earth Blew Up: A Looney Tunes Movie",
+    "original_title": "PAW Patrol: The Mighty Movie",
+    "overview": "A magical meteor crash lands in Adventure City and gives the PAW Patrol pups superpowers, transforming them into The Mighty Pups.",
+    "popularity": 10.9761,
+    "poster_path": "/aTvePCU7exLepwg5hWySjwxojQK.jpg",
+    "release_date": "2023-09-21",
+    "title": "PAW Patrol: The Mighty Movie",
     "video": false,
-    "vote_average": 7.5,
-    "vote_count": 76
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8yPSYhooj8nyBbmV3GVdLDwuE7e.jpg",
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "id": 1079091,
-    "original_language": "en",
-    "original_title": "It Ends with Us",
-    "overview": "When a woman's first love suddenly reenters her life, her relationship with a charming, but abusive neurosurgeon is upended, and she realizes she must learn to rely on her own strength to make an impossible choice for her future.",
-    "popularity": 10.9548,
-    "poster_path": "/cSMdFWmajaX4oUMLx7HEDI84GkP.jpg",
-    "release_date": "2024-08-07",
-    "title": "It Ends with Us",
-    "video": false,
-    "vote_average": 7.03,
-    "vote_count": 1603
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/6O1mOoTXuc1WqjKd2R7MFQHZ7Eb.jpg",
-    "genre_ids": [
-      14,
-      16,
-      10751
-    ],
-    "id": 8392,
-    "original_language": "ja",
-    "original_title": "となりのトトロ",
-    "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
-    "popularity": 10.9469,
-    "poster_path": "/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
-    "release_date": "1988-04-16",
-    "title": "My Neighbor Totoro",
-    "video": false,
-    "vote_average": 8.071,
-    "vote_count": 8228
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jgrImRKhsRXaa6wlSsQPnFRUQbH.jpg",
-    "genre_ids": [
-      99
-    ],
-    "id": 1412113,
-    "original_language": "ko",
-    "original_title": "오징어 게임: 시즌2 제작 이야기",
-    "overview": "From set designs to character arcs, get exclusive cast and director interviews on how Season 2 of the globally most-watched series was brought to life.",
-    "popularity": 10.9295,
-    "poster_path": "/yQGaui0bQ5Ai3KIFBB45nTeIqad.jpg",
-    "release_date": "2025-01-02",
-    "title": "Squid Game: Making Season 2",
-    "video": false,
-    "vote_average": 8.5,
-    "vote_count": 402
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/g1LcYjBXzjqNrGXYTRll1jNRTfb.jpg",
-    "genre_ids": [
-      10751,
-      14,
-      35
-    ],
-    "id": 25694,
-    "original_language": "en",
-    "original_title": "Alice in Wonderland",
-    "overview": "In Victorian England, a bored young girl dreams that she has entered a fantasy world called Wonderland, populated by even more fantastic characters.",
-    "popularity": 10.9217,
-    "poster_path": "/k4hlsqfhEtTrEtiDE647qxTR6PI.jpg",
-    "release_date": "1933-12-18",
-    "title": "Alice in Wonderland",
-    "video": false,
-    "vote_average": 5.983,
-    "vote_count": 59
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/wx1LgDuWHZGGWxS9Jbg7R4J2BrS.jpg",
-    "genre_ids": [
-      80,
-      53
-    ],
-    "id": 220882,
-    "original_language": "en",
-    "original_title": "London Fields",
-    "overview": "Clairvoyant femme fatale, Nicola Six has been living with a dark premonition of her impending death by murder. She begins a tangled love affair with three uniquely different men — one of whom she knows will be her murderer.",
-    "popularity": 10.9144,
-    "poster_path": "/7OfQVm5GexlAREp8FoR4ILxp35T.jpg",
-    "release_date": "2018-09-20",
-    "title": "London Fields",
-    "video": false,
-    "vote_average": 5.1,
-    "vote_count": 271
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/Eeuq1qmv8UEsd4sX6BSrGNYR19.jpg",
-    "genre_ids": [
-      53,
-      28,
-      80
-    ],
-    "id": 1001274,
-    "original_language": "fr",
-    "original_title": "La Nuit se traîne",
-    "overview": "Mady, a student, works as a locksmith by night. He helps Claire get into her apartment and soon realizes that she lied to him about her identity and robbed something that belonged to a dangerous man, Yannick. Mady gets embroiled in a manhunt and will have one night to prove his innocence.",
-    "popularity": 10.9005,
-    "poster_path": "/5NYSdTdM1A4WKDmxwoph7PSFunv.jpg",
-    "release_date": "2024-08-28",
-    "title": "Night Call",
-    "video": false,
-    "vote_average": 6.766,
-    "vote_count": 92
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ifUfE79O1raUwbaQRIB7XnFz5ZC.jpg",
-    "genre_ids": [
-      27,
-      9648
-    ],
-    "id": 646385,
-    "original_language": "en",
-    "original_title": "Scream",
-    "overview": "Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town’s deadly past.",
-    "popularity": 10.8999,
-    "poster_path": "/1m3W6cpgwuIyjtg5nSnPx7yFkXW.jpg",
-    "release_date": "2022-01-12",
-    "title": "Scream",
-    "video": false,
-    "vote_average": 6.669,
-    "vote_count": 3458
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3pKIcv6KhUE35jsKnv3MylQ3OT2.jpg",
-    "genre_ids": [
-      80,
-      28,
-      878
-    ],
-    "id": 198184,
-    "original_language": "en",
-    "original_title": "Chappie",
-    "overview": "Every child comes into the world full of promise, and none more so than Chappie: he is gifted, special, a prodigy. Like any child, Chappie will come under the influence of his surroundings—some good, some bad—and he will rely on his heart and soul to find his way in the world and become his own man. But there's one thing that makes Chappie different from any one else: he is a robot.",
-    "popularity": 10.8955,
-    "poster_path": "/uuDUpzlMFomdSfNWlpEPS9nVZWV.jpg",
-    "release_date": "2015-03-04",
-    "title": "Chappie",
-    "video": false,
-    "vote_average": 6.788,
-    "vote_count": 8065
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/h9YlRHAZWOWtGonllmj6JJg1FrE.jpg",
-    "genre_ids": [
-      16,
-      10751,
-      28,
-      12,
-      14
-    ],
-    "id": 588648,
-    "original_language": "zh",
-    "original_title": "Dragonkeeper",
-    "overview": "Set in Han Imperial China, the plot follows the adventures of enslaved girl Ping with ancient dragon Long Danzi. Dragons had been banished from the kingdom. Ping, an orphan, finds one of the last remaining dragon eggs. Palace guards force Ping to run away in order to return the dragon egg to the ocean and save all dragons from extinction. Ping discovers that she is a true Dragonkeeper.",
-    "popularity": 10.8938,
-    "poster_path": "/ggZGnJLzO3BTu7ysuuIzou3Oex5.jpg",
-    "release_date": "2024-04-11",
-    "title": "Dragonkeeper",
-    "video": false,
-    "vote_average": 7.678,
-    "vote_count": 185
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mn4I0iqm9PReYY05pxY5PGdnGO3.jpg",
-    "genre_ids": [
-      10749,
-      35
-    ],
-    "id": 1462199,
-    "original_language": "en",
-    "original_title": "How to Tame a Silver Fox",
-    "overview": "Harper Reeves is just trying to finish up her senior year of Yale without being a completely friendless loser. However, when her party's suddenly crashed by her dad's best friend and mysterious business partner, Chris Collins, she realizes she'd much rather have been busted by the cops. Chris, always in over-protective mode, gets on Harper's nerves, until she realizes he needs to go. Together with her best friend Maria, she brainstorms Operation Seduction, planning to get Chris to fall in love with her so her dad will kick him out himself. But every time Chris saves Harper from trouble, she gets closer to realizing she may have feelings for him after all.",
-    "popularity": 10.883,
-    "poster_path": "/xs5ajCIA4ElplR1Om9dyNKSQXWr.jpg",
-    "release_date": "2025-04-07",
-    "title": "How to Tame a Silver Fox",
-    "video": false,
-    "vote_average": 6.6,
-    "vote_count": 4
+    "vote_average": 7.068,
+    "vote_count": 486
   }
 ]

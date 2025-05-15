@@ -1,400 +1,179 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/ig7qUy7drkEFZNCK7gi0hMn1WMN.jpg",
-    "genre_ids": [
-      28,
-      878,
-      12
-    ],
-    "id": 68726,
-    "original_language": "en",
-    "original_title": "Pacific Rim",
-    "overview": "Using massive piloted robots to combat the alien threat, earth's survivors take the fight to the invading alien force lurking in the depths of the Pacific Ocean. Nearly defenseless in the face of the relentless enemy, the forces of mankind have no choice but to turn to two unlikely heroes who now stand as earth's final hope against the mounting apocalypse.",
-    "popularity": 13.4055,
-    "poster_path": "/mmznhaQDwlHWpUwKuNxtQiubbmM.jpg",
-    "release_date": "2013-07-11",
-    "title": "Pacific Rim",
-    "video": false,
-    "vote_average": 6.909,
-    "vote_count": 12682
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cq9N64ucEtfIc3eMxNr1VzY9LH9.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 37799,
-    "original_language": "en",
-    "original_title": "The Social Network",
-    "overview": "In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.",
-    "popularity": 13.4028,
-    "poster_path": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
-    "release_date": "2010-10-01",
-    "title": "The Social Network",
-    "video": false,
-    "vote_average": 7.37,
-    "vote_count": 12418
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rRIz3KweJDjnJ4GtCZJT3JPEYgL.jpg",
-    "genre_ids": [
-      28,
-      12
-    ],
-    "id": 1411773,
-    "original_language": "en",
-    "original_title": "The Last Stand of Ellen Cole",
-    "overview": "When an evil contractor goes to extreme measures to evict a testy tenant who is standing in the way of his new project, he fails to take into account that this seemingly harmless old woman is a trained killer and will do anything to protect her beloved home.",
-    "popularity": 13.3981,
-    "poster_path": "/oq1pGVQ2t3Cy4v7sA4LRhNjtZuJ.jpg",
-    "release_date": "2024-10-18",
-    "title": "The Last Stand of Ellen Cole",
-    "video": false,
-    "vote_average": 6.6,
-    "vote_count": 4
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/iQcCAm8hKWZyUntqrvzyEGtXyJl.jpg",
+    "backdrop_path": "/zh6IdheEYinU4TPtorWsjx6qPQE.jpg",
     "genre_ids": [
       878,
+      10749,
+      35
+    ],
+    "id": 792307,
+    "original_language": "en",
+    "original_title": "Poor Things",
+    "overview": "Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+    "popularity": 13.5255,
+    "poster_path": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+    "release_date": "2023-12-07",
+    "title": "Poor Things",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 4722
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ozVwXlfxqNsariipatGwa5px3Pm.jpg",
+    "genre_ids": [
       28,
-      12
-    ],
-    "id": 670292,
-    "original_language": "en",
-    "original_title": "The Creator",
-    "overview": "Amid a future war between the human race and the forces of artificial intelligence, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war—and mankind itself.",
-    "popularity": 13.3846,
-    "poster_path": "/3dSivDtOuyxLDxPH4v2tcNG1fP7.jpg",
-    "release_date": "2023-09-27",
-    "title": "The Creator",
-    "video": false,
-    "vote_average": 7.056,
-    "vote_count": 3331
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ocOWbTzHcJVTw9Tz173KPeskDOP.jpg",
-    "genre_ids": [
-      10751,
-      14,
-      12
-    ],
-    "id": 12155,
-    "original_language": "en",
-    "original_title": "Alice in Wonderland",
-    "overview": "Alice, now 19 years old, returns to the whimsical world she first entered as a child and embarks on a journey to discover her true destiny.",
-    "popularity": 13.3818,
-    "poster_path": "/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg",
-    "release_date": "2010-03-03",
-    "title": "Alice in Wonderland",
-    "video": false,
-    "vote_average": 6.635,
-    "vote_count": 14224
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bizhlTVjifYQUu4Xrdt7m3TYr7d.jpg",
-    "genre_ids": [
-      27,
-      80
-    ],
-    "id": 1226578,
-    "original_language": "en",
-    "original_title": "Longlegs",
-    "overview": "FBI Agent Lee Harker is a gifted new recruit assigned to the unsolved case of an elusive serial killer. As the case takes complex turns, unearthing evidence of the occult, Harker discovers a personal connection to the merciless killer and must race against time to stop him before he claims the lives of another innocent family.",
-    "popularity": 13.3524,
-    "poster_path": "/1EwNyiiNFd863H4e8nWEzutnZD7.jpg",
-    "release_date": "2024-07-10",
-    "title": "Longlegs",
-    "video": false,
-    "vote_average": 6.563,
-    "vote_count": 2026
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1LSMstNHwJnJD7tpnb8gZcgGNQR.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "id": 1164355,
-    "original_language": "id",
-    "original_title": "Lembayung",
-    "overview": "Arum and Pica, who wanted to complete their internship at Lembayung hospital, had to face mysterious terror from a woman satan who was suspected of hanged herself in the bathroom. The situation became even more tense after they asked others for help to the point where they threatened their own lives and those closest to them.",
-    "popularity": 13.3468,
-    "poster_path": "/5x9LrW0yvtt6S3XovIQHgXfYvLL.jpg",
-    "release_date": "2024-09-19",
-    "title": "Lembayung",
-    "video": false,
-    "vote_average": 6.833,
-    "vote_count": 9
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/utghtkDDOhwEDS7r9hhRhn7Wneg.jpg",
-    "genre_ids": [
-      53,
       878
     ],
-    "id": 220289,
+    "id": 240832,
     "original_language": "en",
-    "original_title": "Coherence",
-    "overview": "Four couples gather for dinner the night a mysterious and powerful comet passes overhead.",
-    "popularity": 13.3413,
-    "poster_path": "/ezUtb9m5DeLwL2gxi4gktzNCvQv.jpg",
-    "release_date": "2013-09-19",
-    "title": "Coherence",
+    "original_title": "Lucy",
+    "overview": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",
+    "popularity": 13.5028,
+    "poster_path": "/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg",
+    "release_date": "2014-07-25",
+    "title": "Lucy",
     "video": false,
-    "vote_average": 7.234,
-    "vote_count": 3042
+    "vote_average": 6.462,
+    "vote_count": 16309
   },
   {
     "adult": false,
-    "backdrop_path": "/d1RHScaZc7I8j0lDke1c4AxI435.jpg",
+    "backdrop_path": "/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
+    "genre_ids": [
+      12,
+      14,
+      28
+    ],
+    "id": 10195,
+    "original_language": "en",
+    "original_title": "Thor",
+    "overview": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.",
+    "popularity": 13.4588,
+    "poster_path": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+    "release_date": "2011-04-21",
+    "title": "Thor",
+    "video": false,
+    "vote_average": 6.769,
+    "vote_count": 21488
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zvOJawrnmgK0sL293mOXOdLvTXQ.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 398818,
+    "original_language": "en",
+    "original_title": "Call Me by Your Name",
+    "overview": "In 1980s Italy, a relationship begins between seventeen-year-old teenage Elio and the older adult man hired as his father's research assistant.",
+    "popularity": 13.426,
+    "poster_path": "/gXiE0WveDnT0n5J4sW9TMxXF4oT.jpg",
+    "release_date": "2017-07-28",
+    "title": "Call Me by Your Name",
+    "video": false,
+    "vote_average": 8.117,
+    "vote_count": 12300
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yCnJT53HMXAK87xzPAdjdYhZ3JE.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      878
+    ],
+    "id": 1124,
+    "original_language": "en",
+    "original_title": "The Prestige",
+    "overview": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+    "popularity": 13.4047,
+    "poster_path": "/bdN3gXuIZYaJP7ftKK2sU0nPtEA.jpg",
+    "release_date": "2006-10-17",
+    "title": "The Prestige",
+    "video": false,
+    "vote_average": 8.203,
+    "vote_count": 16503
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
     "genre_ids": [
       28,
       12,
-      16,
-      10751,
-      35
+      878
     ],
-    "id": 9502,
+    "id": 436270,
     "original_language": "en",
-    "original_title": "Kung Fu Panda",
-    "overview": "When the Valley of Peace is threatened, lazy Po the panda discovers his destiny as the \"chosen one\" and trains to become a kung fu hero, but transforming the unsleek slacker into a brave warrior won't be easy. It's up to Master Shifu and the Furious Five -- Tigress, Crane, Mantis, Viper and Monkey -- to give it a try.",
-    "popularity": 13.3383,
-    "poster_path": "/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
-    "release_date": "2008-06-04",
-    "title": "Kung Fu Panda",
+    "original_title": "Black Adam",
+    "overview": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+    "popularity": 13.348,
+    "poster_path": "/rCtreCr4xiYEWDQTebybolIh6Xe.jpg",
+    "release_date": "2022-10-19",
+    "title": "Black Adam",
     "video": false,
-    "vote_average": 7.3,
-    "vote_count": 11903
+    "vote_average": 6.865,
+    "vote_count": 6541
   },
   {
     "adult": false,
-    "backdrop_path": "/43BEez1EGdmNpg8rcPUFToujlii.jpg",
+    "backdrop_path": "/pulJ1iY7GVeppMRipiR7ZGDW7EW.jpg",
     "genre_ids": [
+      18
+    ],
+    "id": 615,
+    "original_language": "en",
+    "original_title": "The Passion of the Christ",
+    "overview": "A graphic portrayal of the last twelve hours of Jesus of Nazareth's life.",
+    "popularity": 13.3405,
+    "poster_path": "/v9f9MMrq2nGQrN7cHnQRmEq9lSE.jpg",
+    "release_date": "2004-02-25",
+    "title": "The Passion of the Christ",
+    "video": false,
+    "vote_average": 7.523,
+    "vote_count": 4842
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ztiFxuG0gC6wQ8y7JZFYbCQyN4Y.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      10402,
+      35
+    ],
+    "id": 438695,
+    "original_language": "en",
+    "original_title": "Sing 2",
+    "overview": "Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.",
+    "popularity": 13.3171,
+    "poster_path": "/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
+    "release_date": "2021-12-01",
+    "title": "Sing 2",
+    "video": false,
+    "vote_average": 7.849,
+    "vote_count": 4516
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cHkhb5A4gQRK6zs6Pv7zorHs8Nk.jpg",
+    "genre_ids": [
+      28,
       53,
       80
     ],
-    "id": 161,
+    "id": 168259,
     "original_language": "en",
-    "original_title": "Ocean's Eleven",
-    "overview": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
-    "popularity": 13.3376,
-    "poster_path": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
-    "release_date": "2001-12-07",
-    "title": "Ocean's Eleven",
+    "original_title": "Furious 7",
+    "overview": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
+    "popularity": 13.2813,
+    "poster_path": "/wurKlC3VKUgcfsn0K51MJYEleS2.jpg",
+    "release_date": "2015-04-01",
+    "title": "Furious 7",
     "video": false,
-    "vote_average": 7.447,
-    "vote_count": 11852
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
-    "genre_ids": [
-      18,
-      36
-    ],
-    "id": 490132,
-    "original_language": "en",
-    "original_title": "Green Book",
-    "overview": "Tony Lip, a bouncer in 1962, is hired to drive pianist Don Shirley on a tour through the Deep South in the days when African Americans, forced to find alternate accommodations and services due to segregation laws below the Mason-Dixon Line, relied on a guide called The Negro Motorist Green Book.",
-    "popularity": 13.3089,
-    "poster_path": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
-    "release_date": "2018-11-16",
-    "title": "Green Book",
-    "video": false,
-    "vote_average": 8.231,
-    "vote_count": 11993
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg",
-    "genre_ids": [
-      80,
-      36,
-      18
-    ],
-    "id": 466420,
-    "original_language": "en",
-    "original_title": "Killers of the Flower Moon",
-    "overview": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery.",
-    "popularity": 13.2885,
-    "poster_path": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
-    "release_date": "2023-10-18",
-    "title": "Killers of the Flower Moon",
-    "video": false,
-    "vote_average": 7.428,
-    "vote_count": 3607
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/u5JKxjMuKk0dVXqmS4e4gHo8pfg.jpg",
-    "genre_ids": [
-      878,
-      53
-    ],
-    "id": 206487,
-    "original_language": "en",
-    "original_title": "Predestination",
-    "overview": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
-    "popularity": 13.2441,
-    "poster_path": "/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
-    "release_date": "2014-08-28",
-    "title": "Predestination",
-    "video": false,
-    "vote_average": 7.424,
-    "vote_count": 6622
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3SszodoxSiJRQVoFg9IRjrMcSuJ.jpg",
-    "genre_ids": [
-      16,
-      12,
-      35,
-      10751,
-      28,
-      14
-    ],
-    "id": 62177,
-    "original_language": "en",
-    "original_title": "Brave",
-    "overview": "Brave is set in the mystical Scottish Highlands, where Mérida is the princess of a kingdom ruled by King Fergus and Queen Elinor. An unruly daughter and an accomplished archer, Mérida one day defies a sacred custom of the land and inadvertently brings turmoil to the kingdom. In an attempt to set things right, Mérida seeks out an eccentric old Wise Woman and is granted an ill-fated wish. Also figuring into Mérida’s quest — and serving as comic relief — are the kingdom’s three lords: the enormous Lord MacGuffin, the surly Lord Macintosh, and the disagreeable Lord Dingwall.",
-    "popularity": 13.2417,
-    "poster_path": "/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg",
-    "release_date": "2012-06-21",
-    "title": "Brave",
-    "video": false,
-    "vote_average": 7.02,
-    "vote_count": 13586
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rFY9V4Dhq7lbIu6LlpzbL9u2K2E.jpg",
-    "genre_ids": [
-      35
-    ],
-    "id": 257211,
-    "original_language": "en",
-    "original_title": "The Intern",
-    "overview": "70-year-old widower Ben Whittaker has discovered that retirement isn't all it's cracked up to be. Seizing an opportunity to get back in the game, he becomes a senior intern at an online fashion site, founded and run by Jules Ostin.",
-    "popularity": 13.2201,
-    "poster_path": "/9UoAC9tu8kIyRy8AcJnGhnH0gOH.jpg",
-    "release_date": "2015-09-23",
-    "title": "The Intern",
-    "video": false,
-    "vote_average": 7.222,
-    "vote_count": 6861
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/aIGIYJTyOkEVUmEd3z5x6diYsFx.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878,
-      53
-    ],
-    "id": 135397,
-    "original_language": "en",
-    "original_title": "Jurassic World",
-    "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
-    "popularity": 13.1923,
-    "poster_path": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
-    "release_date": "2015-06-06",
-    "title": "Jurassic World",
-    "video": false,
-    "vote_average": 6.695,
-    "vote_count": 20678
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3FVe3OAdgz060JaxIAaUl5lo6cx.jpg",
-    "genre_ids": [
-      16,
-      28,
-      14,
-      53
-    ],
-    "id": 635302,
-    "original_language": "ja",
-    "original_title": "劇場版「鬼滅の刃」無限列車編",
-    "overview": "Tanjiro Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar's head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyojuro Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!",
-    "popularity": 13.1807,
-    "poster_path": "/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
-    "release_date": "2020-10-16",
-    "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-    "video": false,
-    "vote_average": 8.212,
-    "vote_count": 4082
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
-    "genre_ids": [
-      878,
-      28,
-      12
-    ],
-    "id": 524434,
-    "original_language": "en",
-    "original_title": "Eternals",
-    "overview": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.",
-    "popularity": 13.1232,
-    "poster_path": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
-    "release_date": "2021-11-03",
-    "title": "Eternals",
-    "video": false,
-    "vote_average": 6.82,
-    "vote_count": 8539
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/hU1Q9YVzdYhokr8a9gLywnSUMlN.jpg",
-    "genre_ids": [
-      16,
-      12,
-      28,
-      14,
-      10751
-    ],
-    "id": 1147400,
-    "original_language": "fr",
-    "original_title": "Miraculous World : Paris, Les Aventures de Toxinelle et Griffe Noire",
-    "overview": "Miraculous holders from another world appear in Paris. They come from a parallel universe where everything is reversed: the holders of Ladybug and Black Cat Miraculouses, Shadybug and Claw Noir, are the bad guys, and the holder of the Butterfly Miraculous, Hesperia, is a superhero. Ladybug and Cat Noir will have to help Hesperia counter the attacks of their evil doubles and prevent them from seizing the Butterfly's Miraculous. Can our heroes also help Hesperia make Shadybug and Claw Noir better people?",
-    "popularity": 13.096,
-    "poster_path": "/nydROKumZe9oFZNiSn792MDDA1v.jpg",
-    "release_date": "2023-10-21",
-    "title": "Miraculous World: Paris, Tales of Shadybug and Claw Noir",
-    "video": false,
-    "vote_average": 7.221,
-    "vote_count": 597
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/pbmlCNeOwvCqum8yvMERbgnrSr7.jpg",
-    "genre_ids": [
-      80,
-      53,
-      28
-    ],
-    "id": 413846,
-    "original_language": "en",
-    "original_title": "1992",
-    "overview": "In 1992, Mercer is desperately trying to rebuild his life and his relationship with his son amidst the turbulent Los Angeles uprising following the Rodney King verdict. Across town, another father and son put their own strained relationship to the test as they plot a dangerous heist to steal catalytic converters, which contain valuable platinum from the factory where Mercer works. As tensions rise and chaos erupts, both families reach their boiling points when their worlds collide.",
-    "popularity": 13.0904,
-    "poster_path": "/tPvFmQZM5HMspryyYbrtW02NR0G.jpg",
-    "release_date": "2024-08-29",
-    "title": "1992",
-    "video": false,
-    "vote_average": 6.8,
-    "vote_count": 127
+    "vote_average": 7.2,
+    "vote_count": 10796
   }
 ]

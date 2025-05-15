@@ -1,394 +1,43 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/sOJqNAx4RFrCRn8HS99LEc8aenI.jpg",
-    "genre_ids": [
-      18,
-      10749,
-      36
-    ],
-    "id": 331482,
-    "original_language": "en",
-    "original_title": "Little Women",
-    "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
-    "popularity": 11.9202,
-    "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
-    "release_date": "2019-12-25",
-    "title": "Little Women",
-    "video": false,
-    "vote_average": 7.9,
-    "vote_count": 6438
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/dx8wpD04sWu8g9oDi9j0Vi1ocqQ.jpg",
-    "genre_ids": [
-      14,
-      27
-    ],
-    "id": 1140847,
-    "original_language": "en",
-    "original_title": "Cinderella's Revenge",
-    "overview": "Cinderella finds freedom from her wicked stepmother with the help of her fairy godmother. Only this time, they unleash a plan of bloody vengeance.",
-    "popularity": 11.9132,
-    "poster_path": "/cYB3SHhITJSbRoisgn9QQTP8YkZ.jpg",
-    "release_date": "2024-04-26",
-    "title": "Cinderella's Revenge",
-    "video": false,
-    "vote_average": 5.621,
-    "vote_count": 33
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/wP0NGOGf2PG4lHXHWEqFW0kBOye.jpg",
-    "genre_ids": [
-      10402,
-      18
-    ],
-    "id": 799766,
-    "original_language": "en",
-    "original_title": "Better Man",
-    "overview": "Follow Robbie Williams' journey from childhood, to being the youngest member of chart-topping boyband Take That, through to his unparalleled achievements as a record-breaking solo artist – all the while confronting the challenges that stratospheric fame and success can bring.",
-    "popularity": 11.9068,
-    "poster_path": "/fbGCmMp0HlYnAPv28GOENPShezM.jpg",
-    "release_date": "2024-12-06",
-    "title": "Better Man",
-    "video": false,
-    "vote_average": 7.8,
-    "vote_count": 487
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4PPC7fKClu0u7NTbo5xgV4vb5VD.jpg",
-    "genre_ids": [
-      80,
-      27,
-      9648
-    ],
-    "id": 4232,
-    "original_language": "en",
-    "original_title": "Scream",
-    "overview": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
-    "popularity": 11.898,
-    "poster_path": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
-    "release_date": "1996-12-20",
-    "title": "Scream",
-    "video": false,
-    "vote_average": 7.413,
-    "vote_count": 7276
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/qr7dUqleMRd0VgollazbmyP9XjI.jpg",
-    "genre_ids": [
-      878,
-      18,
-      53
-    ],
-    "id": 78,
-    "original_language": "en",
-    "original_title": "Blade Runner",
-    "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
-    "popularity": 11.8914,
-    "poster_path": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
-    "release_date": "1982-06-25",
-    "title": "Blade Runner",
-    "video": false,
-    "vote_average": 7.939,
-    "vote_count": 14123
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xqO4sV74bfXpk4Yh5K9Yqa11Jcj.jpg",
+    "backdrop_path": "/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
     "genre_ids": [
       10749,
-      18,
-      878
-    ],
-    "id": 1167366,
-    "original_language": "th",
-    "original_title": "ยูเรนัส 2324",
-    "overview": "Bonded in their youth and separated by tragedy, an astronaut and a free diver bend the laws of space and time in their efforts to be together again.",
-    "popularity": 11.8895,
-    "poster_path": "/zTD9HytRG1nfP5pdOAYmPyXj05d.jpg",
-    "release_date": "2024-07-04",
-    "title": "Uranus 2324",
-    "video": false,
-    "vote_average": 7.228,
-    "vote_count": 81
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/tzwUife8ExSuHMPC94bqAAcxjEt.jpg",
-    "genre_ids": [
-      27,
-      9648
-    ],
-    "id": 1216191,
-    "original_language": "en",
-    "original_title": "Oddity",
-    "overview": "After the brutal murder of her twin sister, Darcy goes after those responsible by using haunted items as her tools for revenge.",
-    "popularity": 11.8884,
-    "poster_path": "/3Z9c1tbUhP0QruRjczPHnbx3U2D.jpg",
-    "release_date": "2024-07-19",
-    "title": "Oddity",
-    "video": false,
-    "vote_average": 6.749,
-    "vote_count": 523
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
-    "genre_ids": [
-      12,
-      14,
-      16
-    ],
-    "id": 128,
-    "original_language": "ja",
-    "original_title": "もののけ姫",
-    "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
-    "popularity": 11.8847,
-    "poster_path": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
-    "release_date": "1997-07-12",
-    "title": "Princess Mononoke",
-    "video": false,
-    "vote_average": 8.329,
-    "vote_count": 8332
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/24r8W0t5ZR9FYF5MvtzFeUa2gmL.jpg",
-    "genre_ids": [
-      10749,
-      18
-    ],
-    "id": 1291559,
-    "original_language": "ja",
-    "original_title": "余命一年の僕が、余命半年の君と出会った話。",
-    "overview": "With only a year left to live, 17-year-old Akito finds new meaning in life by bringing joy to a terminally ill girl who has just six months remaining.",
-    "popularity": 11.8737,
-    "poster_path": "/173FD4a0rpSF30z4CoWx6qdx8Ry.jpg",
-    "release_date": "2024-06-26",
-    "title": "Drawing Closer",
-    "video": false,
-    "vote_average": 8.4,
-    "vote_count": 151
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/olz8Xw3yOLpBAHKgPoSRwmomdM.jpg",
-    "genre_ids": [
-      53,
-      9648
-    ],
-    "id": 13448,
-    "original_language": "en",
-    "original_title": "Angels & Demons",
-    "overview": "Harvard symbologist Robert Langdon is recruited by the Vatican to investigate the apparent return of the Illuminati – a secret, underground organization – after four cardinals are kidnapped on the night of the papal conclave.",
-    "popularity": 11.8672,
-    "poster_path": "/tFZQAuulEOtFTp0gHbVdEXwGrYe.jpg",
-    "release_date": "2009-04-23",
-    "title": "Angels & Demons",
-    "video": false,
-    "vote_average": 6.716,
-    "vote_count": 6937
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7QDWTqSGqI2Q5dOBtvT64MOhmwJ.jpg",
-    "genre_ids": [
-      35,
-      10749
-    ],
-    "id": 930094,
-    "original_language": "en",
-    "original_title": "Red, White & Royal Blue",
-    "overview": "After an altercation between Alex, the president's son, and Britain's Prince Henry at a royal event becomes tabloid fodder, their long-running feud now threatens to drive a wedge in U.S./British relations. When the rivals are forced into a staged truce, their icy relationship begins to thaw and the friction between them sparks something deeper than they ever expected.",
-    "popularity": 11.8447,
-    "poster_path": "/ta3ReqbdEcLJM3mcHMzbYFZI8v7.jpg",
-    "release_date": "2023-07-27",
-    "title": "Red, White & Royal Blue",
-    "video": false,
-    "vote_average": 7.99,
-    "vote_count": 1367
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7C921eWK06n12c1miRXnYoEu5Yv.jpg",
-    "genre_ids": [
-      12,
-      28,
+      10751,
+      16,
       14
     ],
-    "id": 166426,
+    "id": 10020,
     "original_language": "en",
-    "original_title": "Pirates of the Caribbean: Dead Men Tell No Tales",
-    "overview": "Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels the winds of ill-fortune blowing even more strongly when deadly ghost sailors led by his old nemesis, the evil Capt. Salazar, escape from the Devil's Triangle. Jack's only hope of survival lies in seeking out the legendary Trident of Poseidon, but to find it, he must forge an uneasy alliance with a brilliant and beautiful astronomer and a headstrong young man in the British navy.",
-    "popularity": 11.8332,
-    "poster_path": "/qwoGfcg6YUS55nUweKGujHE54Wy.jpg",
-    "release_date": "2017-05-23",
-    "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "original_title": "Beauty and the Beast",
+    "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
+    "popularity": 11.4624,
+    "poster_path": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+    "release_date": "1991-10-22",
+    "title": "Beauty and the Beast",
     "video": false,
-    "vote_average": 6.654,
-    "vote_count": 12215
+    "vote_average": 7.732,
+    "vote_count": 10134
   },
   {
     "adult": false,
-    "backdrop_path": "/26OvB15pqk3eiKJG8LrXDVzO7Mw.jpg",
+    "backdrop_path": "/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
     "genre_ids": [
-      14,
       28,
-      27
+      12,
+      14
     ],
-    "id": 561,
+    "id": 209112,
     "original_language": "en",
-    "original_title": "Constantine",
-    "overview": "John Constantine has literally been to Hell and back. When he teams up with a policewoman to solve the mysterious suicide of her twin sister, their investigation takes them through the world of demons and angels that exists beneath the landscape of contemporary Los Angeles.",
-    "popularity": 11.8327,
-    "poster_path": "/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg",
-    "release_date": "2005-02-08",
-    "title": "Constantine",
-    "video": false,
-    "vote_average": 7.105,
-    "vote_count": 7454
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bguFhzIGpQdGQ6uizm07oMKbgHi.jpg",
-    "genre_ids": [
-      80,
-      18,
-      28
-    ],
-    "id": 101,
-    "original_language": "fr",
-    "original_title": "Léon",
-    "overview": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
-    "popularity": 11.8186,
-    "poster_path": "/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg",
-    "release_date": "1994-09-14",
-    "title": "Léon: The Professional",
-    "video": false,
-    "vote_average": 8.3,
-    "vote_count": 15186
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/aJxmgoNtP2BH7mRYvuf7AHB0VC3.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 1302004,
-    "original_language": "tl",
-    "original_title": "Kaskasero",
-    "overview": "A talented mechanic and driver, Migs quickly finds success when a customer he likes, Gabbi, leads him into the life of street car racing. But as he goes along this life and learns of Gabbi’s past, Migs makes rash decisions that might put the brakes on their relationship.",
-    "popularity": 11.8053,
-    "poster_path": "/qSpFNnFC3il0bdhyynzJgwlMRnv.jpg",
-    "release_date": "2024-07-26",
-    "title": "Kaskasero",
+    "original_title": "Batman v Superman: Dawn of Justice",
+    "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
+    "popularity": 11.9078,
+    "poster_path": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+    "release_date": "2016-03-23",
+    "title": "Batman v Superman: Dawn of Justice",
     "video": false,
     "vote_average": 6.0,
-    "vote_count": 1
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jwggB67hpRqqVw8OHDNTW5Wz7fm.jpg",
-    "genre_ids": [
-      14,
-      28,
-      18
-    ],
-    "id": 37958,
-    "original_language": "en",
-    "original_title": "Immortals",
-    "overview": "Theseus is a mortal man chosen by Zeus to lead the fight against the ruthless King Hyperion, who is on a rampage across Greece to obtain a weapon that can destroy humanity.",
-    "popularity": 11.779,
-    "poster_path": "/4SPPX5KIyaQ9O8n5rLvvUIiIhpF.jpg",
-    "release_date": "2011-11-10",
-    "title": "Immortals",
-    "video": false,
-    "vote_average": 6.026,
-    "vote_count": 2638
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/pwGmXVKUgKN13psUjlhC9zBcq1o.jpg",
-    "genre_ids": [
-      28,
-      14
-    ],
-    "id": 634492,
-    "original_language": "en",
-    "original_title": "Madame Web",
-    "overview": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
-    "popularity": 11.7699,
-    "poster_path": "/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
-    "release_date": "2024-02-14",
-    "title": "Madame Web",
-    "video": false,
-    "vote_average": 5.354,
-    "vote_count": 2201
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xEY0MV2jSQBz9iOJfCFvLTiPGMA.jpg",
-    "genre_ids": [
-      53,
-      80
-    ],
-    "id": 75656,
-    "original_language": "en",
-    "original_title": "Now You See Me",
-    "overview": "An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances and reward their audiences with the money.",
-    "popularity": 11.7265,
-    "poster_path": "/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg",
-    "release_date": "2013-05-29",
-    "title": "Now You See Me",
-    "video": false,
-    "vote_average": 7.335,
-    "vote_count": 15777
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7QabKu8tizoqy8qCZJXljdSpP4A.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      12,
-      14
-    ],
-    "id": 585083,
-    "original_language": "en",
-    "original_title": "Hotel Transylvania: Transformania",
-    "overview": "When Van Helsing's mysterious invention, the \"Monsterfication Ray,\" goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it's too late, and before they drive each other crazy.",
-    "popularity": 11.7195,
-    "poster_path": "/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg",
-    "release_date": "2022-01-31",
-    "title": "Hotel Transylvania: Transformania",
-    "video": false,
-    "vote_average": 7.072,
-    "vote_count": 2852
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/24DZfupDlhXeTchmcOkoGRhP5Vg.jpg",
-    "genre_ids": [
-      12,
-      28,
-      53
-    ],
-    "id": 955,
-    "original_language": "en",
-    "original_title": "Mission: Impossible II",
-    "overview": "With computer genius Luther Stickell at his side and a beautiful thief on his mind, agent Ethan Hunt races across Australia and Spain to stop a former IMF agent from unleashing a genetically engineered biological weapon called Chimera. This mission, should Hunt choose to accept it, plunges him into the center of an international crisis of terrifying magnitude.",
-    "popularity": 11.7164,
-    "poster_path": "/7us8nE3ldE0gX2cziUz4tKg0Go0.jpg",
-    "release_date": "2000-05-24",
-    "title": "Mission: Impossible II",
-    "video": false,
-    "vote_average": 6.125,
-    "vote_count": 6958
+    "vote_count": 18257
   }
 ]

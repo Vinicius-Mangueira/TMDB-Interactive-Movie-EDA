@@ -1,81 +1,182 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/1M2i4Mxd03elGOTmEkIvqrHfmyS.jpg",
+    "backdrop_path": "/z4nGKYC1aj2qy5fEKYiZQsdrEPB.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1144932,
+    "original_language": "en",
+    "original_title": "Queen of the Ring",
+    "overview": "In a time when pro wrestling for women was illegal all over the country, a small town single mother embraces the danger to change culture as she dominates America's most masculine sport to become the first million dollar female athlete in history.",
+    "popularity": 10.118,
+    "poster_path": "/o5ugZxTNHFFm1gAt4eYJbFVKsBK.jpg",
+    "release_date": "2025-03-07",
+    "title": "Queen of the Ring",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 10
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/h3fsOC10IZ33ACi5VlGySuRJL4x.jpg",
+    "genre_ids": [
+      10749,
+      18,
+      35
+    ],
+    "id": 1136867,
+    "original_language": "en",
+    "original_title": "Materialists",
+    "overview": "A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex.",
+    "popularity": 10.0494,
+    "poster_path": "/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
+    "release_date": "2025-06-11",
+    "title": "Materialists",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xHDynIimfsgj0ZOs0j5ma8v1vmM.jpg",
     "genre_ids": [
       35,
+      18
+    ],
+    "id": 120467,
+    "original_language": "en",
+    "original_title": "The Grand Budapest Hotel",
+    "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+    "popularity": 9.7986,
+    "poster_path": "/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+    "release_date": "2014-02-26",
+    "title": "The Grand Budapest Hotel",
+    "video": false,
+    "vote_average": 8.042,
+    "vote_count": 15160
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oYiPf8oR2ZrjvGIVzGTw1BZihDP.jpg",
+    "genre_ids": [
+      9648,
       18,
+      10749,
+      53
+    ],
+    "id": 153104,
+    "original_language": "en",
+    "original_title": "Wicked Minds",
+    "overview": "Holden returns home from college and is surprised to find his overpowering competitive father married to a much younger woman Lana. Holden quickly falls for the beauty and charisma of his step mother. A passionate affair begins between son and stepmother.",
+    "popularity": 12.2292,
+    "poster_path": "/A6A15cDR8mpdOxW4y7UzFanzbM0.jpg",
+    "release_date": "2003-03-01",
+    "title": "Wicked Minds",
+    "video": false,
+    "vote_average": 6.43,
+    "vote_count": 43
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oG9dcGSSu13fjFp1Uly15ZXjRKV.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14,
+      12,
+      35,
       10749
     ],
-    "id": 19913,
+    "id": 11970,
     "original_language": "en",
-    "original_title": "(500) Days of Summer",
-    "overview": "Tom, greeting-card writer and hopeless romantic, is caught completely off-guard when his girlfriend, Summer, suddenly dumps him. He reflects on their 500 days together to try to figure out where their love affair went sour, and in doing so, Tom rediscovers his true passions in life.",
-    "popularity": 11.1481,
-    "poster_path": "/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg",
-    "release_date": "2009-07-17",
-    "title": "(500) Days of Summer",
+    "original_title": "Hercules",
+    "overview": "Bestowed with superhuman strength, a young mortal named Hercules sets out to prove himself a hero in the eyes of his father, the great god Zeus. Along with his friends Pegasus, a flying horse, and Phil, a personal trainer, Hercules is tricked by the hilarious, hotheaded villain Hades, who's plotting to take over Mount Olympus!",
+    "popularity": 10.0383,
+    "poster_path": "/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg",
+    "release_date": "1997-06-13",
+    "title": "Hercules",
     "video": false,
-    "vote_average": 7.295,
-    "vote_count": 10405
+    "vote_average": 7.498,
+    "vote_count": 7566
   },
   {
     "adult": false,
-    "backdrop_path": "/o4mQHoP8LExn2Q9dn16OGqHvaiK.jpg",
+    "backdrop_path": "/owAe5rRStnX7ibVAPmza3NCXjCy.jpg",
     "genre_ids": [
-      12,
+      80,
       18,
-      10751
+      53
     ],
-    "id": 1265,
+    "id": 23168,
     "original_language": "en",
-    "original_title": "Bridge to Terabithia",
-    "overview": "Jesse Aarons trained all summer to become the fastest runner in school. So he's very upset when newcomer Leslie Burke outruns him and everyone else. Despite this and other differences including that she's rich, he's poor, she's a city girl, and he's a country boy the two become fast friends. Together they create Terabithia, a land of monsters, trolls, ogres, and giants where they rule as king and queen.",
-    "popularity": 10.6213,
-    "poster_path": "/3xFxGodKPMFLheS8rujFSmLfcq4.jpg",
-    "release_date": "2007-02-15",
-    "title": "Bridge to Terabithia",
+    "original_title": "The Town",
+    "overview": "Doug MacRay is a longtime thief, who, smarter than the rest of his crew, is looking for his chance to exit the game. When a bank job leads to the group kidnapping an attractive branch manager, he takes on the role of monitoring her – but their burgeoning relationship threatens to unveil the identities of Doug and his crew to the FBI Agent who is on their case.",
+    "popularity": 10.033,
+    "poster_path": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+    "release_date": "2010-09-15",
+    "title": "The Town",
     "video": false,
-    "vote_average": 7.306,
-    "vote_count": 4920
+    "vote_average": 7.218,
+    "vote_count": 5191
   },
   {
     "adult": false,
-    "backdrop_path": "/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+    "backdrop_path": "/cnD5ygO97xFY8wQPwLP5v9saus7.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "id": 2142,
+    "original_language": "en",
+    "original_title": "Cop Land",
+    "overview": "Freddy Heflin is the sheriff of a place everyone calls “Cop Land” — a small and seemingly peaceful town populated by the big city police officers he’s long admired. Yet something ugly is taking place behind the town’s peaceful facade. And when Freddy uncovers a massive, deadly conspiracy among these local residents, he is forced to take action and make a dangerous choice between protecting his idols and upholding the law.",
+    "popularity": 10.0282,
+    "poster_path": "/bUXaWZPj7qzXjKc2s3Pwdkhxh2o.jpg",
+    "release_date": "1997-08-15",
+    "title": "Cop Land",
+    "video": false,
+    "vote_average": 6.786,
+    "vote_count": 1653
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jXDselREPq8TOVGM4dzBBUM7xVk.jpg",
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "id": 399579,
+    "original_language": "en",
+    "original_title": "Alita: Battle Angel",
+    "overview": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
+    "popularity": 8.6846,
+    "poster_path": "/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+    "release_date": "2019-01-31",
+    "title": "Alita: Battle Angel",
+    "video": false,
+    "vote_average": 7.24,
+    "vote_count": 9414
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/p4INKu77iuTG1o1a5N3Y9vqeEGq.jpg",
     "genre_ids": [
       27,
       53
     ],
-    "id": 381288,
+    "id": 1079485,
     "original_language": "en",
-    "original_title": "Split",
-    "overview": "Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him — as well as everyone around him — as the walls between his compartments shatter apart.",
-    "popularity": 9.9662,
-    "poster_path": "/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
-    "release_date": "2017-01-19",
-    "title": "Split",
+    "original_title": "Winnie-the-Pooh: Blood and Honey 2",
+    "overview": "Five months following the murders, Christopher Robin struggles to maintain a regular life while dealing with PTSD. However, deep within the 100-Acre-Wood, a destructive rage grows as Pooh, Piglet, Owl, and Tigger find their home and their lives endangered after their existence is revealed.",
+    "popularity": 9.9983,
+    "poster_path": "/2sADrLwMQof6yYmrJRSa04tFZuS.jpg",
+    "release_date": "2024-03-26",
+    "title": "Winnie-the-Pooh: Blood and Honey 2",
     "video": false,
-    "vote_average": 7.341,
-    "vote_count": 17649
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/69EFgWWPFWbRNHmQgYdSnyJ94Ge.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "id": 49521,
-    "original_language": "en",
-    "original_title": "Man of Steel",
-    "overview": "A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
-    "popularity": 12.0162,
-    "poster_path": "/dksTL9NXc3GqPBRHYHcy1aIwjS.jpg",
-    "release_date": "2013-06-12",
-    "title": "Man of Steel",
-    "video": false,
-    "vote_average": 6.632,
-    "vote_count": 15403
+    "vote_average": 5.996,
+    "vote_count": 365
   }
 ]

@@ -1,397 +1,41 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
-    "genre_ids": [
-      14,
-      12,
-      16,
-      10751
-    ],
-    "id": 10191,
-    "original_language": "en",
-    "original_title": "How to Train Your Dragon",
-    "overview": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.",
-    "popularity": 20.6337,
-    "poster_path": "/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
-    "release_date": "2010-03-18",
-    "title": "How to Train Your Dragon",
-    "video": false,
-    "vote_average": 7.838,
-    "vote_count": 13384
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
-    "genre_ids": [
-      28,
-      80,
-      53
-    ],
-    "id": 866398,
-    "original_language": "en",
-    "original_title": "The Beekeeper",
-    "overview": "One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
-    "popularity": 20.6219,
-    "poster_path": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
-    "release_date": "2024-01-08",
-    "title": "The Beekeeper",
-    "video": false,
-    "vote_average": 7.325,
-    "vote_count": 3526
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9o9ci7ZH9chSy8B7YXCBYih8Kkd.jpg",
-    "genre_ids": [
-      53,
-      18,
-      10749
-    ],
-    "id": 290098,
-    "original_language": "ko",
-    "original_title": "아가씨",
-    "overview": "1930s Korea, in the period of Japanese occupation, a new girl, Sookee, is hired as a handmaiden to a Japanese heiress, Hideko, who lives a secluded life on a large countryside estate with her domineering Uncle Kouzuki. But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count to help him seduce the Lady to elope with him, rob her of her fortune, and lock her up in a madhouse. The plan seems to proceed according to plan until Sookee and Hideko discover some unexpected emotions.",
-    "popularity": 20.5706,
-    "poster_path": "/dLlH4aNHdnmf62umnInL8xPlPzw.jpg",
-    "release_date": "2016-06-01",
-    "title": "The Handmaiden",
-    "video": false,
-    "vote_average": 8.2,
-    "vote_count": 3922
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/hfTyu2VPBqLRPo2DauW8q7bh9bm.jpg",
-    "genre_ids": [
-      10751,
-      35,
-      12
-    ],
-    "id": 516729,
-    "original_language": "en",
-    "original_title": "Paddington in Peru",
-    "overview": "Paddington travels to Peru to visit his beloved Aunt Lucy, who now resides at the Home for Retired Bears. With the Brown Family in tow, a thrilling adventure ensues when a mystery plunges them into an unexpected journey through the Amazon rainforest and up to the mountain peaks of Peru.",
-    "popularity": 20.5603,
-    "poster_path": "/rzfqeLdHIysJGrspMICyedpqDqt.jpg",
-    "release_date": "2024-11-08",
-    "title": "Paddington in Peru",
-    "video": false,
-    "vote_average": 6.849,
-    "vote_count": 374
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9Er1TPFQg2N4yBJQnkJAwoiiE6A.jpg",
-    "genre_ids": [
-      18,
-      53
-    ],
-    "id": 773543,
-    "original_language": "ru",
-    "original_title": "Соври мне правду",
-    "overview": "A couple in love spends time away from civilization. The sudden arrival of the younger sister first, and then the girl's ex-boyfriend, violate the country idyll. Each of the heroes has his own plan for this weekend, and together they become hostages of the situation and participants in cruel psychological games. Falling in love gives way to passion, and innocent flirting causes jealousy and can lead to mortal danger.",
-    "popularity": 20.5575,
-    "poster_path": "/fPUI4KHQKggOdJg9YIBCFEecuU5.jpg",
-    "release_date": "2021-09-09",
-    "title": "Fib the Truth",
-    "video": false,
-    "vote_average": 5.696,
-    "vote_count": 69
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mkxGpqh4yOYqtENv01IrDcesFRf.jpg",
-    "genre_ids": [
-      28,
-      35
-    ],
-    "id": 993710,
-    "original_language": "en",
-    "original_title": "Back in Action",
-    "overview": "Fifteen years after vanishing from the CIA to start a family, elite spies Matt and Emily jump back into the world of espionage when their cover is blown.",
-    "popularity": 20.5501,
-    "poster_path": "/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg",
-    "release_date": "2025-01-15",
-    "title": "Back in Action",
-    "video": false,
-    "vote_average": 6.453,
-    "vote_count": 1212
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [],
-    "id": 1153194,
-    "original_language": "zh",
-    "original_title": "妹妹是辣妹真是可愛 2",
-    "overview": "",
-    "popularity": 20.5462,
-    "poster_path": null,
-    "release_date": "",
-    "title": "妹妹是辣妹真是可愛 2",
-    "video": false,
-    "vote_average": 0.0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gJbTXKNTL6O7r7PzF6ZRkJGBlPp.jpg",
-    "genre_ids": [
-      27,
-      9648,
-      53
-    ],
-    "id": 493922,
-    "original_language": "en",
-    "original_title": "Hereditary",
-    "overview": "Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.",
-    "popularity": 20.3932,
-    "poster_path": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
-    "release_date": "2018-06-07",
-    "title": "Hereditary",
-    "video": false,
-    "vote_average": 7.291,
-    "vote_count": 7936
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg",
-    "genre_ids": [
-      28,
-      35,
-      10749
-    ],
-    "id": 1226406,
-    "original_language": "en",
-    "original_title": "Love Hurts",
-    "overview": "A realtor is pulled back into the life he left behind after his former partner-in-crime resurfaces with an ominous message. With his crime-lord brother also on his trail, he must confront his past and the history he never fully buried.",
-    "popularity": 20.3165,
-    "poster_path": "/skPPVeHoTTVVSJlb0Ib5vrqiuA4.jpg",
-    "release_date": "2025-02-06",
-    "title": "Love Hurts",
-    "video": false,
-    "vote_average": 5.948,
-    "vote_count": 182
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9JqrqquYOarMFb3O4j6gdJZG36K.jpg",
+    "backdrop_path": "/sV49hOlUky6AhVYl4K0d3rergTA.jpg",
     "genre_ids": [
       35
     ],
-    "id": 1296500,
-    "original_language": "es",
-    "original_title": "Un lío de millones",
-    "overview": "In a village in the Sierra de Madrid, a couple feels that their children, who have since moved out, have forgotten about them. To get them back, they will pretend that they have won the lottery and that they are multimillionaires.",
-    "popularity": 20.3162,
-    "poster_path": "/1gPOV4ExV0AAGMLpF3em6BSRVV8.jpg",
-    "release_date": "2024-12-20",
-    "title": "Un lío de millones",
-    "video": false,
-    "vote_average": 5.938,
-    "vote_count": 16
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/707thQazLJiYLBhCrZlRoV05NNL.jpg",
-    "genre_ids": [
-      28,
-      80,
-      53
-    ],
-    "id": 948276,
-    "original_language": "fr",
-    "original_title": "Balle perdue 2",
-    "overview": "Having cleared his name, genius mechanic Lino has only one goal in mind: getting revenge on the corrupt cops who killed his brother and his mentor.",
-    "popularity": 20.2419,
-    "poster_path": "/uAeZI1JJbLPq7Bu5dziH7emHeu7.jpg",
-    "release_date": "2022-11-10",
-    "title": "Lost Bullet 2",
-    "video": false,
-    "vote_average": 6.538,
-    "vote_count": 397
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1mCEzHxDcJdkM3Ye7CTeZ04HVBB.jpg",
-    "genre_ids": [
-      28,
-      80,
-      53
-    ],
-    "id": 604685,
+    "id": 18785,
     "original_language": "en",
-    "original_title": "Den of Thieves 2: Pantera",
-    "overview": "Big Nick is back on the hunt in Europe and closing in on Donnie, who is embroiled in the treacherous and unpredictable world of diamond thieves and the infamous Panther mafia, as they plot a massive heist of the world's largest diamond exchange.",
-    "popularity": 20.1905,
-    "poster_path": "/rxcyxxarD17xMliStDEhM6y2AYQ.jpg",
-    "release_date": "2025-01-08",
-    "title": "Den of Thieves 2: Pantera",
+    "original_title": "The Hangover",
+    "overview": "When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug – who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.",
+    "popularity": 19.8677,
+    "poster_path": "/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+    "release_date": "2009-06-02",
+    "title": "The Hangover",
     "video": false,
-    "vote_average": 6.74,
-    "vote_count": 469
+    "vote_average": 7.323,
+    "vote_count": 17228
   },
   {
     "adult": false,
-    "backdrop_path": "/qab3t7IsPygLnqQbdtjAyLmbNy6.jpg",
-    "genre_ids": [
-      10749,
-      35,
-      18
-    ],
-    "id": 1294947,
-    "original_language": "es",
-    "original_title": "Déjame Estar Contigo",
-    "overview": "Lucía lives with an incurable disease, and Bruno was deported to Mexico with no place to sleep. An unexpected phone call brings them together in an emotional story of overcoming, reconstruction and hope.",
-    "popularity": 20.1515,
-    "poster_path": "/g7CoOjbpKO9tAbQhyJgOB6iwrqV.jpg",
-    "release_date": "2025-01-12",
-    "title": "Déjame Estar Contigo",
-    "video": false,
-    "vote_average": 7.5,
-    "vote_count": 38
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cOkgL3jfyHtU5Lfuo4pelYNgfO6.jpg",
-    "genre_ids": [
-      28,
-      35,
-      10751,
-      878
-    ],
-    "id": 926670,
-    "original_language": "en",
-    "original_title": "Henry Danger: The Movie",
-    "overview": "Henry Hart meets a superfan—eager to fight crime with Kid Danger—who comes into possession of a device that can open up alternate realities. Facing a wild ride, Henry will need his best friend Jasper and his new superfan sidekick to find his way out or be stuck in another dimension forever.",
-    "popularity": 20.1477,
-    "poster_path": "/dFWj2rOGsqSIX1PHFghbCBgpMnk.jpg",
-    "release_date": "2025-01-17",
-    "title": "Henry Danger: The Movie",
-    "video": false,
-    "vote_average": 7.802,
-    "vote_count": 205
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/fONtQBk12LGjQo4q6bXDROVQmTy.jpg",
-    "genre_ids": [
-      53,
-      12
-    ],
-    "id": 213,
-    "original_language": "en",
-    "original_title": "North by Northwest",
-    "overview": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
-    "popularity": 20.1275,
-    "poster_path": "/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
-    "release_date": "1959-07-08",
-    "title": "North by Northwest",
-    "video": false,
-    "vote_average": 7.983,
-    "vote_count": 4207
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/abSLxmkkXb3W2TXk8E9KbR7KQRj.jpg",
-    "genre_ids": [
-      28,
-      27,
-      53
-    ],
-    "id": 970450,
-    "original_language": "en",
-    "original_title": "Werewolves",
-    "overview": "A year after a supermoon’s light activated a dormant gene, transforming humans into bloodthirsty werewolves and causing nearly a billion deaths, the nightmare resurfaces as the supermoon rises again. Two scientists attempt to stop the mutation but fail and must now struggle to reach one of their family homes.",
-    "popularity": 20.0516,
-    "poster_path": "/otXBlMPbFBRs6o2Xt6KX59Qw6dL.jpg",
-    "release_date": "2024-12-04",
-    "title": "Werewolves",
-    "video": false,
-    "vote_average": 6.152,
-    "vote_count": 368
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
-    "genre_ids": [
-      10751,
-      35,
-      12,
-      16
-    ],
-    "id": 748783,
-    "original_language": "en",
-    "original_title": "The Garfield Movie",
-    "overview": "Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father – scruffy street cat Vic – Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.",
-    "popularity": 19.9272,
-    "poster_path": "/xYduFGuch9OwbCOEUiamml18ZoB.jpg",
-    "release_date": "2024-04-30",
-    "title": "The Garfield Movie",
-    "video": false,
-    "vote_average": 7.064,
-    "vote_count": 1260
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3DjXyB6ZYYYRGWujiFUDMfAiSP9.jpg",
-    "genre_ids": [
-      99,
-      18
-    ],
-    "id": 1475666,
-    "original_language": "en",
-    "original_title": "The Seat",
-    "overview": "'The Seat' is an unprecedented inside look that led to a once-in-a-generation driver change in Mercedes and F1 history. It reveals the private conversations that led the Mercedes team and Toto Wolff, its Team Principal and CEO, to its decision to promote 18-year-old Italian-born Kimi Antonelli to a Formula 1 Driver, making him the third-youngest rookie in the sport's history. The film follows Kimi, in the lead up to his first Formula 1 season as he takes on his destiny.",
-    "popularity": 19.8436,
-    "poster_path": "/dvhMN5xl8ZdkTnvCJMQVUlwD5iv.jpg",
-    "release_date": "2025-05-05",
-    "title": "The Seat",
-    "video": false,
-    "vote_average": 7.8,
-    "vote_count": 13
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/fZFSvqWsN8bQiwVmJmcgeoL9awe.jpg",
+    "backdrop_path": "/5iMAyVYs4rnQKQ9HDdmuqlb0VtS.jpg",
     "genre_ids": [
       28,
       12,
       18,
       10751
     ],
-    "id": 38575,
+    "id": 1885,
     "original_language": "en",
     "original_title": "The Karate Kid",
-    "overview": "Twelve-year-old Dre Parker could have been the most popular kid in Detroit, but his mother's latest career move has landed him in China. Dre immediately falls for his classmate Mei Ying but the cultural differences make such a friendship impossible. Even worse, Dre's feelings make him an enemy of the class bully, Cheng. With no friends in a strange land, Dre has nowhere to turn but maintenance man Mr. Han, who is a kung fu master. As Han teaches Dre that kung fu is not about punches and parries, but maturity and calm, Dre realizes that facing down the bullies will be the fight of his life.",
-    "popularity": 19.827,
-    "poster_path": "/b1RBy3l297N0c7PHjlz35cClWju.jpg",
-    "release_date": "2010-06-10",
+    "overview": "Daniel LaRusso moves to Los Angeles with his mother, Lucille, and soon strikes up a relationship with Ali. He quickly finds himself the target of bullying by a group of high school students, led by Ali's ex-boyfriend Johnny, who study karate at the Cobra Kai dojo under ruthless sensei, John Kreese. Fortunately, Daniel befriends Mr. Miyagi, an unassuming repairman who just happens to be a martial arts master himself. Miyagi takes Daniel under his wing, training him in a more compassionate form of karate for self-defense and, later, preparing him to compete against the brutal Cobra Kai.",
+    "popularity": 19.807,
+    "poster_path": "/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg",
+    "release_date": "1984-06-22",
     "title": "The Karate Kid",
     "video": false,
-    "vote_average": 6.5,
-    "vote_count": 6168
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ie8OSgIHEl6yQiGJ90dsyBWOpQA.jpg",
-    "genre_ids": [
-      16,
-      14,
-      12,
-      28
-    ],
-    "id": 839033,
-    "original_language": "en",
-    "original_title": "The Lord of the Rings: The War of the Rohirrim",
-    "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
-    "popularity": 19.7816,
-    "poster_path": "/cXzCOx1hUuU9CfmiEv6rXjb6EqU.jpg",
-    "release_date": "2024-12-05",
-    "title": "The Lord of the Rings: The War of the Rohirrim",
-    "video": false,
-    "vote_average": 6.7,
-    "vote_count": 580
+    "vote_average": 7.201,
+    "vote_count": 4321
   }
 ]

@@ -1,6 +1,142 @@
 [
   {
     "adult": false,
+    "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "id": 1892,
+    "original_language": "en",
+    "original_title": "Return of the Jedi",
+    "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+    "popularity": 10.5795,
+    "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+    "release_date": "1983-05-25",
+    "title": "Return of the Jedi",
+    "video": false,
+    "vote_average": 7.9,
+    "vote_count": 16050
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nT0tpSovSldMoKQywsf46R9dXbe.jpg",
+    "genre_ids": [
+      53,
+      18
+    ],
+    "id": 1145725,
+    "original_language": "en",
+    "original_title": "Tyler Perry's Duplicity",
+    "overview": "High-powered attorney Marley faces her most personal case yet when she is tasked with uncovering the truth behind the murder of her best friend Fela’s husband. With the help of her boyfriend – a former cop turned private investigator – Marley’s search for what really happened leads her down a treacherous maze of deception and betrayal.",
+    "popularity": 10.5716,
+    "poster_path": "/xNINmmVZuRn2MWo34Mj42OjBntN.jpg",
+    "release_date": "2025-03-19",
+    "title": "Tyler Perry's Duplicity",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 110
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lh0uM88KjXsmRzWXUGAGWJ0AOJR.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      14
+    ],
+    "id": 21972,
+    "original_language": "en",
+    "original_title": "Like Mike",
+    "overview": "Calvin and his friends, who all live in an orphanage, find old shoes with the faded letters MJ connected to a powerline. One stormy night, they go to get the shoes when Calvin and the shoes are struck by lightning. Calvin now has unbelievable basketball powers and has the chance to play for the NBA.",
+    "popularity": 8.902,
+    "poster_path": "/zXTM3qAXVYAYrhfYBpmescKMoes.jpg",
+    "release_date": "2002-07-03",
+    "title": "Like Mike",
+    "video": false,
+    "vote_average": 6.091,
+    "vote_count": 527
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5o4iH2N4jX3HmNCBbC6rJqxtWj2.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1222064,
+    "original_language": "en",
+    "original_title": "River of Blood",
+    "overview": "Four kayakers take the wrong river into a jungle inhabited by a tribe of merciless cannibals.",
+    "popularity": 10.7874,
+    "poster_path": "/7lkm4eAvHy1uCs48GEwMxgwNdgd.jpg",
+    "release_date": "2024-08-29",
+    "title": "River of Blood",
+    "video": false,
+    "vote_average": 5.979,
+    "vote_count": 48
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kl3rMfydlxyLDsZidSUCEWm8K0M.jpg",
+    "genre_ids": [
+      12,
+      35,
+      878
+    ],
+    "id": 39513,
+    "original_language": "en",
+    "original_title": "Paul",
+    "overview": "For the past 60 years, a space-traveling smart-ass named Paul has been locked up in a top-secret military base, advising world leaders about his kind. But when he worries he’s outlived his usefulness and the dissection table is drawing uncomfortably close, Paul escapes on the first RV that passes by his compound in Area 51. Fortunately, it contains the two earthlings who are most likely to rescue and harbor an alien on the run.",
+    "popularity": 10.4473,
+    "poster_path": "/e57pNjhWbRos9BTvgeUYUzB8VfO.jpg",
+    "release_date": "2011-02-14",
+    "title": "Paul",
+    "video": false,
+    "vote_average": 6.733,
+    "vote_count": 5901
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3HnkKX1B9h4govdAa3Ku8qMZaoZ.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1100856,
+    "original_language": "ru",
+    "original_title": "Заклятье. Шепот ведьм",
+    "overview": "Mara, an ancient pagan spirit, hunts a group of teenagers taking their body parts to be reborn. A disillusioned and desperate investigator has to face his deepest fears to save the teenagers.",
+    "popularity": 10.7994,
+    "poster_path": "/raDMchyq3dJMqso2TVh75A123Xb.jpg",
+    "release_date": "2024-06-13",
+    "title": "Whisper of the Witch",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 41
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5i6SjyDbDWqyun8klUuCxrlFbyw.jpg",
+    "genre_ids": [
+      18,
+      28
+    ],
+    "id": 677179,
+    "original_language": "en",
+    "original_title": "Creed III",
+    "overview": "After dominating the boxing world, Adonis Creed has thrived in his career and family life. When a childhood friend and former boxing prodigy, Damian Anderson, resurfaces after serving a long sentence in prison, he is eager to prove that he deserves his shot in the ring. The face-off between former friends is more than just a fight. To settle the score, Adonis must put his future on the line to battle Damian — a fighter with nothing to lose.",
+    "popularity": 9.7748,
+    "poster_path": "/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
+    "release_date": "2023-03-01",
+    "title": "Creed III",
+    "video": false,
+    "vote_average": 7.112,
+    "vote_count": 2631
+  },
+  {
+    "adult": false,
     "backdrop_path": "/inJjDhCjfhh3RtrJWBmmDqeuSYC.jpg",
     "genre_ids": [
       28,
@@ -11,7 +147,7 @@
     "original_language": "en",
     "original_title": "Godzilla vs. Kong",
     "overview": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
-    "popularity": 10.5187,
+    "popularity": 10.4527,
     "poster_path": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
     "release_date": "2021-03-24",
     "title": "Godzilla vs. Kong",
@@ -31,7 +167,7 @@
     "original_language": "en",
     "original_title": "Watchmen",
     "overview": "In a gritty and alternate 1985, the glory days of costumed vigilantes have been brought to a close by a government crackdown. But after one of the masked veterans is brutally murdered, an investigation into the killer is initiated. The reunited heroes set out to prevent their own destruction, but in doing so they uncover a sinister plot that puts all of humanity in grave danger.",
-    "popularity": 10.5097,
+    "popularity": 10.0716,
     "poster_path": "/aVURelN3pM56lFM7Dgfs5TixcIf.jpg",
     "release_date": "2009-03-04",
     "title": "Watchmen",
@@ -52,7 +188,7 @@
     "original_language": "en",
     "original_title": "Teenage Mutant Ninja Turtles",
     "overview": "When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.",
-    "popularity": 10.5069,
+    "popularity": 10.116,
     "poster_path": "/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg",
     "release_date": "2014-08-07",
     "title": "Teenage Mutant Ninja Turtles",
@@ -72,169 +208,13 @@
     "original_language": "en",
     "original_title": "Shazam! Fury of the Gods",
     "overview": "Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
-    "popularity": 10.5035,
+    "popularity": 9.7939,
     "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
     "release_date": "2023-03-15",
     "title": "Shazam! Fury of the Gods",
     "video": false,
     "vote_average": 6.48,
     "vote_count": 3301
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yvPbncYhMu9FfTjDhq0N5lgnVkO.jpg",
-    "genre_ids": [
-      35,
-      10749,
-      18
-    ],
-    "id": 4951,
-    "original_language": "en",
-    "original_title": "10 Things I Hate About You",
-    "overview": "On the first day at his new school, Cameron instantly falls for Bianca, the gorgeous girl of his dreams. The only problem is that Bianca is forbidden to date until her ill-tempered, completely un-dateable older sister Kat goes out, too. In an attempt to solve his problem, Cameron singles out the only guy who could possibly be a match for Kat: a mysterious bad boy with a nasty reputation of his own.",
-    "popularity": 10.4978,
-    "poster_path": "/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
-    "release_date": "1999-03-30",
-    "title": "10 Things I Hate About You",
-    "video": false,
-    "vote_average": 7.594,
-    "vote_count": 8356
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/aI3Wz1F6ie9DY94jp5F42Yg5ZYK.jpg",
-    "genre_ids": [
-      16,
-      28,
-      14,
-      53
-    ],
-    "id": 1311031,
-    "original_language": "ja",
-    "original_title": "劇場版「鬼滅の刃」無限城編",
-    "overview": "As the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming battle against the demons, Muzan Kibutsuji appears at the Ubuyashiki Mansion. With the head of the Demon Corps in danger, Tanjiro and the Hashira rush to the headquarters but are plunged into a deep descent to a mysterious space by the hands of Muzan Kibutsuji.  The destination of where Tanjiro and Demon Slayer Corps have fallen is the demons' stronghold – the Infinity Castle. And so, the battleground is set as the final battle between the Demon Slayer Corps and the demons ignites.",
-    "popularity": 10.4912,
-    "poster_path": "/aFRDH3P7TX61FVGpaLhKr6QiOC1.jpg",
-    "release_date": "2025-07-18",
-    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-    "video": false,
-    "vote_average": 0.0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
-    "genre_ids": [
-      35,
-      10749
-    ],
-    "id": 194,
-    "original_language": "fr",
-    "original_title": "Le Fabuleux Destin d'Amélie Poulain",
-    "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
-    "popularity": 10.4894,
-    "poster_path": "/oTKduWL2tpIKEmkAqF4mFEAWAsv.jpg",
-    "release_date": "2001-04-25",
-    "title": "Amélie",
-    "video": false,
-    "vote_average": 7.913,
-    "vote_count": 11776
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rRwD4MoBlkBXWQ6PDnbKRSU5dDu.jpg",
-    "genre_ids": [
-      53,
-      18,
-      80
-    ],
-    "id": 1359,
-    "original_language": "en",
-    "original_title": "American Psycho",
-    "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
-    "popularity": 10.4861,
-    "poster_path": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
-    "release_date": "2000-04-13",
-    "title": "American Psycho",
-    "video": false,
-    "vote_average": 7.4,
-    "vote_count": 11367
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/l6qZSvM5bjLy9DIGj1cflIVtMKe.jpg",
-    "genre_ids": [
-      27
-    ],
-    "id": 719221,
-    "original_language": "en",
-    "original_title": "Tarot",
-    "overview": "When a group of friends recklessly violate the sacred rule of Tarot readings, they unknowingly unleash an unspeakable evil trapped within the cursed cards. One by one, they come face to face with fate and end up in a race against death.",
-    "popularity": 10.4829,
-    "poster_path": "/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg",
-    "release_date": "2024-05-01",
-    "title": "Tarot",
-    "video": false,
-    "vote_average": 6.466,
-    "vote_count": 1186
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 207,
-    "original_language": "en",
-    "original_title": "Dead Poets Society",
-    "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
-    "popularity": 10.4628,
-    "poster_path": "/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg",
-    "release_date": "1989-06-02",
-    "title": "Dead Poets Society",
-    "video": false,
-    "vote_average": 8.302,
-    "vote_count": 11640
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/u2eA9pqi1q3DvevT7RuDuJHxxBT.jpg",
-    "genre_ids": [
-      18,
-      53
-    ],
-    "id": 974950,
-    "original_language": "fr",
-    "original_title": "Emilia Pérez",
-    "overview": "Rita, an underrated lawyer working for a large law firm more interested in getting criminals out of jail than bringing them to justice, is hired by the leader of a criminal organization.",
-    "popularity": 10.4589,
-    "poster_path": "/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg",
-    "release_date": "2024-08-21",
-    "title": "Emilia Pérez",
-    "video": false,
-    "vote_average": 6.674,
-    "vote_count": 1615
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/2YJOXPl4QtCskixYA58ToyCXEW0.jpg",
-    "genre_ids": [
-      28,
-      35,
-      18,
-      53
-    ],
-    "id": 787,
-    "original_language": "en",
-    "original_title": "Mr. & Mrs. Smith",
-    "overview": "After five (or six) years of vanilla-wedded bliss, ordinary suburbanites John and Jane Smith are stuck in a huge rut. Unbeknownst to each other, they are both coolly lethal, highly-paid assassins working for rival organisations. When they discover they're each other's next target, their secret lives collide in a spicy, explosive mix of wicked comedy, pent-up passion, nonstop action and high-tech weaponry.",
-    "popularity": 10.4566,
-    "poster_path": "/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg",
-    "release_date": "2005-06-07",
-    "title": "Mr. & Mrs. Smith",
-    "video": false,
-    "vote_average": 6.689,
-    "vote_count": 10615
   },
   {
     "adult": false,
@@ -248,7 +228,7 @@
     "original_language": "es",
     "original_title": "Bird Box Barcelona",
     "overview": "After a mysterious force decimates the world’s population, Sebastian must navigate his own survival journey through the desolate streets of Barcelona. As he forms uneasy alliances with other survivors and they try to escape the city, an unexpected and even more sinister threat grows.",
-    "popularity": 10.4544,
+    "popularity": 9.9298,
     "poster_path": "/iTGBHdL12QEpLyRVlykDuiYxzAG.jpg",
     "release_date": "2023-07-14",
     "title": "Bird Box Barcelona",
@@ -268,33 +248,13 @@
     "original_language": "en",
     "original_title": "Captain America: The Winter Soldier",
     "overview": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy—the Winter Soldier.",
-    "popularity": 10.4394,
+    "popularity": 9.1466,
     "poster_path": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
     "release_date": "2014-03-20",
     "title": "Captain America: The Winter Soldier",
     "video": false,
     "vote_average": 7.655,
     "vote_count": 19112
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/qjMDwBWbG5hAP43q3meplZFreFQ.jpg",
-    "genre_ids": [
-      27,
-      35,
-      878
-    ],
-    "id": 974931,
-    "original_language": "en",
-    "original_title": "Totally Killer",
-    "overview": "When the infamous \"Sweet Sixteen Killer\" returns 35 years after his first murder spree to claim another victim, 17-year-old Jamie accidentally travels back in time to 1987, determined to stop the killer before he can start.",
-    "popularity": 10.4368,
-    "poster_path": "/52YBwGJ3cJs54fpBzwnT1lnqgTo.jpg",
-    "release_date": "2023-09-28",
-    "title": "Totally Killer",
-    "video": false,
-    "vote_average": 6.83,
-    "vote_count": 937
   },
   {
     "adult": false,
@@ -307,93 +267,12 @@
     "original_language": "en",
     "original_title": "The Forge",
     "overview": "19 year old Isaiah Wright lives for basketball and video games. A year out of high school, he has no job, no plans, and no idea how to be a man. At odds with his single mother Cynthia, Isaiah is given an ultimatum – to step up or move out. Feeling the pull from his friends and the push from his mom, Isaiah is hired by Moore Fitness, unaware of how the owner will personally impact his life. With the prayers of his mother and unexpected guidance from his new mentor, Isaiah is forced to deal with his past, sacrifice his selfishness and discover how God might have a greater purpose for his life.",
-    "popularity": 10.4269,
+    "popularity": 9.1386,
     "poster_path": "/oranxontIQRmhuyQlkoAwxpeBYz.jpg",
     "release_date": "2024-08-22",
     "title": "The Forge",
     "video": false,
     "vote_average": 8.328,
     "vote_count": 274
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/nT0tpSovSldMoKQywsf46R9dXbe.jpg",
-    "genre_ids": [
-      53,
-      18
-    ],
-    "id": 1145725,
-    "original_language": "en",
-    "original_title": "Tyler Perry's Duplicity",
-    "overview": "High-powered attorney Marley faces her most personal case yet when she is tasked with uncovering the truth behind the murder of her best friend Fela’s husband. With the help of her boyfriend – a former cop turned private investigator – Marley’s search for what really happened leads her down a treacherous maze of deception and betrayal.",
-    "popularity": 10.4223,
-    "poster_path": "/xNINmmVZuRn2MWo34Mj42OjBntN.jpg",
-    "release_date": "2025-03-19",
-    "title": "Tyler Perry's Duplicity",
-    "video": false,
-    "vote_average": 6.6,
-    "vote_count": 110
-  },
-  {
-    "adult": false,
-    "backdrop_path": null,
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "id": 1135869,
-    "original_language": "ho",
-    "original_title": "Kelas Bintang - Salome",
-    "overview": "Kelas Bintang is back with this pack of drama called Salome.",
-    "popularity": 10.4186,
-    "poster_path": "/9R94k6pMdLWHwzxSSlKVrPo0EE3.jpg",
-    "release_date": "2023-05-13",
-    "title": "Salome",
-    "video": false,
-    "vote_average": 10.0,
-    "vote_count": 1
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/n4ycOGj2tRLfINTJQ3wl0vNYqpR.jpg",
-    "genre_ids": [
-      16,
-      14,
-      10751,
-      12,
-      35
-    ],
-    "id": 592983,
-    "original_language": "en",
-    "original_title": "Spellbound",
-    "overview": "When a powerful spell turns her parents into giant monsters, a teenage princess must journey into the wild to reverse the curse before it's too late.",
-    "popularity": 10.4136,
-    "poster_path": "/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg",
-    "release_date": "2024-11-22",
-    "title": "Spellbound",
-    "video": false,
-    "vote_average": 6.725,
-    "vote_count": 256
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/i2fZIltljrhFPsUK9PN6O6ZE7M4.jpg",
-    "genre_ids": [
-      10751,
-      35,
-      12,
-      16
-    ],
-    "id": 11836,
-    "original_language": "en",
-    "original_title": "The SpongeBob SquarePants Movie",
-    "overview": "There's trouble brewing in Bikini Bottom. Someone has stolen King Neptune's crown, and it looks like Mr. Krab, SpongeBob's boss, is the culprit. Though he's just been passed over for the promotion of his dreams, SpongeBob stands by his boss, and along with his best pal Patrick, sets out on a treacherous mission to Shell City to reclaim the crown and save Mr. Krab's life.",
-    "popularity": 10.4123,
-    "poster_path": "/1rvzKV1d18EbDVaEd4VDzK3cgnY.jpg",
-    "release_date": "2004-11-19",
-    "title": "The SpongeBob SquarePants Movie",
-    "video": false,
-    "vote_average": 7.039,
-    "vote_count": 2969
   }
 ]

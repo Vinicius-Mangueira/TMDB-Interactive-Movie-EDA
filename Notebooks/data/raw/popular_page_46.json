@@ -1,373 +1,163 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/4srHHwIQvDEw4Ya42Cdfn3V1yhb.jpg",
+    "backdrop_path": "/deLWkOLZmBNkm8p16igfapQyqeq.jpg",
     "genre_ids": [
-      18,
-      14
-    ],
-    "id": 2323,
-    "original_language": "en",
-    "original_title": "Field of Dreams",
-    "overview": "Ray Kinsella is an Iowa farmer who hears a mysterious voice telling him to turn his cornfield into a baseball diamond. He does, but the voice's directions don't stop -- even after the spirits of deceased ballplayers turn up to play.",
-    "popularity": 8.8855,
-    "poster_path": "/vL7F8T9B6r4Uztpe1Hw4o63I1m1.jpg",
-    "release_date": "1989-04-21",
-    "title": "Field of Dreams",
-    "video": false,
-    "vote_average": 7.1,
-    "vote_count": 1543
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5mQZqk2qSJCsYmvw1cQJLEcLNYM.jpg",
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "id": 64682,
-    "original_language": "en",
-    "original_title": "The Great Gatsby",
-    "overview": "An adaptation of F. Scott Fitzgerald's Long Island-set novel, where Midwesterner Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby. Soon enough, however, Carraway will see through the cracks of Gatsby's nouveau riche existence, where obsession, madness, and tragedy await.",
-    "popularity": 11.3567,
-    "poster_path": "/nimh1rrDDLhgpG8XAYoUZXHYwb6.jpg",
-    "release_date": "2013-05-09",
-    "title": "The Great Gatsby",
-    "video": false,
-    "vote_average": 7.365,
-    "vote_count": 12446
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bWftGh0aLMzb8wetgziLq3fHpTJ.jpg",
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "id": 9769,
-    "original_language": "en",
-    "original_title": "Lolita",
-    "overview": "Humbert Humbert is a middle-aged British novelist who is both appalled by and attracted to the vulgarity of American culture. When he comes to stay at the boarding house run by Charlotte Haze, he soon becomes obsessed with Lolita, the woman's teenaged daughter.",
-    "popularity": 11.1124,
-    "poster_path": "/6F4bV1DsCHjYCXRwIA6NZY7dcnD.jpg",
-    "release_date": "1997-09-27",
-    "title": "Lolita",
-    "video": false,
-    "vote_average": 7.141,
-    "vote_count": 1842
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5AhpUb8CAP0jZ4Wrn7AsRUYjZxB.jpg",
-    "genre_ids": [
+      14,
       28,
-      35,
-      878
+      12
     ],
-    "id": 41154,
+    "id": 763215,
     "original_language": "en",
-    "original_title": "Men in Black 3",
-    "overview": "Agents J and K are back...in time. J has seen some inexplicable things in his 15 years with the Men in Black, but nothing, not even aliens, perplexes him as much as his wry, reticent partner. But when K's life and the fate of the planet are put at stake, Agent J will have to travel back in time to put things right. J discovers that there are secrets to the universe that K never told him - secrets that will reveal themselves as he teams up with the young Agent K to save his partner, the agency, and the future of humankind.",
-    "popularity": 8.0239,
-    "poster_path": "/90DdoEStzeObs96fsYf4GG544iN.jpg",
-    "release_date": "2012-05-23",
-    "title": "Men in Black 3",
+    "original_title": "Damsel",
+    "overview": "A young woman's marriage to a charming prince turns into a fierce fight for survival when she's offered up as a sacrifice to a fire-breathing dragon.",
+    "popularity": 10.3081,
+    "poster_path": "/290Lsuy4GJF3VEVqMbJqHs7xFdv.jpg",
+    "release_date": "2024-03-07",
+    "title": "Damsel",
     "video": false,
-    "vote_average": 6.527,
-    "vote_count": 10470
+    "vote_average": 7.022,
+    "vote_count": 2424
   },
   {
     "adult": false,
-    "backdrop_path": "/lBX2EklMBEK5I0OIJWVJFr3DtmS.jpg",
+    "backdrop_path": "/yMmhALrLWj9amm2pAelmdXggxk2.jpg",
     "genre_ids": [
-      28,
-      18
-    ],
-    "id": 312221,
-    "original_language": "en",
-    "original_title": "Creed",
-    "overview": "The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.",
-    "popularity": 9.9335,
-    "poster_path": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
-    "release_date": "2015-11-25",
-    "title": "Creed",
-    "video": false,
-    "vote_average": 7.406,
-    "vote_count": 7568
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bqqthiW4JzYK3hz9LrqNZQWbNz6.jpg",
-    "genre_ids": [
-      35,
-      10749,
-      18
-    ],
-    "id": 1278827,
-    "original_language": "en",
-    "original_title": "The Wedding Banquet",
-    "overview": "Frustrated with his commitment-phobic boyfriend Chris and running out of time, Min makes a proposal: a green-card marriage with their friend Angela in exchange for her partner Lee's expensive IVF. Elopement plans are upended, however, when Min's grandmother surprises them with an extravagant Korean wedding banquet.",
-    "popularity": 10.1334,
-    "poster_path": "/48scEvAG0H4PBWTt86sJeazExpN.jpg",
-    "release_date": "2025-04-18",
-    "title": "The Wedding Banquet",
-    "video": false,
-    "vote_average": 9.0,
-    "vote_count": 6
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/evA6FciF3WGTixgoB931elOp73L.jpg",
-    "genre_ids": [
+      16,
+      10751,
+      12,
       35
     ],
-    "id": 9352,
+    "id": 49013,
     "original_language": "en",
-    "original_title": "EuroTrip",
-    "overview": "When Scott learns that his longtime cyber-buddy from Berlin is a gorgeous young woman, he and his friends embark on a trip across Europe.",
-    "popularity": 9.6238,
-    "poster_path": "/iLdO4PwbZCCQSa9rchZMwuJm9xe.jpg",
-    "release_date": "2004-02-20",
-    "title": "EuroTrip",
+    "original_title": "Cars 2",
+    "overview": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.",
+    "popularity": 10.3073,
+    "poster_path": "/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg",
+    "release_date": "2011-06-11",
+    "title": "Cars 2",
     "video": false,
-    "vote_average": 6.6,
-    "vote_count": 2683
+    "vote_average": 6.147,
+    "vote_count": 7987
   },
   {
     "adult": false,
-    "backdrop_path": "/vcc6NDwsMwNrwHgVuI9lGdWJLB8.jpg",
+    "backdrop_path": "/l2QSVFR5aLcW1Vl4cGKrQkEp6fY.jpg",
     "genre_ids": [
-      28,
-      18
-    ],
-    "id": 784651,
-    "original_language": "hi",
-    "original_title": "फाइटर",
-    "overview": "As India faces a militant attack in Kashmir, the country’s best combat aviators join forces under a reckless yet brilliant squadron leader to form 'Air Dragons', faces mortal dangers and their inner demons.",
-    "popularity": 9.3662,
-    "poster_path": "/cQ5u9RcrUEGGlnHvMnHf96rLYgD.jpg",
-    "release_date": "2024-01-24",
-    "title": "Fighter",
-    "video": false,
-    "vote_average": 6.1,
-    "vote_count": 132
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gt4EnUGbbGbNOX0q47YII3WxB48.jpg",
-    "genre_ids": [
-      878,
-      18
-    ],
-    "id": 13363,
-    "original_language": "en",
-    "original_title": "The Man from Earth",
-    "overview": "A departing professor gathers his closest colleagues for an intimate farewell, but the night takes an unexpected turn when he shares a stunning secret about his past. As the conversation unfolds, skepticism and curiosity collide, challenging everything they thought they knew about history, science, and belief.",
-    "popularity": 11.3203,
-    "poster_path": "/x795RrV92JbLXh4pBSEEe62Nmv0.jpg",
-    "release_date": "2007-06-10",
-    "title": "The Man from Earth",
-    "video": false,
-    "vote_average": 7.633,
-    "vote_count": 2620
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/x0pkoGlwWdkzRxgQioD3cUG0awu.jpg",
-    "genre_ids": [
-      18,
-      36
-    ],
-    "id": 1000837,
-    "original_language": "pt",
-    "original_title": "Ainda Estou Aqui",
-    "overview": "In 1971, military dictatorship in Brazil reaches its height. The Paiva family — Rubens, Eunice, and their five children — live in a beachside house in Rio, open to all their friends. One day, Rubens is taken for questioning and does not return.",
-    "popularity": 10.6441,
-    "poster_path": "/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg",
-    "release_date": "2024-09-19",
-    "title": "I’m Still Here",
-    "video": false,
-    "vote_average": 8.0,
-    "vote_count": 652
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/scQf03Fm3jeyv4FH04qvi4fp4wh.jpg",
-    "genre_ids": [
-      80,
       35,
+      10749,
       28
     ],
-    "id": 402900,
-    "original_language": "en",
-    "original_title": "Ocean's Eight",
-    "overview": "Debbie Ocean, a criminal mastermind, gathers a crew of female thieves to pull off the heist of the century at New York's annual Met Gala.",
-    "popularity": 9.9419,
-    "poster_path": "/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
-    "release_date": "2018-06-07",
-    "title": "Ocean's Eight",
+    "id": 1201012,
+    "original_language": "hi",
+    "original_title": "धूम धाम",
+    "overview": "On their wedding night, an oddball couple is thrust into a chaotic chase, dodging goons and cops in a frenzied hunt for the mysterious \"Charlie.\"",
+    "popularity": 10.2705,
+    "poster_path": "/2E7me3rPi8HqaeheuD86YlpNX6k.jpg",
+    "release_date": "2025-02-13",
+    "title": "Dhoom Dhaam",
     "video": false,
-    "vote_average": 6.972,
-    "vote_count": 8417
+    "vote_average": 6.679,
+    "vote_count": 42
   },
   {
     "adult": false,
-    "backdrop_path": "/7t7IQhdA5rO8jhinE3ig258hqlf.jpg",
+    "backdrop_path": "/n4ycOGj2tRLfINTJQ3wl0vNYqpR.jpg",
     "genre_ids": [
-      10749,
-      35,
+      16,
       14,
-      27
+      10751,
+      12,
+      35
     ],
-    "id": 988402,
-    "original_language": "fr",
-    "original_title": "Vampire humaniste cherche suicidaire consentant",
-    "overview": "Sasha is a young vampire with a serious problem: she's too sensitive to kill. When her exasperated parents cut off her blood supply, Sasha's life is in jeopardy. Luckily, she meets Paul, a lonely teenager with suicidal tendencies who is willing to give his life to save hers. But their friendly agreement soon becomes a nocturnal quest to fulfill Paul's last wishes before day breaks.",
-    "popularity": 9.6539,
-    "poster_path": "/m5OItLBY5T38ew1YI4VSIXjl5G2.jpg",
-    "release_date": "2023-10-13",
-    "title": "Humanist Vampire Seeking Consenting Suicidal Person",
+    "id": 592983,
+    "original_language": "en",
+    "original_title": "Spellbound",
+    "overview": "When a powerful spell turns her parents into giant monsters, a teenage princess must journey into the wild to reverse the curse before it's too late.",
+    "popularity": 10.2698,
+    "poster_path": "/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg",
+    "release_date": "2024-11-22",
+    "title": "Spellbound",
     "video": false,
-    "vote_average": 7.4,
-    "vote_count": 267
+    "vote_average": 6.725,
+    "vote_count": 256
   },
   {
     "adult": false,
-    "backdrop_path": "/wDpSSSPp8FQQ7oLYgDSeNDj40IZ.jpg",
+    "backdrop_path": "/wD9UaqaSEYqEPa1NSdowL40LI3a.jpg",
     "genre_ids": [
+      10749
+    ],
+    "id": 705862,
+    "original_language": "ja",
+    "original_title": "Red",
+    "overview": "A married woman with a lovely daughter lives a carefree life, until she meets her ex-lover at a friend’s wedding. They haven’t seen each other in ten years, but they begin an affair.",
+    "popularity": 10.2524,
+    "poster_path": "/4KykwGCfN45vPhuNUlpey3H1ev5.jpg",
+    "release_date": "2020-02-21",
+    "title": "Red",
+    "video": false,
+    "vote_average": 4.7,
+    "vote_count": 97
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zCjZfevPFBbOh2SAx2syIBHSqEI.jpg",
+    "genre_ids": [
+      28,
+      18,
+      878
+    ],
+    "id": 124905,
+    "original_language": "en",
+    "original_title": "Godzilla",
+    "overview": "Ford Brody, a Navy bomb expert, has just reunited with his family in San Francisco when he is forced to go to Japan to help his estranged father, Joe. Soon, both men are swept up in an escalating crisis when an ancient alpha predator arises from the sea to combat malevolent adversaries that threaten the survival of humanity. The creatures leave colossal destruction in their wake, as they make their way toward their final battleground: San Francisco.",
+    "popularity": 10.2484,
+    "poster_path": "/zokD6uxR2iWfYM3Y84yGJvnNTK7.jpg",
+    "release_date": "2014-05-14",
+    "title": "Godzilla",
+    "video": false,
+    "vote_average": 6.345,
+    "vote_count": 9302
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gTRXgigmgKpeJjW07iq686HZyBD.jpg",
+    "genre_ids": [
+      28,
+      16,
+      878
+    ],
+    "id": 9323,
+    "original_language": "ja",
+    "original_title": "GHOST IN THE SHELL",
+    "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
+    "popularity": 10.2165,
+    "poster_path": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+    "release_date": "1995-11-18",
+    "title": "Ghost in the Shell",
+    "video": false,
+    "vote_average": 7.9,
+    "vote_count": 3516
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o0x4LOW8qzVNyqwWGMuFa3kE7Hs.jpg",
+    "genre_ids": [
+      80,
       27,
       53
     ],
-    "id": 807339,
-    "original_language": "en",
-    "original_title": "Apartment 7A",
-    "overview": "A struggling young dancer finds herself drawn in by dark forces when a peculiar, well-connected older couple promise her a shot at fame.",
-    "popularity": 8.8356,
-    "poster_path": "/uipHKJHY1nNEQyprXjfNzH0GIOF.jpg",
-    "release_date": "2024-09-20",
-    "title": "Apartment 7A",
+    "id": 73861,
+    "original_language": "sr",
+    "original_title": "Srpski film",
+    "overview": "Retired porn star Milos leads a normal family life trying to make ends meet. Presented with the opportunity of a lifetime to financially support his family for the rest of their lives, Milos must participate in one last mysterious film. From then on, Milos is drawn into a maelstrom of unbelievable cruelty and mayhem.",
+    "popularity": 10.17,
+    "poster_path": "/cToUzXZ9AcUylfIt8vnXhiy6Y9m.jpg",
+    "release_date": "2010-06-16",
+    "title": "A Serbian Film",
     "video": false,
-    "vote_average": 6.17,
-    "vote_count": 289
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7S7PE3vK9Eh5uzCYBDGk5qTJeYW.jpg",
-    "genre_ids": [
-      18,
-      80,
-      53
-    ],
-    "id": 629,
-    "original_language": "en",
-    "original_title": "The Usual Suspects",
-    "overview": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor – leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
-    "popularity": 10.4853,
-    "poster_path": "/rWbsxdwF9qQzpTPCLmDfVnVqTK1.jpg",
-    "release_date": "1995-07-19",
-    "title": "The Usual Suspects",
-    "video": false,
-    "vote_average": 8.175,
-    "vote_count": 10682
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/dOQX0JzHRho12NKjj3tJdkxFag6.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 1088514,
-    "original_language": "es",
-    "original_title": "La habitación de al lado",
-    "overview": "Ingrid and Martha were close friends in their youth, when they worked together at the same magazine. Ingrid went on to become an autofiction novelist while Martha became a war reporter, and they were separated by the circumstances of life. After years of being out of touch, they meet again in an extreme but strangely sweet situation.",
-    "popularity": 9.3982,
-    "poster_path": "/qMibLyArrlBJ87AoqQBeVaFeRXp.jpg",
-    "release_date": "2024-10-07",
-    "title": "The Room Next Door",
-    "video": false,
-    "vote_average": 6.787,
-    "vote_count": 498
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yVSgw4UyXWg0Edl7KMehdhhgIwL.jpg",
-    "genre_ids": [
-      878,
-      28,
-      53
-    ],
-    "id": 34851,
-    "original_language": "en",
-    "original_title": "Predators",
-    "overview": "A group of cold-blooded killers find themselves trapped on an alien planet to be hunted by extraterrestrial Predators.",
-    "popularity": 9.516,
-    "poster_path": "/wdniP8NDaJIydi1hMxhpbJMUfr6.jpg",
-    "release_date": "2010-07-07",
-    "title": "Predators",
-    "video": false,
-    "vote_average": 6.275,
-    "vote_count": 4252
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
-    "genre_ids": [
-      28,
-      12,
-      16,
-      10751
-    ],
-    "id": 260513,
-    "original_language": "en",
-    "original_title": "Incredibles 2",
-    "overview": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.",
-    "popularity": 9.7138,
-    "poster_path": "/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
-    "release_date": "2018-06-14",
-    "title": "Incredibles 2",
-    "video": false,
-    "vote_average": 7.454,
-    "vote_count": 13053
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vabhkZ3vwf8u7yXCSi3zbVzAVRa.jpg",
-    "genre_ids": [
-      80,
-      18,
-      53
-    ],
-    "id": 242582,
-    "original_language": "en",
-    "original_title": "Nightcrawler",
-    "overview": "When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.",
-    "popularity": 9.726,
-    "poster_path": "/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
-    "release_date": "2014-10-23",
-    "title": "Nightcrawler",
-    "video": false,
-    "vote_average": 7.7,
-    "vote_count": 11034
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
-    "genre_ids": [
-      10752,
-      36,
-      53,
-      18
-    ],
-    "id": 530915,
-    "original_language": "en",
-    "original_title": "1917",
-    "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
-    "popularity": 9.6354,
-    "poster_path": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
-    "release_date": "2019-12-25",
-    "title": "1917",
-    "video": false,
-    "vote_average": 7.989,
-    "vote_count": 12754
+    "vote_average": 5.461,
+    "vote_count": 2055
   }
 ]
