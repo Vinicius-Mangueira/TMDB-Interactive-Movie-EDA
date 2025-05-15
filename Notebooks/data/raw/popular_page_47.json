@@ -1,395 +1,81 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/747dgDfL5d8esobk7h4odaOFhUq.jpg",
-    "genre_ids": [
-      80,
-      18,
-      53
-    ],
-    "id": 275,
-    "original_language": "en",
-    "original_title": "Fargo",
-    "overview": "Jerry, a small-town Minnesota car salesman is bursting at the seams with debt... but he's got a plan. He's going to hire two thugs to kidnap his wife in a scheme to collect a hefty ransom from his wealthy father-in-law. It's going to be a snap and nobody's going to get hurt... until people start dying. Enter Police Chief Marge, a coffee-drinking, parka-wearing - and extremely pregnant - investigator who'll stop at nothing to get her man. And if you think her small-time investigative skills will give the crooks a run for their ransom... you betcha!",
-    "popularity": 10.1321,
-    "poster_path": "/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
-    "release_date": "1996-03-08",
-    "title": "Fargo",
-    "video": false,
-    "vote_average": 7.855,
-    "vote_count": 8376
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xaNBpBkONtupAVJqQBIW5EZa7xi.jpg",
-    "genre_ids": [
-      35
-    ],
-    "id": 996821,
-    "original_language": "en",
-    "original_title": "You're Cordially Invited",
-    "overview": "When two weddings are accidentally booked on the same day at the same venue, each bridal party is challenged with preserving their family's special moment while making the most of the unanticipated tight quarters. In a hilarious battle of determination and grit, the father of the bride and sister of the other bride chaotically go head-to-head as they stop at nothing to uphold an unforgettable celebration for their loved ones.",
-    "popularity": 10.1288,
-    "poster_path": "/muXnwAdVdEEktto0NBNMyqK3uQH.jpg",
-    "release_date": "2025-01-29",
-    "title": "You're Cordially Invited",
-    "video": false,
-    "vote_average": 5.888,
-    "vote_count": 349
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gG9fTyDL03fiKnOpf2tr01sncnt.jpg",
-    "genre_ids": [
-      28,
-      878,
-      14
-    ],
-    "id": 526896,
-    "original_language": "en",
-    "original_title": "Morbius",
-    "overview": "Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.",
-    "popularity": 10.1264,
-    "poster_path": "/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg",
-    "release_date": "2022-03-30",
-    "title": "Morbius",
-    "video": false,
-    "vote_average": 5.967,
-    "vote_count": 4466
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/iC799S3B73BqVTWj10huKoj84eV.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 334543,
-    "original_language": "en",
-    "original_title": "Lion",
-    "overview": "A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.",
-    "popularity": 10.1231,
-    "poster_path": "/iBGRbLvg6kVc7wbS8wDdVHq6otm.jpg",
-    "release_date": "2016-11-24",
-    "title": "Lion",
-    "video": false,
-    "vote_average": 8.047,
-    "vote_count": 6692
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/2tZVYiosztNM1DAYUF59VPsNp9L.jpg",
-    "genre_ids": [
-      35
-    ],
-    "id": 11635,
-    "original_language": "en",
-    "original_title": "Old School",
-    "overview": "Three friends attempt to recapture their glory days by opening up a fraternity near their alma mater.",
-    "popularity": 10.1178,
-    "poster_path": "/nYtuwNHpEoIbTgS3aFPSEwZNN6l.jpg",
-    "release_date": "2003-02-21",
-    "title": "Old School",
-    "video": false,
-    "vote_average": 6.598,
-    "vote_count": 1916
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/sGOw65ZmfgGfistCjuNsazjs6j9.jpg",
-    "genre_ids": [
-      37,
-      18,
-      12
-    ],
-    "id": 281957,
-    "original_language": "en",
-    "original_title": "The Revenant",
-    "overview": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
-    "popularity": 10.1089,
-    "poster_path": "/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
-    "release_date": "2015-12-25",
-    "title": "The Revenant",
-    "video": false,
-    "vote_average": 7.534,
-    "vote_count": 18428
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bSqhsOTMnp0L6xGSHCAArXXURNy.jpg",
-    "genre_ids": [
-      28,
-      53,
-      878
-    ],
-    "id": 10483,
-    "original_language": "en",
-    "original_title": "Death Race",
-    "overview": "Terminal Island, New York: 2020. Overcrowding in the US penal system has reached a breaking point. Prisons have been turned over to a monolithic Weyland Corporation, which sees jails full of thugs as an opportunity for televised sport. Adrenalized inmates, a global audience hungry for violence and a spectacular, enclosed arena come together to form the 'Death Race', the biggest, most brutal event.",
-    "popularity": 10.103,
-    "poster_path": "/5A79GeOb3uChQ0l0ZDjDyODKQp3.jpg",
-    "release_date": "2008-08-22",
-    "title": "Death Race",
-    "video": false,
-    "vote_average": 6.272,
-    "vote_count": 3868
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/AmN8ozRE0AbMGgZhqBu4fUjZkRt.jpg",
-    "genre_ids": [
-      12,
-      18,
-      36
-    ],
-    "id": 11362,
-    "original_language": "en",
-    "original_title": "The Count of Monte Cristo",
-    "overview": "Edmond Dantés's life and plans to marry the beautiful Mercedes are shattered when his best friend, Fernand, deceives him. After spending 13 miserable years in prison, Dantés escapes with the help of a fellow inmate and plots his revenge, cleverly insinuating himself into the French nobility.",
-    "popularity": 10.095,
-    "poster_path": "/ifMgDAUXVQLY4DeOu3VTTi55jSP.jpg",
-    "release_date": "2002-01-23",
-    "title": "The Count of Monte Cristo",
-    "video": false,
-    "vote_average": 7.7,
-    "vote_count": 1855
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/c9yVIqnrD6fyYhNzNcvAoU6CFG.jpg",
-    "genre_ids": [
-      10749,
-      35
-    ],
-    "id": 866413,
-    "original_language": "en",
-    "original_title": "You People",
-    "overview": "A new couple and their families reckon with modern love amid culture clashes, societal expectations and generational differences.",
-    "popularity": 10.0884,
-    "poster_path": "/x5E4TndwASNkaK2hwgeYfsIVo2x.jpg",
-    "release_date": "2023-01-20",
-    "title": "You People",
-    "video": false,
-    "vote_average": 5.632,
-    "vote_count": 718
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/2Nhw5RdJXUZlHpbXqImtbvtqjdA.jpg",
-    "genre_ids": [
-      12,
-      878
-    ],
-    "id": 329,
-    "original_language": "en",
-    "original_title": "Jurassic Park",
-    "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
-    "popularity": 10.0702,
-    "poster_path": "/fjTU1Bgh3KJu4aatZil3sofR2zC.jpg",
-    "release_date": "1993-06-11",
-    "title": "Jurassic Park",
-    "video": false,
-    "vote_average": 8.0,
-    "vote_count": 16732
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xHDynIimfsgj0ZOs0j5ma8v1vmM.jpg",
+    "backdrop_path": "/1M2i4Mxd03elGOTmEkIvqrHfmyS.jpg",
     "genre_ids": [
       35,
-      18
-    ],
-    "id": 120467,
-    "original_language": "en",
-    "original_title": "The Grand Budapest Hotel",
-    "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
-    "popularity": 10.0462,
-    "poster_path": "/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
-    "release_date": "2014-02-26",
-    "title": "The Grand Budapest Hotel",
-    "video": false,
-    "vote_average": 8.042,
-    "vote_count": 15159
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/s37s21YPqS7txyB0x0TRel24vgi.jpg",
-    "genre_ids": [
-      36,
-      28,
-      18
-    ],
-    "id": 1196943,
-    "original_language": "hi",
-    "original_title": "छावा",
-    "overview": "Shivaji's death sparks the Maratha-Mughal conflict. His son Sambhaji leads resistance against Aurangzeb's forces. Amid battles and intrigue, both sides face challenges in a struggle for power.",
-    "popularity": 10.0434,
-    "poster_path": "/ubRsrzb6NRW8YhVTJ6jG1kpNvCi.jpg",
-    "release_date": "2025-02-14",
-    "title": "Chhaava",
-    "video": false,
-    "vote_average": 6.7,
-    "vote_count": 29
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/oYiPf8oR2ZrjvGIVzGTw1BZihDP.jpg",
-    "genre_ids": [
-      9648,
       18,
-      10749,
-      53
-    ],
-    "id": 153104,
-    "original_language": "en",
-    "original_title": "Wicked Minds",
-    "overview": "Holden returns home from college and is surprised to find his overpowering competitive father married to a much younger woman Lana. Holden quickly falls for the beauty and charisma of his step mother. A passionate affair begins between son and stepmother.",
-    "popularity": 10.0412,
-    "poster_path": "/A6A15cDR8mpdOxW4y7UzFanzbM0.jpg",
-    "release_date": "2003-03-01",
-    "title": "Wicked Minds",
-    "video": false,
-    "vote_average": 6.43,
-    "vote_count": 43
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/l4ziDfrNJGcSro2cYuDGTw142Qj.jpg",
-    "genre_ids": [
-      14,
-      37
-    ],
-    "id": 1024864,
-    "original_language": "en",
-    "original_title": "Showdown in Yesteryear",
-    "overview": "An aspiring cowboy encounters a mysterious door on a ranch. Upon opening it and stumbling through, he’s suddenly thrust back into time -- 160 years back in the old west -- where outlaws rule and life is dangerous…",
-    "popularity": 10.0404,
-    "poster_path": "/haeJ7x1NPQEVF1IlpnmslQUTATD.jpg",
-    "release_date": "2022-08-20",
-    "title": "Showdown in Yesteryear",
-    "video": false,
-    "vote_average": 6.9,
-    "vote_count": 5
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/oG9dcGSSu13fjFp1Uly15ZXjRKV.jpg",
-    "genre_ids": [
-      16,
-      10751,
-      14,
-      12,
-      35,
       10749
     ],
-    "id": 11970,
+    "id": 19913,
     "original_language": "en",
-    "original_title": "Hercules",
-    "overview": "Bestowed with superhuman strength, a young mortal named Hercules sets out to prove himself a hero in the eyes of his father, the great god Zeus. Along with his friends Pegasus, a flying horse, and Phil, a personal trainer, Hercules is tricked by the hilarious, hotheaded villain Hades, who's plotting to take over Mount Olympus!",
-    "popularity": 10.0388,
-    "poster_path": "/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg",
-    "release_date": "1997-06-13",
-    "title": "Hercules",
+    "original_title": "(500) Days of Summer",
+    "overview": "Tom, greeting-card writer and hopeless romantic, is caught completely off-guard when his girlfriend, Summer, suddenly dumps him. He reflects on their 500 days together to try to figure out where their love affair went sour, and in doing so, Tom rediscovers his true passions in life.",
+    "popularity": 11.1481,
+    "poster_path": "/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg",
+    "release_date": "2009-07-17",
+    "title": "(500) Days of Summer",
     "video": false,
-    "vote_average": 7.498,
-    "vote_count": 7566
+    "vote_average": 7.295,
+    "vote_count": 10405
   },
   {
     "adult": false,
-    "backdrop_path": "/zTxHf9iIOCqRbxvl8W5QYKrsMLq.jpg",
+    "backdrop_path": "/o4mQHoP8LExn2Q9dn16OGqHvaiK.jpg",
     "genre_ids": [
       12,
-      35,
-      14
+      18,
+      10751
     ],
-    "id": 512200,
+    "id": 1265,
     "original_language": "en",
-    "original_title": "Jumanji: The Next Level",
-    "overview": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
-    "popularity": 10.0369,
-    "poster_path": "/4kh9dxAiClS2GMUpkRyzGwpNWWX.jpg",
-    "release_date": "2019-12-04",
-    "title": "Jumanji: The Next Level",
+    "original_title": "Bridge to Terabithia",
+    "overview": "Jesse Aarons trained all summer to become the fastest runner in school. So he's very upset when newcomer Leslie Burke outruns him and everyone else. Despite this and other differences including that she's rich, he's poor, she's a city girl, and he's a country boy the two become fast friends. Together they create Terabithia, a land of monsters, trolls, ogres, and giants where they rule as king and queen.",
+    "popularity": 10.6213,
+    "poster_path": "/3xFxGodKPMFLheS8rujFSmLfcq4.jpg",
+    "release_date": "2007-02-15",
+    "title": "Bridge to Terabithia",
     "video": false,
-    "vote_average": 6.9,
-    "vote_count": 8874
+    "vote_average": 7.306,
+    "vote_count": 4920
   },
   {
     "adult": false,
-    "backdrop_path": "/p4INKu77iuTG1o1a5N3Y9vqeEGq.jpg",
+    "backdrop_path": "/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
     "genre_ids": [
       27,
       53
     ],
-    "id": 1079485,
+    "id": 381288,
     "original_language": "en",
-    "original_title": "Winnie-the-Pooh: Blood and Honey 2",
-    "overview": "Five months following the murders, Christopher Robin struggles to maintain a regular life while dealing with PTSD. However, deep within the 100-Acre-Wood, a destructive rage grows as Pooh, Piglet, Owl, and Tigger find their home and their lives endangered after their existence is revealed.",
-    "popularity": 10.0314,
-    "poster_path": "/2sADrLwMQof6yYmrJRSa04tFZuS.jpg",
-    "release_date": "2024-03-26",
-    "title": "Winnie-the-Pooh: Blood and Honey 2",
+    "original_title": "Split",
+    "overview": "Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him — as well as everyone around him — as the walls between his compartments shatter apart.",
+    "popularity": 9.9662,
+    "poster_path": "/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
+    "release_date": "2017-01-19",
+    "title": "Split",
     "video": false,
-    "vote_average": 5.993,
-    "vote_count": 364
+    "vote_average": 7.341,
+    "vote_count": 17649
   },
   {
     "adult": false,
-    "backdrop_path": "/qDVdTL1KqGmGLGsy7UPA3vksku7.jpg",
+    "backdrop_path": "/69EFgWWPFWbRNHmQgYdSnyJ94Ge.jpg",
     "genre_ids": [
       28,
       12,
-      53
+      878
     ],
-    "id": 9802,
+    "id": 49521,
     "original_language": "en",
-    "original_title": "The Rock",
-    "overview": "When vengeful General Francis X. Hummel seizes control of Alcatraz Island and threatens to launch missiles loaded with deadly chemical weapons into San Francisco, only a young FBI chemical weapons expert and notorious Federal prisoner have the skills to penetrate the impregnable island fortress and take him down.",
-    "popularity": 10.0273,
-    "poster_path": "/j5mxLNWjUlXUUk8weFBtnF4afIR.jpg",
-    "release_date": "1996-06-07",
-    "title": "The Rock",
+    "original_title": "Man of Steel",
+    "overview": "A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
+    "popularity": 12.0162,
+    "poster_path": "/dksTL9NXc3GqPBRHYHcy1aIwjS.jpg",
+    "release_date": "2013-06-12",
+    "title": "Man of Steel",
     "video": false,
-    "vote_average": 7.132,
-    "vote_count": 4825
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/o0x4LOW8qzVNyqwWGMuFa3kE7Hs.jpg",
-    "genre_ids": [
-      80,
-      27,
-      53
-    ],
-    "id": 73861,
-    "original_language": "sr",
-    "original_title": "Srpski film",
-    "overview": "Retired porn star Milos leads a normal family life trying to make ends meet. Presented with the opportunity of a lifetime to financially support his family for the rest of their lives, Milos must participate in one last mysterious film. From then on, Milos is drawn into a maelstrom of unbelievable cruelty and mayhem.",
-    "popularity": 10.0267,
-    "poster_path": "/cToUzXZ9AcUylfIt8vnXhiy6Y9m.jpg",
-    "release_date": "2010-06-16",
-    "title": "A Serbian Film",
-    "video": false,
-    "vote_average": 5.461,
-    "vote_count": 2055
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jXDselREPq8TOVGM4dzBBUM7xVk.jpg",
-    "genre_ids": [
-      28,
-      878,
-      12
-    ],
-    "id": 399579,
-    "original_language": "en",
-    "original_title": "Alita: Battle Angel",
-    "overview": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
-    "popularity": 10.022,
-    "poster_path": "/xRWht48C2V8XNfzvPehyClOvDni.jpg",
-    "release_date": "2019-01-31",
-    "title": "Alita: Battle Angel",
-    "video": false,
-    "vote_average": 7.24,
-    "vote_count": 9414
+    "vote_average": 6.632,
+    "vote_count": 15403
   }
 ]
