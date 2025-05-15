@@ -1,26 +1,6 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/5FzFpmoZ4sJZXimbiXlRAA8SvEa.jpg",
-    "genre_ids": [
-      28,
-      27,
-      53
-    ],
-    "id": 1029235,
-    "original_language": "en",
-    "original_title": "Azrael",
-    "overview": "In a world where no one speaks, a devout female hunts down a young woman who has escaped her imprisonment. Recaptured by its ruthless leaders, Azrael is due to be sacrificed to pacify an ancient evil deep within the surrounding wilderness.",
-    "popularity": 21.4616,
-    "poster_path": "/qpdFKDvJS7oLKTcBLXOaMwUESbs.jpg",
-    "release_date": "2024-09-27",
-    "title": "Azrael",
-    "video": false,
-    "vote_average": 6.0,
-    "vote_count": 301
-  },
-  {
-    "adult": false,
     "backdrop_path": "/fjWcAbHRxCSR4kLGvsPEhNjR2ts.jpg",
     "genre_ids": [
       10749,
@@ -31,91 +11,13 @@
     "original_language": "en",
     "original_title": "The Out-Laws",
     "overview": "A straight-laced bank manager is about to marry the love of his life. When his bank is held up by infamous Ghost Bandits during his wedding week, he believes his future in-laws who just arrived in town, are the infamous Out-Laws.",
-    "popularity": 21.4331,
+    "popularity": 18.7637,
     "poster_path": "/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg",
     "release_date": "2023-07-07",
     "title": "The Out-Laws",
     "video": false,
     "vote_average": 6.028,
     "vote_count": 725
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
-    "genre_ids": [
-      16,
-      14,
-      12
-    ],
-    "id": 980477,
-    "original_language": "zh",
-    "original_title": "哪吒之魔童闹海",
-    "overview": "Following the Tribulation, although the souls of Ne Zha and Ao Bing were preserved, their physical bodies will soon be destroyed. Tai Yi Zhen Ren plans to use the Seven Colored Lotus to reshape their physical forms, but encounters numerous difficulties. What will become of Ne Zha and Ao Bing?",
-    "popularity": 21.4267,
-    "poster_path": "/5lUmWTGkEcYnXujixXn31o9q2T0.jpg",
-    "release_date": "2025-01-29",
-    "title": "Ne Zha 2",
-    "video": false,
-    "vote_average": 7.908,
-    "vote_count": 168
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cyecB7godJ6kNHGONFjUyVN9OX5.jpg",
-    "genre_ids": [
-      28,
-      878,
-      12
-    ],
-    "id": 1726,
-    "original_language": "en",
-    "original_title": "Iron Man",
-    "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
-    "popularity": 21.3808,
-    "poster_path": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
-    "release_date": "2008-04-30",
-    "title": "Iron Man",
-    "video": false,
-    "vote_average": 7.7,
-    "vote_count": 26946
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yHzyPJrVqlTySQ9mc379yxrLBYQ.jpg",
-    "genre_ids": [
-      12,
-      14
-    ],
-    "id": 672,
-    "original_language": "en",
-    "original_title": "Harry Potter and the Chamber of Secrets",
-    "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione’s magical abilities and courage.",
-    "popularity": 21.3767,
-    "poster_path": "/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
-    "release_date": "2002-11-13",
-    "title": "Harry Potter and the Chamber of Secrets",
-    "video": false,
-    "vote_average": 7.708,
-    "vote_count": 22513
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gJduZE3cAmLVQknEfiR5t0vT4Ie.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "id": 1096838,
-    "original_language": "en",
-    "original_title": "Here After",
-    "overview": "When her teen daughter displays increasingly disturbing behavior after a near death experience, a mother becomes convinced the girl brought something evil back from the other side.",
-    "popularity": 21.3705,
-    "poster_path": "/by3EEDIVTdhNJolYK2Msn1RHRFH.jpg",
-    "release_date": "2024-07-25",
-    "title": "Here After",
-    "video": false,
-    "vote_average": 5.336,
-    "vote_count": 70
   },
   {
     "adult": false,
@@ -130,13 +32,13 @@
     "original_language": "en",
     "original_title": "Transformers One",
     "overview": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
-    "popularity": 21.3592,
+    "popularity": 20.232,
     "poster_path": "/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",
     "release_date": "2024-09-11",
     "title": "Transformers One",
     "video": false,
-    "vote_average": 8.1,
-    "vote_count": 1224
+    "vote_average": 8.091,
+    "vote_count": 1225
   },
   {
     "adult": false,
@@ -151,7 +53,7 @@
     "original_language": "en",
     "original_title": "Coco",
     "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
-    "popularity": 21.329,
+    "popularity": 20.1584,
     "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
     "release_date": "2017-10-27",
     "title": "Coco",
@@ -169,7 +71,7 @@
     "original_language": "tl",
     "original_title": "Kiskisan",
     "overview": "A steamy tale of love, lust, and betrayal. When Adele's sister Bea returns with her girlfriend Cheska, a secret affair begins between Cheska and Adele's boyfriend, Rener, leading to a climactic ending when they're caught.",
-    "popularity": 21.2664,
+    "popularity": 18.6834,
     "poster_path": "/xTKDqre2om0YHHkiQbkiFyMorE9.jpg",
     "release_date": "2024-09-27",
     "title": "Kiskisan",
@@ -190,7 +92,7 @@
     "original_language": "en",
     "original_title": "Guardians of the Galaxy Vol. 3",
     "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
-    "popularity": 21.2213,
+    "popularity": 19.7764,
     "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
     "release_date": "2023-05-03",
     "title": "Guardians of the Galaxy Vol. 3",
@@ -210,33 +112,13 @@
     "original_language": "en",
     "original_title": "Hellhound",
     "overview": "Ready to leave his profession behind, Loreno, an assassin, lends help to an old friend, Cetan, and taking one last job in Thailand seeking out a local kingpin. A lapse in judgment means Loreno crosses paths with old colleague Paul.",
-    "popularity": 21.173,
+    "popularity": 20.2767,
     "poster_path": "/f9hkaCIha8hIhRo0XXShhcosrPH.jpg",
     "release_date": "2024-06-20",
     "title": "Hellhound",
     "video": false,
     "vote_average": 6.6,
     "vote_count": 46
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1uKHoFWyYJn060dpIXUCU7Wbc15.jpg",
-    "genre_ids": [
-      10752,
-      18,
-      28
-    ],
-    "id": 228150,
-    "original_language": "en",
-    "original_title": "Fury",
-    "overview": "In the last months of World War II, as the Allies make their final push in the European theatre, a battle-hardened U.S. Army sergeant named 'Wardaddy' commands a Sherman tank called 'Fury' and its five-man crew on a deadly mission behind enemy lines. Outnumbered and outgunned, Wardaddy and his men face overwhelming odds in their heroic attempts to strike at the heart of Nazi Germany.",
-    "popularity": 21.077,
-    "poster_path": "/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
-    "release_date": "2014-10-15",
-    "title": "Fury",
-    "video": false,
-    "vote_average": 7.54,
-    "vote_count": 12278
   },
   {
     "adult": false,
@@ -250,13 +132,13 @@
     "original_language": "en",
     "original_title": "Joker",
     "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
-    "popularity": 20.9577,
+    "popularity": 22.2118,
     "poster_path": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
     "release_date": "2019-10-01",
     "title": "Joker",
     "video": false,
     "vote_average": 8.137,
-    "vote_count": 26416
+    "vote_count": 26417
   },
   {
     "adult": false,
@@ -270,13 +152,13 @@
     "original_language": "en",
     "original_title": "Heart Eyes",
     "overview": "When the \"Heart Eyes Killer\" strikes Seattle, a pair of co-workers pulling overtime on Valentine's Day are mistaken for a couple by the elusive couple-hunting killer. Now, they must spend the most romantic night of the year running for their lives.",
-    "popularity": 20.9233,
+    "popularity": 20.5924,
     "poster_path": "/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg",
     "release_date": "2025-02-06",
     "title": "Heart Eyes",
     "video": false,
-    "vote_average": 6.402,
-    "vote_count": 205
+    "vote_average": 6.405,
+    "vote_count": 206
   },
   {
     "adult": false,
@@ -290,7 +172,7 @@
     "original_language": "en",
     "original_title": "Gone Girl",
     "overview": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
-    "popularity": 20.8973,
+    "popularity": 22.766,
     "poster_path": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
     "release_date": "2014-10-01",
     "title": "Gone Girl",
@@ -309,7 +191,7 @@
     "original_language": "ca",
     "original_title": "El Cas Àngelus. La fascinació de Dalí",
     "overview": "",
-    "popularity": 20.8406,
+    "popularity": 20.912,
     "poster_path": "/mMtEi3elbwRcZO7XlfeippFuAKr.jpg",
     "release_date": "2024-04-12",
     "title": "El Cas Àngelus. La fascinació de Dalí",
@@ -329,13 +211,13 @@
     "original_language": "en",
     "original_title": "Avatar: The Way of Water",
     "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
-    "popularity": 20.8383,
+    "popularity": 19.4067,
     "poster_path": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
     "release_date": "2022-12-14",
     "title": "Avatar: The Way of Water",
     "video": false,
-    "vote_average": 7.611,
-    "vote_count": 12536
+    "vote_average": 7.6,
+    "vote_count": 12539
   },
   {
     "adult": false,
@@ -348,13 +230,13 @@
     "original_language": "en",
     "original_title": "825 Forest Road",
     "overview": "After a family tragedy, Chuck Wilson hopes to start a new life in Ashland Falls with his wife Maria and little sister Elizabeth, but he quickly discovers that the town has a dark history of being haunted by a ghostly woman who drives residents to suicide.",
-    "popularity": 20.7606,
+    "popularity": 20.3341,
     "poster_path": "/ohESp5Nw49OD4ExCeNYCEIGX2iq.jpg",
     "release_date": "2025-04-24",
     "title": "825 Forest Road",
     "video": false,
-    "vote_average": 6.1,
-    "vote_count": 28
+    "vote_average": 6.121,
+    "vote_count": 29
   },
   {
     "adult": false,
@@ -366,31 +248,12 @@
     "original_language": "ja",
     "original_title": "性教育ママ",
     "overview": "An erotic comedy depicting the sex adventures of  young wives living in an apartment complex, that are not satisfied with just having sex with their husbands.",
-    "popularity": 20.6686,
+    "popularity": 13.9525,
     "poster_path": "/xghWMg0pkBOdLHCTESyeyHU68wl.jpg",
     "release_date": "1973-11-20",
     "title": "Sex Education Mistresses",
     "video": false,
     "vote_average": 5.9,
     "vote_count": 5
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9OO6I25MHhCDd0XwNk4oZl0fpwB.jpg",
-    "genre_ids": [
-      28,
-      18
-    ],
-    "id": 1261050,
-    "original_language": "da",
-    "original_title": "De lydløse",
-    "overview": "In 2008, a group of men from Denmark and across Europe pull off the biggest heist of all time on Danish soil. Kasper, a boxer with few chances left in life, is offered the opportunity to plan the robbery by its foreign initiators.",
-    "popularity": 20.656,
-    "poster_path": "/7NLY1jNwtZX1yVzwVoBeAhaBE8i.jpg",
-    "release_date": "2024-10-31",
-    "title": "The Quiet Ones",
-    "video": false,
-    "vote_average": 5.83,
-    "vote_count": 44
   }
 ]

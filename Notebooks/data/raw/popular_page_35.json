@@ -1,45 +1,6 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/bx6LoGl8L3hwgOCoD2H8JgIu7uC.jpg",
-    "genre_ids": [
-      28,
-      18
-    ],
-    "id": 1235623,
-    "original_language": "zh",
-    "original_title": "目中无人2",
-    "overview": "The blind swordsman, skilled in martial arts, named Cheng Xiazi (Xie Miao), accidentally saves Zhang Xiaoyu (Yang Enyou), who has suffered from the destruction of his family. Under the persuasion of the orphan Xiaoyu, Cheng reluctantly keeps him by his side and teaches him skills. Xiaoyu also waits for the opportunity to seek revenge.",
-    "popularity": 12.5512,
-    "poster_path": "/mkfznkTshGBp88SFQQAGsr3R62z.jpg",
-    "release_date": "2024-07-21",
-    "title": "Eye for an Eye 2",
-    "video": false,
-    "vote_average": 6.29,
-    "vote_count": 50
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/o4j2Yi8JC6dsOpk8BtW9JSoFtpj.jpg",
-    "genre_ids": [
-      16,
-      10751,
-      14
-    ],
-    "id": 10144,
-    "original_language": "en",
-    "original_title": "The Little Mermaid",
-    "overview": "This colorful adventure tells the story of an impetuous mermaid princess named Ariel who falls in love with the very human Prince Eric and puts everything on the line for the chance to be with him. Memorable songs and characters -- including the villainous sea witch Ursula.",
-    "popularity": 12.4897,
-    "poster_path": "/plcZXvI310FkbwIptvd6rqk63LP.jpg",
-    "release_date": "1989-11-17",
-    "title": "The Little Mermaid",
-    "video": false,
-    "vote_average": 7.35,
-    "vote_count": 8038
-  },
-  {
-    "adult": false,
     "backdrop_path": "/uXx9wjfJEzLlfqB8GW67SYBrhVT.jpg",
     "genre_ids": [
       27,

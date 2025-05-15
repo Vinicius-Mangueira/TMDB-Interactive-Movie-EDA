@@ -1,159 +1,49 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/w102m4HoCP5uxhW8Yh7Hv7QShix.jpg",
+    "backdrop_path": "/uxezSInaPoH20CyHx4TuY1LzGly.jpg",
     "genre_ids": [
       16,
-      10751,
-      35
-    ],
-    "id": 11544,
-    "original_language": "en",
-    "original_title": "Lilo & Stitch",
-    "overview": "As Stitch, a runaway genetic experiment from a faraway planet, wreaks havoc on the Hawaiian Islands, he becomes the mischievous adopted alien \"puppy\" of an independent little girl named Lilo and learns about loyalty, friendship, and ʻohana, the Hawaiian tradition of family.",
-    "popularity": 28.532,
-    "poster_path": "/m13Vbzv7R2GMAl3GXFrkmMEgCFQ.jpg",
-    "release_date": "2002-06-21",
-    "title": "Lilo & Stitch",
-    "video": false,
-    "vote_average": 7.5,
-    "vote_count": 6446
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/AuV99eQivVWuk2AOSM6hYh9QRPQ.jpg",
-    "genre_ids": [
-      12,
-      10751,
-      14
-    ],
-    "id": 411,
-    "original_language": "en",
-    "original_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-    "overview": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
-    "popularity": 28.5125,
-    "poster_path": "/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
-    "release_date": "2005-12-07",
-    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-    "video": false,
-    "vote_average": 7.133,
-    "vote_count": 10911
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg",
-    "genre_ids": [
-      28,
       35,
-      80,
-      53,
-      12
+      10751,
+      10770,
+      878,
+      12,
+      28,
+      10402
     ],
-    "id": 573435,
+    "id": 71689,
     "original_language": "en",
-    "original_title": "Bad Boys: Ride or Die",
-    "overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
-    "popularity": 28.3837,
-    "poster_path": "/oGythE98MYleE6mZlGs5oBGkux1.jpg",
-    "release_date": "2024-06-05",
-    "title": "Bad Boys: Ride or Die",
+    "original_title": "Phineas and Ferb The Movie: Across the 2nd Dimension",
+    "overview": "Phineas and Ferb get trapped in an alternate dimension where the evil Doofenshmirtz rules the tri-state area. They must find a way back home with the help of their pet platypus named Perry, who they discover is a secret agent.",
+    "popularity": 27.2743,
+    "poster_path": "/updMFSOZwEftfkJRpozwBlRlYI2.jpg",
+    "release_date": "2011-08-05",
+    "title": "Phineas and Ferb The Movie: Across the 2nd Dimension",
     "video": false,
-    "vote_average": 7.382,
-    "vote_count": 2880
+    "vote_average": 7.077,
+    "vote_count": 566
   },
   {
     "adult": false,
-    "backdrop_path": "/wbwHIbOAAYHqhsaFFsFQV62Wr6.jpg",
+    "backdrop_path": "/lqHt4icP1GTaNBeVTxTrwTZdoAW.jpg",
     "genre_ids": [
       28,
-      14,
-      80
-    ],
-    "id": 314,
-    "original_language": "en",
-    "original_title": "Catwoman",
-    "overview": "Liquidated after discovering a corporate conspiracy, mild-mannered graphic artist Patience Phillips washes up on an island, where she's resurrected and endowed with the prowess of a cat — and she's eager to use her new skills... as a vigilante. Before you can say \"cat and mouse\", handsome gumshoe Tom Lone is on her tail, fascinated by both of her personas.",
-    "popularity": 28.3026,
-    "poster_path": "/pvnPgukFyEKgCzyOxyLiwyZ8T1C.jpg",
-    "release_date": "2004-07-22",
-    "title": "Catwoman",
-    "video": false,
-    "vote_average": 4.619,
-    "vote_count": 3398
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/iznPd7PLnCBA1G50M4DuA9wvCIy.jpg",
-    "genre_ids": [
-      35
-    ],
-    "id": 1307520,
-    "original_language": "es",
-    "original_title": "La más fan",
-    "overview": "Canceled in Hollywood, star Lana Cruz heads to her hometown for a comeback. Enter Polly, her fan-turned-frenemy. Can Lana dodge drama and reclaim her fame?",
-    "popularity": 27.7735,
-    "poster_path": "/wgUmsekYPOt9ZQ8ero91qRnmhQY.jpg",
-    "release_date": "2025-05-01",
-    "title": "The Biggest Fan",
-    "video": false,
-    "vote_average": 5.4,
-    "vote_count": 17
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/o2Ut9sqfP0UTycWzRnML1qI4W1J.jpg",
-    "genre_ids": [
-      99,
-      80
-    ],
-    "id": 1466938,
-    "original_language": "en",
-    "original_title": "A Deadly American Marriage",
-    "overview": "Murder or self-defense? Told from both sides, this documentary explores the killing of Jason Corbett during a dispute with his wife and her father.",
-    "popularity": 27.6659,
-    "poster_path": "/2DiydymXoLD9KUGZKorBNapshl1.jpg",
-    "release_date": "2025-05-09",
-    "title": "A Deadly American Marriage",
-    "video": false,
-    "vote_average": 6.75,
-    "vote_count": 20
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/aBqpGwFVSAHcPNgsLX1Y10XPy7y.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 1371094,
-    "original_language": "es",
-    "original_title": "Desmontando un elefante",
-    "overview": "A mother is trapped by both a close bond to her daughter and a day-to-day life whose elephant in the room is her own addiction, which nobody mentions, remaining a taboo.",
-    "popularity": 27.4235,
-    "poster_path": "/M0V6s0WrPsYTd0HxjbZjYAqY9B.jpg",
-    "release_date": "2025-01-10",
-    "title": "Dismantling an Elephant",
-    "video": false,
-    "vote_average": 6.0,
-    "vote_count": 1
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cS992RPEJQ4S45IiNSLqlMl2ins.jpg",
-    "genre_ids": [
+      53,
       9648,
-      878
+      80
     ],
-    "id": 2666,
-    "original_language": "en",
-    "original_title": "Dark City",
-    "overview": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
-    "popularity": 27.2498,
-    "poster_path": "/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg",
-    "release_date": "1998-02-27",
-    "title": "Dark City",
+    "id": 1195430,
+    "original_language": "hi",
+    "original_title": "देवा",
+    "overview": "Dev Ambre, a ruthless cop, loses his memory in an accident just after he has finished solving a murder case and now has to reinvestigate it while keeping his memory loss a secret from everyone except DCP Farhan Khan.",
+    "popularity": 26.9864,
+    "poster_path": "/qxtXzAlEPxmjHILU8k8wduvBSdo.jpg",
+    "release_date": "2025-01-31",
+    "title": "Deva",
     "video": false,
-    "vote_average": 7.327,
-    "vote_count": 2901
+    "vote_average": 6.021,
+    "vote_count": 48
   },
   {
     "adult": false,
@@ -167,33 +57,32 @@
     "original_language": "es",
     "original_title": "Apocalipsis Z: el principio del fin",
     "overview": "When a kind of rabies that transforms people into aggressive creatures spreads across the planet, Manel isolates himself at home with his cat, relying on his wits to survive; but soon they must go out in search of food, by land and by sea, dodging many dangers.",
-    "popularity": 27.205,
+    "popularity": 26.8079,
     "poster_path": "/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg",
     "release_date": "2024-10-04",
     "title": "Apocalypse Z: The Beginning of the End",
     "video": false,
-    "vote_average": 6.719,
-    "vote_count": 1060
+    "vote_average": 6.722,
+    "vote_count": 1061
   },
   {
     "adult": false,
-    "backdrop_path": "/a0xTB1vBxMGt6LGG4N7k1wO9lfL.jpg",
+    "backdrop_path": "/qrtRKRzoNkf5vemO9tJ2Y4DrHxQ.jpg",
     "genre_ids": [
-      28,
-      12,
-      35
+      14,
+      12
     ],
-    "id": 458897,
+    "id": 338952,
     "original_language": "en",
-    "original_title": "Charlie's Angels",
-    "overview": "Elena Houghlin is a scientist, engineer and inventor of Calisto -- a sustainable energy source that will revolutionize the way people use power. It will be ready as soon as she works out the last issue, if not it could be turned into a dangerous weapon. But when the cutting edge technology is pushed to an investor before she can do that, Elena turns to the Townsend Agency for help. Now, it's up to the Angels -- Jane, Sabina, and the newly recruited Elena -- to retrieve Calisto before it can be transformed into a weapon of mass destruction.",
-    "popularity": 27.1399,
-    "poster_path": "/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg",
-    "release_date": "2019-11-14",
-    "title": "Charlie's Angels",
+    "original_title": "Fantastic Beasts: The Crimes of Grindelwald",
+    "overview": "Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.",
+    "popularity": 26.7063,
+    "poster_path": "/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg",
+    "release_date": "2018-11-14",
+    "title": "Fantastic Beasts: The Crimes of Grindelwald",
     "video": false,
-    "vote_average": 6.415,
-    "vote_count": 3011
+    "vote_average": 6.846,
+    "vote_count": 11039
   },
   {
     "adult": false,
@@ -207,167 +96,13 @@
     "original_language": "en",
     "original_title": "A Knight's War",
     "overview": "A fearless knight braves a deadly realm to save the Chosen One’s soul. Facing witches, demons, and brutal foes, he discovers her return could ignite chaos and doom humanity.",
-    "popularity": 27.0825,
+    "popularity": 26.6826,
     "poster_path": "/janjdSMrTRGtPrI1p9uOX66jv7x.jpg",
     "release_date": "2025-02-07",
     "title": "A Knight's War",
     "video": false,
     "vote_average": 5.4,
     "vote_count": 19
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/kYqEsUtilXXcb7FDfGIUaDq7j5F.jpg",
-    "genre_ids": [
-      53,
-      35
-    ],
-    "id": 1101401,
-    "original_language": "en",
-    "original_title": "Sugar Baby",
-    "overview": "An enterprising Sugar Baby is offered $30,000 to move in with her Sugar Daddy for the week, but soon discovers the sinister secrets trapped within his home.",
-    "popularity": 27.0626,
-    "poster_path": "/z7NyxmdJ1ypn3Y6BVizjGODuBdO.jpg",
-    "release_date": "2024-10-15",
-    "title": "Sugar Baby",
-    "video": false,
-    "vote_average": 6.038,
-    "vote_count": 13
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/f5pjam70aNueL1GILXJqy2Zp9BX.jpg",
-    "genre_ids": [
-      878
-    ],
-    "id": 895868,
-    "original_language": "es",
-    "original_title": "Biónica",
-    "overview": "A quadriplegic woman undergoes unusual treatment to regain her mobility and also gain other skills.",
-    "popularity": 26.9845,
-    "poster_path": "/pE8xUzBf4alNwplgsEbYqoO9Zkt.jpg",
-    "release_date": "2025-04-24",
-    "title": "Biónica",
-    "video": false,
-    "vote_average": 7.0,
-    "vote_count": 1
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/h3HsfV8Kn9Sz2QWUYYdP5ya23hx.jpg",
-    "genre_ids": [
-      878,
-      12
-    ],
-    "id": 438631,
-    "original_language": "en",
-    "original_title": "Dune",
-    "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
-    "popularity": 26.829,
-    "poster_path": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
-    "release_date": "2021-09-15",
-    "title": "Dune",
-    "video": false,
-    "vote_average": 7.782,
-    "vote_count": 13512
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3R5f4972Iu2qsc5rRryNdd3T6wq.jpg",
-    "genre_ids": [
-      16,
-      878,
-      10751,
-      35
-    ],
-    "id": 482321,
-    "original_language": "en",
-    "original_title": "Ron's Gone Wrong",
-    "overview": "In a world where walking, talking, digitally connected bots have become children's best friends, an 11-year-old finds that his robot buddy doesn't quite work the same as the others do.",
-    "popularity": 26.8269,
-    "poster_path": "/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg",
-    "release_date": "2021-10-14",
-    "title": "Ron's Gone Wrong",
-    "video": false,
-    "vote_average": 7.897,
-    "vote_count": 1900
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1nn7nCFRTKeWOXbtjrFxfSvf1EI.jpg",
-    "genre_ids": [
-      35,
-      18,
-      10402
-    ],
-    "id": 1122099,
-    "original_language": "en",
-    "original_title": "The Ballad of Wallis Island",
-    "overview": "Eccentric lottery winner Charles lives alone on a remote island but dreams of hiring his favourite musician, Herb McGwyer, to play an exclusive, private gig. Unbeknownst to Herb, Charles has also hired Herb’s ex-bandmate and ex-girlfriend, Nell, with her new husband in tow, to perform the old favourites. As tempers flare and old tensions resurface, the stormy weather traps them all on the island and Charles desperately looks for a way to salvage his dream gig.",
-    "popularity": 26.8244,
-    "poster_path": "/AhmJOYdUn9katXqDk0ZpZanQ0xp.jpg",
-    "release_date": "2025-03-28",
-    "title": "The Ballad of Wallis Island",
-    "video": false,
-    "vote_average": 7.444,
-    "vote_count": 18
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/QNo0appKGKLAsBXVkU64fXwOtj.jpg",
-    "genre_ids": [
-      27
-    ],
-    "id": 1321952,
-    "original_language": "es",
-    "original_title": "Tu Sangre",
-    "overview": "My mother vanished inside the boarding school where she worked. Through a Ouija board, she told me to look for her. My name is Sofia. I'm 14 years old and I'm going to enroll at the boarding school to find the body of my mother.",
-    "popularity": 26.8142,
-    "poster_path": "/kYbd7M1dk2xadHd2WczQRmO28uJ.jpg",
-    "release_date": "2024-10-31",
-    "title": "Sofia, the Possession",
-    "video": false,
-    "vote_average": 6.6,
-    "vote_count": 8
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/au3o84ub27qTZiMiEc9UYzN74V3.jpg",
-    "genre_ids": [
-      28,
-      878,
-      53
-    ],
-    "id": 1035048,
-    "original_language": "en",
-    "original_title": "Elevation",
-    "overview": "A single father and two women venture from the safety of their homes to face monstrous creatures to save the life of a young boy.",
-    "popularity": 26.7649,
-    "poster_path": "/tnfc0NJ3BzhJrGJhkkEd6MHBdq5.jpg",
-    "release_date": "2024-11-07",
-    "title": "Elevation",
-    "video": false,
-    "vote_average": 6.495,
-    "vote_count": 704
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/kXxriYfAWtMJNHGHVYr09c37L07.jpg",
-    "genre_ids": [
-      53,
-      878
-    ],
-    "id": 650033,
-    "original_language": "ru",
-    "original_title": "Свободное падение",
-    "overview": "In the near future, humanity has successfully colonized space and build a giant orbital station \"Delta\". Max is a repairman working on the station. After a disaster caused by a proton storm, he is left alone without his crew members, drifting into space. His space suit is broken, he is exhausted, and he lacks communication with people. But suddenly a dispatcher named Anna comes to help. She is the only one who can guide Max through difficulties and get him to the station. Max has to risk everything to save his life, but he has no idea what Anna is up to.",
-    "popularity": 26.5866,
-    "poster_path": "/tB66c6dnu9dG60mta8TF8zmeGJn.jpg",
-    "release_date": "2025-05-21",
-    "title": "Free Fall",
-    "video": false,
-    "vote_average": 2.0,
-    "vote_count": 1
   },
   {
     "adult": false,
@@ -380,12 +115,69 @@
     "original_language": "ko",
     "original_title": "베테랑 2",
     "overview": "The veteran detective Seo Do-cheol and his team at Major Crimes, relentless in their pursuit of criminals, join forces with rookie cop Park Sun-woo to track down a serial killer who has plunged the nation into turmoil.",
-    "popularity": 26.5639,
+    "popularity": 26.4214,
     "poster_path": "/gAtP0usArK5gVOBObnsENKLwML8.jpg",
     "release_date": "2024-09-13",
     "title": "I, the Executioner",
     "video": false,
-    "vote_average": 6.9,
-    "vote_count": 64
+    "vote_average": 6.946,
+    "vote_count": 65
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kYqEsUtilXXcb7FDfGIUaDq7j5F.jpg",
+    "genre_ids": [
+      53,
+      35
+    ],
+    "id": 1101401,
+    "original_language": "en",
+    "original_title": "Sugar Baby",
+    "overview": "An enterprising Sugar Baby is offered $30,000 to move in with her Sugar Daddy for the week, but soon discovers the sinister secrets trapped within his home.",
+    "popularity": 26.1971,
+    "poster_path": "/z7NyxmdJ1ypn3Y6BVizjGODuBdO.jpg",
+    "release_date": "2024-10-15",
+    "title": "Sugar Baby",
+    "video": false,
+    "vote_average": 6.038,
+    "vote_count": 13
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/QNo0appKGKLAsBXVkU64fXwOtj.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 1321952,
+    "original_language": "es",
+    "original_title": "Tu Sangre",
+    "overview": "My mother vanished inside the boarding school where she worked. Through a Ouija board, she told me to look for her. My name is Sofia. I'm 14 years old and I'm going to enroll at the boarding school to find the body of my mother.",
+    "popularity": 26.085,
+    "poster_path": "/kYbd7M1dk2xadHd2WczQRmO28uJ.jpg",
+    "release_date": "2024-10-31",
+    "title": "Sofia, the Possession",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 8
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/a0xTB1vBxMGt6LGG4N7k1wO9lfL.jpg",
+    "genre_ids": [
+      28,
+      12,
+      35
+    ],
+    "id": 458897,
+    "original_language": "en",
+    "original_title": "Charlie's Angels",
+    "overview": "Elena Houghlin is a scientist, engineer and inventor of Calisto -- a sustainable energy source that will revolutionize the way people use power. It will be ready as soon as she works out the last issue, if not it could be turned into a dangerous weapon. But when the cutting edge technology is pushed to an investor before she can do that, Elena turns to the Townsend Agency for help. Now, it's up to the Angels -- Jane, Sabina, and the newly recruited Elena -- to retrieve Calisto before it can be transformed into a weapon of mass destruction.",
+    "popularity": 25.7052,
+    "poster_path": "/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg",
+    "release_date": "2019-11-14",
+    "title": "Charlie's Angels",
+    "video": false,
+    "vote_average": 6.415,
+    "vote_count": 3011
   }
 ]

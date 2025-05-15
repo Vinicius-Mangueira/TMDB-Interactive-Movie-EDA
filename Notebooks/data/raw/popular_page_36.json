@@ -1,43 +1,60 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg",
+    "backdrop_path": "/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
     "genre_ids": [
-      10749,
-      10751,
-      16,
-      14
+      18,
+      36
     ],
-    "id": 10020,
+    "id": 381284,
     "original_language": "en",
-    "original_title": "Beauty and the Beast",
-    "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
-    "popularity": 11.4624,
-    "poster_path": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
-    "release_date": "1991-10-22",
-    "title": "Beauty and the Beast",
+    "original_title": "Hidden Figures",
+    "overview": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson – brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history – the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.",
+    "popularity": 12.1466,
+    "poster_path": "/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+    "release_date": "2016-12-10",
+    "title": "Hidden Figures",
     "video": false,
-    "vote_average": 7.732,
-    "vote_count": 10134
+    "vote_average": 8.055,
+    "vote_count": 9943
   },
   {
     "adult": false,
-    "backdrop_path": "/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
+    "backdrop_path": "/zTxHf9iIOCqRbxvl8W5QYKrsMLq.jpg",
     "genre_ids": [
-      28,
       12,
+      35,
       14
     ],
-    "id": 209112,
+    "id": 512200,
     "original_language": "en",
-    "original_title": "Batman v Superman: Dawn of Justice",
-    "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
-    "popularity": 11.9078,
-    "poster_path": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
-    "release_date": "2016-03-23",
-    "title": "Batman v Superman: Dawn of Justice",
+    "original_title": "Jumanji: The Next Level",
+    "overview": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
+    "popularity": 12.1376,
+    "poster_path": "/4kh9dxAiClS2GMUpkRyzGwpNWWX.jpg",
+    "release_date": "2019-12-04",
+    "title": "Jumanji: The Next Level",
     "video": false,
-    "vote_average": 6.0,
-    "vote_count": 18257
+    "vote_average": 6.895,
+    "vote_count": 8875
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dVr11o9or7AS8AMPfwjSpEU83iU.jpg",
+    "genre_ids": [
+      18,
+      10752
+    ],
+    "id": 423,
+    "original_language": "en",
+    "original_title": "The Pianist",
+    "overview": "The true story of pianist Władysław Szpilman's experiences in Warsaw during the Nazi occupation. When the Jews of the city find themselves forced into a ghetto, Szpilman finds work playing in a café; and when his family is deported in 1942, he stays behind, works for a while as a laborer, and eventually goes into hiding in the ruins of the war-torn city.",
+    "popularity": 12.126,
+    "poster_path": "/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+    "release_date": "2002-09-17",
+    "title": "The Pianist",
+    "video": false,
+    "vote_average": 8.379,
+    "vote_count": 9514
   }
 ]

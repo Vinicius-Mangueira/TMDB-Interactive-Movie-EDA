@@ -1,26 +1,6 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/zTxHf9iIOCqRbxvl8W5QYKrsMLq.jpg",
-    "genre_ids": [
-      12,
-      35,
-      14
-    ],
-    "id": 512200,
-    "original_language": "en",
-    "original_title": "Jumanji: The Next Level",
-    "overview": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
-    "popularity": 12.1376,
-    "poster_path": "/4kh9dxAiClS2GMUpkRyzGwpNWWX.jpg",
-    "release_date": "2019-12-04",
-    "title": "Jumanji: The Next Level",
-    "video": false,
-    "vote_average": 6.895,
-    "vote_count": 8875
-  },
-  {
-    "adult": false,
     "backdrop_path": "/qDVdTL1KqGmGLGsy7UPA3vksku7.jpg",
     "genre_ids": [
       28,

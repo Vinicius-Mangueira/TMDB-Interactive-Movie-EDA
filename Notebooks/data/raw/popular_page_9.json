@@ -1,6 +1,127 @@
 [
   {
     "adult": false,
+    "backdrop_path": "/wmqpE7p2dUCEgCnovuovoNXaCXr.jpg",
+    "genre_ids": [
+      27,
+      14,
+      53,
+      9648,
+      28
+    ],
+    "id": 1353117,
+    "original_language": "en",
+    "original_title": "Home Sweet Home: Rebirth",
+    "overview": "When a city is overrun with a demonically-possessed crowd, a cop must find the source of evil to save his family.",
+    "popularity": 29.0019,
+    "poster_path": "/9rCBCm9cyI4JfLEhx3EncyncMR3.jpg",
+    "release_date": "2025-03-20",
+    "title": "Home Sweet Home: Rebirth",
+    "video": false,
+    "vote_average": 6.314,
+    "vote_count": 59
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80,
+      53,
+      12
+    ],
+    "id": 573435,
+    "original_language": "en",
+    "original_title": "Bad Boys: Ride or Die",
+    "overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+    "popularity": 28.946,
+    "poster_path": "/oGythE98MYleE6mZlGs5oBGkux1.jpg",
+    "release_date": "2024-06-05",
+    "title": "Bad Boys: Ride or Die",
+    "video": false,
+    "vote_average": 7.381,
+    "vote_count": 2881
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zQm5ogvBCQJpktZZohRJZsWrC01.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "id": 1288070,
+    "original_language": "en",
+    "original_title": "The Luckiest Man in America",
+    "overview": "1984; Michael Larson, an unemployed ice-cream truck driver from Ohio, steps onto the game show \"Press Your Luck\" harboring a secret: the key to endless amounts of money. But his winning streak is threatened when the executives in the control room start to uncover his real motivations.",
+    "popularity": 28.6756,
+    "poster_path": "/etJwfiUR0gtQwH8shhwjRr5bARQ.jpg",
+    "release_date": "2025-04-04",
+    "title": "The Luckiest Man in America",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 19
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/h3HsfV8Kn9Sz2QWUYYdP5ya23hx.jpg",
+    "genre_ids": [
+      878,
+      12
+    ],
+    "id": 438631,
+    "original_language": "en",
+    "original_title": "Dune",
+    "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+    "popularity": 28.0074,
+    "poster_path": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "release_date": "2021-09-15",
+    "title": "Dune",
+    "video": false,
+    "vote_average": 7.781,
+    "vote_count": 13513
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+    "genre_ids": [
+      35,
+      53,
+      18
+    ],
+    "id": 496243,
+    "original_language": "ko",
+    "original_title": "기생충",
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "popularity": 27.9768,
+    "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "release_date": "2019-05-30",
+    "title": "Parasite",
+    "video": false,
+    "vote_average": 8.5,
+    "vote_count": 19022
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oHbwJN7RSwk2I0e8r9ZF9Alymi7.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 1433570,
+    "original_language": "en",
+    "original_title": "Betray: Thirst",
+    "overview": "Jamal Wiggins is a lawyer at Tate and Wiggins, the law firm he co-founded with his college roommate and friend, Darren Tate. While he enjoys professional success, his personal life is strained by a sexless marriage to Shavonne, his wife of 15 years. He takes on a case representing Jada Campbell, whose husband was involved in a life-altering accident. Jada, a victim of verbal and emotional abuse from her husband, develops feelings for Jamal. He, in turn, succumbs to temptation and crosses a professional boundary, soon realizing his world may be on the verge of collapse.",
+    "popularity": 27.8593,
+    "poster_path": "/2cx4yUulyW3sTB07Scs3pIlt4Wv.jpg",
+    "release_date": "2025-05-06",
+    "title": "Betray: Thirst",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
     "backdrop_path": "/trD8Th2ZfkpZLSvZwZu4q7bf1Z6.jpg",
     "genre_ids": [
       18
@@ -9,33 +130,13 @@
     "original_language": "en",
     "original_title": "EFC",
     "overview": "In this adrenaline-fueled story, the world of women's mixed martial arts is rocked by an explosive showdown between reigning champion Cassady Jones and rising star Alexa Star. The clash of these two titans sends shockwaves through the EFC, as the future of the sport hangs in the balance.",
-    "popularity": 29.825,
+    "popularity": 27.7236,
     "poster_path": "/jPtZmN2GYTgUtnO33CLIkuI13tg.jpg",
     "release_date": "2024-08-20",
     "title": "EFC",
     "video": false,
     "vote_average": 4.5,
     "vote_count": 2
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
-    "genre_ids": [
-      28,
-      35,
-      14
-    ],
-    "id": 845781,
-    "original_language": "en",
-    "original_title": "Red One",
-    "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
-    "popularity": 29.8101,
-    "poster_path": "/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
-    "release_date": "2024-10-31",
-    "title": "Red One",
-    "video": false,
-    "vote_average": 7.047,
-    "vote_count": 2498
   },
   {
     "adult": false,
@@ -49,58 +150,13 @@
     "original_language": "ja",
     "original_title": "君の名は。",
     "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
-    "popularity": 29.7921,
+    "popularity": 27.5112,
     "poster_path": "/8GJsy7w7frGquw1cy9jasOGNNI1.jpg",
     "release_date": "2016-08-26",
     "title": "Your Name.",
     "video": false,
     "vote_average": 8.483,
-    "vote_count": 11752
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
-    "genre_ids": [
-      12,
-      28,
-      878
-    ],
-    "id": 298618,
-    "original_language": "en",
-    "original_title": "The Flash",
-    "overview": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
-    "popularity": 29.7828,
-    "poster_path": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
-    "release_date": "2023-06-13",
-    "title": "The Flash",
-    "video": false,
-    "vote_average": 6.657,
-    "vote_count": 4521
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/uxezSInaPoH20CyHx4TuY1LzGly.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      10770,
-      878,
-      12,
-      28,
-      10402
-    ],
-    "id": 71689,
-    "original_language": "en",
-    "original_title": "Phineas and Ferb The Movie: Across the 2nd Dimension",
-    "overview": "Phineas and Ferb get trapped in an alternate dimension where the evil Doofenshmirtz rules the tri-state area. They must find a way back home with the help of their pet platypus named Perry, who they discover is a secret agent.",
-    "popularity": 29.4469,
-    "poster_path": "/updMFSOZwEftfkJRpozwBlRlYI2.jpg",
-    "release_date": "2011-08-05",
-    "title": "Phineas and Ferb The Movie: Across the 2nd Dimension",
-    "video": false,
-    "vote_average": 7.077,
-    "vote_count": 566
+    "vote_count": 11754
   },
   {
     "adult": false,
@@ -116,112 +172,13 @@
     "original_language": "en",
     "original_title": "Shrek",
     "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
-    "popularity": 29.4308,
+    "popularity": 27.3891,
     "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
     "release_date": "2001-05-18",
     "title": "Shrek",
     "video": false,
     "vote_average": 7.751,
     "vote_count": 17661
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zQm5ogvBCQJpktZZohRJZsWrC01.jpg",
-    "genre_ids": [
-      18,
-      53
-    ],
-    "id": 1288070,
-    "original_language": "en",
-    "original_title": "The Luckiest Man in America",
-    "overview": "1984; Michael Larson, an unemployed ice-cream truck driver from Ohio, steps onto the game show \"Press Your Luck\" harboring a secret: the key to endless amounts of money. But his winning streak is threatened when the executives in the control room start to uncover his real motivations.",
-    "popularity": 29.3035,
-    "poster_path": "/etJwfiUR0gtQwH8shhwjRr5bARQ.jpg",
-    "release_date": "2025-04-04",
-    "title": "The Luckiest Man in America",
-    "video": false,
-    "vote_average": 6.528,
-    "vote_count": 18
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/wmqpE7p2dUCEgCnovuovoNXaCXr.jpg",
-    "genre_ids": [
-      27,
-      14,
-      53,
-      9648,
-      28
-    ],
-    "id": 1353117,
-    "original_language": "en",
-    "original_title": "Home Sweet Home: Rebirth",
-    "overview": "When a city is overrun with a demonically-possessed crowd, a cop must find the source of evil to save his family.",
-    "popularity": 29.3013,
-    "poster_path": "/9rCBCm9cyI4JfLEhx3EncyncMR3.jpg",
-    "release_date": "2025-03-20",
-    "title": "Home Sweet Home: Rebirth",
-    "video": false,
-    "vote_average": 6.314,
-    "vote_count": 59
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/icmmSD4vTTDKOq2vvdulafOGw93.jpg",
-    "genre_ids": [
-      28,
-      878
-    ],
-    "id": 603,
-    "original_language": "en",
-    "original_title": "The Matrix",
-    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
-    "popularity": 29.2875,
-    "poster_path": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
-    "release_date": "1999-03-31",
-    "title": "The Matrix",
-    "video": false,
-    "vote_average": 8.225,
-    "vote_count": 26355
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg",
-    "genre_ids": [
-      28,
-      18,
-      12
-    ],
-    "id": 98,
-    "original_language": "en",
-    "original_title": "Gladiator",
-    "overview": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
-    "popularity": 29.2875,
-    "poster_path": "/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
-    "release_date": "2000-05-04",
-    "title": "Gladiator",
-    "video": false,
-    "vote_average": 8.22,
-    "vote_count": 19666
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/qrtRKRzoNkf5vemO9tJ2Y4DrHxQ.jpg",
-    "genre_ids": [
-      14,
-      12
-    ],
-    "id": 338952,
-    "original_language": "en",
-    "original_title": "Fantastic Beasts: The Crimes of Grindelwald",
-    "overview": "Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.",
-    "popularity": 29.2454,
-    "poster_path": "/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg",
-    "release_date": "2018-11-14",
-    "title": "Fantastic Beasts: The Crimes of Grindelwald",
-    "video": false,
-    "vote_average": 6.846,
-    "vote_count": 11039
   },
   {
     "adult": false,
@@ -233,172 +190,12 @@
     "original_language": "sv",
     "original_title": "Pleasure",
     "overview": "19 year old Linnéa leaves her small town in Sweden and heads for Los Angeles with the aim of becoming the world's next big porn star, but the road to her goal turns out to be bumpier than she imagined.",
-    "popularity": 29.2143,
+    "popularity": 27.3293,
     "poster_path": "/TcOsu6iO5prSJbDn9oIQgIW655.jpg",
     "release_date": "2021-10-08",
     "title": "Pleasure",
     "video": false,
     "vote_average": 6.295,
     "vote_count": 650
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/hbFVmSYKvrqr9JuKVZ8l71kRQew.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 1097549,
-    "original_language": "en",
-    "original_title": "Babygirl",
-    "overview": "A high-powered CEO puts her career and family on the line when she begins a torrid affair with her much younger intern.",
-    "popularity": 29.2099,
-    "poster_path": "/ilwO6elz3mLV9CToT7C8pjVeKX0.jpg",
-    "release_date": "2024-12-25",
-    "title": "Babygirl",
-    "video": false,
-    "vote_average": 5.772,
-    "vote_count": 712
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
-    "genre_ids": [
-      35,
-      53,
-      18
-    ],
-    "id": 496243,
-    "original_language": "ko",
-    "original_title": "기생충",
-    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
-    "popularity": 29.1158,
-    "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
-    "release_date": "2019-05-30",
-    "title": "Parasite",
-    "video": false,
-    "vote_average": 8.499,
-    "vote_count": 19022
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/6azpBJGcLx9SKif8h9VMnflBfa.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "id": 497698,
-    "original_language": "en",
-    "original_title": "Black Widow",
-    "overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
-    "popularity": 29.1109,
-    "poster_path": "/kwB7d51AIcyzPOBOHLCEZJkmPhQ.jpg",
-    "release_date": "2021-07-07",
-    "title": "Black Widow",
-    "video": false,
-    "vote_average": 7.207,
-    "vote_count": 10528
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/wnxg3DsHRlSyJNHpVwwqWdOedGN.jpg",
-    "genre_ids": [
-      28,
-      35,
-      80
-    ],
-    "id": 306,
-    "original_language": "en",
-    "original_title": "Beverly Hills Cop III",
-    "overview": "When his boss is killed, Detroit cop Axel Foley finds evidence that the murderer had ties to a California amusement park called Wonder World. Returning to sunny Beverly Hills once more, Foley reunites with Detective Billy Rosewood to solve the case. Along with Billy's new partner, Detective Jon Flint, they discover that Wonder World is being used as a front for a massive counterfeiting ring.",
-    "popularity": 28.9881,
-    "poster_path": "/7vIpCkgGEfk5LZwm78nMxswLJRH.jpg",
-    "release_date": "1994-05-24",
-    "title": "Beverly Hills Cop III",
-    "video": false,
-    "vote_average": 5.867,
-    "vote_count": 1963
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/oHbwJN7RSwk2I0e8r9ZF9Alymi7.jpg",
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "id": 1433570,
-    "original_language": "en",
-    "original_title": "Betray: Thirst",
-    "overview": "Jamal Wiggins is a lawyer at Tate and Wiggins, the law firm he co-founded with his college roommate and friend, Darren Tate. While he enjoys professional success, his personal life is strained by a sexless marriage to Shavonne, his wife of 15 years. He takes on a case representing Jada Campbell, whose husband was involved in a life-altering accident. Jada, a victim of verbal and emotional abuse from her husband, develops feelings for Jamal. He, in turn, succumbs to temptation and crosses a professional boundary, soon realizing his world may be on the verge of collapse.",
-    "popularity": 28.9645,
-    "poster_path": "/2cx4yUulyW3sTB07Scs3pIlt4Wv.jpg",
-    "release_date": "2025-05-06",
-    "title": "Betray: Thirst",
-    "video": false,
-    "vote_average": 0.0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/86z1Yrwj7yN1xehSa0gIwHnR7xl.jpg",
-    "genre_ids": [
-      10751,
-      12,
-      16,
-      18
-    ],
-    "id": 37135,
-    "original_language": "en",
-    "original_title": "Tarzan",
-    "overview": "Tarzan was a small orphan who was raised by an ape named Kala since he was a child. He believed that this was his family, but on an expedition Jane Porter is rescued by Tarzan. He then finds out that he's human. Now Tarzan must make the decision as to which family he should belong to...",
-    "popularity": 28.7336,
-    "poster_path": "/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg",
-    "release_date": "1999-06-18",
-    "title": "Tarzan",
-    "video": false,
-    "vote_average": 7.396,
-    "vote_count": 6927
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vzu7tNNF5jT6u2AScPwi6qF7T75.jpg",
-    "genre_ids": [
-      35,
-      80,
-      28,
-      18
-    ],
-    "id": 399170,
-    "original_language": "en",
-    "original_title": "Logan Lucky",
-    "overview": "Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to execute an elaborate robbery during the legendary Coca-Cola 600 race at the Charlotte Motor Speedway.",
-    "popularity": 28.555,
-    "poster_path": "/2yfQR59Cu1ZFHdti0igSxAIL8hd.jpg",
-    "release_date": "2017-08-17",
-    "title": "Logan Lucky",
-    "video": false,
-    "vote_average": 6.728,
-    "vote_count": 3602
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/lqHt4icP1GTaNBeVTxTrwTZdoAW.jpg",
-    "genre_ids": [
-      28,
-      53,
-      9648,
-      80
-    ],
-    "id": 1195430,
-    "original_language": "hi",
-    "original_title": "देवा",
-    "overview": "Dev Ambre, a ruthless cop, loses his memory in an accident just after he has finished solving a murder case and now has to reinvestigate it while keeping his memory loss a secret from everyone except DCP Farhan Khan.",
-    "popularity": 28.5549,
-    "poster_path": "/qxtXzAlEPxmjHILU8k8wduvBSdo.jpg",
-    "release_date": "2025-01-31",
-    "title": "Deva",
-    "video": false,
-    "vote_average": 6.021,
-    "vote_count": 48
   }
 ]

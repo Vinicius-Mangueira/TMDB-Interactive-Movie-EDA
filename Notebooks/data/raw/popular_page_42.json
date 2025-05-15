@@ -102,26 +102,6 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/3pKIcv6KhUE35jsKnv3MylQ3OT2.jpg",
-    "genre_ids": [
-      80,
-      28,
-      878
-    ],
-    "id": 198184,
-    "original_language": "en",
-    "original_title": "Chappie",
-    "overview": "Every child comes into the world full of promise, and none more so than Chappie: he is gifted, special, a prodigy. Like any child, Chappie will come under the influence of his surroundings—some good, some bad—and he will rely on his heart and soul to find his way in the world and become his own man. But there's one thing that makes Chappie different from any one else: he is a robot.",
-    "popularity": 12.4974,
-    "poster_path": "/uuDUpzlMFomdSfNWlpEPS9nVZWV.jpg",
-    "release_date": "2015-03-04",
-    "title": "Chappie",
-    "video": false,
-    "vote_average": 6.787,
-    "vote_count": 8066
-  },
-  {
-    "adult": false,
     "backdrop_path": "/h9YlRHAZWOWtGonllmj6JJg1FrE.jpg",
     "genre_ids": [
       16,

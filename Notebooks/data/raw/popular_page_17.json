@@ -11,7 +11,7 @@
     "original_language": "en",
     "original_title": "Mob Land",
     "overview": "A sheriff tries to keep the peace when a desperate family man violently robs a pill mill with his brother-in-law, alerting an enforcer for the New Orleans mafia.",
-    "popularity": 19.7249,
+    "popularity": 19.3506,
     "poster_path": "/mcz8oi9oCgq1wkA3Wz2kluE94pE.jpg",
     "release_date": "2023-08-04",
     "title": "Mob Land",
@@ -29,7 +29,7 @@
     "original_language": "ja",
     "original_title": "まいちゃんの日常",
     "overview": "Miyako starts a live-in maid job and quickly discovers that housecleaning is the least of her duties, as her employers use the maids in their twisted fantasies. Her co-worker Mai-chan, who can miraculously recover from any injury, becomes the focus of horrific, indulgent violence that Miyako is soon drawn into.",
-    "popularity": 19.7032,
+    "popularity": 16.3299,
     "poster_path": "/631oaSK4rC17pDP2jXzkgPRT6qs.jpg",
     "release_date": "2016-02-25",
     "title": "Mai-chan's Daily Life",
@@ -48,12 +48,12 @@
     "original_language": "it",
     "original_title": "C'era una volta il West",
     "overview": "As the railroad builders advance unstoppably through the Arizona desert on their way to the sea, Jill arrives in the small town of Flagstone with the intention of starting a new life.",
-    "popularity": 19.6869,
+    "popularity": 17.3223,
     "poster_path": "/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
     "release_date": "1968-12-21",
     "title": "Once Upon a Time in the West",
     "video": false,
-    "vote_average": 8.281,
+    "vote_average": 8.3,
     "vote_count": 4520
   },
   {
@@ -66,12 +66,12 @@
     "original_language": "en",
     "original_title": "Richard Jewell",
     "overview": "Richard Jewell thinks quick, works fast, and saves hundreds, perhaps thousands, of lives after a domestic terrorist plants several pipe bombs and they explode during a concert, only to be falsely suspected of the crime by sloppy FBI work and sensational media coverage.",
-    "popularity": 19.6783,
+    "popularity": 17.2702,
     "poster_path": "/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg",
     "release_date": "2019-12-13",
     "title": "Richard Jewell",
     "video": false,
-    "vote_average": 7.427,
+    "vote_average": 7.4,
     "vote_count": 2562
   },
   {
@@ -85,13 +85,13 @@
     "original_language": "en",
     "original_title": "Sniper: The Last Stand",
     "overview": "To stop an arms dealer from unleashing a deadly superweapon, Ace sniper Brandon Beckett and Agent Zero are deployed to Costa Verde to lead a group of elite soldiers against an unrelenting militia. Taking an untested sniper under his wing, Beckett faces his newest challenge: giving orders instead of receiving them. With both time and ammo running low in a race to save humanity, the team must overcome all odds just to survive.",
-    "popularity": 19.6551,
+    "popularity": 18.8359,
     "poster_path": "/TVvIyCsFCmLk9MRLbAZi4X8f32.jpg",
     "release_date": "2025-01-21",
     "title": "Sniper: The Last Stand",
     "video": false,
-    "vote_average": 6.7,
-    "vote_count": 137
+    "vote_average": 6.692,
+    "vote_count": 138
   },
   {
     "adult": false,
@@ -105,7 +105,7 @@
     "original_language": "en",
     "original_title": "The Island",
     "overview": "When his brother is killed, LAPD officer Mark leaves the city to return to the island he grew up on. Seeking answers and ultimately vengeance, he soon finds himself in a bloody battle with the corrupt tycoon who's taken over the island paradise.",
-    "popularity": 19.6039,
+    "popularity": 19.6043,
     "poster_path": "/ajb1rMiorchfRemYHZCkbV9DBg6.jpg",
     "release_date": "2023-07-21",
     "title": "The Island",
@@ -127,12 +127,12 @@
     "original_language": "en",
     "original_title": "Big Hero 6",
     "overview": "A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
-    "popularity": 19.6017,
+    "popularity": 20.2018,
     "poster_path": "/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
     "release_date": "2014-10-24",
     "title": "Big Hero 6",
     "video": false,
-    "vote_average": 7.729,
+    "vote_average": 7.7,
     "vote_count": 15881
   },
   {
@@ -147,13 +147,13 @@
     "original_language": "en",
     "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
     "overview": "After Port Royal is attacked and pillaged by a mysterious pirate crew, capturing the governor's daughter Elizabeth Swann in the process, William Turner asks free-willing pirate Jack Sparrow to help him locate the crew's ship—The Black Pearl—so that he can rescue the woman he loves.",
-    "popularity": 19.5748,
+    "popularity": 19.2072,
     "poster_path": "/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
     "release_date": "2003-07-09",
     "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
     "video": false,
     "vote_average": 7.809,
-    "vote_count": 21105
+    "vote_count": 21106
   },
   {
     "adult": false,
@@ -166,32 +166,13 @@
     "original_language": "en",
     "original_title": "Heretic",
     "overview": "Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed, becoming ensnared in his deadly game of cat-and-mouse.",
-    "popularity": 19.5679,
+    "popularity": 20.3105,
     "poster_path": "/fr96XzlzsONrQrGfdLMiwtQjott.jpg",
     "release_date": "2024-10-31",
     "title": "Heretic",
     "video": false,
     "vote_average": 7.049,
     "vote_count": 1651
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/qJzloL8O9YHhiWBrhlPfKAtZu2I.jpg",
-    "genre_ids": [
-      28,
-      878
-    ],
-    "id": 557,
-    "original_language": "en",
-    "original_title": "Spider-Man",
-    "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
-    "popularity": 19.5529,
-    "poster_path": "/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
-    "release_date": "2002-05-01",
-    "title": "Spider-Man",
-    "video": false,
-    "vote_average": 7.309,
-    "vote_count": 19581
   },
   {
     "adult": false,
@@ -206,13 +187,13 @@
     "original_language": "en",
     "original_title": "Zootopia",
     "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
-    "popularity": 19.5255,
+    "popularity": 18.2674,
     "poster_path": "/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
     "release_date": "2016-02-11",
     "title": "Zootopia",
     "video": false,
     "vote_average": 7.747,
-    "vote_count": 16668
+    "vote_count": 16670
   },
   {
     "adult": false,
@@ -225,53 +206,13 @@
     "original_language": "pl",
     "original_title": "Fuks 2",
     "overview": "Maciek is a bright and savvy 20-year-old, although he has to borrow money and a car for a date from his dad. His father, on his eighteenth birthday, set off an explosive device, stole a car, contributed to the wrecking of two police cars and deceived for big money a shady businessman. At the same time, he won the heart of a beautiful woman. So he set the bar high, and it will soon become clear whether his son has inherited his bravado and propensity for dangerous intrigue. All this will happen through a date that will connect him with two unpredictable women and draw him into a game at stake - big money and even bigger love.",
-    "popularity": 19.5093,
+    "popularity": 16.9961,
     "poster_path": "/r3yxvHMcIsefxh1iELl1EtjNlI5.jpg",
     "release_date": "2023-12-25",
     "title": "Fuks 2",
     "video": false,
     "vote_average": 5.2,
     "vote_count": 12
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7Iz55ystlGDNlavsKnP7iaJeLma.jpg",
-    "genre_ids": [
-      18,
-      10749,
-      53
-    ],
-    "id": 216015,
-    "original_language": "en",
-    "original_title": "Fifty Shades of Grey",
-    "overview": "When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
-    "popularity": 19.4502,
-    "poster_path": "/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg",
-    "release_date": "2015-02-11",
-    "title": "Fifty Shades of Grey",
-    "video": false,
-    "vote_average": 5.887,
-    "vote_count": 11973
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
-    "genre_ids": [
-      10751,
-      16,
-      18
-    ],
-    "id": 8587,
-    "original_language": "en",
-    "original_title": "The Lion King",
-    "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
-    "popularity": 19.401,
-    "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
-    "release_date": "1994-06-15",
-    "title": "The Lion King",
-    "video": false,
-    "vote_average": 8.258,
-    "vote_count": 18736
   },
   {
     "adult": false,
@@ -285,12 +226,12 @@
     "original_language": "ja",
     "original_title": "千と千尋の神隠し",
     "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
-    "popularity": 19.3493,
+    "popularity": 20.4715,
     "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
     "release_date": "2001-07-20",
     "title": "Spirited Away",
     "video": false,
-    "vote_average": 8.537,
+    "vote_average": 8.5,
     "vote_count": 17125
   },
   {
@@ -304,33 +245,13 @@
     "original_language": "en",
     "original_title": "The Two Popes",
     "overview": "Frustrated with the direction of the church, Cardinal Bergoglio requests permission to retire in 2012 from Pope Benedict. Instead, facing scandal and self-doubt, the introspective Pope Benedict summons his harshest critic and future successor to Rome to reveal a secret that would shake the foundations of the Catholic Church.",
-    "popularity": 19.2662,
+    "popularity": 17.8061,
     "poster_path": "/4d4mTSfDIFIbUbMLUfaKodvxYXA.jpg",
     "release_date": "2019-11-27",
     "title": "The Two Popes",
     "video": false,
     "vote_average": 7.487,
     "vote_count": 2951
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/o67MmFburfckl6iPa4DVkranLi3.jpg",
-    "genre_ids": [
-      14,
-      18,
-      10749
-    ],
-    "id": 297,
-    "original_language": "en",
-    "original_title": "Meet Joe Black",
-    "overview": "William Parrish, media tycoon and loving father, is about to celebrate his 65th birthday. One morning, he is contacted by the inevitable, by hallucination, as he thinks. Later, Death enters his home and his life, personified in human form as Joe Black. His intention was to take William with him, but accidentally, Joe and William's beautiful daughter Susan have already met. Joe begins to develop certain interest in life on Earth, as well as in Susan, who has no clue with whom she's flirting.",
-    "popularity": 19.1908,
-    "poster_path": "/fDPAjvfPMomkKF7cMRmL5Anak61.jpg",
-    "release_date": "1998-11-12",
-    "title": "Meet Joe Black",
-    "video": false,
-    "vote_average": 7.348,
-    "vote_count": 5370
   },
   {
     "adult": false,
@@ -344,53 +265,12 @@
     "original_language": "en",
     "original_title": "Ready Player One",
     "overview": "When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.",
-    "popularity": 19.1288,
+    "popularity": 17.3568,
     "poster_path": "/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
     "release_date": "2018-03-28",
     "title": "Ready Player One",
     "video": false,
     "vote_average": 7.59,
     "vote_count": 15988
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5IbxcBXZ5EhVAttfNDMPncikudr.jpg",
-    "genre_ids": [
-      28,
-      53,
-      80
-    ],
-    "id": 541671,
-    "original_language": "en",
-    "original_title": "From the World of John Wick: Ballerina",
-    "overview": "Taking place during the events of John Wick: Chapter 3 - Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.",
-    "popularity": 19.044,
-    "poster_path": "/mKp4euM5Cv3m2U1Vmby3OGwcD5y.jpg",
-    "release_date": "2025-06-04",
-    "title": "From the World of John Wick: Ballerina",
-    "video": false,
-    "vote_average": 0.0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/pwfXx2O3eFXi5dtWCV5XJPQJgqN.jpg",
-    "genre_ids": [
-      28,
-      53,
-      10752,
-      36
-    ],
-    "id": 1143407,
-    "original_language": "hi",
-    "original_title": "स्काई फ़ोर्स",
-    "overview": "In the 1965 Indo-Pak War, India faces a devastating surprise attack. Wing Commander Ahuja leads a retaliatory strike, but Squadron Leader Vijaya goes missing after a heroic solo engagement against a superior enemy jet. Ahuja spends 23 years seeking the truth and uncovering a cover-up.",
-    "popularity": 19.0101,
-    "poster_path": "/pmtev9YTlIRDo25G7lN8dzyoszn.jpg",
-    "release_date": "2025-01-24",
-    "title": "Sky Force",
-    "video": false,
-    "vote_average": 6.426,
-    "vote_count": 34
   }
 ]
