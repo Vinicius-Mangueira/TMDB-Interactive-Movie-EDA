@@ -1,140 +1,139 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/5BxrMNGl3YDiWgHCVJu8iLQoJDM.jpg",
+    "backdrop_path": "/7QDWTqSGqI2Q5dOBtvT64MOhmwJ.jpg",
     "genre_ids": [
-      28,
-      12,
-      18
-    ],
-    "id": 445651,
-    "original_language": "en",
-    "original_title": "The Darkest Minds",
-    "overview": "After a disease kills 98% of America's children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government.",
-    "popularity": 13.2366,
-    "poster_path": "/8NdQneXBYVbBKt81bFhXiyThe0h.jpg",
-    "release_date": "2018-07-25",
-    "title": "The Darkest Minds",
-    "video": false,
-    "vote_average": 7.033,
-    "vote_count": 2842
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4kCDWJhceLHwPbRWd9uTR8bJpLz.jpg",
-    "genre_ids": [
-      28,
-      12,
-      18
-    ],
-    "id": 290595,
-    "original_language": "en",
-    "original_title": "The Huntsman: Winter's War",
-    "overview": "As two evil sisters prepare to conquer the land, two renegades—Eric the Huntsman, who aided Snow White in defeating Ravenna in Snowwhite and the Huntsman, and his forbidden lover, Sara—set out to stop them.",
-    "popularity": 13.2034,
-    "poster_path": "/ci1QXfBSUBVpLuzxi9A208uwUVi.jpg",
-    "release_date": "2016-04-06",
-    "title": "The Huntsman: Winter's War",
-    "video": false,
-    "vote_average": 6.288,
-    "vote_count": 4859
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/58D6ZAvOKxlHjyX9S8qNKSBE9Y.jpg",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "id": 718821,
-    "original_language": "en",
-    "original_title": "Twisters",
-    "overview": "As storm season intensifies, the paths of former storm chaser Kate Carter and reckless social-media superstar Tyler Owens collide when terrifying phenomena never seen before are unleashed. The pair and their competing teams find themselves squarely in the paths of multiple storm systems converging over central Oklahoma in the fight of their lives.",
-    "popularity": 13.1823,
-    "poster_path": "/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
-    "release_date": "2024-07-10",
-    "title": "Twisters",
-    "video": false,
-    "vote_average": 6.83,
-    "vote_count": 2446
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/s5TJ2SkHookM77fSk4BvY2yCN5r.jpg",
-    "genre_ids": [
-      10749,
-      16
-    ],
-    "id": 1445276,
-    "original_language": "ja",
-    "original_title": "たまらないのは恋なのか",
-    "overview": "Misuzu was branded a delinquent when a small incident left him isolated. But one day, he sees the top student, Kitahara, get surrounded by bullies and decides to help him out. That sparked Kitahara's interest in the lonely boy, but Misuzu pushes Kitahara away. \"If you get involved with me, you'll get ostracized by everyone else too.\" But it won't take long for Misuzu's resolve to falter...",
-    "popularity": 13.1543,
-    "poster_path": "/zESBv0bTqtb4ICJ9oYn2HFec8JV.jpg",
-    "release_date": "2025-04-06",
-    "title": "A Love Too Captivating",
-    "video": false,
-    "vote_average": 5.0,
-    "vote_count": 1
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/aAM3cQmYGjjLQ24m0F0RWfjKQ57.jpg",
-    "genre_ids": [
-      27,
-      18,
-      9648
-    ],
-    "id": 530385,
-    "original_language": "en",
-    "original_title": "Midsommar",
-    "overview": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
-    "popularity": 13.0237,
-    "poster_path": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
-    "release_date": "2019-07-03",
-    "title": "Midsommar",
-    "video": false,
-    "vote_average": 7.152,
-    "vote_count": 7396
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/hBwDYiOPwXHuwiYGP82ekFNSeBr.jpg",
-    "genre_ids": [
-      12,
-      14,
+      35,
       10749
     ],
-    "id": 50619,
+    "id": 930094,
     "original_language": "en",
-    "original_title": "The Twilight Saga: Breaking Dawn - Part 1",
-    "overview": "Bella Swan and Edward Cullen's honeymoon phase is abruptly disrupted by betrayals and unforeseen tragedies that endanger their world.",
-    "popularity": 13.0223,
-    "poster_path": "/qs8LsHKYlVRmJbFUiSUhhRAygwj.jpg",
-    "release_date": "2011-11-16",
-    "title": "The Twilight Saga: Breaking Dawn - Part 1",
+    "original_title": "Red, White & Royal Blue",
+    "overview": "After an altercation between Alex, the president's son, and Britain's Prince Henry at a royal event becomes tabloid fodder, their long-running feud now threatens to drive a wedge in U.S./British relations. When the rivals are forced into a staged truce, their icy relationship begins to thaw and the friction between them sparks something deeper than they ever expected.",
+    "popularity": 13.2443,
+    "poster_path": "/ta3ReqbdEcLJM3mcHMzbYFZI8v7.jpg",
+    "release_date": "2023-07-27",
+    "title": "Red, White & Royal Blue",
     "video": false,
-    "vote_average": 6.196,
-    "vote_count": 8907
+    "vote_average": 7.99,
+    "vote_count": 1369
   },
   {
     "adult": false,
-    "backdrop_path": "/tOkSenL74N23O4S7wjJSUHz7Aeh.jpg",
+    "backdrop_path": "/46Os8U0DEPmI0OnvKDxucl6SLVZ.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 1008042,
+    "original_language": "en",
+    "original_title": "Talk to Me",
+    "overview": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+    "popularity": 13.2122,
+    "poster_path": "/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
+    "release_date": "2023-07-26",
+    "title": "Talk to Me",
+    "video": false,
+    "vote_average": 7.161,
+    "vote_count": 3211
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pbmlCNeOwvCqum8yvMERbgnrSr7.jpg",
     "genre_ids": [
       80,
+      53,
+      28
+    ],
+    "id": 413846,
+    "original_language": "en",
+    "original_title": "1992",
+    "overview": "In 1992, Mercer is desperately trying to rebuild his life and his relationship with his son amidst the turbulent Los Angeles uprising following the Rodney King verdict. Across town, another father and son put their own strained relationship to the test as they plot a dangerous heist to steal catalytic converters, which contain valuable platinum from the factory where Mercer works. As tensions rise and chaos erupts, both families reach their boiling points when their worlds collide.",
+    "popularity": 13.1861,
+    "poster_path": "/tPvFmQZM5HMspryyYbrtW02NR0G.jpg",
+    "release_date": "2024-08-29",
+    "title": "1992",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 127
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iQcCAm8hKWZyUntqrvzyEGtXyJl.jpg",
+    "genre_ids": [
+      878,
+      28,
+      12
+    ],
+    "id": 670292,
+    "original_language": "en",
+    "original_title": "The Creator",
+    "overview": "Amid a future war between the human race and the forces of artificial intelligence, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war—and mankind itself.",
+    "popularity": 13.0977,
+    "poster_path": "/3dSivDtOuyxLDxPH4v2tcNG1fP7.jpg",
+    "release_date": "2023-09-27",
+    "title": "The Creator",
+    "video": false,
+    "vote_average": 7.056,
+    "vote_count": 3331
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vYA4qUPWY0EbjpcIXAL4h4pVmTC.jpg",
+    "genre_ids": [
+      18,
+      53,
+      9648
+    ],
+    "id": 345,
+    "original_language": "en",
+    "original_title": "Eyes Wide Shut",
+    "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+    "popularity": 13.0688,
+    "poster_path": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+    "release_date": "1999-07-16",
+    "title": "Eyes Wide Shut",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 6410
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qr7dUqleMRd0VgollazbmyP9XjI.jpg",
+    "genre_ids": [
+      878,
       18,
       53
     ],
-    "id": 388,
+    "id": 78,
     "original_language": "en",
-    "original_title": "Inside Man",
-    "overview": "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
-    "popularity": 12.9777,
-    "poster_path": "/ffMUgkDZICNiyaws1Jkv8qG8uFW.jpg",
-    "release_date": "2006-03-17",
-    "title": "Inside Man",
+    "original_title": "Blade Runner",
+    "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+    "popularity": 13.0198,
+    "poster_path": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+    "release_date": "1982-06-25",
+    "title": "Blade Runner",
     "video": false,
-    "vote_average": 7.395,
-    "vote_count": 5951
+    "vote_average": 7.939,
+    "vote_count": 14125
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4mM7m9L3XlPLq4vNNy3P8yDSXNM.jpg",
+    "genre_ids": [
+      53,
+      80,
+      18
+    ],
+    "id": 1371202,
+    "original_language": "nl",
+    "original_title": "iHostage",
+    "overview": "When a gunman enters an Apple Store in the heart of Amsterdam, the police face a delicate challenge to resolve the standoff.",
+    "popularity": 12.9857,
+    "poster_path": "/tn3Ckxyc7OWXnhMPkiIBvqLdFC6.jpg",
+    "release_date": "2025-04-18",
+    "title": "iHostage",
+    "video": false,
+    "vote_average": 6.066,
+    "vote_count": 188
   }
 ]

@@ -1,22 +1,359 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+    "backdrop_path": "/icmmSD4vTTDKOq2vvdulafOGw93.jpg",
     "genre_ids": [
-      12,
       28,
       878
     ],
-    "id": 298618,
+    "id": 603,
     "original_language": "en",
-    "original_title": "The Flash",
-    "overview": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
-    "popularity": 30.2593,
-    "poster_path": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
-    "release_date": "2023-06-13",
-    "title": "The Flash",
+    "original_title": "The Matrix",
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "popularity": 31.1756,
+    "poster_path": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+    "release_date": "1999-03-31",
+    "title": "The Matrix",
     "video": false,
-    "vote_average": 6.7,
-    "vote_count": 4521
+    "vote_average": 8.225,
+    "vote_count": 26357
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "id": 361743,
+    "original_language": "en",
+    "original_title": "Top Gun: Maverick",
+    "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+    "popularity": 31.1145,
+    "poster_path": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+    "release_date": "2022-05-21",
+    "title": "Top Gun: Maverick",
+    "video": false,
+    "vote_average": 8.178,
+    "vote_count": 9825
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5g9wIe8Q8GFPdVLSmC372gvZfci.jpg",
+    "genre_ids": [
+      27,
+      53,
+      35
+    ],
+    "id": 1055451,
+    "original_language": "en",
+    "original_title": "Founders Day",
+    "overview": "A small town is shaken by a series of ominous killings in the days leading up to a heated mayoral election.",
+    "popularity": 30.8541,
+    "poster_path": "/ohzLPC9lHUWseBgB7HRcz0GBkFb.jpg",
+    "release_date": "2024-01-19",
+    "title": "Founders Day",
+    "video": false,
+    "vote_average": 4.541,
+    "vote_count": 49
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5uLqjVQlKNR4MbOeuheaRihPxAx.jpg",
+    "genre_ids": [
+      53,
+      878,
+      18,
+      27
+    ],
+    "id": 333371,
+    "original_language": "en",
+    "original_title": "10 Cloverfield Lane",
+    "overview": "After a catastrophic car crash, a young woman wakes up in a survivalist's underground bunker, where he claims to have saved her from an apocalyptic attack that has left the outside world uninhabitable.",
+    "popularity": 30.7291,
+    "poster_path": "/84Dhwz93vCin6T1PX6ctSvWEuNE.jpg",
+    "release_date": "2016-03-10",
+    "title": "10 Cloverfield Lane",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 8120
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/w102m4HoCP5uxhW8Yh7Hv7QShix.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35
+    ],
+    "id": 11544,
+    "original_language": "en",
+    "original_title": "Lilo & Stitch",
+    "overview": "As Stitch, a runaway genetic experiment from a faraway planet, wreaks havoc on the Hawaiian Islands, he becomes the mischievous adopted alien \"puppy\" of an independent little girl named Lilo and learns about loyalty, friendship, and ʻohana, the Hawaiian tradition of family.",
+    "popularity": 30.4519,
+    "poster_path": "/m13Vbzv7R2GMAl3GXFrkmMEgCFQ.jpg",
+    "release_date": "2002-06-21",
+    "title": "Lilo & Stitch",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 6446
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o5vasl0xbZWWKQnAlaBTSgntHH2.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 1208808,
+    "original_language": "es",
+    "original_title": "Turno nocturno",
+    "overview": "A young nurse with a domestic abuse past starts working the night shift at a small hospital, where, during the night, the ghost of a nurse materializes.",
+    "popularity": 30.276,
+    "poster_path": "/iSSx9Bys64vlOkvkyKXtp19P7Re.jpg",
+    "release_date": "2024-12-05",
+    "title": "Turno nocturno",
+    "video": false,
+    "vote_average": 6.26,
+    "vote_count": 144
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg",
+    "genre_ids": [
+      28,
+      18,
+      12
+    ],
+    "id": 98,
+    "original_language": "en",
+    "original_title": "Gladiator",
+    "overview": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+    "popularity": 30.1667,
+    "poster_path": "/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "release_date": "2000-05-04",
+    "title": "Gladiator",
+    "video": false,
+    "vote_average": 8.22,
+    "vote_count": 19666
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sc1abgWNXc29wSBaerrjGBih06l.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "id": 1084199,
+    "original_language": "en",
+    "original_title": "Companion",
+    "overview": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
+    "popularity": 30.1469,
+    "poster_path": "/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+    "release_date": "2025-01-22",
+    "title": "Companion",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 1266
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/e807jDKiFcntZS32ze88X6I96OD.jpg",
+    "genre_ids": [
+      16,
+      28
+    ],
+    "id": 1297763,
+    "original_language": "ja",
+    "original_title": "ニンジャバットマン対ヤクザリーグ",
+    "overview": "The Batman family has returned to the present to discover that Japan has disappeared, and a giant island - Hinomoto - is now in the sky over Gotham City.  At the top sit the Yakuza, a group of superpowered individuals who reign without honor or humanity and look suspiciously like the Justice League. Now, it’s up to Batman and his allies to save Gotham!",
+    "popularity": 29.9657,
+    "poster_path": "/sVVT6GYFErVv0Lcc9NvqCu0iOxO.jpg",
+    "release_date": "2025-03-17",
+    "title": "Batman Ninja vs. Yakuza League",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 153
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 278,
+    "original_language": "en",
+    "original_title": "The Shawshank Redemption",
+    "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+    "popularity": 29.7884,
+    "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "release_date": "1994-09-23",
+    "title": "The Shawshank Redemption",
+    "video": false,
+    "vote_average": 8.71,
+    "vote_count": 28271
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aBqpGwFVSAHcPNgsLX1Y10XPy7y.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1371094,
+    "original_language": "es",
+    "original_title": "Desmontando un elefante",
+    "overview": "A mother is trapped by both a close bond to her daughter and a day-to-day life whose elephant in the room is her own addiction, which nobody mentions, remaining a taboo.",
+    "popularity": 29.7644,
+    "poster_path": "/M0V6s0WrPsYTd0HxjbZjYAqY9B.jpg",
+    "release_date": "2025-01-10",
+    "title": "Dismantling an Elephant",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nqUThBjou0TAWXu93Q4SNFpgqai.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 634649,
+    "original_language": "en",
+    "original_title": "Spider-Man: No Way Home",
+    "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+    "popularity": 29.7475,
+    "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "release_date": "2021-12-15",
+    "title": "Spider-Man: No Way Home",
+    "video": false,
+    "vote_average": 7.9,
+    "vote_count": 20742
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pDKFL1zcHzEpmz4MJA5JJnRbJeD.jpg",
+    "genre_ids": [
+      27,
+      53,
+      18
+    ],
+    "id": 405774,
+    "original_language": "en",
+    "original_title": "Bird Box",
+    "overview": "Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.",
+    "popularity": 29.6987,
+    "poster_path": "/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg",
+    "release_date": "2018-12-13",
+    "title": "Bird Box",
+    "video": false,
+    "vote_average": 6.832,
+    "vote_count": 10105
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oOv2oUXcAaNXakRqUPxYq5lJURz.jpg",
+    "genre_ids": [
+      18,
+      28,
+      80,
+      53
+    ],
+    "id": 155,
+    "original_language": "en",
+    "original_title": "The Dark Knight",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "popularity": 29.4673,
+    "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "release_date": "2008-07-16",
+    "title": "The Dark Knight",
+    "video": false,
+    "vote_average": 8.519,
+    "vote_count": 33821
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lsgT602GYV8ts97sKH1gWFtQs1k.jpg",
+    "genre_ids": [
+      16,
+      12,
+      35,
+      10751,
+      14
+    ],
+    "id": 1104845,
+    "original_language": "en",
+    "original_title": "Plankton: The Movie",
+    "overview": "Plankton's tangled love story with his sentient computer wife goes sideways when she takes a stand — and decides to destroy the world without him.",
+    "popularity": 29.4587,
+    "poster_path": "/hGaUNLF5VZbg9ovPTyjm9Rv5xWz.jpg",
+    "release_date": "2025-03-08",
+    "title": "Plankton: The Movie",
+    "video": false,
+    "vote_average": 6.787,
+    "vote_count": 101
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
+    "genre_ids": [
+      28,
+      35,
+      14
+    ],
+    "id": 845781,
+    "original_language": "en",
+    "original_title": "Red One",
+    "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+    "popularity": 29.2241,
+    "poster_path": "/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+    "release_date": "2024-10-31",
+    "title": "Red One",
+    "video": false,
+    "vote_average": 7.048,
+    "vote_count": 2499
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9bColKVEAaWfmOLiLZoUhdYfevy.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      878
+    ],
+    "id": 1010818,
+    "original_language": "en",
+    "original_title": "Groot's First Steps",
+    "overview": "Following the events of “Guardians of the Galaxy Vol. 1,” Baby Groot is finally ready to try taking his first steps out of his pot—only to learn you have to walk before you can run.",
+    "popularity": 29.1662,
+    "poster_path": "/1ifiV9ZJD4tC3tRYcnLIzH0meaB.jpg",
+    "release_date": "2022-08-10",
+    "title": "Groot's First Steps",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 350
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/AuV99eQivVWuk2AOSM6hYh9QRPQ.jpg",
+    "genre_ids": [
+      12,
+      10751,
+      14
+    ],
+    "id": 411,
+    "original_language": "en",
+    "original_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "overview": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
+    "popularity": 29.0736,
+    "poster_path": "/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+    "release_date": "2005-12-07",
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "video": false,
+    "vote_average": 7.133,
+    "vote_count": 10912
   }
 ]

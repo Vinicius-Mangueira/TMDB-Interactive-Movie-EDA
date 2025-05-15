@@ -1,121 +1,177 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+    "backdrop_path": "/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
     "genre_ids": [
-      28,
-      80,
-      18,
-      53
+      12,
+      14,
+      28
     ],
-    "id": 49026,
+    "id": 285,
     "original_language": "en",
-    "original_title": "The Dark Knight Rises",
-    "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
-    "popularity": 15.211,
-    "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
-    "release_date": "2012-07-17",
-    "title": "The Dark Knight Rises",
+    "original_title": "Pirates of the Caribbean: At World's End",
+    "overview": "Will Turner and Elizabeth Swann join forces with the revived Captain Barbossa to free Jack Sparrow from Davy Jones' locker. The group must navigate dangerous waters, confront many foes and, ultimately, choose sides in a battle wherein piracy itself hangs in the balance.",
+    "popularity": 15.1598,
+    "poster_path": "/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+    "release_date": "2007-05-19",
+    "title": "Pirates of the Caribbean: At World's End",
     "video": false,
-    "vote_average": 7.785,
-    "vote_count": 23196
+    "vote_average": 7.259,
+    "vote_count": 14690
   },
   {
     "adult": false,
-    "backdrop_path": "/UJje4GZglCtC8ZtYY8T4jj1RHm.jpg",
+    "backdrop_path": "/tcheoA2nPATCm2vvXw2hVQoaEFD.jpg",
     "genre_ids": [
-      18,
-      10749
-    ],
-    "id": 72808,
-    "original_language": "it",
-    "original_title": "La carne",
-    "overview": "A beautiful film which is basically about a man, a piano player, who meets and falls in love with a beautiful and voluptuous woman, who, by some strange procedure, leaves the man unable to move but with a permanent priapism! After some time he becomes sick of it and she relieves his paralysis. Eventually she gets bored and decides to leave, but he can't take it because he loves her…",
-    "popularity": 15.1218,
-    "poster_path": "/quhlqvkeRZN6tZrDSfJ41en6CDs.jpg",
-    "release_date": "1991-05-09",
-    "title": "The Flesh",
-    "video": false,
-    "vote_average": 5.6,
-    "vote_count": 56
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/hg0MTIFs49ef179C9Y1HRtzqbbK.jpg",
-    "genre_ids": [
-      18,
-      53,
-      10752
-    ],
-    "id": 16869,
-    "original_language": "en",
-    "original_title": "Inglourious Basterds",
-    "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
-    "popularity": 15.07,
-    "poster_path": "/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
-    "release_date": "2009-08-02",
-    "title": "Inglourious Basterds",
-    "video": false,
-    "vote_average": 8.215,
-    "vote_count": 22834
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3xN4vNPWBSVDsiiOzL5sB95Sa1J.jpg",
-    "genre_ids": [
-      53,
-      9648
-    ],
-    "id": 257094,
-    "original_language": "en",
-    "original_title": "Holland",
-    "overview": "Teacher Nancy's life with her husband in Holland, Michigan, tumbles into a twisted tale when she and a colleague become suspicious of a secret.",
-    "popularity": 15.0023,
-    "poster_path": "/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg",
-    "release_date": "2025-03-09",
-    "title": "Holland",
-    "video": false,
-    "vote_average": 5.337,
-    "vote_count": 341
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5N8LOeRzt7LcZIhPbNVaCsVOPdT.jpg",
-    "genre_ids": [
-      878,
       27,
       53
     ],
-    "id": 762504,
+    "id": 346364,
     "original_language": "en",
-    "original_title": "Nope",
-    "overview": "Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.",
-    "popularity": 14.9961,
-    "poster_path": "/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
-    "release_date": "2022-07-20",
-    "title": "Nope",
+    "original_title": "It",
+    "overview": "In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.",
+    "popularity": 15.1461,
+    "poster_path": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+    "release_date": "2017-09-06",
+    "title": "It",
     "video": false,
-    "vote_average": 6.8,
-    "vote_count": 4355
+    "vote_average": 7.239,
+    "vote_count": 19332
   },
   {
     "adult": false,
-    "backdrop_path": "/eDLp4uFdqP1gpy9oMrutwH6Q64I.jpg",
+    "backdrop_path": "/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
     "genre_ids": [
-      18,
-      53,
-      27
+      80,
+      18
     ],
-    "id": 44214,
+    "id": 103,
     "original_language": "en",
-    "original_title": "Black Swan",
-    "overview": "The story of Nina, a ballerina in a New York City ballet company whose life, like all those in her profession, is completely consumed with dance. She lives with her retired ballerina mother Erica who zealously supports her daughter's professional ambition. When artistic director Thomas Leroy decides to replace prima ballerina Beth MacIntyre for the opening production of their new season, Swan Lake, Nina is his first choice.",
-    "popularity": 14.8732,
-    "poster_path": "/viWheBd44bouiLCHgNMvahLThqx.jpg",
-    "release_date": "2010-12-03",
-    "title": "Black Swan",
+    "original_title": "Taxi Driver",
+    "overview": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action.",
+    "popularity": 15.1296,
+    "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+    "release_date": "1976-02-09",
+    "title": "Taxi Driver",
     "video": false,
-    "vote_average": 7.686,
-    "vote_count": 14797
+    "vote_average": 8.134,
+    "vote_count": 12635
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kg2FOT2Oe5PSCgs3L4vLel6B7ck.jpg",
+    "genre_ids": [
+      28,
+      27,
+      878,
+      53
+    ],
+    "id": 72190,
+    "original_language": "en",
+    "original_title": "World War Z",
+    "overview": "Life for former United Nations investigator Gerry Lane and his family seems content. Suddenly, the world is plagued by a mysterious infection turning whole human populations into rampaging mindless zombies. After barely escaping the chaos, Lane is persuaded to go on a mission to investigate this disease. What follows is a perilous trek around the world where Lane must brave horrific dangers and long odds to find answers before human civilization falls.",
+    "popularity": 15.0671,
+    "poster_path": "/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg",
+    "release_date": "2013-06-19",
+    "title": "World War Z",
+    "video": false,
+    "vote_average": 6.82,
+    "vote_count": 15698
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/43BEez1EGdmNpg8rcPUFToujlii.jpg",
+    "genre_ids": [
+      53,
+      80
+    ],
+    "id": 161,
+    "original_language": "en",
+    "original_title": "Ocean's Eleven",
+    "overview": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+    "popularity": 15.0589,
+    "poster_path": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+    "release_date": "2001-12-07",
+    "title": "Ocean's Eleven",
+    "video": false,
+    "vote_average": 7.447,
+    "vote_count": 11852
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rFY9V4Dhq7lbIu6LlpzbL9u2K2E.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 257211,
+    "original_language": "en",
+    "original_title": "The Intern",
+    "overview": "70-year-old widower Ben Whittaker has discovered that retirement isn't all it's cracked up to be. Seizing an opportunity to get back in the game, he becomes a senior intern at an online fashion site, founded and run by Jules Ostin.",
+    "popularity": 14.9949,
+    "poster_path": "/9UoAC9tu8kIyRy8AcJnGhnH0gOH.jpg",
+    "release_date": "2015-09-23",
+    "title": "The Intern",
+    "video": false,
+    "vote_average": 7.222,
+    "vote_count": 6862
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eTvN54pd83TrSEOz6wbsXEJktCV.jpg",
+    "genre_ids": [
+      10752,
+      28,
+      53
+    ],
+    "id": 882569,
+    "original_language": "en",
+    "original_title": "Guy Ritchie's The Covenant",
+    "overview": "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
+    "popularity": 14.9379,
+    "poster_path": "/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg",
+    "release_date": "2023-04-19",
+    "title": "Guy Ritchie's The Covenant",
+    "video": false,
+    "vote_average": 7.754,
+    "vote_count": 2738
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ocOWbTzHcJVTw9Tz173KPeskDOP.jpg",
+    "genre_ids": [
+      10751,
+      14,
+      12
+    ],
+    "id": 12155,
+    "original_language": "en",
+    "original_title": "Alice in Wonderland",
+    "overview": "Alice, now 19 years old, returns to the whimsical world she first entered as a child and embarks on a journey to discover her true destiny.",
+    "popularity": 14.9066,
+    "poster_path": "/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg",
+    "release_date": "2010-03-03",
+    "title": "Alice in Wonderland",
+    "video": false,
+    "vote_average": 6.635,
+    "vote_count": 14227
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pak4TKvX3j7sqXcjwQCh5yzpUbN.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 326425,
+    "original_language": "en",
+    "original_title": "Extraction",
+    "overview": "When a former CIA operative is kidnapped by a group of terrorists, his son learns there is no plan for his father to be saved—so he launches his own rescue operation.",
+    "popularity": 14.8152,
+    "poster_path": "/1Cn5pxPi5XedW0oH0Xr6GibmmVZ.jpg",
+    "release_date": "2015-12-18",
+    "title": "Extraction",
+    "video": false,
+    "vote_average": 4.557,
+    "vote_count": 384
   }
 ]

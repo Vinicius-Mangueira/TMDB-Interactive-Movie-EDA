@@ -1,198 +1,144 @@
 [
   {
     "adult": false,
-    "backdrop_path": null,
+    "backdrop_path": "/zbOlpFM306PHE7EP1OELCH5qSmS.jpg",
     "genre_ids": [
-      18,
-      10749
-    ],
-    "id": 1135869,
-    "original_language": "ho",
-    "original_title": "Kelas Bintang - Salome",
-    "overview": "Kelas Bintang is back with this pack of drama called Salome.",
-    "popularity": 10.4594,
-    "poster_path": "/9R94k6pMdLWHwzxSSlKVrPo0EE3.jpg",
-    "release_date": "2023-05-13",
-    "title": "Salome",
-    "video": false,
-    "vote_average": 10.0,
-    "vote_count": 1
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/pwBtk8ngoMtqn0qv8j1feSFTKUn.jpg",
-    "genre_ids": [
-      28,
-      80,
+      10752,
+      36,
       18
     ],
-    "id": 781732,
-    "original_language": "hi",
-    "original_title": "Animal",
-    "overview": "The hardened son of a powerful industrialist returns home after years abroad and vows to take bloody revenge on those threatening his father's life.",
-    "popularity": 10.4439,
-    "poster_path": "/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg",
-    "release_date": "2023-12-01",
-    "title": "Animal",
+    "id": 49046,
+    "original_language": "de",
+    "original_title": "Im Westen nichts Neues",
+    "overview": "Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.",
+    "popularity": 10.4896,
+    "poster_path": "/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg",
+    "release_date": "2022-10-07",
+    "title": "All Quiet on the Western Front",
     "video": false,
-    "vote_average": 6.275,
-    "vote_count": 140
+    "vote_average": 7.727,
+    "vote_count": 4162
   },
   {
     "adult": false,
-    "backdrop_path": "/8yPSYhooj8nyBbmV3GVdLDwuE7e.jpg",
+    "backdrop_path": "/7S7PE3vK9Eh5uzCYBDGk5qTJeYW.jpg",
     "genre_ids": [
       18,
-      10749
-    ],
-    "id": 1079091,
-    "original_language": "en",
-    "original_title": "It Ends with Us",
-    "overview": "When a woman's first love suddenly reenters her life, her relationship with a charming, but abusive neurosurgeon is upended, and she realizes she must learn to rely on her own strength to make an impossible choice for her future.",
-    "popularity": 10.4426,
-    "poster_path": "/cSMdFWmajaX4oUMLx7HEDI84GkP.jpg",
-    "release_date": "2024-08-07",
-    "title": "It Ends with Us",
-    "video": false,
-    "vote_average": 7.031,
-    "vote_count": 1604
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1E7kqUJghDRSgYkxDXAyoaVqQ96.jpg",
-    "genre_ids": [
-      12,
-      14,
-      18,
-      10749
-    ],
-    "id": 18239,
-    "original_language": "en",
-    "original_title": "The Twilight Saga: New Moon",
-    "overview": "Forks, Washington resident Bella Swan is reeling from the departure of her vampire love, Edward Cullen, and finds comfort in her friendship with Jacob Black, a werewolf. But before she knows it, she's thrust into a centuries-old conflict, and her desire to be with Edward at any cost leads her to take greater and greater risks.",
-    "popularity": 10.4245,
-    "poster_path": "/k2qTooPlHffgNABNWxeJdGMglPK.jpg",
-    "release_date": "2009-11-18",
-    "title": "The Twilight Saga: New Moon",
-    "video": false,
-    "vote_average": 5.992,
-    "vote_count": 9358
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jgrImRKhsRXaa6wlSsQPnFRUQbH.jpg",
-    "genre_ids": [
-      99
-    ],
-    "id": 1412113,
-    "original_language": "ko",
-    "original_title": "오징어 게임: 시즌2 제작 이야기",
-    "overview": "From set designs to character arcs, get exclusive cast and director interviews on how Season 2 of the globally most-watched series was brought to life.",
-    "popularity": 10.405,
-    "poster_path": "/yQGaui0bQ5Ai3KIFBB45nTeIqad.jpg",
-    "release_date": "2025-01-02",
-    "title": "Squid Game: Making Season 2",
-    "video": false,
-    "vote_average": 8.5,
-    "vote_count": 402
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3Nn5BOM1EVw1IYrv6MsbOS6N1Ol.jpg",
-    "genre_ids": [
-      14,
-      18,
-      10749
-    ],
-    "id": 162,
-    "original_language": "en",
-    "original_title": "Edward Scissorhands",
-    "overview": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
-    "popularity": 10.3942,
-    "poster_path": "/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
-    "release_date": "1990-12-07",
-    "title": "Edward Scissorhands",
-    "video": false,
-    "vote_average": 7.716,
-    "vote_count": 13137
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/AqfqJzuO7dwbRGqlPUILoowy9TQ.jpg",
-    "genre_ids": [
       80,
-      28
+      53
     ],
-    "id": 377579,
-    "original_language": "zh",
-    "original_title": "角頭",
-    "overview": "Qing Feng is the top lieutenant under gang boss Yong. Three years ago, his good friend Xiong went to jail for him in the name of brotherhood. Upon his return, Xiong is immediately favored by Yong, which plants a growing rift in his friendship with Qing Feng. Over on the rival gang side, U.S.-educated Michael returns to Taiwan to take over for his late father and applies ruthless business strategies to expand his turf. With his eyes set on a profitable property development project, Michael will stop at nothing to eliminate Yong and take over his turf.",
-    "popularity": 10.3926,
-    "poster_path": "/zSjHhyv5EnJOsUEiAUHioC3KlyH.jpg",
-    "release_date": "2015-07-05",
-    "title": "Gatao",
-    "video": false,
-    "vote_average": 5.0,
-    "vote_count": 6
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/qAvou7F5P4VcIR72JzzrnKEQSN3.jpg",
-    "genre_ids": [
-      12,
-      14,
-      10751
-    ],
-    "id": 630,
+    "id": 629,
     "original_language": "en",
-    "original_title": "The Wizard of Oz",
-    "overview": "Young Dorothy finds herself in a magical world where she makes friends with a lion, a scarecrow and a tin man as they make their way along the yellow brick road to talk with the Wizard and ask for the things they miss most in their lives. The Wicked Witch of the West is the only thing that could stop them.",
-    "popularity": 10.3843,
-    "poster_path": "/pfAZFD7I2hxW9HCChTuAzsdE6UX.jpg",
-    "release_date": "1939-08-15",
-    "title": "The Wizard of Oz",
+    "original_title": "The Usual Suspects",
+    "overview": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor – leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+    "popularity": 10.4853,
+    "poster_path": "/rWbsxdwF9qQzpTPCLmDfVnVqTK1.jpg",
+    "release_date": "1995-07-19",
+    "title": "The Usual Suspects",
     "video": false,
-    "vote_average": 7.6,
-    "vote_count": 5740
+    "vote_average": 8.175,
+    "vote_count": 10682
   },
   {
     "adult": false,
-    "backdrop_path": "/g5haoqEqt5VwVwQKEkoXY9zqSxb.jpg",
+    "backdrop_path": "/d1YxrmqIzS30haejpT7DcJMz3Md.jpg",
     "genre_ids": [
-      35,
-      10749
+      18,
+      10749,
+      14
     ],
-    "id": 232672,
-    "original_language": "en",
-    "original_title": "Blended",
-    "overview": "Recently divorced mom Lauren and widowed dad Jim let their friends push them into a blind date, which goes disastrously wrong. Unsurprisingly, neither wants to see the other ever again. However, fate intervenes when both Jim and Lauren, unbeknownst to each other, purchase one-half of the same vacation package at a South African resort for families, during spring break. They and their children are forced to share the same romantic suite and participate in a slew of family activities together.",
-    "popularity": 10.3297,
-    "poster_path": "/o2YrH9jS7CAfWjETHFeL0tth79E.jpg",
-    "release_date": "2014-05-21",
-    "title": "Blended",
+    "id": 1059372,
+    "original_language": "id",
+    "original_title": "Dear David",
+    "overview": "A secret fantasy blog might jeopardize the promising future of Laras, a talented student, when the blog is revealed to her entire school.",
+    "popularity": 10.4482,
+    "poster_path": "/Ab1OedAN42deqjIkOu7X94nJwkG.jpg",
+    "release_date": "2023-02-09",
+    "title": "Dear David",
     "video": false,
-    "vote_average": 6.886,
-    "vote_count": 3613
+    "vote_average": 6.097,
+    "vote_count": 36
   },
   {
     "adult": false,
-    "backdrop_path": "/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
+    "backdrop_path": "/3H9NA1KWEQN0ItL3Wl3SFZYP6yV.jpg",
     "genre_ids": [
-      10751,
+      28,
+      878,
+      12
+    ],
+    "id": 565770,
+    "original_language": "en",
+    "original_title": "Blue Beetle",
+    "overview": "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
+    "popularity": 10.4438,
+    "poster_path": "/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+    "release_date": "2023-08-16",
+    "title": "Blue Beetle",
+    "video": false,
+    "vote_average": 6.698,
+    "vote_count": 2768
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9Rhs8yzMTtAcOUvJXqUg7kzljb7.jpg",
+    "genre_ids": [
       16,
-      12,
-      35
+      10751,
+      35,
+      10402
     ],
-    "id": 9487,
+    "id": 1371727,
     "original_language": "en",
-    "original_title": "A Bug's Life",
-    "overview": "On behalf of \"oppressed bugs everywhere,\" an inventive ant named Flik hires a troupe of warrior bugs to defend his bustling colony from a horde of freeloading grasshoppers led by the evil-minded Hopper.",
-    "popularity": 10.3255,
-    "poster_path": "/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
-    "release_date": "1998-11-25",
-    "title": "A Bug's Life",
+    "original_title": "Sing: Thriller",
+    "overview": "Buster Moon dreams up a star-studded spectacle set to Michael Jackson's \"Thriller\" in this animated short featuring characters from the hit \"Sing\" films.",
+    "popularity": 10.4375,
+    "poster_path": "/i77OInTKcrnRlAozFOaB6D5mk15.jpg",
+    "release_date": "2024-10-15",
+    "title": "Sing: Thriller",
     "video": false,
-    "vote_average": 6.972,
-    "vote_count": 9307
+    "vote_average": 7.23,
+    "vote_count": 163
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/d1m5SWHs5Qb1rtn9QCIayF3uQju.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      53,
+      27
+    ],
+    "id": 1813,
+    "original_language": "en",
+    "original_title": "The Devil's Advocate",
+    "overview": "Aspiring Florida defense lawyer Kevin Lomax accepts a job at a New York law firm. With the stakes getting higher every case, Kevin quickly learns that his boss has something far more evil planned.",
+    "popularity": 10.3357,
+    "poster_path": "/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
+    "release_date": "1997-10-17",
+    "title": "The Devil's Advocate",
+    "video": false,
+    "vote_average": 7.469,
+    "vote_count": 6210
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 127585,
+    "original_language": "en",
+    "original_title": "X-Men: Days of Future Past",
+    "overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.",
+    "popularity": 10.3091,
+    "poster_path": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+    "release_date": "2014-05-15",
+    "title": "X-Men: Days of Future Past",
+    "video": false,
+    "vote_average": 7.528,
+    "vote_count": 15572
   }
 ]

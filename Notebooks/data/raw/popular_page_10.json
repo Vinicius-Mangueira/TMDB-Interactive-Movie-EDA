@@ -1,183 +1,102 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/uxezSInaPoH20CyHx4TuY1LzGly.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      10770,
-      878,
-      12,
-      28,
-      10402
-    ],
-    "id": 71689,
-    "original_language": "en",
-    "original_title": "Phineas and Ferb The Movie: Across the 2nd Dimension",
-    "overview": "Phineas and Ferb get trapped in an alternate dimension where the evil Doofenshmirtz rules the tri-state area. They must find a way back home with the help of their pet platypus named Perry, who they discover is a secret agent.",
-    "popularity": 27.2743,
-    "poster_path": "/updMFSOZwEftfkJRpozwBlRlYI2.jpg",
-    "release_date": "2011-08-05",
-    "title": "Phineas and Ferb The Movie: Across the 2nd Dimension",
-    "video": false,
-    "vote_average": 7.077,
-    "vote_count": 566
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/lqHt4icP1GTaNBeVTxTrwTZdoAW.jpg",
-    "genre_ids": [
-      28,
-      53,
-      9648,
-      80
-    ],
-    "id": 1195430,
-    "original_language": "hi",
-    "original_title": "देवा",
-    "overview": "Dev Ambre, a ruthless cop, loses his memory in an accident just after he has finished solving a murder case and now has to reinvestigate it while keeping his memory loss a secret from everyone except DCP Farhan Khan.",
-    "popularity": 26.9864,
-    "poster_path": "/qxtXzAlEPxmjHILU8k8wduvBSdo.jpg",
-    "release_date": "2025-01-31",
-    "title": "Deva",
-    "video": false,
-    "vote_average": 6.021,
-    "vote_count": 48
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/lTYGtgDRygku7iiFLWyiEc4wLzz.jpg",
-    "genre_ids": [
-      18,
-      28,
-      27
-    ],
-    "id": 1118031,
-    "original_language": "es",
-    "original_title": "Apocalipsis Z: el principio del fin",
-    "overview": "When a kind of rabies that transforms people into aggressive creatures spreads across the planet, Manel isolates himself at home with his cat, relying on his wits to survive; but soon they must go out in search of food, by land and by sea, dodging many dangers.",
-    "popularity": 26.8079,
-    "poster_path": "/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg",
-    "release_date": "2024-10-04",
-    "title": "Apocalypse Z: The Beginning of the End",
-    "video": false,
-    "vote_average": 6.722,
-    "vote_count": 1061
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/qrtRKRzoNkf5vemO9tJ2Y4DrHxQ.jpg",
-    "genre_ids": [
-      14,
-      12
-    ],
-    "id": 338952,
-    "original_language": "en",
-    "original_title": "Fantastic Beasts: The Crimes of Grindelwald",
-    "overview": "Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.",
-    "popularity": 26.7063,
-    "poster_path": "/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg",
-    "release_date": "2018-11-14",
-    "title": "Fantastic Beasts: The Crimes of Grindelwald",
-    "video": false,
-    "vote_average": 6.846,
-    "vote_count": 11039
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cJCW78MZsyyXBKHo4V25WctK00V.jpg",
+    "backdrop_path": "/nSV1NIAK0Sp5dM1oiobtqbJ8Jrv.jpg",
     "genre_ids": [
       27,
-      28,
-      14
+      9648
     ],
-    "id": 1312833,
+    "id": 9286,
     "original_language": "en",
-    "original_title": "A Knight's War",
-    "overview": "A fearless knight braves a deadly realm to save the Chosen One’s soul. Facing witches, demons, and brutal foes, he discovers her return could ignite chaos and doom humanity.",
-    "popularity": 26.6826,
-    "poster_path": "/janjdSMrTRGtPrI1p9uOX66jv7x.jpg",
-    "release_date": "2025-02-07",
-    "title": "A Knight's War",
+    "original_title": "Final Destination 3",
+    "overview": "High school senior Wendy's premonition of a deadly rollercoaster ride saves her life and a lucky few, but not from death itself — which seeks out those who escaped their fate.",
+    "popularity": 26.8785,
+    "poster_path": "/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg",
+    "release_date": "2006-02-09",
+    "title": "Final Destination 3",
     "video": false,
-    "vote_average": 5.4,
-    "vote_count": 19
+    "vote_average": 6.114,
+    "vote_count": 4034
   },
   {
     "adult": false,
-    "backdrop_path": "/bA4Io3xv46oEyP4O51uU0EKbluF.jpg",
-    "genre_ids": [
-      28,
-      80
-    ],
-    "id": 995926,
-    "original_language": "ko",
-    "original_title": "베테랑 2",
-    "overview": "The veteran detective Seo Do-cheol and his team at Major Crimes, relentless in their pursuit of criminals, join forces with rookie cop Park Sun-woo to track down a serial killer who has plunged the nation into turmoil.",
-    "popularity": 26.4214,
-    "poster_path": "/gAtP0usArK5gVOBObnsENKLwML8.jpg",
-    "release_date": "2024-09-13",
-    "title": "I, the Executioner",
-    "video": false,
-    "vote_average": 6.946,
-    "vote_count": 65
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/kYqEsUtilXXcb7FDfGIUaDq7j5F.jpg",
-    "genre_ids": [
-      53,
-      35
-    ],
-    "id": 1101401,
-    "original_language": "en",
-    "original_title": "Sugar Baby",
-    "overview": "An enterprising Sugar Baby is offered $30,000 to move in with her Sugar Daddy for the week, but soon discovers the sinister secrets trapped within his home.",
-    "popularity": 26.1971,
-    "poster_path": "/z7NyxmdJ1ypn3Y6BVizjGODuBdO.jpg",
-    "release_date": "2024-10-15",
-    "title": "Sugar Baby",
-    "video": false,
-    "vote_average": 6.038,
-    "vote_count": 13
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/QNo0appKGKLAsBXVkU64fXwOtj.jpg",
-    "genre_ids": [
-      27
-    ],
-    "id": 1321952,
-    "original_language": "es",
-    "original_title": "Tu Sangre",
-    "overview": "My mother vanished inside the boarding school where she worked. Through a Ouija board, she told me to look for her. My name is Sofia. I'm 14 years old and I'm going to enroll at the boarding school to find the body of my mother.",
-    "popularity": 26.085,
-    "poster_path": "/kYbd7M1dk2xadHd2WczQRmO28uJ.jpg",
-    "release_date": "2024-10-31",
-    "title": "Sofia, the Possession",
-    "video": false,
-    "vote_average": 6.6,
-    "vote_count": 8
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/a0xTB1vBxMGt6LGG4N7k1wO9lfL.jpg",
+    "backdrop_path": "/2vcdZBbf7sPPzIHfN5ial24UbxK.jpg",
     "genre_ids": [
       28,
       12,
-      35
+      878
     ],
-    "id": 458897,
+    "id": 305470,
     "original_language": "en",
-    "original_title": "Charlie's Angels",
-    "overview": "Elena Houghlin is a scientist, engineer and inventor of Calisto -- a sustainable energy source that will revolutionize the way people use power. It will be ready as soon as she works out the last issue, if not it could be turned into a dangerous weapon. But when the cutting edge technology is pushed to an investor before she can do that, Elena turns to the Townsend Agency for help. Now, it's up to the Angels -- Jane, Sabina, and the newly recruited Elena -- to retrieve Calisto before it can be transformed into a weapon of mass destruction.",
-    "popularity": 25.7052,
-    "poster_path": "/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg",
-    "release_date": "2019-11-14",
-    "title": "Charlie's Angels",
+    "original_title": "Power Rangers",
+    "overview": "Five ordinary teens must become something extraordinary when they learn that their small town of Angel Grove — and the world — is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before it’s too late, band together as the Power Rangers.",
+    "popularity": 26.5013,
+    "poster_path": "/bKYKyyIv5YnisxjZtDreWtYA386.jpg",
+    "release_date": "2017-03-23",
+    "title": "Power Rangers",
     "video": false,
-    "vote_average": 6.415,
-    "vote_count": 3011
+    "vote_average": 6.257,
+    "vote_count": 4455
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uWeffFhprUohUL5GO3YfQqdsVrI.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 615457,
+    "original_language": "en",
+    "original_title": "Nobody",
+    "overview": "Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a \"nobody.\" When two thieves break into his home one night, Hutch's unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.",
+    "popularity": 26.1357,
+    "poster_path": "/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
+    "release_date": "2021-03-18",
+    "title": "Nobody",
+    "video": false,
+    "vote_average": 7.926,
+    "vote_count": 7340
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+    "genre_ids": [
+      16,
+      12,
+      14,
+      35,
+      10751
+    ],
+    "id": 315162,
+    "original_language": "en",
+    "original_title": "Puss in Boots: The Last Wish",
+    "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+    "popularity": 25.8031,
+    "poster_path": "/aV1KGO9X3S4kzqEptVDAvGjccql.jpg",
+    "release_date": "2022-12-07",
+    "title": "Puss in Boots: The Last Wish",
+    "video": false,
+    "vote_average": 8.215,
+    "vote_count": 8177
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qi6Edc1OPcyENecGtz8TF0DUr9e.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "id": 423108,
+    "original_language": "en",
+    "original_title": "The Conjuring: The Devil Made Me Do It",
+    "overview": "Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they'd ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.",
+    "popularity": 25.702,
+    "poster_path": "/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+    "release_date": "2021-05-25",
+    "title": "The Conjuring: The Devil Made Me Do It",
+    "video": false,
+    "vote_average": 7.407,
+    "vote_count": 6045
   }
 ]

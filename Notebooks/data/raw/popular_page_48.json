@@ -1,22 +1,335 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/qDVdTL1KqGmGLGsy7UPA3vksku7.jpg",
+    "backdrop_path": "/pBdQ4iorzRV2G38mdS6rzrmUfMA.jpg",
     "genre_ids": [
       28,
-      12,
+      10752
+    ],
+    "id": 840326,
+    "original_language": "fi",
+    "original_title": "Sisu",
+    "overview": "When an ex-soldier who discovers gold in the Lapland wilderness tries to take the loot into the city, German soldiers led by a brutal SS officer battle him.",
+    "popularity": 9.9925,
+    "poster_path": "/ygO9lowFMXWymATCrhoQXd6gCEh.jpg",
+    "release_date": "2022-09-09",
+    "title": "Sisu",
+    "video": false,
+    "vote_average": 7.401,
+    "vote_count": 2341
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6QmX2BDVr1hIOIPHqnxvp1C1ZZp.jpg",
+    "genre_ids": [
+      35,
+      28,
+      80
+    ],
+    "id": 339846,
+    "original_language": "en",
+    "original_title": "Baywatch",
+    "overview": "Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together, they uncover a local criminal plot that threatens the future of the Bay.",
+    "popularity": 9.9913,
+    "poster_path": "/6HE4xd8zloDqmjMZuhUCCw2UcY1.jpg",
+    "release_date": "2017-05-25",
+    "title": "Baywatch",
+    "video": false,
+    "vote_average": 6.092,
+    "vote_count": 8183
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/egKntJKzEL6HgalIyQ0Q5cMmDOA.jpg",
+    "genre_ids": [
+      53,
+      80,
+      9648
+    ],
+    "id": 65754,
+    "original_language": "en",
+    "original_title": "The Girl with the Dragon Tattoo",
+    "overview": "Disgraced journalist Mikael Blomkvist investigates the disappearance of a weary patriarch's niece from 40 years ago. He is aided by the pierced, tattooed, punk computer hacker named Lisbeth Salander. As they work together in the investigation, Blomkvist and Salander uncover immense corruption beyond anything they have ever imagined.",
+    "popularity": 9.9899,
+    "poster_path": "/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
+    "release_date": "2011-12-14",
+    "title": "The Girl with the Dragon Tattoo",
+    "video": false,
+    "vote_average": 7.376,
+    "vote_count": 7153
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7lX9Jx3hjRZ8K6KeKx5wqEoKVH2.jpg",
+    "genre_ids": [
+      80,
+      18,
       53
     ],
-    "id": 9802,
-    "original_language": "en",
-    "original_title": "The Rock",
-    "overview": "When vengeful General Francis X. Hummel seizes control of Alcatraz Island and threatens to launch missiles loaded with deadly chemical weapons into San Francisco, only a young FBI chemical weapons expert and notorious Federal prisoner have the skills to penetrate the impregnable island fortress and take him down.",
-    "popularity": 9.6284,
-    "poster_path": "/j5mxLNWjUlXUUk8weFBtnF4afIR.jpg",
-    "release_date": "1996-06-07",
-    "title": "The Rock",
+    "id": 1232280,
+    "original_language": "ur",
+    "original_title": "ٹیکسالی گیٹ",
+    "overview": "In the red light district of Lahore, when the daughter of an underprivileged wedding dancer is raped by the powerful Choudhary's son, the neighbourhood pimp and the top prostitute help the pair seek justice.",
+    "popularity": 9.9801,
+    "poster_path": "/julSLBr4zqURYNRUiUvGOIk1ie3.jpg",
+    "release_date": "2024-02-16",
+    "title": "Taxali Gate",
     "video": false,
-    "vote_average": 7.131,
-    "vote_count": 4826
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aPQsU3yLDUOhLJYnSqkhKRkQTAw.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10752
+    ],
+    "id": 467244,
+    "original_language": "en",
+    "original_title": "The Zone of Interest",
+    "overview": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+    "popularity": 9.9778,
+    "poster_path": "/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+    "release_date": "2023-12-15",
+    "title": "The Zone of Interest",
+    "video": false,
+    "vote_average": 7.026,
+    "vote_count": 2150
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "id": 359940,
+    "original_language": "en",
+    "original_title": "Three Billboards Outside Ebbing, Missouri",
+    "overview": "After seven months have passed without a culprit in her daughter's murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town's revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother's boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing's law enforcement is only exacerbated.",
+    "popularity": 9.9668,
+    "poster_path": "/uGMM9ZObmPUFrGqcbFMVyv8L1lU.jpg",
+    "release_date": "2017-12-01",
+    "title": "Three Billboards Outside Ebbing, Missouri",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 10322
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 381288,
+    "original_language": "en",
+    "original_title": "Split",
+    "overview": "Though Kevin has evidenced 23 personalities to his trusted psychiatrist, Dr. Fletcher, there remains one still submerged who is set to materialize and dominate all the others. Compelled to abduct three teenage girls led by the willful, observant Casey, Kevin reaches a war for survival among all of those contained within him — as well as everyone around him — as the walls between his compartments shatter apart.",
+    "popularity": 9.9662,
+    "poster_path": "/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
+    "release_date": "2017-01-19",
+    "title": "Split",
+    "video": false,
+    "vote_average": 7.341,
+    "vote_count": 17649
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lMRX4cLx4hxYth3iQ96c0E1RHGB.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "id": 11770,
+    "original_language": "cn",
+    "original_title": "少林足球",
+    "overview": "A young Shaolin follower reunites with his discouraged brothers to form a soccer team using their martial art skills to their advantage.",
+    "popularity": 9.9598,
+    "poster_path": "/1aOnEAg3FSIg8DncA9JvMBuARTZ.jpg",
+    "release_date": "2001-07-05",
+    "title": "Shaolin Soccer",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 2326
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/scQf03Fm3jeyv4FH04qvi4fp4wh.jpg",
+    "genre_ids": [
+      80,
+      35,
+      28
+    ],
+    "id": 402900,
+    "original_language": "en",
+    "original_title": "Ocean's Eight",
+    "overview": "Debbie Ocean, a criminal mastermind, gathers a crew of female thieves to pull off the heist of the century at New York's annual Met Gala.",
+    "popularity": 9.9419,
+    "poster_path": "/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+    "release_date": "2018-06-07",
+    "title": "Ocean's Eight",
+    "video": false,
+    "vote_average": 6.972,
+    "vote_count": 8417
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lBX2EklMBEK5I0OIJWVJFr3DtmS.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "id": 312221,
+    "original_language": "en",
+    "original_title": "Creed",
+    "overview": "The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.",
+    "popularity": 9.9335,
+    "poster_path": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
+    "release_date": "2015-11-25",
+    "title": "Creed",
+    "video": false,
+    "vote_average": 7.406,
+    "vote_count": 7568
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mRUW8rmpCS2kH22eihPbbMIbFxU.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "id": 321258,
+    "original_language": "en",
+    "original_title": "The Boy",
+    "overview": "A young American woman takes a job as a nanny in a remote English village, soon discovering that the family's eight-year-old son is a life-sized doll that comes with a list of strict rules.",
+    "popularity": 9.9281,
+    "poster_path": "/kW2vgzhyWXQu5UxNzebPokipBqH.jpg",
+    "release_date": "2016-01-22",
+    "title": "The Boy",
+    "video": false,
+    "vote_average": 5.965,
+    "vote_count": 3796
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aGmsekNU5cMOkJMpbdRutkvmVMl.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 45243,
+    "original_language": "en",
+    "original_title": "The Hangover Part II",
+    "overview": "The Hangover crew heads to Thailand for Stu's wedding. After the disaster of a bachelor party in Las Vegas last year, Stu is playing it safe with a mellow pre-wedding brunch. However, nothing goes as planned and Bangkok is the perfect setting for another adventure with the rowdy group.",
+    "popularity": 9.9225,
+    "poster_path": "/7sGkjqorTHkaHTz8Q4WWHj8JL9t.jpg",
+    "release_date": "2011-05-25",
+    "title": "The Hangover Part II",
+    "video": false,
+    "vote_average": 6.487,
+    "vote_count": 10705
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ww1eIoywghjoMzRLRIcbJLuKnJH.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 343611,
+    "original_language": "en",
+    "original_title": "Jack Reacher: Never Go Back",
+    "overview": "Years after resigning command of an elite military police unit, the nomadic, righter-of-wrongs Reacher is drawn back into the life he left behind when his friend and successor, Major Susan Turner is framed for espionage. Reacher will stop at nothing to prove her innocence and to expose the real perpetrators behind the killings of his former soldiers.",
+    "popularity": 9.9198,
+    "poster_path": "/cOg3UT2NYWHZxp41vpxAnVCOC4M.jpg",
+    "release_date": "2016-10-19",
+    "title": "Jack Reacher: Never Go Back",
+    "video": false,
+    "vote_average": 5.995,
+    "vote_count": 5000
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vfkzNcVzTRCq3C2jYIZtIjSdwf7.jpg",
+    "genre_ids": [
+      27,
+      53,
+      28
+    ],
+    "id": 1247019,
+    "original_language": "th",
+    "original_title": "ธี่หยด 2",
+    "overview": "Three years after his sister's death, Yak relentlessly searches for the dark spirit that killed her in hopes of seeking revenge.",
+    "popularity": 9.9097,
+    "poster_path": "/uDW5eeFUYp1vaU2ymEdVBG6g7iq.jpg",
+    "release_date": "2024-10-10",
+    "title": "Death Whisperer 2",
+    "video": false,
+    "vote_average": 6.957,
+    "vote_count": 94
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4mcOCiR06dqQ5eoEJcG3zvonjOa.jpg",
+    "genre_ids": [
+      878,
+      28,
+      53,
+      12
+    ],
+    "id": 294254,
+    "original_language": "en",
+    "original_title": "Maze Runner: The Scorch Trials",
+    "overview": "Thomas and his fellow Gladers face their greatest challenge yet: searching for clues about the mysterious and powerful organization known as WCKD. Their journey takes them to the Scorch, a desolate landscape filled with unimaginable obstacles. Teaming up with resistance fighters, the Gladers take on WCKD’s vastly superior forces and uncover its shocking plans for them all.",
+    "popularity": 9.8973,
+    "poster_path": "/mYw7ZyejqSCPFlrT2jHZOESZDU3.jpg",
+    "release_date": "2015-09-09",
+    "title": "Maze Runner: The Scorch Trials",
+    "video": false,
+    "vote_average": 6.732,
+    "vote_count": 10551
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/86TlYSntBzD4pxLNM6U3GoOfGdD.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      16
+    ],
+    "id": 260514,
+    "original_language": "en",
+    "original_title": "Cars 3",
+    "overview": "Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns. Proving that #95 isn't through yet will test the heart of a champion on Piston Cup Racing’s biggest stage!",
+    "popularity": 9.8907,
+    "poster_path": "/fyy1nDC8wm553FCiBDojkJmKLCs.jpg",
+    "release_date": "2017-06-15",
+    "title": "Cars 3",
+    "video": false,
+    "vote_average": 6.856,
+    "vote_count": 6005
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ea0AQV7dE2fj7MNJUQispY2sgA8.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 9902,
+    "original_language": "en",
+    "original_title": "Wrong Turn",
+    "overview": "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they're hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
+    "popularity": 9.8871,
+    "poster_path": "/7lyxwOg7SdGff79yKCQmJ3AKWSf.jpg",
+    "release_date": "2003-05-30",
+    "title": "Wrong Turn",
+    "video": false,
+    "vote_average": 6.366,
+    "vote_count": 2779
   }
 ]

@@ -1,96 +1,220 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/iC799S3B73BqVTWj10huKoj84eV.jpg",
+    "backdrop_path": "/i4ZougHEyBAboDpi6jsaTUDTjUl.jpg",
     "genre_ids": [
-      18
-    ],
-    "id": 334543,
-    "original_language": "en",
-    "original_title": "Lion",
-    "overview": "A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.",
-    "popularity": 9.8644,
-    "poster_path": "/iBGRbLvg6kVc7wbS8wDdVHq6otm.jpg",
-    "release_date": "2016-11-24",
-    "title": "Lion",
-    "video": false,
-    "vote_average": 8.047,
-    "vote_count": 6692
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/egyi9TQjLhNEQuEsK1dXovdHOHL.jpg",
-    "genre_ids": [
-      10749,
-      35
-    ],
-    "id": 509,
-    "original_language": "en",
-    "original_title": "Notting Hill",
-    "overview": "London bookstore owner William Thacker's quiet life turns upside down when a chance encounter with famous actress Anna Scott sparks an unlikely romance challenged by their vastly different worlds.",
-    "popularity": 9.8508,
-    "poster_path": "/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg",
-    "release_date": "1999-05-21",
-    "title": "Notting Hill",
-    "video": false,
-    "vote_average": 7.3,
-    "vote_count": 6286
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/djPXXv9pPyTLGl9kMPCTyiBmIA5.jpg",
-    "genre_ids": [
-      37,
-      28
-    ],
-    "id": 11969,
-    "original_language": "en",
-    "original_title": "Tombstone",
-    "overview": "Legendary marshal Wyatt Earp, now a weary gunfighter, joins his brothers Morgan and Virgil to pursue their collective fortune in the thriving mining town of Tombstone. But Earp is forced to don a badge again and get help from his notorious pal Doc Holliday when a gang of renegade brigands and rustlers begins terrorizing the town.",
-    "popularity": 9.8113,
-    "poster_path": "/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
-    "release_date": "1993-12-25",
-    "title": "Tombstone",
-    "video": false,
-    "vote_average": 7.6,
-    "vote_count": 2215
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/qgIloYWwLdDBOVeoPUQj6sHkg5s.jpg",
-    "genre_ids": [
-      27,
+      14,
       53,
-      18
+      28,
+      12,
+      27
     ],
-    "id": 1190462,
+    "id": 282035,
     "original_language": "en",
-    "original_title": "Breathing In",
-    "overview": "1901, South Africa. As the Second Anglo-Boer War rages on, a wounded General seeks refuge in the small home of a woman and her young daughter. As the hurt man settles in, he begins noticing that something is off about the two women, particularly the daughter, and before long, he’ll learn the real reason for why they’ve invited him and for how they’ve survived on their own for so long.",
-    "popularity": 9.7598,
-    "poster_path": "/yy2dmnBlPhx21GUMUJUPxA9QUFp.jpg",
-    "release_date": "2023-10-18",
-    "title": "Breathing In",
+    "original_title": "The Mummy",
+    "overview": "Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.",
+    "popularity": 9.8587,
+    "poster_path": "/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg",
+    "release_date": "2017-06-06",
+    "title": "The Mummy",
     "video": false,
-    "vote_average": 4.969,
-    "vote_count": 16
+    "vote_average": 5.517,
+    "vote_count": 7316
   },
   {
     "adult": false,
-    "backdrop_path": "/xaNBpBkONtupAVJqQBIW5EZa7xi.jpg",
+    "backdrop_path": "/u8VBaEESHAAc5tDWFc8IjXHw1eC.jpg",
     "genre_ids": [
-      35
+      35,
+      18,
+      10749
     ],
-    "id": 996821,
-    "original_language": "en",
-    "original_title": "You're Cordially Invited",
-    "overview": "When two weddings are accidentally booked on the same day at the same venue, each bridal party is challenged with preserving their family's special moment while making the most of the unanticipated tight quarters. In a hilarious battle of determination and grit, the father of the bride and sister of the other bride chaotically go head-to-head as they stop at nothing to uphold an unforgettable celebration for their loved ones.",
-    "popularity": 9.7478,
-    "poster_path": "/muXnwAdVdEEktto0NBNMyqK3uQH.jpg",
-    "release_date": "2025-01-29",
-    "title": "You're Cordially Invited",
+    "id": 936621,
+    "original_language": "ko",
+    "original_title": "물오징어6969",
+    "overview": "Three married women had always been dissatisfied sexually with their husbands, and Hyoji, who recently divorced due to her husband's erectile dysfunction. They gathered after a long time and had a drink complaining to each other, and they received a business card from an unidentified handsome man, saying, \"Don't you want to play tteok pounding game?\" The four of them head to the meeting place and meet suspicious agents who were waiting for them.",
+    "popularity": 9.3554,
+    "poster_path": "/dgSR6qBiQSqaa9QfSMiODAEOF3O.jpg",
+    "release_date": "2022-01-27",
+    "title": "Sex Game 6969",
     "video": false,
-    "vote_average": 5.886,
-    "vote_count": 350
+    "vote_average": 6.17,
+    "vote_count": 44
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7ZP8HtgOIDaBs12krXgUIygqEsy.jpg",
+    "genre_ids": [
+      878,
+      28,
+      14,
+      12
+    ],
+    "id": 601796,
+    "original_language": "ko",
+    "original_title": "외계+인 1부",
+    "overview": "Gurus in the late Goryeo dynasty try to obtain a fabled, holy sword, and humans in 2022 hunt down an alien prisoner that is locked in a human's body. The two parties cross paths when a time-traveling portal opens up.",
+    "popularity": 9.8481,
+    "poster_path": "/8QVDXDiOGHRcAD4oM6MXjE0osSj.jpg",
+    "release_date": "2022-07-20",
+    "title": "Alienoid",
+    "video": false,
+    "vote_average": 6.843,
+    "vote_count": 470
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cqnVuxXe6vA7wfNWubak3x36DKJ.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14
+    ],
+    "id": 639933,
+    "original_language": "en",
+    "original_title": "The Northman",
+    "overview": "Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy's mother. Two decades later, Amleth is now a Viking who's on a mission to save his mother, kill his uncle and avenge his father.",
+    "popularity": 9.8461,
+    "poster_path": "/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
+    "release_date": "2022-04-07",
+    "title": "The Northman",
+    "video": false,
+    "vote_average": 7.049,
+    "vote_count": 4533
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1EGJSlQsUxh6M1FfUEDby10mZ5q.jpg",
+    "genre_ids": [
+      16,
+      18,
+      10749
+    ],
+    "id": 21057,
+    "original_language": "ja",
+    "original_title": "海がきこえる",
+    "overview": "At Kichijōji Station, Tokyo, Taku Morisaki glimpses a familiar woman on the platform opposite boarding a train. Later, her photo falls from a shelf as he exits his apartment before flying to Kōchi Prefecture. Picking it up, he looks at it briefly before leaving. As the aeroplane takes off, he narrates the events that brought her into his life...",
+    "popularity": 9.8338,
+    "poster_path": "/fSR1LLMIJZ6WcQEkM82yKy4F9vQ.jpg",
+    "release_date": "1993-10-09",
+    "title": "Ocean Waves",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 903
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lrNKm3HNvGdZoAfiBKu7b04FLHN.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 316029,
+    "original_language": "en",
+    "original_title": "The Greatest Showman",
+    "overview": "The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.",
+    "popularity": 9.8126,
+    "poster_path": "/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
+    "release_date": "2017-12-20",
+    "title": "The Greatest Showman",
+    "video": false,
+    "vote_average": 7.877,
+    "vote_count": 9618
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6aNKD81RHR1DqUUa8kOZ1TBY1Lp.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 637,
+    "original_language": "it",
+    "original_title": "La vita è bella",
+    "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
+    "popularity": 9.7833,
+    "poster_path": "/74hLDKjD5aGYOotO6esUVaeISa2.jpg",
+    "release_date": "1997-12-20",
+    "title": "Life Is Beautiful",
+    "video": false,
+    "vote_average": 8.448,
+    "vote_count": 13358
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oihWVx3imvRKujnGmSDYhfG1gI5.jpg",
+    "genre_ids": [
+      35,
+      27
+    ],
+    "id": 19908,
+    "original_language": "en",
+    "original_title": "Zombieland",
+    "overview": "Columbus has made a habit of running from what scares him. Tallahassee doesn't have fears. If he did, he'd kick their ever-living ass. In a world overrun by zombies, these two are perfectly evolved survivors. But now, they're about to stare down the most terrifying prospect of all: each other.",
+    "popularity": 9.7724,
+    "poster_path": "/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg",
+    "release_date": "2009-10-02",
+    "title": "Zombieland",
+    "video": false,
+    "vote_average": 7.26,
+    "vote_count": 12501
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sIZQA3FrXdVR5E6M3ctrAqitiQS.jpg",
+    "genre_ids": [
+      18,
+      10752,
+      36
+    ],
+    "id": 14574,
+    "original_language": "en",
+    "original_title": "The Boy in the Striped Pyjamas",
+    "overview": "When his family moves from their home in Berlin to a strange new house in Poland, young Bruno befriends Shmuel, a boy who lives on the other side of the fence where everyone seems to be wearing striped pajamas. Unaware of Shmuel's fate as a Jewish prisoner or the role his own Nazi father plays in his imprisonment, Bruno embarks on a dangerous journey inside the camp's walls.",
+    "popularity": 9.7719,
+    "poster_path": "/sLwYSEVVV3r047cjrpRAbGgNsfL.jpg",
+    "release_date": "2008-05-07",
+    "title": "The Boy in the Striped Pyjamas",
+    "video": false,
+    "vote_average": 7.827,
+    "vote_count": 7324
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/krYelh3x8VdSeAqOSd81NTek1aw.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 1607,
+    "original_language": "en",
+    "original_title": "A Bronx Tale",
+    "overview": "Set in the Bronx during the tumultuous 1960s, an adolescent boy is torn between his honest, working-class father and a violent yet charismatic crime boss. Complicating matters is the youngster's growing attraction - forbidden in his neighborhood - for a beautiful black girl.",
+    "popularity": 9.7584,
+    "poster_path": "/sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg",
+    "release_date": "1993-10-01",
+    "title": "A Bronx Tale",
+    "video": false,
+    "vote_average": 7.874,
+    "vote_count": 2602
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3tkDMNfM2YuIAJlvGO6rfIzAnfG.jpg",
+    "genre_ids": [
+      18,
+      878,
+      53
+    ],
+    "id": 619264,
+    "original_language": "es",
+    "original_title": "El hoyo",
+    "overview": "A slab of food descends down a vertical facility. The residents above eat heartily, leaving those below starving and desperate. A rebellion is imminent.",
+    "popularity": 9.7499,
+    "poster_path": "/iXvQnzy6JCAx1PiQEKXuTY04ZHl.jpg",
+    "release_date": "2019-11-08",
+    "title": "The Platform",
+    "video": false,
+    "vote_average": 6.966,
+    "vote_count": 7351
   }
 ]

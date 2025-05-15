@@ -1,182 +1,183 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/z4nGKYC1aj2qy5fEKYiZQsdrEPB.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 1144932,
-    "original_language": "en",
-    "original_title": "Queen of the Ring",
-    "overview": "In a time when pro wrestling for women was illegal all over the country, a small town single mother embraces the danger to change culture as she dominates America's most masculine sport to become the first million dollar female athlete in history.",
-    "popularity": 10.118,
-    "poster_path": "/o5ugZxTNHFFm1gAt4eYJbFVKsBK.jpg",
-    "release_date": "2025-03-07",
-    "title": "Queen of the Ring",
-    "video": false,
-    "vote_average": 7.3,
-    "vote_count": 10
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/h3fsOC10IZ33ACi5VlGySuRJL4x.jpg",
-    "genre_ids": [
-      10749,
-      18,
-      35
-    ],
-    "id": 1136867,
-    "original_language": "en",
-    "original_title": "Materialists",
-    "overview": "A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex.",
-    "popularity": 10.0494,
-    "poster_path": "/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
-    "release_date": "2025-06-11",
-    "title": "Materialists",
-    "video": false,
-    "vote_average": 0.0,
-    "vote_count": 0
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xHDynIimfsgj0ZOs0j5ma8v1vmM.jpg",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "id": 120467,
-    "original_language": "en",
-    "original_title": "The Grand Budapest Hotel",
-    "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
-    "popularity": 9.7986,
-    "poster_path": "/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
-    "release_date": "2014-02-26",
-    "title": "The Grand Budapest Hotel",
-    "video": false,
-    "vote_average": 8.042,
-    "vote_count": 15160
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/oYiPf8oR2ZrjvGIVzGTw1BZihDP.jpg",
-    "genre_ids": [
-      9648,
-      18,
-      10749,
-      53
-    ],
-    "id": 153104,
-    "original_language": "en",
-    "original_title": "Wicked Minds",
-    "overview": "Holden returns home from college and is surprised to find his overpowering competitive father married to a much younger woman Lana. Holden quickly falls for the beauty and charisma of his step mother. A passionate affair begins between son and stepmother.",
-    "popularity": 12.2292,
-    "poster_path": "/A6A15cDR8mpdOxW4y7UzFanzbM0.jpg",
-    "release_date": "2003-03-01",
-    "title": "Wicked Minds",
-    "video": false,
-    "vote_average": 6.43,
-    "vote_count": 43
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/oG9dcGSSu13fjFp1Uly15ZXjRKV.jpg",
-    "genre_ids": [
-      16,
-      10751,
-      14,
-      12,
-      35,
-      10749
-    ],
-    "id": 11970,
-    "original_language": "en",
-    "original_title": "Hercules",
-    "overview": "Bestowed with superhuman strength, a young mortal named Hercules sets out to prove himself a hero in the eyes of his father, the great god Zeus. Along with his friends Pegasus, a flying horse, and Phil, a personal trainer, Hercules is tricked by the hilarious, hotheaded villain Hades, who's plotting to take over Mount Olympus!",
-    "popularity": 10.0383,
-    "poster_path": "/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg",
-    "release_date": "1997-06-13",
-    "title": "Hercules",
-    "video": false,
-    "vote_average": 7.498,
-    "vote_count": 7566
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/owAe5rRStnX7ibVAPmza3NCXjCy.jpg",
-    "genre_ids": [
-      80,
-      18,
-      53
-    ],
-    "id": 23168,
-    "original_language": "en",
-    "original_title": "The Town",
-    "overview": "Doug MacRay is a longtime thief, who, smarter than the rest of his crew, is looking for his chance to exit the game. When a bank job leads to the group kidnapping an attractive branch manager, he takes on the role of monitoring her – but their burgeoning relationship threatens to unveil the identities of Doug and his crew to the FBI Agent who is on their case.",
-    "popularity": 10.033,
-    "poster_path": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
-    "release_date": "2010-09-15",
-    "title": "The Town",
-    "video": false,
-    "vote_average": 7.218,
-    "vote_count": 5191
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cnD5ygO97xFY8wQPwLP5v9saus7.jpg",
-    "genre_ids": [
-      80,
-      18,
-      53
-    ],
-    "id": 2142,
-    "original_language": "en",
-    "original_title": "Cop Land",
-    "overview": "Freddy Heflin is the sheriff of a place everyone calls “Cop Land” — a small and seemingly peaceful town populated by the big city police officers he’s long admired. Yet something ugly is taking place behind the town’s peaceful facade. And when Freddy uncovers a massive, deadly conspiracy among these local residents, he is forced to take action and make a dangerous choice between protecting his idols and upholding the law.",
-    "popularity": 10.0282,
-    "poster_path": "/bUXaWZPj7qzXjKc2s3Pwdkhxh2o.jpg",
-    "release_date": "1997-08-15",
-    "title": "Cop Land",
-    "video": false,
-    "vote_average": 6.786,
-    "vote_count": 1653
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jXDselREPq8TOVGM4dzBBUM7xVk.jpg",
-    "genre_ids": [
-      28,
-      878,
-      12
-    ],
-    "id": 399579,
-    "original_language": "en",
-    "original_title": "Alita: Battle Angel",
-    "overview": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
-    "popularity": 8.6846,
-    "poster_path": "/xRWht48C2V8XNfzvPehyClOvDni.jpg",
-    "release_date": "2019-01-31",
-    "title": "Alita: Battle Angel",
-    "video": false,
-    "vote_average": 7.24,
-    "vote_count": 9414
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/p4INKu77iuTG1o1a5N3Y9vqeEGq.jpg",
+    "backdrop_path": "/sC0b8iPUHfZdD8kseLiHw3N8gkp.jpg",
     "genre_ids": [
       27,
+      9648,
       53
     ],
-    "id": 1079485,
+    "id": 458723,
     "original_language": "en",
-    "original_title": "Winnie-the-Pooh: Blood and Honey 2",
-    "overview": "Five months following the murders, Christopher Robin struggles to maintain a regular life while dealing with PTSD. However, deep within the 100-Acre-Wood, a destructive rage grows as Pooh, Piglet, Owl, and Tigger find their home and their lives endangered after their existence is revealed.",
-    "popularity": 9.9983,
-    "poster_path": "/2sADrLwMQof6yYmrJRSa04tFZuS.jpg",
-    "release_date": "2024-03-26",
-    "title": "Winnie-the-Pooh: Blood and Honey 2",
+    "original_title": "Us",
+    "overview": "Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.",
+    "popularity": 10.1448,
+    "poster_path": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+    "release_date": "2019-03-14",
+    "title": "Us",
     "video": false,
-    "vote_average": 5.996,
-    "vote_count": 365
+    "vote_average": 6.96,
+    "vote_count": 7548
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9UAKA6ceZi6TgQwTAAMt7DWwYPI.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 7345,
+    "original_language": "en",
+    "original_title": "There Will Be Blood",
+    "overview": "Ruthless silver miner, turned oil prospector, Daniel Plainview, moves to oil-rich California. Using his son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainview's motives and intentions, starting a slow-burning feud that threatens both their lives.",
+    "popularity": 10.1404,
+    "poster_path": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+    "release_date": "2007-12-26",
+    "title": "There Will Be Blood",
+    "video": false,
+    "vote_average": 8.072,
+    "vote_count": 6820
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9j3gGPnnsBGXaj6FgN2wS8zsOFP.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "id": 339692,
+    "original_language": "en",
+    "original_title": "Shot Caller",
+    "overview": "A newly-released prison gangster is forced by the leaders of his gang to orchestrate a major crime with a brutal rival gang on the streets of Southern California.",
+    "popularity": 10.1266,
+    "poster_path": "/qLmLz2wtyYvmW8Ult3l2ngOnW8v.jpg",
+    "release_date": "2017-07-13",
+    "title": "Shot Caller",
+    "video": false,
+    "vote_average": 6.959,
+    "vote_count": 2085
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+    "genre_ids": [
+      10751,
+      12,
+      16,
+      35,
+      14
+    ],
+    "id": 301528,
+    "original_language": "en",
+    "original_title": "Toy Story 4",
+    "overview": "Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called \"Forky\" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.",
+    "popularity": 10.0703,
+    "poster_path": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+    "release_date": "2019-06-19",
+    "title": "Toy Story 4",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 9987
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7jaNOECZG8uS1tlq69HsY5xY8P9.jpg",
+    "genre_ids": [
+      28,
+      10752,
+      36
+    ],
+    "id": 855,
+    "original_language": "en",
+    "original_title": "Black Hawk Down",
+    "overview": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+    "popularity": 10.0695,
+    "poster_path": "/imGygQbmuc7gC1JZiAVhJLsUWXq.jpg",
+    "release_date": "2001-12-28",
+    "title": "Black Hawk Down",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 5922
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qcP0HoJVDLoGwfoLKwzp6OzwY2u.jpg",
+    "genre_ids": [
+      53,
+      28,
+      12,
+      878
+    ],
+    "id": 44833,
+    "original_language": "en",
+    "original_title": "Battleship",
+    "overview": "When mankind beams a radio signal into space, a reply comes from ‘Planet G’, in the form of several alien crafts that splash down in the waters off Hawaii. Lieutenant Alex Hopper is a weapons officer assigned to the USS John Paul Jones, part of an international naval coalition which becomes the world's last hope for survival as they engage the hostile alien force of unimaginable strength. While taking on the invaders, Hopper must also try to live up to the potential that his brother, and his fiancée's father—an Admiral—expect of him.",
+    "popularity": 10.0381,
+    "poster_path": "/9b0Im7SfedHiajTwzSL9zGyBI7M.jpg",
+    "release_date": "2012-04-11",
+    "title": "Battleship",
+    "video": false,
+    "vote_average": 5.865,
+    "vote_count": 5615
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nH6hPhJq3EEv9CnBZgXU3IQnpJo.jpg",
+    "genre_ids": [
+      12,
+      53,
+      878
+    ],
+    "id": 74,
+    "original_language": "en",
+    "original_title": "War of the Worlds",
+    "overview": "Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop off his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down.",
+    "popularity": 10.0225,
+    "poster_path": "/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+    "release_date": "2005-06-13",
+    "title": "War of the Worlds",
+    "video": false,
+    "vote_average": 6.514,
+    "vote_count": 8580
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zi2oYYNSSv7t44iSt5YrxHX9PYs.jpg",
+    "genre_ids": [
+      27,
+      14,
+      18
+    ],
+    "id": 310131,
+    "original_language": "en",
+    "original_title": "The Witch",
+    "overview": "In 1630, a farmer relocates his family to a remote plot of land on the edge of a forest where strange, unsettling things happen. With suspicion and paranoia mounting, each family member's faith, loyalty and love are tested in shocking ways.",
+    "popularity": 10.0186,
+    "poster_path": "/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+    "release_date": "2016-02-19",
+    "title": "The Witch",
+    "video": false,
+    "vote_average": 6.984,
+    "vote_count": 7193
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/k7GM13qRYSour3lk90Dq1EwdpoW.jpg",
+    "genre_ids": [
+      18,
+      53,
+      9648
+    ],
+    "id": 2649,
+    "original_language": "en",
+    "original_title": "The Game",
+    "overview": "In honor of his birthday, San Francisco banker Nicholas Van Orton, a financial genius and a cold-hearted loner, receives an unusual present from his younger brother, Conrad: a gift certificate to play a unique kind of game. In nary a nanosecond, Nicholas finds himself consumed by a dangerous set of ever-changing rules, unable to distinguish where the charade ends and reality begins.",
+    "popularity": 9.9975,
+    "poster_path": "/4UOa079915QjiTA2u5hT2yKVgUu.jpg",
+    "release_date": "1997-09-12",
+    "title": "The Game",
+    "video": false,
+    "vote_average": 7.564,
+    "vote_count": 6812
   }
 ]

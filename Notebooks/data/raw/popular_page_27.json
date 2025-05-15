@@ -1,24 +1,314 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/iaNoLnnpQb5SNxGc4bkQmdCvEdG.jpg",
+    "backdrop_path": "/6cpRpfD3isvluFwXDGSiDVyibPJ.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 829560,
+    "original_language": "pl",
+    "original_title": "Kolejne 365 dni",
+    "overview": "Laura and Massimo's relationship hangs in the balance as they try to overcome trust issues while a tenacious Nacho works to push them apart.",
+    "popularity": 14.4152,
+    "poster_path": "/5r9RI0IqztfZJ4C4uSdyoiFYvOB.jpg",
+    "release_date": "2022-08-18",
+    "title": "The Next 365 Days",
+    "video": false,
+    "vote_average": 6.358,
+    "vote_count": 1208
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/unthV1mq9llhEinIMPcCUImFodt.jpg",
+    "genre_ids": [
+      878,
+      12
+    ],
+    "id": 617126,
+    "original_language": "en",
+    "original_title": "The Fantastic Four: First Steps",
+    "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+    "popularity": 14.4098,
+    "poster_path": "/x26MtUlwtWD26d0G0FXcppxCJio.jpg",
+    "release_date": "2025-07-23",
+    "title": "The Fantastic Four: First Steps",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bWKzdvrsrUoSt9btMESUipZ6SBf.jpg",
+    "genre_ids": [
+      16,
+      12
+    ],
+    "id": 1229646,
+    "original_language": "es",
+    "original_title": "Robotia, la película",
+    "overview": "",
+    "popularity": 14.3729,
+    "poster_path": "/uRH4QEaa38Pz7xOiBJDaWp50s8g.jpg",
+    "release_date": "2024-06-07",
+    "title": "Robotia, la película",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 12
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/s5cO1UTGIw4EVcVpvOVmCSSkopH.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 109418,
+    "original_language": "en",
+    "original_title": "Grown Ups 2",
+    "overview": "Lenny has relocated his family back to the small town where he and his friends grew up. This time around, the grown ups are the ones learning lessons from their kids on a day notoriously full of surprises—the last day of school.",
+    "popularity": 14.3678,
+    "poster_path": "/hT6ijOtjtYrnyDhN7VA2QWyGFAm.jpg",
+    "release_date": "2013-07-11",
+    "title": "Grown Ups 2",
+    "video": false,
+    "vote_average": 6.139,
+    "vote_count": 4427
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eLPXcqgJPCEOf2cMwyTEXejRhrC.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 250546,
+    "original_language": "en",
+    "original_title": "Annabelle",
+    "overview": "A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.",
+    "popularity": 14.3484,
+    "poster_path": "/yLsuU2P2SpDYFwtZQ7dtfVAf6TE.jpg",
+    "release_date": "2014-10-02",
+    "title": "Annabelle",
+    "video": false,
+    "vote_average": 5.8,
+    "vote_count": 6211
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 755679,
+    "original_language": "en",
+    "original_title": "Fast X: Part 2",
+    "overview": "The eleventh installment in The Fast Saga, and a direct sequel to \"Fast X\".",
+    "popularity": 14.2939,
+    "poster_path": "/lD8V3DBban95Mxz4sjuA81Tw771.jpg",
+    "release_date": "2026-04-10",
+    "title": "Fast X: Part 2",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iryef4LKiPQkvhNJS1EtLlay3br.jpg",
+    "genre_ids": [
+      28,
+      9648,
+      53,
+      878
+    ],
+    "id": 615173,
+    "original_language": "ko",
+    "original_title": "마녀 2",
+    "overview": "A girl wakes up in a huge secret laboratory, then accidentally meets another girl who is trying to protect her house from a gang. The mystery girl overthrows the gang with her unexpected powers, and laboratory staff set out to find her.",
+    "popularity": 14.2481,
+    "poster_path": "/9YTuscJXmr9Iua62amCgGSU8PDW.jpg",
+    "release_date": "2022-06-15",
+    "title": "The Witch: Part 2. The Other One",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 362
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/z1frkXEzsbfLdf4s9GIQpVdACGS.jpg",
     "genre_ids": [
       16,
       10751,
       35,
-      14,
-      12
+      878
     ],
-    "id": 809,
+    "id": 20760,
     "original_language": "en",
-    "original_title": "Shrek 2",
-    "overview": "Shrek, Fiona, and Donkey set off to Far, Far Away to meet Fiona's mother and father, the Queen and King. But not everyone is happily ever after. Shrek and the King find it difficult to get along, and there's tension in the marriage. The Fairy Godmother discovers that Fiona has married Shrek instead of her son Prince Charming and plots to destroy their marriage.",
-    "popularity": 14.2183,
-    "poster_path": "/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
-    "release_date": "2004-05-19",
-    "title": "Shrek 2",
+    "original_title": "Lilo & Stitch 2: Stitch Has a Glitch",
+    "overview": "Now, we find the rowdy extraterrestrial getting used to life with his new ʻohana. However, a malfunction in the ultimate creation of Dr. Jumba soon emerges, which reinstates his destructive programming and threatens to both ruin his friendship with Lilo and to short him out for good!",
+    "popularity": 14.2287,
+    "poster_path": "/vcn7a7ENxi5TBTlka4wYLzmKQIp.jpg",
+    "release_date": "2005-01-22",
+    "title": "Lilo & Stitch 2: Stitch Has a Glitch",
     "video": false,
-    "vote_average": 7.292,
-    "vote_count": 12654
+    "vote_average": 6.7,
+    "vote_count": 1480
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xVEBLD278GuFZoPFskpD3dvdJlV.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35
+    ],
+    "id": 20352,
+    "original_language": "en",
+    "original_title": "Despicable Me",
+    "overview": "Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.",
+    "popularity": 14.2263,
+    "poster_path": "/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg",
+    "release_date": "2010-07-08",
+    "title": "Despicable Me",
+    "video": false,
+    "vote_average": 7.248,
+    "vote_count": 15369
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14
+    ],
+    "id": 791373,
+    "original_language": "en",
+    "original_title": "Zack Snyder's Justice League",
+    "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+    "popularity": 14.2041,
+    "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+    "release_date": "2021-03-18",
+    "title": "Zack Snyder's Justice League",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 10221
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9iQWsXwjOMGDvTDdvCnpiyR0UG3.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 8681,
+    "original_language": "en",
+    "original_title": "Taken",
+    "overview": "Bryan Mills, a former government operative, is trying to reconnect with his teenage daughter Kim. After reluctantly agreeing with his ex-wife to let Kim go to Paris on vacation with a friend, his worst nightmare comes true. While on the phone with his daughter shortly after she arrives in Paris, she and her friend are abducted by a gang of human traffickers. Working against the clock, Bryan relies on his extensive training and skills to track down the ruthless gang that abducted her and launch a one-man war to rescue his daughter.",
+    "popularity": 14.1956,
+    "poster_path": "/y5Va1WXDX6nZElVirPrGxf6w99B.jpg",
+    "release_date": "2008-02-18",
+    "title": "Taken",
+    "video": false,
+    "vote_average": 7.396,
+    "vote_count": 11476
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xNNF4l1OVscJNchJc5xvejHzTDO.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 370663,
+    "original_language": "en",
+    "original_title": "Below Her Mouth",
+    "overview": "An unexpected affair quickly escalates into a heart-stopping reality for two women whose passionate connection changes their lives forever.",
+    "popularity": 14.173,
+    "poster_path": "/tPhBftWySbanfEialbsUzOuccgN.jpg",
+    "release_date": "2017-02-10",
+    "title": "Below Her Mouth",
+    "video": false,
+    "vote_average": 6.803,
+    "vote_count": 1227
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hQ9grQ2RjHS3X7crItJqhoGvUPm.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "id": 1147710,
+    "original_language": "ko",
+    "original_title": "하이재킹",
+    "overview": "Pilots Tae-in and Gyu-sik are set to fly to Gimpo. Under the guidance of flight attendant Ok-soon, passengers are busy boarding. However, shortly after takeoff, a homemade bomb explodes, turning the cabin into chaos.",
+    "popularity": 14.1659,
+    "poster_path": "/68jNkFi61MQjrJEqj2up5wZ4w5R.jpg",
+    "release_date": "2024-06-21",
+    "title": "Hijack 1971",
+    "video": false,
+    "vote_average": 6.425,
+    "vote_count": 107
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/q7vmCCmyiHnuKGMzHZlr0fD44b9.jpg",
+    "genre_ids": [
+      10749,
+      14,
+      10751,
+      18
+    ],
+    "id": 150689,
+    "original_language": "en",
+    "original_title": "Cinderella",
+    "overview": "When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her daughters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger in the woods.",
+    "popularity": 14.1643,
+    "poster_path": "/j91LJmcWo16CArFOoapsz84bwxb.jpg",
+    "release_date": "2015-03-06",
+    "title": "Cinderella",
+    "video": false,
+    "vote_average": 6.825,
+    "vote_count": 7157
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg",
+    "genre_ids": [
+      28,
+      14
+    ],
+    "id": 547016,
+    "original_language": "en",
+    "original_title": "The Old Guard",
+    "overview": "Four undying warriors who've secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.",
+    "popularity": 14.1487,
+    "poster_path": "/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg",
+    "release_date": "2020-07-10",
+    "title": "The Old Guard",
+    "video": false,
+    "vote_average": 7.13,
+    "vote_count": 4292
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eFlx3fW8FHXOktGa7Tzy57RajtG.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 1357459,
+    "original_language": "tl",
+    "original_title": "Tatsulok",
+    "overview": "Story about a happily married couple visited by an old friend, who ends up stirring the pot by becoming sexually involved with both the husband and the wife.",
+    "popularity": 14.1442,
+    "poster_path": "/zcmPxGIBxxsGVyYuzNWPCWjlQ8X.jpg",
+    "release_date": "2024-10-11",
+    "title": "Tatsulok",
+    "video": false,
+    "vote_average": 5.273,
+    "vote_count": 11
   }
 ]

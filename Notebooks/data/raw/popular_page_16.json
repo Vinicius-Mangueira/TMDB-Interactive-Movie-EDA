@@ -1,80 +1,181 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/9OO6I25MHhCDd0XwNk4oZl0fpwB.jpg",
+    "backdrop_path": "/yOn8w3aGd6Rf9JYki7XaC9ZiyDg.jpg",
     "genre_ids": [
-      28,
-      18
+      18,
+      36,
+      53,
+      80,
+      10752,
+      28
     ],
-    "id": 1261050,
-    "original_language": "da",
-    "original_title": "De lydløse",
-    "overview": "In 2008, a group of men from Denmark and across Europe pull off the biggest heist of all time on Danish soil. Kasper, a boxer with few chances left in life, is offered the opportunity to plan the robbery by its foreign initiators.",
-    "popularity": 20.0149,
-    "poster_path": "/7NLY1jNwtZX1yVzwVoBeAhaBE8i.jpg",
-    "release_date": "2024-10-31",
-    "title": "The Quiet Ones",
+    "id": 919207,
+    "original_language": "ko",
+    "original_title": "서울의 봄",
+    "overview": "After the assassination of President Park, martial law has been declared. A coup d'état bursts out by DefenseSecurity Commander Chun Doo-gwang and a private band of officers following him. Capital Defense Commander Lee Tae-shin, an obstinate soldier who believes the military should not take political actions, fights against Chun Doo-gwang to stop him. The conflict between the two grows while military leaders are holding their decision and Defense Minister is gone. In the midst of chaos, the spring of Seoul that everyone longed for heads to unexpected direction.",
+    "popularity": 20.2904,
+    "poster_path": "/vy14tKxsbJYdDyFl6kQuVkK2s44.jpg",
+    "release_date": "2023-11-22",
+    "title": "12.12: The Day",
     "video": false,
-    "vote_average": 5.83,
-    "vote_count": 44
+    "vote_average": 7.487,
+    "vote_count": 112
   },
   {
     "adult": false,
-    "backdrop_path": "/sV49hOlUky6AhVYl4K0d3rergTA.jpg",
+    "backdrop_path": "/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
     "genre_ids": [
-      35
+      18,
+      10749
     ],
-    "id": 18785,
+    "id": 337167,
     "original_language": "en",
-    "original_title": "The Hangover",
-    "overview": "When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug – who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.",
-    "popularity": 19.8677,
-    "poster_path": "/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
-    "release_date": "2009-06-02",
-    "title": "The Hangover",
+    "original_title": "Fifty Shades Freed",
+    "overview": "Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.",
+    "popularity": 20.1469,
+    "poster_path": "/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
+    "release_date": "2018-01-17",
+    "title": "Fifty Shades Freed",
     "video": false,
-    "vote_average": 7.323,
-    "vote_count": 17228
+    "vote_average": 6.696,
+    "vote_count": 8118
   },
   {
     "adult": false,
-    "backdrop_path": "/5iMAyVYs4rnQKQ9HDdmuqlb0VtS.jpg",
+    "backdrop_path": "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+    "genre_ids": [
+      12,
+      14
+    ],
+    "id": 673,
+    "original_language": "en",
+    "original_title": "Harry Potter and the Prisoner of Azkaban",
+    "overview": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
+    "popularity": 20.0972,
+    "poster_path": "/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+    "release_date": "2004-05-31",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 22096
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fZFSvqWsN8bQiwVmJmcgeoL9awe.jpg",
     "genre_ids": [
       28,
       12,
       18,
       10751
     ],
-    "id": 1885,
+    "id": 38575,
     "original_language": "en",
     "original_title": "The Karate Kid",
-    "overview": "Daniel LaRusso moves to Los Angeles with his mother, Lucille, and soon strikes up a relationship with Ali. He quickly finds himself the target of bullying by a group of high school students, led by Ali's ex-boyfriend Johnny, who study karate at the Cobra Kai dojo under ruthless sensei, John Kreese. Fortunately, Daniel befriends Mr. Miyagi, an unassuming repairman who just happens to be a martial arts master himself. Miyagi takes Daniel under his wing, training him in a more compassionate form of karate for self-defense and, later, preparing him to compete against the brutal Cobra Kai.",
-    "popularity": 19.807,
-    "poster_path": "/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg",
-    "release_date": "1984-06-22",
+    "overview": "Twelve-year-old Dre Parker could have been the most popular kid in Detroit, but his mother's latest career move has landed him in China. Dre immediately falls for his classmate Mei Ying but the cultural differences make such a friendship impossible. Even worse, Dre's feelings make him an enemy of the class bully, Cheng. With no friends in a strange land, Dre has nowhere to turn but maintenance man Mr. Han, who is a kung fu master. As Han teaches Dre that kung fu is not about punches and parries, but maturity and calm, Dre realizes that facing down the bullies will be the fight of his life.",
+    "popularity": 20.0111,
+    "poster_path": "/b1RBy3l297N0c7PHjlz35cClWju.jpg",
+    "release_date": "2010-06-10",
     "title": "The Karate Kid",
     "video": false,
-    "vote_average": 7.201,
-    "vote_count": 4321
+    "vote_average": 6.5,
+    "vote_count": 6168
   },
   {
     "adult": false,
-    "backdrop_path": "/o67MmFburfckl6iPa4DVkranLi3.jpg",
+    "backdrop_path": "/mkxGpqh4yOYqtENv01IrDcesFRf.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "id": 993710,
+    "original_language": "en",
+    "original_title": "Back in Action",
+    "overview": "Fifteen years after vanishing from the CIA to start a family, elite spies Matt and Emily jump back into the world of espionage when their cover is blown.",
+    "popularity": 19.9621,
+    "poster_path": "/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg",
+    "release_date": "2025-01-15",
+    "title": "Back in Action",
+    "video": false,
+    "vote_average": 6.453,
+    "vote_count": 1215
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/p0NppFDSjJZ9hqSLMnlrFTLwOK7.jpg",
+    "genre_ids": [
+      53
+    ],
+    "id": 1150370,
+    "original_language": "en",
+    "original_title": "Cold Wallet",
+    "overview": "A team of Redditors lose everything after a cryptocurrency scam leads them to plot to kidnap the \"financial influencer\" who screwed them over.",
+    "popularity": 19.9612,
+    "poster_path": "/m6ZGxUu0JyV7Cyj9xDR8capgrzb.jpg",
+    "release_date": "2025-02-28",
+    "title": "Cold Wallet",
+    "video": false,
+    "vote_average": 5.964,
+    "vote_count": 14
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
     "genre_ids": [
       14,
-      18,
-      10749
+      12,
+      16,
+      10751
     ],
-    "id": 297,
+    "id": 10191,
     "original_language": "en",
-    "original_title": "Meet Joe Black",
-    "overview": "William Parrish, media tycoon and loving father, is about to celebrate his 65th birthday. One morning, he is contacted by the inevitable, by hallucination, as he thinks. Later, Death enters his home and his life, personified in human form as Joe Black. His intention was to take William with him, but accidentally, Joe and William's beautiful daughter Susan have already met. Joe begins to develop certain interest in life on Earth, as well as in Susan, who has no clue with whom she's flirting.",
-    "popularity": 19.6862,
-    "poster_path": "/fDPAjvfPMomkKF7cMRmL5Anak61.jpg",
-    "release_date": "1998-11-12",
-    "title": "Meet Joe Black",
+    "original_title": "How to Train Your Dragon",
+    "overview": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.",
+    "popularity": 19.882,
+    "poster_path": "/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
+    "release_date": "2010-03-18",
+    "title": "How to Train Your Dragon",
     "video": false,
-    "vote_average": 7.348,
-    "vote_count": 5371
+    "vote_average": 7.8,
+    "vote_count": 13385
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9Er1TPFQg2N4yBJQnkJAwoiiE6A.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "id": 773543,
+    "original_language": "ru",
+    "original_title": "Соври мне правду",
+    "overview": "A couple in love spends time away from civilization. The sudden arrival of the younger sister first, and then the girl's ex-boyfriend, violate the country idyll. Each of the heroes has his own plan for this weekend, and together they become hostages of the situation and participants in cruel psychological games. Falling in love gives way to passion, and innocent flirting causes jealousy and can lead to mortal danger.",
+    "popularity": 19.685,
+    "poster_path": "/fPUI4KHQKggOdJg9YIBCFEecuU5.jpg",
+    "release_date": "2021-09-09",
+    "title": "Fib the Truth",
+    "video": false,
+    "vote_average": 5.696,
+    "vote_count": 69
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/33dV6HAnXBmwKl640gO3U4auqUN.jpg",
+    "genre_ids": [
+      28,
+      878,
+      18
+    ],
+    "id": 110415,
+    "original_language": "ko",
+    "original_title": "Snowpiercer",
+    "overview": "In a future where a failed global-warming experiment kills off most life on the planet, a class system evolves aboard the Snowpiercer; a train that travels around the globe via a perpetual-motion engine.",
+    "popularity": 19.6826,
+    "poster_path": "/nzccOvhrLGI0nvAknCEAk8bchD9.jpg",
+    "release_date": "2013-08-01",
+    "title": "Snowpiercer",
+    "video": false,
+    "vote_average": 6.905,
+    "vote_count": 9806
   }
 ]

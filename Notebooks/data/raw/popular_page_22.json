@@ -1,81 +1,196 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/585hAEHBMNqyCt3pswF5MjImBrR.jpg",
+    "backdrop_path": "/82a7AGF081PzFfoM8GAVGMvZNYK.jpg",
     "genre_ids": [
       12,
-      18,
-      14,
-      16
+      14
     ],
-    "id": 1333099,
-    "original_language": "es",
-    "original_title": "Dalia y el libro rojo",
-    "overview": "Dalia, the daughter of a famous writer who has recently died, inherits the legacy of finishing his book. To do this, Dalia will become part of the book and will come face to face with the characters who have taken the theme of the book in order to be the protagonists.",
-    "popularity": 16.3244,
-    "poster_path": "/brk5WOAEQWPcMLMsRrkPBtpVk3f.jpg",
-    "release_date": "2024-10-17",
-    "title": "Dalia and the Red Book",
-    "video": false,
-    "vote_average": 7.3,
-    "vote_count": 17
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/wwARk7hRIfHfh2n2ubN6N7lvTne.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "id": 710295,
+    "id": 675,
     "original_language": "en",
-    "original_title": "Wolf Man",
-    "overview": "With his marriage fraying, Blake persuades his wife Charlotte to take a break from the city and visit his remote childhood home in rural Oregon. As they arrive at the farmhouse in the dead of night, they're attacked by an unseen animal and barricade themselves inside the home as the creature prowls the perimeter. But as the night stretches on, Blake begins to behave strangely, transforming into something unrecognizable.",
-    "popularity": 16.195,
-    "poster_path": "/wpSDzTBfF0Eeo5lzu2w9FTujGqd.jpg",
-    "release_date": "2025-01-15",
-    "title": "Wolf Man",
+    "original_title": "Harry Potter and the Order of the Phoenix",
+    "overview": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students to defend themselves against the dark arts.",
+    "popularity": 16.2993,
+    "poster_path": "/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+    "release_date": "2007-07-08",
+    "title": "Harry Potter and the Order of the Phoenix",
     "video": false,
-    "vote_average": 6.369,
-    "vote_count": 613
+    "vote_average": 7.7,
+    "vote_count": 19875
   },
   {
     "adult": false,
-    "backdrop_path": "/wcUohmHc9oDZXarXDp905TYVui4.jpg",
+    "backdrop_path": "/jDaNT5nqQKhjpnkPfnSdndZsKeg.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 288986,
+    "original_language": "it",
+    "original_title": "La gemella erotica",
+    "overview": "A psychiatrist named Tony sees two identical twin sisters, Norma and Mary. Norma and Mary are apparently very different from each other, to the point of conflict.",
+    "popularity": 16.2402,
+    "poster_path": "/omNyUDmuRSmXX1xcstnoPo8zntZ.jpg",
+    "release_date": "1980-08-05",
+    "title": "The Erotic Twin",
+    "video": false,
+    "vote_average": 2.7,
+    "vote_count": 5
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zn13a7U9eMTJq8sHthe3bCgsVm4.jpg",
+    "genre_ids": [
+      28,
+      12,
+      14
+    ],
+    "id": 122917,
+    "original_language": "en",
+    "original_title": "The Hobbit: The Battle of the Five Armies",
+    "overview": "Following Smaug's attack on Laketown, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
+    "popularity": 16.2355,
+    "poster_path": "/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
+    "release_date": "2014-12-10",
+    "title": "The Hobbit: The Battle of the Five Armies",
+    "video": false,
+    "vote_average": 7.325,
+    "vote_count": 14597
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fRGxZuo7jJUWQsVg9PREb98Aclp.jpg",
+    "genre_ids": [
+      18,
+      10402
+    ],
+    "id": 244786,
+    "original_language": "en",
+    "original_title": "Whiplash",
+    "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+    "popularity": 16.1883,
+    "poster_path": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+    "release_date": "2014-10-10",
+    "title": "Whiplash",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 15618
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vsmlShNNHrYlERZaqMOsZ3YctoO.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "id": 1701,
+    "original_language": "en",
+    "original_title": "Con Air",
+    "overview": "Newly-paroled former US Army ranger Cameron Poe is headed back to his wife, but must fly home aboard a prison transport flight dubbed \"Jailbird\" taking the “worst of the worst” prisoners, a group described as “pure predators”, to a new super-prison. Poe faces impossible odds when the transport plane is skyjacked mid-flight by the most vicious criminals in the country led by the mastermind — genius serial killer Cyrus \"The Virus\" Grissom, and backed by black militant Diamond Dog and psychopath Billy Bedlam.",
+    "popularity": 16.1185,
+    "poster_path": "/kOKjgrEzGOP92rVQ6srA9jtp60l.jpg",
+    "release_date": "1997-06-05",
+    "title": "Con Air",
+    "video": false,
+    "vote_average": 6.752,
+    "vote_count": 4337
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bOaeVZ1TwD1C82y2beqYc4QCoPm.jpg",
     "genre_ids": [
       18,
       10749
     ],
-    "id": 82023,
-    "original_language": "de",
-    "original_title": "Hotel Desire",
-    "overview": "Antonia is a single mother who works as a hotel maid in Berlin. A normal hot summer day takes a dramatic turn when she crosses paths with a particular guest of the hotel, famous blind portrait painter Julius Pass.",
-    "popularity": 16.1795,
-    "poster_path": "/myzQj8Rk178DrWsiZjVKjz7Kj9P.jpg",
-    "release_date": "2011-12-07",
-    "title": "Hotel Desire",
+    "id": 1447917,
+    "original_language": "tl",
+    "original_title": "Rapsa",
+    "overview": "All will surely want to have a taste of Micaella Raz. A beautiful lesbian manager gets attracted to her naïve employee. They eventually get entangled in a sexual relationship, blurring boundaries, leading to a shared emotional state.",
+    "popularity": 16.053,
+    "poster_path": "/e4fiTUtkvvp7REZRhHA7DTXcMxj.jpg",
+    "release_date": "2025-05-02",
+    "title": "Rapsa",
     "video": false,
-    "vote_average": 6.0,
-    "vote_count": 120
+    "vote_average": 0.0,
+    "vote_count": 0
   },
   {
     "adult": false,
-    "backdrop_path": "/nb1s8r6MhDcPyMjx3sjw9rFsEP5.jpg",
+    "backdrop_path": "/nG5zmbVeYlcDhckrPAe06fArywn.jpg",
     "genre_ids": [
-      53,
-      80,
-      35
+      10749,
+      878,
+      18
     ],
-    "id": 484247,
+    "id": 152601,
     "original_language": "en",
-    "original_title": "A Simple Favor",
-    "overview": "Stephanie, a dedicated mother and popular vlogger, befriends Emily, a mysterious upper-class woman whose son Nicky attends the same school as Miles, Stephanie's son. When Emily asks her to pick Nicky up from school and then disappears, Stephanie undertakes an investigation that will dive deep into Emily's cloudy past.",
-    "popularity": 16.0124,
-    "poster_path": "/aIYsjQM0piKc0ibPBCTWv3sqshj.jpg",
-    "release_date": "2018-09-13",
-    "title": "A Simple Favor",
+    "original_title": "Her",
+    "overview": "In the not so distant future, Theodore, a lonely writer, purchases a newly developed operating system designed to meet the user's every need. To Theodore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.",
+    "popularity": 16.0264,
+    "poster_path": "/lEIaL12hSkqqe83kgADkbUqEnvk.jpg",
+    "release_date": "2013-12-18",
+    "title": "Her",
     "video": false,
-    "vote_average": 6.6,
-    "vote_count": 4316
+    "vote_average": 7.85,
+    "vote_count": 14538
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/urDWNffjwmNi5IQaezw9GwqkUXa.jpg",
+    "genre_ids": [
+      12,
+      14
+    ],
+    "id": 767,
+    "original_language": "en",
+    "original_title": "Harry Potter and the Half-Blood Prince",
+    "overview": "As Lord Voldemort tightens his grip on both the Muggle and wizarding worlds, Hogwarts is no longer a safe haven. Harry suspects perils may even lie within the castle, but Dumbledore is more intent upon preparing him for the final battle fast approaching. Together they work to find the key to unlock Voldemorts defenses and to this end, Dumbledore recruits his old friend and colleague Horace Slughorn, whom he believes holds crucial information. Even as the decisive showdown looms, romance blossoms for Harry, Ron, Hermione and their classmates. Love is in the air, but danger lies ahead and Hogwarts may never be the same again.",
+    "popularity": 16.0198,
+    "poster_path": "/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
+    "release_date": "2009-07-15",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 19858
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xyAvU9WrfQLCCU2VxLF4t7EMXEF.jpg",
+    "genre_ids": [
+      878,
+      12,
+      53
+    ],
+    "id": 1234821,
+    "original_language": "en",
+    "original_title": "Jurassic World Rebirth",
+    "overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
+    "popularity": 15.9934,
+    "poster_path": "/3wCFTfLYxYtq5QIbQolkq7GJGxZ.jpg",
+    "release_date": "2025-07-01",
+    "title": "Jurassic World Rebirth",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5mzr6JZbrqnqD8rCEvPhuCE5Fw2.jpg",
+    "genre_ids": [
+      28,
+      878,
+      27
+    ],
+    "id": 615656,
+    "original_language": "en",
+    "original_title": "Meg 2: The Trench",
+    "overview": "An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.",
+    "popularity": 15.9931,
+    "poster_path": "/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+    "release_date": "2023-08-02",
+    "title": "Meg 2: The Trench",
+    "video": false,
+    "vote_average": 6.442,
+    "vote_count": 3572
   }
 ]

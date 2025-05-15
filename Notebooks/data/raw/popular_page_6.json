@@ -1,379 +1,119 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/34jW8LvjRplM8Pv06cBFDpLlenR.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "id": 429617,
-    "original_language": "en",
-    "original_title": "Spider-Man: Far From Home",
-    "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
-    "popularity": 34.3466,
-    "poster_path": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
-    "release_date": "2019-06-28",
-    "title": "Spider-Man: Far From Home",
-    "video": false,
-    "vote_average": 7.41,
-    "vote_count": 16059
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
-    "genre_ids": [
-      16,
-      28,
-      12,
-      878
-    ],
-    "id": 569094,
-    "original_language": "en",
-    "original_title": "Spider-Man: Across the Spider-Verse",
-    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
-    "popularity": 35.5206,
-    "poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
-    "release_date": "2023-05-31",
-    "title": "Spider-Man: Across the Spider-Verse",
-    "video": false,
-    "vote_average": 8.3,
-    "vote_count": 7552
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7cNE2qydew1c8fqnlhWjkE3DHc2.jpg",
-    "genre_ids": [
-      28,
-      18,
-      12,
-      10752
-    ],
-    "id": 927342,
-    "original_language": "ta",
-    "original_title": "அமரன்",
-    "overview": "A heroic true story of Major Mukund Varadarajan, an Indian Army officer who displayed extraordinary bravery during a counterterrorism mission in Kashmir’s Shopian district. The film captures his courage in protecting his nation and the devotion of his wife Indhu Rebecaa Varghese.",
-    "popularity": 37.2227,
-    "poster_path": "/eCB06m1KUGilEOlIzb40nkQhVY0.jpg",
-    "release_date": "2024-10-31",
-    "title": "Amaran",
-    "video": false,
-    "vote_average": 7.383,
-    "vote_count": 227
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/klJMCIblHLFwCuGjKz7tyOpekIC.jpg",
-    "genre_ids": [
-      12,
-      28,
-      53
-    ],
-    "id": 36557,
-    "original_language": "en",
-    "original_title": "Casino Royale",
-    "overview": "Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond—on his maiden mission as a 00 Agent—to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",
-    "popularity": 33.8109,
-    "poster_path": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
-    "release_date": "2006-11-14",
-    "title": "Casino Royale",
-    "video": false,
-    "vote_average": 7.558,
-    "vote_count": 10955
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/2TtpJq1PbeQ36E5FnHVX4O6hVvu.jpg",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "id": 1125899,
-    "original_language": "en",
-    "original_title": "Cleaner",
-    "overview": "When a group of radical activists take over an energy company's annual gala, seizing 300 hostages, an ex-soldier turned window cleaner suspended 50 storeys up on the outside of the building must save those trapped inside, including her younger brother.",
-    "popularity": 35.9221,
-    "poster_path": "/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg",
-    "release_date": "2025-02-19",
-    "title": "Cleaner",
-    "video": false,
-    "vote_average": 6.62,
-    "vote_count": 250
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4OTYefcAlaShn6TGVK33UxLW9R7.jpg",
-    "genre_ids": [
-      28,
-      12,
-      53
-    ],
-    "id": 476669,
-    "original_language": "en",
-    "original_title": "The King's Man",
-    "overview": "As a collection of history's worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.",
-    "popularity": 33.8291,
-    "poster_path": "/aq4Pwv5Xeuvj6HZKtxyd23e6bE9.jpg",
-    "release_date": "2021-12-22",
-    "title": "The King's Man",
-    "video": false,
-    "vote_average": 6.747,
-    "vote_count": 4682
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/uQqQvmptJLPTcWDrZXn22p7j7s3.jpg",
+    "backdrop_path": "/fvCq1wEwLtiHKCJYm6BfkIO068x.jpg",
     "genre_ids": [
       28,
       80,
-      53,
-      18
+      53
     ],
-    "id": 395990,
+    "id": 26389,
     "original_language": "en",
-    "original_title": "Death Wish",
-    "overview": "A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.",
-    "popularity": 32.9135,
-    "poster_path": "/g0eEEZAqMf98ULQnoiORuazjOpn.jpg",
-    "release_date": "2018-03-02",
-    "title": "Death Wish",
+    "original_title": "From Paris with Love",
+    "overview": "James Reese has a good job as an ambassador's aid in France, but his real passion is a side gig—working in a minor role in the CIA. He would love to be a full-fledged agent and can't believe his luck when he lands an assignment with Charlie Wax. Trigger-happy Charlie soon has James crying for his desk job, but when he learns that the same guys they're trying to catch are after him, James realises that Charlie may be his only hope of survival.",
+    "popularity": 38.2316,
+    "poster_path": "/poVoLKLxUqsTLSntA40Po2F78dZ.jpg",
+    "release_date": "2010-02-04",
+    "title": "From Paris with Love",
     "video": false,
-    "vote_average": 6.188,
-    "vote_count": 2610
+    "vote_average": 6.304,
+    "vote_count": 2098
   },
   {
     "adult": false,
-    "backdrop_path": "/kYgQzzjNis5jJalYtIHgrom0gOx.jpg",
+    "backdrop_path": "/zMrk2G3XsnfYKiIp1NEfdtvDyBH.jpg",
     "genre_ids": [
-      16,
-      10751,
-      28,
-      35,
       12,
-      14
-    ],
-    "id": 1011985,
-    "original_language": "en",
-    "original_title": "Kung Fu Panda 4",
-    "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
-    "popularity": 35.4768,
-    "poster_path": "/nqXsAaQsKw2gKpkfhIgjXNDRqg7.jpg",
-    "release_date": "2024-03-02",
-    "title": "Kung Fu Panda 4",
-    "video": false,
-    "vote_average": 7.1,
-    "vote_count": 3064
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/tVCg0HYPLFVYljiQXJCWTY43LJR.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 760497,
-    "original_language": "ko",
-    "original_title": "승부",
-    "overview": "When a legendary Go master loses his title to a one-time friend and protégé, he sets out to reclaim it in a high-stakes battle of wits and skill.",
-    "popularity": 31.7962,
-    "poster_path": "/8PmxsTT77KBlmT3OWyf3Q09yBOy.jpg",
-    "release_date": "2025-03-26",
-    "title": "The Match",
-    "video": false,
-    "vote_average": 7.12,
-    "vote_count": 25
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/TFTfzrkX8L7bAKUcch6qLmjpLu.jpg",
-    "genre_ids": [
+      14,
       28,
-      12
+      10751
     ],
-    "id": 575264,
+    "id": 337401,
     "original_language": "en",
-    "original_title": "Mission: Impossible - Dead Reckoning Part One",
-    "overview": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most.",
-    "popularity": 37.2494,
-    "poster_path": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
-    "release_date": "2023-07-08",
-    "title": "Mission: Impossible - Dead Reckoning Part One",
+    "original_title": "Mulan",
+    "overview": "When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.",
+    "popularity": 37.3461,
+    "poster_path": "/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+    "release_date": "2020-09-04",
+    "title": "Mulan",
     "video": false,
-    "vote_average": 7.5,
-    "vote_count": 4197
+    "vote_average": 6.865,
+    "vote_count": 6777
   },
   {
     "adult": false,
-    "backdrop_path": "/ibF5XVxTzf1ayzZrmiJqgeQ39Qk.jpg",
-    "genre_ids": [
-      28,
-      10752
-    ],
-    "id": 1373723,
-    "original_language": "en",
-    "original_title": "The Codes of War",
-    "overview": "War stories about family, ethics and honor include the true story of two U.S. Marines who in a span of six seconds, must stand their ground to stop a suicide truck bomb, a Navy Corpsman who attempts to hold on to his humanity, and a WW2 soldier who gets separated from his squad and is forced to re-evaluate his code.",
-    "popularity": 31.1645,
-    "poster_path": "/oXeiQAfRK90pxxhP5iKPXQqAIN1.jpg",
-    "release_date": "2025-03-20",
-    "title": "The Codes of War",
-    "video": false,
-    "vote_average": 6.1,
-    "vote_count": 60
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mXndmCbpvlqnD6po0EMfxEZcUSn.jpg",
+    "backdrop_path": "/eQV9rSQ6S1ja4lGTwHTnQuVhoG.jpg",
     "genre_ids": [
       27,
-      53
+      18
     ],
-    "id": 138843,
-    "original_language": "en",
-    "original_title": "The Conjuring",
-    "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
-    "popularity": 38.3044,
-    "poster_path": "/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
-    "release_date": "2013-07-18",
-    "title": "The Conjuring",
+    "id": 1284120,
+    "original_language": "no",
+    "original_title": "Den stygge stesøsteren",
+    "overview": "In a fairy-tale kingdom where beauty is a brutal business, Elvira battles to compete with her incredibly beautiful stepsister, and she will go to any length to catch the prince’s eye.",
+    "popularity": 36.595,
+    "poster_path": "/crX9rSg9EohybhkEe8iTQUCe55y.jpg",
+    "release_date": "2025-03-07",
+    "title": "The Ugly Stepsister",
     "video": false,
-    "vote_average": 7.54,
-    "vote_count": 11831
+    "vote_average": 6.6,
+    "vote_count": 30
   },
   {
     "adult": false,
-    "backdrop_path": "/mbYTRO33LJAgpCMrIn9ibiWHbMH.jpg",
-    "genre_ids": [
-      35,
-      12
-    ],
-    "id": 346698,
-    "original_language": "en",
-    "original_title": "Barbie",
-    "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
-    "popularity": 35.9284,
-    "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
-    "release_date": "2023-07-19",
-    "title": "Barbie",
-    "video": false,
-    "vote_average": 6.974,
-    "vote_count": 9866
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
-    "genre_ids": [
-      878,
-      12
-    ],
-    "id": 693134,
-    "original_language": "en",
-    "original_title": "Dune: Part Two",
-    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
-    "popularity": 32.4911,
-    "poster_path": "/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
-    "release_date": "2024-02-27",
-    "title": "Dune: Part Two",
-    "video": false,
-    "vote_average": 8.146,
-    "vote_count": 6639
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/54mPXhtaUejdQtaCYeJPJP8ZfXX.jpg",
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "id": 715287,
-    "original_language": "ko",
-    "original_title": "새엄마의 욕망",
-    "overview": "Sang-jin, who was envious of her neighbor after getting a beautiful wife, Ask your wife's friend Gian to take over the son's extracurricular teacher, Sang-jin, who left work early, accidentally sees Gian's shower. A man who wants to have sex with his son's tutor, And a son who wants to have a good time with a young stepmom, Ji-an and Jin-hee, who want money, are disappointed with her husband, and Bin-jin gives her body to a young son.",
-    "popularity": 36.0681,
-    "poster_path": "/rYC6UyML4CU4zYiZVbDMrwnGyWW.jpg",
-    "release_date": "2020-05-29",
-    "title": "Stepmom's Desire",
-    "video": false,
-    "vote_average": 6.8,
-    "vote_count": 17
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/96w2p3xKIgvuSTJsNVnvNFqOhPJ.jpg",
-    "genre_ids": [
-      878,
-      18,
-      53
-    ],
-    "id": 1317088,
-    "original_language": "en",
-    "original_title": "The Assessment",
-    "overview": "In a climate change-ravaged world, a utopian society optimizes life, including parenthood assessments. A successful couple faces scrutiny by an evaluator over seven days to determine their fitness for childbearing.",
-    "popularity": 33.3588,
-    "poster_path": "/o1K7be85FAauSbVPzCQ0GjOXUqu.jpg",
-    "release_date": "2025-03-21",
-    "title": "The Assessment",
-    "video": false,
-    "vote_average": 7.056,
-    "vote_count": 99
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/deUWVEgNh2IGjShyymZhaYP40ye.jpg",
+    "backdrop_path": "/dXoBFj9Yl9HDRcDVQubkuVCh26N.jpg",
     "genre_ids": [
       28,
-      12,
-      53
-    ],
-    "id": 1356039,
-    "original_language": "es",
-    "original_title": "Contraataque",
-    "overview": "When a hostage rescue mission creates a new enemy, Capt. Guerrero and his elite soldiers must face an ambush by a criminal group.",
-    "popularity": 34.2179,
-    "poster_path": "/38I76hGcFY6xB47pjm7pZwkfuAF.jpg",
-    "release_date": "2025-02-27",
-    "title": "Counterattack",
-    "video": false,
-    "vote_average": 8.351,
-    "vote_count": 673
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/uKb22E0nlzr914bA9KyA5CVCOlV.jpg",
-    "genre_ids": [
-      18,
-      10749,
-      14
-    ],
-    "id": 402431,
-    "original_language": "en",
-    "original_title": "Wicked",
-    "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
-    "popularity": 36.6902,
-    "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
-    "release_date": "2024-11-20",
-    "title": "Wicked",
-    "video": false,
-    "vote_average": 6.9,
-    "vote_count": 2111
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/en971MEXui9diirXlogOrPKmsEn.jpg",
-    "genre_ids": [
-      28,
-      12,
       35
     ],
-    "id": 293660,
-    "original_language": "en",
-    "original_title": "Deadpool",
-    "overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
-    "popularity": 31.6551,
-    "poster_path": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
-    "release_date": "2016-02-09",
-    "title": "Deadpool",
+    "id": 1160956,
+    "original_language": "zh",
+    "original_title": "熊猫计划",
+    "overview": "International action star Jackie Chan is invited to the adoption ceremony of a rare baby panda, but after an international crime syndicate attempts to kidnap the bear, Jackie has to save the bear using his stunt work skills.",
+    "popularity": 34.2202,
+    "poster_path": "/8iMPQl13q89jQhaA5nXb6UiT0t0.jpg",
+    "release_date": "2024-10-01",
+    "title": "Panda Plan",
     "video": false,
-    "vote_average": 7.622,
-    "vote_count": 31577
+    "vote_average": 6.863,
+    "vote_count": 190
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1294203,
+    "original_language": "en",
+    "original_title": "My Fault: London",
+    "overview": "18-year-old Noah moves from America to London, with her mother who's recently fallen in love with William, a wealthy British businessman. Noah meets William’s son, bad-boy Nick, and soon discovers there is an attraction between them neither can avoid. As Noah spends the summer adjusting to her new life, her devastating past will catch up with her while falling in love for the first time.",
+    "popularity": 34.0913,
+    "poster_path": "/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg",
+    "release_date": "2025-02-12",
+    "title": "My Fault: London",
+    "video": false,
+    "vote_average": 7.483,
+    "vote_count": 389
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iJaSpQNZ8GsqVDWfbCXmyZQXZ5l.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "id": 945961,
+    "original_language": "en",
+    "original_title": "Alien: Romulus",
+    "overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+    "popularity": 33.5285,
+    "poster_path": "/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+    "release_date": "2024-08-13",
+    "title": "Alien: Romulus",
+    "video": false,
+    "vote_average": 7.204,
+    "vote_count": 3610
   }
 ]

@@ -1,22 +1,223 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/t4mzypFVjY6toyBXAmfrIaWcUXa.jpg",
+    "backdrop_path": "/3R5f4972Iu2qsc5rRryNdd3T6wq.jpg",
+    "genre_ids": [
+      16,
+      878,
+      10751,
+      35
+    ],
+    "id": 482321,
+    "original_language": "en",
+    "original_title": "Ron's Gone Wrong",
+    "overview": "In a world where walking, talking, digitally connected bots have become children's best friends, an 11-year-old finds that his robot buddy doesn't quite work the same as the others do.",
+    "popularity": 23.8437,
+    "poster_path": "/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg",
+    "release_date": "2021-10-14",
+    "title": "Ron's Gone Wrong",
+    "video": false,
+    "vote_average": 7.899,
+    "vote_count": 1902
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749,
+      10402
+    ],
+    "id": 313369,
+    "original_language": "en",
+    "original_title": "La La Land",
+    "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+    "popularity": 23.7526,
+    "poster_path": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+    "release_date": "2016-12-01",
+    "title": "La La Land",
+    "video": false,
+    "vote_average": 7.9,
+    "vote_count": 17276
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cS992RPEJQ4S45IiNSLqlMl2ins.jpg",
+    "genre_ids": [
+      9648,
+      878
+    ],
+    "id": 2666,
+    "original_language": "en",
+    "original_title": "Dark City",
+    "overview": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
+    "popularity": 23.7479,
+    "poster_path": "/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg",
+    "release_date": "1998-02-27",
+    "title": "Dark City",
+    "video": false,
+    "vote_average": 7.327,
+    "vote_count": 2902
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9o9ci7ZH9chSy8B7YXCBYih8Kkd.jpg",
+    "genre_ids": [
+      53,
+      18,
+      10749
+    ],
+    "id": 290098,
+    "original_language": "ko",
+    "original_title": "아가씨",
+    "overview": "1930s Korea, in the period of Japanese occupation, a new girl, Sookee, is hired as a handmaiden to a Japanese heiress, Hideko, who lives a secluded life on a large countryside estate with her domineering Uncle Kouzuki. But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count to help him seduce the Lady to elope with him, rob her of her fortune, and lock her up in a madhouse. The plan seems to proceed according to plan until Sookee and Hideko discover some unexpected emotions.",
+    "popularity": 23.7212,
+    "poster_path": "/dLlH4aNHdnmf62umnInL8xPlPzw.jpg",
+    "release_date": "2016-06-01",
+    "title": "The Handmaiden",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 3922
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qSOMdbZ6AOdHR999HWwVAh6ALFI.jpg",
     "genre_ids": [
       28,
-      53,
-      80
+      80,
+      53
     ],
-    "id": 706503,
-    "original_language": "fr",
-    "original_title": "Balle perdue",
-    "overview": "A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.",
-    "popularity": 20.8168,
-    "poster_path": "/qnlChF8U4diiykXQYs1miigGy7t.jpg",
-    "release_date": "2020-06-19",
-    "title": "Lost Bullet",
+    "id": 1249289,
+    "original_language": "en",
+    "original_title": "Alarum",
+    "overview": "Two married spies caught in the crosshairs of an international intelligence network will stop at nothing to obtain a critical asset. Joe and Lara are agents living off the grid whose quiet retreat at a winter resort is blown to shreds when members of the old guard suspect the two may have joined an elite team of rogue spies, known as Alarum.",
+    "popularity": 23.6845,
+    "poster_path": "/v313aUGmMNj6yNveaiQXysBmjVS.jpg",
+    "release_date": "2025-01-16",
+    "title": "Alarum",
     "video": false,
-    "vote_average": 6.611,
-    "vote_count": 831
+    "vote_average": 5.745,
+    "vote_count": 274
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/30TgnSvXiL7NQoQ5WWwHqw0FRhA.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 48650,
+    "original_language": "es",
+    "original_title": "Habitación en Roma",
+    "overview": "A hotel room in the center of Rome serves as the setting for Alba and Natasha, two sexy and recently acquainted women, to have a physical adventure that touches their very souls.",
+    "popularity": 23.6825,
+    "poster_path": "/gx2ENSap1D4nbjcz7cLLAs4S3fy.jpg",
+    "release_date": "2010-05-07",
+    "title": "Room in Rome",
+    "video": false,
+    "vote_average": 6.411,
+    "vote_count": 768
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/997ToEZvF2Obp9zNZbY5ELVnmrW.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 537915,
+    "original_language": "en",
+    "original_title": "After",
+    "overview": "Tessa Young is a dedicated student, dutiful daughter and loyal girlfriend to her high school sweetheart. Entering her first semester of college, Tessa's guarded world opens up when she meets Hardin Scott, a mysterious and brooding rebel who makes her question all she thought she knew about herself -- and what she wants out of life.",
+    "popularity": 23.5093,
+    "poster_path": "/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg",
+    "release_date": "2019-04-11",
+    "title": "After",
+    "video": false,
+    "vote_average": 7.122,
+    "vote_count": 8335
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/63y4XSVTZ7mRzAzkqwi3o0ajDZZ.jpg",
+    "genre_ids": [
+      80,
+      18,
+      35
+    ],
+    "id": 106646,
+    "original_language": "en",
+    "original_title": "The Wolf of Wall Street",
+    "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+    "popularity": 23.5026,
+    "poster_path": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+    "release_date": "2013-12-25",
+    "title": "The Wolf of Wall Street",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 24584
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nNh7vHHISVAaziJEqAq0P9iL52w.jpg",
+    "genre_ids": [
+      27,
+      878,
+      9648,
+      53
+    ],
+    "id": 395992,
+    "original_language": "en",
+    "original_title": "Life",
+    "overview": "The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected.",
+    "popularity": 23.2593,
+    "poster_path": "/wztfli5NgYDgurVgShNflvnyA3Z.jpg",
+    "release_date": "2017-03-22",
+    "title": "Life",
+    "video": false,
+    "vote_average": 6.441,
+    "vote_count": 7502
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+    "genre_ids": [
+      16,
+      12,
+      10751,
+      35
+    ],
+    "id": 862,
+    "original_language": "en",
+    "original_title": "Toy Story",
+    "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+    "popularity": 23.196,
+    "poster_path": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+    "release_date": "1995-11-22",
+    "title": "Toy Story",
+    "video": false,
+    "vote_average": 7.967,
+    "vote_count": 18814
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7Y3LdmsZukXhmwxtO0UF95BFBTt.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      10749
+    ],
+    "id": 682507,
+    "original_language": "en",
+    "original_title": "Where the Crawdads Sing",
+    "overview": "Abandoned by her family, Kya raises herself all alone in the marshes outside of her small town. When her former boyfriend is found dead, Kya is instantly branded by the local townspeople and law enforcement as the prime suspect for his murder.",
+    "popularity": 23.0827,
+    "poster_path": "/n1el846gLDXfhOvrRCsyvaAOQWv.jpg",
+    "release_date": "2022-07-14",
+    "title": "Where the Crawdads Sing",
+    "video": false,
+    "vote_average": 7.563,
+    "vote_count": 1960
   }
 ]

@@ -1,278 +1,313 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+    "backdrop_path": "/o4mQHoP8LExn2Q9dn16OGqHvaiK.jpg",
     "genre_ids": [
       12,
-      28,
-      878
+      18,
+      10751
     ],
-    "id": 1892,
+    "id": 1265,
     "original_language": "en",
-    "original_title": "Return of the Jedi",
-    "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
-    "popularity": 10.5795,
-    "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
-    "release_date": "1983-05-25",
-    "title": "Return of the Jedi",
+    "original_title": "Bridge to Terabithia",
+    "overview": "Jesse Aarons trained all summer to become the fastest runner in school. So he's very upset when newcomer Leslie Burke outruns him and everyone else. Despite this and other differences including that she's rich, he's poor, she's a city girl, and he's a country boy the two become fast friends. Together they create Terabithia, a land of monsters, trolls, ogres, and giants where they rule as king and queen.",
+    "popularity": 10.6213,
+    "poster_path": "/3xFxGodKPMFLheS8rujFSmLfcq4.jpg",
+    "release_date": "2007-02-15",
+    "title": "Bridge to Terabithia",
     "video": false,
-    "vote_average": 7.9,
-    "vote_count": 16050
+    "vote_average": 7.306,
+    "vote_count": 4920
   },
   {
     "adult": false,
-    "backdrop_path": "/nT0tpSovSldMoKQywsf46R9dXbe.jpg",
+    "backdrop_path": "/2ZmbuDNbL6YUV2r8O5AAenKx01V.jpg",
     "genre_ids": [
       53,
       18
     ],
-    "id": 1145725,
-    "original_language": "en",
-    "original_title": "Tyler Perry's Duplicity",
-    "overview": "High-powered attorney Marley faces her most personal case yet when she is tasked with uncovering the truth behind the murder of her best friend Fela’s husband. With the help of her boyfriend – a former cop turned private investigator – Marley’s search for what really happened leads her down a treacherous maze of deception and betrayal.",
-    "popularity": 10.5716,
-    "poster_path": "/xNINmmVZuRn2MWo34Mj42OjBntN.jpg",
-    "release_date": "2025-03-19",
-    "title": "Tyler Perry's Duplicity",
+    "id": 1147546,
+    "original_language": "hi",
+    "original_title": "राजनयिक",
+    "overview": "An Indian diplomat maneuvers political and moral tensions to free a young woman claiming forced marriage in Pakistan. Based on true events.",
+    "popularity": 10.6149,
+    "poster_path": "/uwl9Y4px8TTIQK4N19k6gnW1RnX.jpg",
+    "release_date": "2025-03-07",
+    "title": "The Diplomat",
     "video": false,
     "vote_average": 6.6,
-    "vote_count": 110
+    "vote_count": 7
   },
   {
     "adult": false,
-    "backdrop_path": "/lh0uM88KjXsmRzWXUGAGWJ0AOJR.jpg",
-    "genre_ids": [
-      10751,
-      35,
-      14
-    ],
-    "id": 21972,
-    "original_language": "en",
-    "original_title": "Like Mike",
-    "overview": "Calvin and his friends, who all live in an orphanage, find old shoes with the faded letters MJ connected to a powerline. One stormy night, they go to get the shoes when Calvin and the shoes are struck by lightning. Calvin now has unbelievable basketball powers and has the chance to play for the NBA.",
-    "popularity": 8.902,
-    "poster_path": "/zXTM3qAXVYAYrhfYBpmescKMoes.jpg",
-    "release_date": "2002-07-03",
-    "title": "Like Mike",
-    "video": false,
-    "vote_average": 6.091,
-    "vote_count": 527
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5o4iH2N4jX3HmNCBbC6rJqxtWj2.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "id": 1222064,
-    "original_language": "en",
-    "original_title": "River of Blood",
-    "overview": "Four kayakers take the wrong river into a jungle inhabited by a tribe of merciless cannibals.",
-    "popularity": 10.7874,
-    "poster_path": "/7lkm4eAvHy1uCs48GEwMxgwNdgd.jpg",
-    "release_date": "2024-08-29",
-    "title": "River of Blood",
-    "video": false,
-    "vote_average": 5.979,
-    "vote_count": 48
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/kl3rMfydlxyLDsZidSUCEWm8K0M.jpg",
-    "genre_ids": [
-      12,
-      35,
-      878
-    ],
-    "id": 39513,
-    "original_language": "en",
-    "original_title": "Paul",
-    "overview": "For the past 60 years, a space-traveling smart-ass named Paul has been locked up in a top-secret military base, advising world leaders about his kind. But when he worries he’s outlived his usefulness and the dissection table is drawing uncomfortably close, Paul escapes on the first RV that passes by his compound in Area 51. Fortunately, it contains the two earthlings who are most likely to rescue and harbor an alien on the run.",
-    "popularity": 10.4473,
-    "poster_path": "/e57pNjhWbRos9BTvgeUYUzB8VfO.jpg",
-    "release_date": "2011-02-14",
-    "title": "Paul",
-    "video": false,
-    "vote_average": 6.733,
-    "vote_count": 5901
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3HnkKX1B9h4govdAa3Ku8qMZaoZ.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
-    "id": 1100856,
-    "original_language": "ru",
-    "original_title": "Заклятье. Шепот ведьм",
-    "overview": "Mara, an ancient pagan spirit, hunts a group of teenagers taking their body parts to be reborn. A disillusioned and desperate investigator has to face his deepest fears to save the teenagers.",
-    "popularity": 10.7994,
-    "poster_path": "/raDMchyq3dJMqso2TVh75A123Xb.jpg",
-    "release_date": "2024-06-13",
-    "title": "Whisper of the Witch",
-    "video": false,
-    "vote_average": 6.5,
-    "vote_count": 41
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5i6SjyDbDWqyun8klUuCxrlFbyw.jpg",
-    "genre_ids": [
-      18,
-      28
-    ],
-    "id": 677179,
-    "original_language": "en",
-    "original_title": "Creed III",
-    "overview": "After dominating the boxing world, Adonis Creed has thrived in his career and family life. When a childhood friend and former boxing prodigy, Damian Anderson, resurfaces after serving a long sentence in prison, he is eager to prove that he deserves his shot in the ring. The face-off between former friends is more than just a fight. To settle the score, Adonis must put his future on the line to battle Damian — a fighter with nothing to lose.",
-    "popularity": 9.7748,
-    "poster_path": "/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
-    "release_date": "2023-03-01",
-    "title": "Creed III",
-    "video": false,
-    "vote_average": 7.112,
-    "vote_count": 2631
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/inJjDhCjfhh3RtrJWBmmDqeuSYC.jpg",
-    "genre_ids": [
-      28,
-      878,
-      12
-    ],
-    "id": 399566,
-    "original_language": "en",
-    "original_title": "Godzilla vs. Kong",
-    "overview": "In a time when monsters walk the Earth, humanity’s fight for its future sets Godzilla and Kong on a collision course that will see the two most powerful forces of nature on the planet collide in a spectacular battle for the ages.",
-    "popularity": 10.4527,
-    "poster_path": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
-    "release_date": "2021-03-24",
-    "title": "Godzilla vs. Kong",
-    "video": false,
-    "vote_average": 7.574,
-    "vote_count": 10191
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/dH7ia3vtkYCa3CBvDnvVjqm9uiQ.jpg",
-    "genre_ids": [
-      9648,
-      28,
-      878
-    ],
-    "id": 13183,
-    "original_language": "en",
-    "original_title": "Watchmen",
-    "overview": "In a gritty and alternate 1985, the glory days of costumed vigilantes have been brought to a close by a government crackdown. But after one of the masked veterans is brutally murdered, an investigation into the killer is initiated. The reunited heroes set out to prevent their own destruction, but in doing so they uncover a sinister plot that puts all of humanity in grave danger.",
-    "popularity": 10.0716,
-    "poster_path": "/aVURelN3pM56lFM7Dgfs5TixcIf.jpg",
-    "release_date": "2009-03-04",
-    "title": "Watchmen",
-    "video": false,
-    "vote_average": 7.337,
-    "vote_count": 9407
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gWuiOPAz3WImzFZUzHTT6c4omrD.jpg",
-    "genre_ids": [
-      878,
-      28,
-      12,
-      35
-    ],
-    "id": 98566,
-    "original_language": "en",
-    "original_title": "Teenage Mutant Ninja Turtles",
-    "overview": "When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.",
-    "popularity": 10.116,
-    "poster_path": "/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg",
-    "release_date": "2014-08-07",
-    "title": "Teenage Mutant Ninja Turtles",
-    "video": false,
-    "vote_average": 5.913,
-    "vote_count": 6882
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zRQITMLvVi8z2Xz12Bi6wvbZE82.jpg",
-    "genre_ids": [
-      35,
-      28,
-      14
-    ],
-    "id": 594767,
-    "original_language": "en",
-    "original_title": "Shazam! Fury of the Gods",
-    "overview": "Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
-    "popularity": 9.7939,
-    "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-    "release_date": "2023-03-15",
-    "title": "Shazam! Fury of the Gods",
-    "video": false,
-    "vote_average": 6.48,
-    "vote_count": 3301
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7tu0bQi8Tw2BrOB5vFyUjVtWma0.jpg",
+    "backdrop_path": "/Eeuq1qmv8UEsd4sX6BSrGNYR19.jpg",
     "genre_ids": [
       53,
-      878,
-      27
-    ],
-    "id": 805320,
-    "original_language": "es",
-    "original_title": "Bird Box Barcelona",
-    "overview": "After a mysterious force decimates the world’s population, Sebastian must navigate his own survival journey through the desolate streets of Barcelona. As he forms uneasy alliances with other survivors and they try to escape the city, an unexpected and even more sinister threat grows.",
-    "popularity": 9.9298,
-    "poster_path": "/iTGBHdL12QEpLyRVlykDuiYxzAG.jpg",
-    "release_date": "2023-07-14",
-    "title": "Bird Box Barcelona",
-    "video": false,
-    "vote_average": 5.921,
-    "vote_count": 734
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xOe8nHr5bpPvq4JbGy4vpttDwg2.jpg",
-    "genre_ids": [
       28,
-      12,
-      878
+      80
     ],
-    "id": 100402,
-    "original_language": "en",
-    "original_title": "Captain America: The Winter Soldier",
-    "overview": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy—the Winter Soldier.",
-    "popularity": 9.1466,
-    "poster_path": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
-    "release_date": "2014-03-20",
-    "title": "Captain America: The Winter Soldier",
+    "id": 1001274,
+    "original_language": "fr",
+    "original_title": "La Nuit se traîne",
+    "overview": "Mady, a student, works as a locksmith by night. He helps Claire get into her apartment and soon realizes that she lied to him about her identity and robbed something that belonged to a dangerous man, Yannick. Mady gets embroiled in a manhunt and will have one night to prove his innocence.",
+    "popularity": 10.6102,
+    "poster_path": "/5NYSdTdM1A4WKDmxwoph7PSFunv.jpg",
+    "release_date": "2024-08-28",
+    "title": "Night Call",
     "video": false,
-    "vote_average": 7.655,
-    "vote_count": 19112
+    "vote_average": 6.766,
+    "vote_count": 92
   },
   {
     "adult": false,
-    "backdrop_path": "/18X5mXS1SpQy5rygEcpbmzUdkVP.jpg",
+    "backdrop_path": "/mo1eLCJTp5JGGz2tKlW98KXpRo0.jpg",
     "genre_ids": [
-      18,
+      16,
+      28,
+      35,
       10751
     ],
-    "id": 1186532,
+    "id": 324849,
     "original_language": "en",
-    "original_title": "The Forge",
-    "overview": "19 year old Isaiah Wright lives for basketball and video games. A year out of high school, he has no job, no plans, and no idea how to be a man. At odds with his single mother Cynthia, Isaiah is given an ultimatum – to step up or move out. Feeling the pull from his friends and the push from his mom, Isaiah is hired by Moore Fitness, unaware of how the owner will personally impact his life. With the prayers of his mother and unexpected guidance from his new mentor, Isaiah is forced to deal with his past, sacrifice his selfishness and discover how God might have a greater purpose for his life.",
-    "popularity": 9.1386,
-    "poster_path": "/oranxontIQRmhuyQlkoAwxpeBYz.jpg",
-    "release_date": "2024-08-22",
-    "title": "The Forge",
+    "original_title": "The Lego Batman Movie",
+    "overview": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+    "popularity": 10.5863,
+    "poster_path": "/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg",
+    "release_date": "2017-02-08",
+    "title": "The Lego Batman Movie",
     "video": false,
-    "vote_average": 8.328,
-    "vote_count": 274
+    "vote_average": 7.225,
+    "vote_count": 5109
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
+    "genre_ids": [
+      16,
+      18,
+      10749
+    ],
+    "id": 378064,
+    "original_language": "ja",
+    "original_title": "映画 聲の形",
+    "overview": "Shouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because she is deaf. But as the teasing continues, the rest of the class starts to turn on Shouya for his lack of compassion. When they leave elementary school, Shouko and Shouya do not speak to each other again... until an older, wiser Shouya, tormented by his past behaviour, decides he must see Shouko once more. He wants to atone for his sins, but is it already too late...?",
+    "popularity": 10.585,
+    "poster_path": "/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg",
+    "release_date": "2016-09-17",
+    "title": "A Silent Voice: The Movie",
+    "video": false,
+    "vote_average": 8.385,
+    "vote_count": 4112
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/71FjlP0qZPc1iymcHf8u5vXfH50.jpg",
+    "genre_ids": [
+      16,
+      10751
+    ],
+    "id": 73723,
+    "original_language": "en",
+    "original_title": "The Lorax",
+    "overview": "A 12-year-old boy searches for the one thing that will enable him to win the affection of the girl of his dreams. To find it he must discover the story of the Lorax, the grumpy yet charming creature who fights to protect his world.",
+    "popularity": 10.5779,
+    "poster_path": "/tePFnZFw5JvjwjQjaKkqDPNMLPU.jpg",
+    "release_date": "2012-03-01",
+    "title": "The Lorax",
+    "video": false,
+    "vote_average": 6.505,
+    "vote_count": 3644
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gLwJ5SsmTqqUVn3lahlBacYSrGH.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 481871,
+    "original_language": "ko",
+    "original_title": "엄마의 직업",
+    "overview": "A young man falls in love with his friend's mother.  Hyun-woo, who returned to the military, starts a part-time job at a bar in a difficult situation, where he meets Yoo-sun, a woman who captures the hearts of customers with her skillful ways. Then one day, Hyun-woo, who was alone with her, finds himself in a shock with his friends Min-seok and Yoo-sun. When Hyun-woo confesses the truth after a hard time, Yoo-sun asks her to keep her relationship secret. Hyun-woo, who failed to reject Min-seok's proposal to live in his own home, begins a breathtaking cohabitation with Yoo-sun.",
+    "popularity": 10.5635,
+    "poster_path": "/oIoJrYsyg34fe66BWndCit1ekUD.jpg",
+    "release_date": "2017-07-27",
+    "title": "Mother's Job",
+    "video": false,
+    "vote_average": 5.292,
+    "vote_count": 12
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/umyOinNa6vqqnqoVc9QqzyaapUz.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 938614,
+    "original_language": "en",
+    "original_title": "Late Night with the Devil",
+    "overview": "A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
+    "popularity": 10.5522,
+    "poster_path": "/mu8LRWT9GHkfiyHm7kgxT6YNvMW.jpg",
+    "release_date": "2024-03-19",
+    "title": "Late Night with the Devil",
+    "video": false,
+    "vote_average": 7.128,
+    "vote_count": 1601
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xkXsV1WOiKfAJ6dzXiavdwsZ3E2.jpg",
+    "genre_ids": [
+      28,
+      53,
+      27,
+      80
+    ],
+    "id": 799379,
+    "original_language": "ko",
+    "original_title": "늑대사냥",
+    "overview": "While under heavily armed guard, the dangerous convicts aboard a cargo ship unite in a coordinated escape attempt that soon escalates into a bloody, all-out riot. But as the fugitives continue their brutal campaign of terror, they soon discover that not even the most vicious among them is safe from the horror they unknowingly unleashed from the darkness below deck.",
+    "popularity": 10.5485,
+    "poster_path": "/dniWicB6fa7NvpGbguxWlNPMc5f.jpg",
+    "release_date": "2022-09-21",
+    "title": "Project Wolf Hunting",
+    "video": false,
+    "vote_average": 6.387,
+    "vote_count": 385
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kmLssINCNdXnIDjWkBsk6LUNSbe.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1028196,
+    "original_language": "en",
+    "original_title": "Nickel Boys",
+    "overview": "Chronicles the powerful friendship between two young Black teenagers navigating the harrowing trials of reform school together in Florida.",
+    "popularity": 10.5405,
+    "poster_path": "/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg",
+    "release_date": "2024-12-13",
+    "title": "Nickel Boys",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 248
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/d72ROyJqXQtw2OupW0l15eicRAF.jpg",
+    "genre_ids": [
+      27,
+      12,
+      28
+    ],
+    "id": 7131,
+    "original_language": "en",
+    "original_title": "Van Helsing",
+    "overview": "Famed monster slayer Gabriel Van Helsing is dispatched to Transylvania to assist the last of the Valerious bloodline in defeating Count Dracula. Anna Valerious reveals that Dracula has formed an unholy alliance with Dr. Frankenstein's monster and is hell-bent on exacting a centuries-old curse on her family.",
+    "popularity": 10.5375,
+    "poster_path": "/qjdEHY5Bhebk5w2MAf0vFHiWwQS.jpg",
+    "release_date": "2004-05-03",
+    "title": "Van Helsing",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 6167
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cBBIk8jCSt6vIVJkaCwjjDLSMKH.jpg",
+    "genre_ids": [
+      80,
+      28
+    ],
+    "id": 1303236,
+    "original_language": "zh",
+    "original_title": "角頭－大橋頭",
+    "overview": "Drug Prince Michael and Scorpion are seizing the old fellows' turfs, the gangs families tornado spins three nobodies who are trying to survive. You'll never know who's gonna get bit by reality through the alternation of generations?",
+    "popularity": 10.5342,
+    "poster_path": "/rJnpwN59avSW5vOu9BPiReHkQl4.jpg",
+    "release_date": "2024-08-16",
+    "title": "GATAO: Like Father Like Son",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 9
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fwrqW8Lp5VQuppFrODd4iJ8LySE.jpg",
+    "genre_ids": [
+      28,
+      12
+    ],
+    "id": 335787,
+    "original_language": "en",
+    "original_title": "Uncharted",
+    "overview": "A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.",
+    "popularity": 10.5305,
+    "poster_path": "/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg",
+    "release_date": "2022-02-10",
+    "title": "Uncharted",
+    "video": false,
+    "vote_average": 6.911,
+    "vote_count": 6244
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uUJp5I4IbzuhdUiEx4R9OAoFpbz.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "id": 951491,
+    "original_language": "en",
+    "original_title": "Saw X",
+    "overview": "Between the events of 'Saw' and 'Saw II', a sick and desperate John Kramer travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer, only to discover the entire operation is a scam to defraud the most vulnerable. Armed with a newfound purpose, the infamous serial killer returns to his work, turning the tables on the con artists in his signature visceral way through devious, deranged, and ingenious traps.",
+    "popularity": 10.512,
+    "poster_path": "/u7Lp1Hi8aBS73jv4KRMIv5aK4ax.jpg",
+    "release_date": "2023-09-27",
+    "title": "Saw X",
+    "video": false,
+    "vote_average": 7.211,
+    "vote_count": 2086
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
+    "genre_ids": [
+      28,
+      53,
+      878
+    ],
+    "id": 577922,
+    "original_language": "en",
+    "original_title": "Tenet",
+    "overview": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+    "popularity": 10.4959,
+    "poster_path": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+    "release_date": "2020-08-22",
+    "title": "Tenet",
+    "video": false,
+    "vote_average": 7.18,
+    "vote_count": 10236
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/naNXYdBzTEb1KwOdi1RbBkM9Zv1.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 420634,
+    "original_language": "en",
+    "original_title": "Terrifier",
+    "overview": "A maniacal clown named Art terrorizes three young women on Halloween night and everyone else who stands in his way.",
+    "popularity": 10.4959,
+    "poster_path": "/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
+    "release_date": "2018-01-25",
+    "title": "Terrifier",
+    "video": false,
+    "vote_average": 6.341,
+    "vote_count": 2671
   }
 ]
