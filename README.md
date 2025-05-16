@@ -6,121 +6,128 @@
 
 ---
 
-## 📖 Descrição
-Análise Exploratória de Dados (EDA) interativa de filmes utilizando a API do The Movie Database (TMDB). Explore dados reais de bilheteria, avaliações e mais, com gráficos dinâmicos e filtros interativos diretamente em um Jupyter Notebook!
+## 📖 Project Overview
+Interactive Exploratory Data Analysis (EDA) of movies using The Movie Database (TMDB) API. Fetch real-world data on box office, ratings, and more, then explore trends with dynamic, interactive charts directly in a Jupyter Notebook.
 
 ---
 
-## 📋 Sumário
-- [Funcionalidades](#-funcionalidades)
-- [Tecnologias](#-tecnologias)
-- [Pré-requisitos](#-pré-requisitos)
-- [Instalação](#-instalação)
-- [Configuração da API TMDB](#-configuração-da-api-tmdb)
-- [Como Usar](#-como-usar)
-- [Exemplo de Uso](#-exemplo-de-uso)
-- [Contribuição](#-contribuição)
-- [Licença](#-licença)
-- [Contato](#-contato)
+## 📋 Table of Contents
+- [Features](#-features)
+- [Technologies](#-technologies)
+- [Requirements](#-requirements)
+- [Installation](#-installation)
+- [TMDB API Setup](#-tmdb-api-setup)
+- [Usage](#-usage)
+- [Demo](#-demo)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Contact](#-contact)
 
 ---
 
-## ✨ Funcionalidades
-- 📈 **Visualizações Interativas:** Gráficos de dispersão, barras e linhas com *hover* informativo.
-- 🔄 **Filtros Dinâmicos:** Selecione ano, gênero, popularidade e mais usando `ipywidgets`.
-- 🕵️‍♂️ **Insights de Dados:** Análise de tendências de receita, avaliações e popularidade.
-- ⚙️ **Automação de Dados:** Consulta automática à API do TMDB e pré-processamento com `pandas`.
+## ✨ Features
+- 📊 **Interactive Visualizations:** Scatter plots, bar charts, and line graphs with hover details.
+- 🔎 **Dynamic Filters:** Filter by year, genre, popularity, and more using `ipywidgets` controls.
+- 📈 **Data Insights:** Analyze box office trends, rating distributions, and popularity metrics.
+- 🔄 **Automated Data Pipeline:** Fetch, clean, and preprocess data from TMDB with `pandas` and `requests`.
+
+> *Why include an API section?*  
+> Highlighting API integration shows practical skills in real-world data retrieval and backend communication—qualities recruiters value for data-centric roles.
 
 ---
 
-## 🛠 Tecnologias
-- **Linguagem:** Python 3.8+
-- **Notebook:** Jupyter Notebook
-- **Pacotes:**
-  - `pandas` para manipulação de dados
-  - `requests` para chamadas HTTP
-  - `Plotly Express` para visualizações interativas
-  - `ipywidgets` para controles dinâmicos
+## 🛠 Technologies
+- **Language:** Python 3.8+
+- **Notebook Environment:** Jupyter Notebook
+- **Libraries:**
+  - `pandas` for data manipulation
+  - `requests` for API calls
+  - `plotly-express` for interactive charts
+  - `ipywidgets` for user controls
 
 ---
 
-## 📦 Pré-requisitos
-- Conta gratuita no TMDB e chave de API
-- Python 3.8 ou superior
-- `pip` para instalar dependências
+## 📦 Requirements
+- Python 3.8 or higher
+- TMDB account and API key
+- `pip` package manager
 
 ---
 
-## 🚀 Instalação
+## 🚀 Installation
 ```bash
-# Clone o repositório
+# Clone this repository
 git clone https://github.com/Vinicius-Mangueira/TMDB-Interactive-Movie-EDA.git
 cd TMDB-Interactive-Movie-EDA
 
-# (Opcional) Crie e ative um ambiente virtual
+# (Optional) Create and activate a virtual environment
 python -m venv venv
 # Linux/macOS
 source venv/bin/activate
 # Windows
 venv\\Scripts\\activate
 
-# Instale as dependências
+# Install dependencies
 pip install -r requirements.txt
 ````
 
 ---
 
-## 🔑 Configuração da API TMDB
+## 🔑 TMDB API Setup
 
-Adicione sua chave API em uma célula do notebook ou em um arquivo `.env`:
+1. Sign up for a free account at [TMDB](https://www.themoviedb.org/).
+2. Generate an API key under **Settings → API**.
+3. Add your API key to the notebook or a `.env` file:
 
 ```python
 import os
-os.environ['TMDB_API_KEY'] = 'SUA_CHAVE_AQUI'
+os.environ['TMDB_API_KEY'] = 'YOUR_API_KEY_HERE'
 ```
+
+> **Note:** Including an API setup section demonstrates your ability to work with external services and configure environments, which recruiters often look for.
 
 ---
 
-## 🎓 Como Usar
+## 🎓 Usage
 
-1. Abra o Jupyter Notebook:
+1. Launch the Jupyter Notebook:
 
    ```bash
    jupyter notebook Notebooks/TMDB_EDA.ipynb
    ```
-2. Execute as células na ordem para baixar dados, limpar, explorar e visualizar.
-3. Utilize os widgets na parte superior para filtrar por ano, gênero ou popularidade.
+2. Run all cells in sequence to:
+
+   * Download and preprocess data
+   * Generate interactive visualizations
+   * Use widgets for custom filtering
 
 ---
 
-## 📸 Exemplo de Uso
+## 📸 Demo
 
-> **Filtrando Filmes de Ação (2020)**
-
-![Exemplo de Gráfico](assets/screenshots/acao_2020.png)
-
----
-
-## 🤝 Contribuição
-
-Contribuições são muito bem-vindas!
-
-1. Faça um *fork* deste repositório
-2. Crie sua *branch*: `git checkout -b minha-feature`
-3. Faça *commit* das suas alterações: `git commit -m 'Minha feature'`
-4. *Push* para a branch: `git push origin minha-feature`
-5. Abra um *Pull Request* 🎉
+> Example: Action Movies Released in 2020
+> ![Action Movies 2020](assets/screenshots/action_2020_demo.png)
 
 ---
 
-## 📄 Licença
+## 🤝 Contributing
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Contributions are welcome!
+
+1. Fork the repo
+2. Create a new branch: `git checkout -b feature-name`
+3. Commit your changes: `git commit -m 'Add new feature'`
+4. Push to your branch: `git push origin feature-name`
+5. Open a Pull Request
 
 ---
 
-## 📬 Contato
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 📬 Contact
 
 Vinícius Mangueira – [GitHub](https://github.com/Vinicius-Mangueira) – [LinkedIn](https://www.linkedin.com/in/vinicius-mangueira-0b8285224/) – [viniciusmangueira04@gmail.com](mailto:viniciusmangueira04@gmail.com)
-
-
