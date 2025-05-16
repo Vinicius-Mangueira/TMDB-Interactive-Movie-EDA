@@ -123,5 +123,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 Vinícius Mangueira – [GitHub](https://github.com/Vinicius-Mangueira) – [LinkedIn](https://www.linkedin.com/in/vinicius-mangueira-0b8285224/) – [viniciusmangueira04@gmail.com](mailto:viniciusmangueira04@gmail.com)
 
-```
-```
+
