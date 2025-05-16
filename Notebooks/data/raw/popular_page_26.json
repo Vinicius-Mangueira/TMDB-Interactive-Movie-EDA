@@ -1,102 +1,302 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/aIGIYJTyOkEVUmEd3z5x6diYsFx.jpg",
+    "backdrop_path": "/ss0Os3uWJfQAENILHZUdX8Tt1OC.jpg",
     "genre_ids": [
       28,
       12,
-      878,
-      53
+      878
     ],
-    "id": 135397,
+    "id": 545611,
     "original_language": "en",
-    "original_title": "Jurassic World",
-    "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
-    "popularity": 14.733,
-    "poster_path": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
-    "release_date": "2015-06-06",
-    "title": "Jurassic World",
+    "original_title": "Everything Everywhere All at Once",
+    "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+    "popularity": 14.4156,
+    "poster_path": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+    "release_date": "2022-03-24",
+    "title": "Everything Everywhere All at Once",
     "video": false,
-    "vote_average": 6.695,
-    "vote_count": 20678
+    "vote_average": 7.758,
+    "vote_count": 7024
   },
   {
     "adult": false,
-    "backdrop_path": "/8pwIhymsxfAVjrAE7syDjQULn37.jpg",
+    "backdrop_path": "/ac0kRKTfiJ4GcoUfb0XIO5vgC8q.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 1930,
+    "original_language": "en",
+    "original_title": "The Amazing Spider-Man",
+    "overview": "Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance – leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
+    "popularity": 12.595,
+    "poster_path": "/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
+    "release_date": "2012-06-23",
+    "title": "The Amazing Spider-Man",
+    "video": false,
+    "vote_average": 6.715,
+    "vote_count": 17697
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ye63eA7UvKDgUPcTbfQZezIA7cF.jpg",
+    "genre_ids": [
+      36,
+      10752,
+      10749
+    ],
+    "id": 753342,
+    "original_language": "en",
+    "original_title": "Napoleon",
+    "overview": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+    "popularity": 11.9907,
+    "poster_path": "/ytFOXyghxLzAM4KZyazDdEkM66q.jpg",
+    "release_date": "2023-11-22",
+    "title": "Napoleon",
+    "video": false,
+    "vote_average": 6.35,
+    "vote_count": 2733
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+    "genre_ids": [
+      12,
+      14,
+      28
+    ],
+    "id": 58,
+    "original_language": "en",
+    "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+    "overview": "Captain Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well.",
+    "popularity": 14.9385,
+    "poster_path": "/lAhcKRt0ggTFkeFL95jrGQYaRXs.jpg",
+    "release_date": "2006-07-06",
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "video": false,
+    "vote_average": 7.366,
+    "vote_count": 16327
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5fxTB08O7CW1hAcN2MWOKodp1h1.jpg",
+    "genre_ids": [
+      18,
+      35
+    ],
+    "id": 615777,
+    "original_language": "en",
+    "original_title": "Babylon",
+    "overview": "A tale of outsized ambition and outrageous excess, tracing the rise and fall of multiple characters in an era of unbridled decadence and depravity during Hollywood's transition from silent films to sound films in the late 1920s.",
+    "popularity": 13.1354,
+    "poster_path": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+    "release_date": "2022-12-22",
+    "title": "Babylon",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 3352
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nB6IR9XfdRpVRKCz85uT97EjgwB.jpg",
+    "genre_ids": [
+      16,
+      28,
+      12,
+      14
+    ],
+    "id": 1333100,
+    "original_language": "ja",
+    "original_title": "劇場版「進撃の巨人」完結編 THE LAST ATTACK",
+    "overview": "A colossal-sized omnibus film bringing together the last two episodes of Attack on Titan in the franchise's first-ever theatrical experience. After venturing beyond the walls and separated from his comrades, Eren finds himself inspired by this new truth and plots the \"Rumbling,\" a terrifying plan to eradicate every living thing in the world. With the fate of the world hanging in the balance, a motley crew of Eren's former comrades and enemies scramble to halt his deadly mission. The only question is, can they stop him?",
+    "popularity": 14.4357,
+    "poster_path": "/wgwldDDlTDDMrluOMkpSA8lyKjv.jpg",
+    "release_date": "2024-11-08",
+    "title": "Attack on Titan: THE LAST ATTACK",
+    "video": false,
+    "vote_average": 8.509,
+    "vote_count": 54
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fog8Vbeg1KOZAucucPxgYpXJ0a0.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1472668,
+    "original_language": "en",
+    "original_title": "Wick Is Pain",
+    "overview": "Witness the never-before-seen footage and true story behind the John Wick phenomenon – from independent film to billion-dollar franchise.",
+    "popularity": 14.549,
+    "poster_path": "/ctZ9bjmCYyfFt3cUepc9axr0zHs.jpg",
+    "release_date": "2025-05-08",
+    "title": "Wick Is Pain",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 12
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qkl57wzSFrpi2sRpoc2mZJbMuLP.jpg",
+    "genre_ids": [
+      12,
+      14,
+      18,
+      10749
+    ],
+    "id": 50620,
+    "original_language": "en",
+    "original_title": "The Twilight Saga: Breaking Dawn - Part 2",
+    "overview": "After the birth of Renesmee, the Cullens gather other vampire clans in order to protect the child from a false allegation that puts the family in front of the Volturi.",
+    "popularity": 12.4679,
+    "poster_path": "/7IGdPaKujv0BjI0Zd0m0a4CzEjJ.jpg",
+    "release_date": "2012-11-13",
+    "title": "The Twilight Saga: Breaking Dawn - Part 2",
+    "video": false,
+    "vote_average": 6.463,
+    "vote_count": 9031
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hGGC9gKo7CFE3fW07RA587e5kol.jpg",
     "genre_ids": [
       16,
       35,
       10751,
       12
     ],
-    "id": 425,
+    "id": 14160,
     "original_language": "en",
-    "original_title": "Ice Age",
-    "overview": "With the impending ice age almost upon them, a mismatched trio of prehistoric critters – Manny the woolly mammoth, Diego the saber-toothed tiger and Sid the giant sloth – find an orphaned infant and decide to return it to its human parents. Along the way, the unlikely allies become friends but, when enemies attack, their quest takes on far nobler aims.",
-    "popularity": 14.6803,
-    "poster_path": "/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
-    "release_date": "2002-03-10",
-    "title": "Ice Age",
+    "original_title": "Up",
+    "overview": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
+    "popularity": 14.74,
+    "poster_path": "/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+    "release_date": "2009-05-28",
+    "title": "Up",
     "video": false,
-    "vote_average": 7.36,
-    "vote_count": 13583
+    "vote_average": 7.957,
+    "vote_count": 20644
   },
   {
     "adult": false,
-    "backdrop_path": "/hgFJd0IsXDPFF77F4VqjlJvTlkc.jpg",
+    "backdrop_path": "/oLsts7ct0NVkdYpx5rZg10MG6zh.jpg",
     "genre_ids": [
-      27
+      18
     ],
-    "id": 477187,
-    "original_language": "es",
-    "original_title": "El habitante",
-    "overview": "Three sisters enter the house of a senator with the intention of stealing money obtained from bribes, but once inside, they begin to hear strange cries coming from the basement.",
-    "popularity": 14.6796,
-    "poster_path": "/E1ryc3622t0iQqyqJTZnhHripg.jpg",
-    "release_date": "2018-06-21",
-    "title": "The Inhabitant",
+    "id": 489,
+    "original_language": "en",
+    "original_title": "Good Will Hunting",
+    "overview": "Headstrong yet aimless, Will Hunting has a genius-level IQ but chooses to work as a janitor at MIT. When he secretly solves highly difficult graduate-level math problems, his talents are discovered by Professor Gerald Lambeau, who decides to help the misguided youth reach his potential. When Will is arrested for attacking a police officer, Professor Lambeau makes a deal to get leniency for him if he gets court-ordered therapy. Eventually, therapist Dr. Sean Maguire helps Will confront the demons that are holding him back.",
+    "popularity": 13.4186,
+    "poster_path": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+    "release_date": "1997-12-05",
+    "title": "Good Will Hunting",
     "video": false,
-    "vote_average": 5.865,
-    "vote_count": 89
+    "vote_average": 8.158,
+    "vote_count": 12797
   },
   {
     "adult": false,
-    "backdrop_path": "/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg",
+    "backdrop_path": "/12fRHZSl9o80w7nl6RjaX7pyjIi.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "id": 713364,
+    "original_language": "en",
+    "original_title": "Clown in a Cornfield",
+    "overview": "Quinn and her father have just moved to the quiet town of Kettle Springs hoping for a fresh start. Instead, she discovers a fractured community that has fallen on hard times after the treasured Baypen Corn Syrup Factory burned down. As the locals bicker amongst themselves and tensions boil over, a sinister, grinning figure emerges from the cornfields to cleanse the town of its burdens, one bloody victim at a time.",
+    "popularity": 12.1233,
+    "poster_path": "/diPSE2jVqMQF1g6u1duFzzxMxh9.jpg",
+    "release_date": "2025-05-08",
+    "title": "Clown in a Cornfield",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 19
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/criPrxkTggCra1jch49jsiSeXo1.jpg",
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "id": 609681,
+    "original_language": "en",
+    "original_title": "The Marvels",
+    "overview": "When her duties send her to an anomalous wormhole linked to a Kree revolutionary, Carol's powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol's estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+    "popularity": 14.3015,
+    "poster_path": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+    "release_date": "2023-11-08",
+    "title": "The Marvels",
+    "video": false,
+    "vote_average": 6.001,
+    "vote_count": 2953
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
     "genre_ids": [
       12,
       28,
       14
     ],
-    "id": 1865,
+    "id": 564,
     "original_language": "en",
-    "original_title": "Pirates of the Caribbean: On Stranger Tides",
-    "overview": "Captain Jack Sparrow crosses paths with a woman from his past, and he's not sure if it's love — or if she's a ruthless con artist who's using him to find the fabled Fountain of Youth. When she forces him aboard the Queen Anne's Revenge, the ship of the formidable pirate Blackbeard, Jack finds himself on an unexpected adventure in which he doesn't know who to fear more: Blackbeard or the woman from his past.",
-    "popularity": 14.6581,
-    "poster_path": "/keGfSvCmYj7CvdRx36OdVrAEibE.jpg",
-    "release_date": "2011-05-15",
-    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "original_title": "The Mummy",
+    "overview": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken.",
+    "popularity": 13.0943,
+    "poster_path": "/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
+    "release_date": "1999-04-16",
+    "title": "The Mummy",
     "video": false,
-    "vote_average": 6.6,
-    "vote_count": 14287
+    "vote_average": 6.941,
+    "vote_count": 9320
   },
   {
     "adult": false,
-    "backdrop_path": "/iveeHEGtkq0dBJZtOcoK650sZ6x.jpg",
+    "backdrop_path": "/iPHsjvbFyGbeCEDC7u8Ib8U1zS6.jpg",
     "genre_ids": [
-      80,
-      18,
-      36
+      35,
+      18
     ],
-    "id": 1013601,
+    "id": 947891,
     "original_language": "en",
-    "original_title": "The Alto Knights",
-    "overview": "Two of New York's most notorious organized crime bosses, Frank Costello and Vito Genovese, vie for control of the city's streets. Once the best of friends, petty jealousies and a series of betrayals place them on a deadly collision course that will reshape the Mafia (and America) forever.",
-    "popularity": 14.5054,
-    "poster_path": "/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg",
-    "release_date": "2025-03-14",
-    "title": "The Alto Knights",
+    "original_title": "My Old Ass",
+    "overview": "An 18th birthday mushroom trip brings free-spirited Elliott face-to-face with her wisecracking 39-year-old self. But when Elliott’s \"old ass\" starts handing out warnings about what her younger self should and shouldn't do, Elliott realizes she has to rethink everything about family, love, and what's becoming a transformative summer.",
+    "popularity": 14.1575,
+    "poster_path": "/yUs4Sw9AyTg2sA1qWBkNpD2mGSj.jpg",
+    "release_date": "2024-09-13",
+    "title": "My Old Ass",
     "video": false,
-    "vote_average": 6.205,
-    "vote_count": 166
+    "vote_average": 6.9,
+    "vote_count": 302
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wFN8llYh215M8i2fqWAcPV8CSyL.jpg",
+    "genre_ids": [
+      16,
+      12,
+      10751,
+      14,
+      35,
+      28
+    ],
+    "id": 49519,
+    "original_language": "en",
+    "original_title": "The Croods",
+    "overview": "The prehistoric Croods family live in a particularly dangerous moment in time. Patriarch Grug, his mate Ugga, teenage daughter Eep, son Thunk, and feisty Gran gather food by day and huddle together in a cave at night. When a more evolved caveman named Guy arrives on the scene, Grug is distrustful, but it soon becomes apparent that Guy is correct about the impending destruction of their world.",
+    "popularity": 12.8627,
+    "poster_path": "/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg",
+    "release_date": "2013-03-15",
+    "title": "The Croods",
+    "video": false,
+    "vote_average": 6.922,
+    "vote_count": 7184
   }
 ]

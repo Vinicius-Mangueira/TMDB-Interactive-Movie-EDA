@@ -1,221 +1,163 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/5rARlA8beRAVXPYzSaF2NoS8Ry5.jpg",
+    "backdrop_path": "/2CisgvF2HcIVnbMZbSjASCtSgEb.jpg",
+    "genre_ids": [
+      12,
+      10751,
+      14,
+      35,
+      10749
+    ],
+    "id": 2493,
+    "original_language": "en",
+    "original_title": "The Princess Bride",
+    "overview": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+    "popularity": 11.0798,
+    "poster_path": "/dvjqlp2sAhUeFjUOfQDgqwpphHj.jpg",
+    "release_date": "1987-09-25",
+    "title": "The Princess Bride",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 4703
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 299537,
+    "original_language": "en",
+    "original_title": "Captain Marvel",
+    "overview": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+    "popularity": 10.0258,
+    "poster_path": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+    "release_date": "2019-03-06",
+    "title": "Captain Marvel",
+    "video": false,
+    "vote_average": 6.802,
+    "vote_count": 16022
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg",
     "genre_ids": [
       16,
-      35,
       10751,
+      35,
       14
     ],
-    "id": 76492,
+    "id": 508947,
     "original_language": "en",
-    "original_title": "Hotel Transylvania",
-    "overview": "Welcome to Hotel Transylvania, Dracula's lavish five-stake resort, where monsters and their families can live it up and no humans are allowed. One special weekend, Dracula has invited all his best friends to celebrate his beloved daughter Mavis's 118th birthday. For Dracula catering to all of these legendary monsters is no problem but the party really starts when one ordinary guy stumbles into the hotel and changes everything!",
-    "popularity": 11.3514,
-    "poster_path": "/3sKT6vtydJ4DkTJtdP5pvfpPa0n.jpg",
-    "release_date": "2012-09-20",
-    "title": "Hotel Transylvania",
+    "original_title": "Turning Red",
+    "overview": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.",
+    "popularity": 12.1023,
+    "poster_path": "/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+    "release_date": "2022-03-10",
+    "title": "Turning Red",
     "video": false,
-    "vote_average": 7.0,
-    "vote_count": 8764
+    "vote_average": 7.35,
+    "vote_count": 5395
   },
   {
     "adult": false,
-    "backdrop_path": "/aqMBEpd4kC8GpUg6761qFPkvQuS.jpg",
+    "backdrop_path": "/3rwszCm4XyBtIWSjbUbgNwJOidu.jpg",
     "genre_ids": [
-      28,
-      80
-    ],
-    "id": 1188104,
-    "original_language": "th",
-    "original_title": "ปล้นทะลุไมล์",
-    "overview": "A fast-paced action drama about siblings desperately needing money for their mother's treatment. Then the brother, who is the stunt performer, inevitably needs to be involved with.",
-    "popularity": 11.3253,
-    "poster_path": "/r6vVnsWyESNpiamrfBvnxXYcWlZ.jpg",
-    "release_date": "2023-11-09",
-    "title": "The X-Treme Riders",
-    "video": false,
-    "vote_average": 8.0,
-    "vote_count": 22
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gt4EnUGbbGbNOX0q47YII3WxB48.jpg",
-    "genre_ids": [
-      878,
-      18
-    ],
-    "id": 13363,
-    "original_language": "en",
-    "original_title": "The Man from Earth",
-    "overview": "A departing professor gathers his closest colleagues for an intimate farewell, but the night takes an unexpected turn when he shares a stunning secret about his past. As the conversation unfolds, skepticism and curiosity collide, challenging everything they thought they knew about history, science, and belief.",
-    "popularity": 11.3203,
-    "poster_path": "/x795RrV92JbLXh4pBSEEe62Nmv0.jpg",
-    "release_date": "2007-06-10",
-    "title": "The Man from Earth",
-    "video": false,
-    "vote_average": 7.633,
-    "vote_count": 2620
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3vxlXdwBKztOJdgiZ2Qwasl9FY4.jpg",
-    "genre_ids": [
-      16,
-      12,
-      35,
-      10751
-    ],
-    "id": 46195,
-    "original_language": "en",
-    "original_title": "Rio",
-    "overview": "Captured by smugglers when he was just a hatchling, a macaw named Blu never learned to fly and lives a happily domesticated life in Minnesota with his human friend, Linda. Blu is thought to be the last of his kind, but when word comes that Jewel, a lone female, lives in Rio de Janeiro, Blu and Linda go to meet her. Animal smugglers kidnap Blu and Jewel, but the pair soon escape and begin a perilous adventure back to freedom -- and Linda.",
-    "popularity": 11.3077,
-    "poster_path": "/4nJxhUknKV8Gqdhov8pU1YWDYfb.jpg",
-    "release_date": "2011-04-03",
-    "title": "Rio",
-    "video": false,
-    "vote_average": 6.743,
-    "vote_count": 6815
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ayDMYGUNVvXS76wQgFwTiUIDNb5.jpg",
-    "genre_ids": [
-      10752,
-      28,
-      36,
-      18,
       53
     ],
-    "id": 300671,
+    "id": 645710,
     "original_language": "en",
-    "original_title": "13 Hours: The Secret Soldiers of Benghazi",
-    "overview": "An American Ambassador is killed during an attack at a U.S. compound in Libya as a security team struggles to make sense out of the chaos.",
-    "popularity": 11.2948,
-    "poster_path": "/AskDcQ6Sa6jImyt2KDQbgRuPebH.jpg",
-    "release_date": "2016-01-14",
-    "title": "13 Hours: The Secret Soldiers of Benghazi",
+    "original_title": "The Voyeurs",
+    "overview": "When Pippa and Thomas move into their dream apartment, they notice that their windows look directly into the apartment opposite – inviting them to witness the volatile relationship of the attractive couple across the street. But what starts as a simple curiosity turns into full-blown obsession with increasingly dangerous consequences.",
+    "popularity": 11.469,
+    "poster_path": "/8Y4XOIWhpOvSOEn8XrxbkH9yAXO.jpg",
+    "release_date": "2021-08-25",
+    "title": "The Voyeurs",
     "video": false,
-    "vote_average": 7.271,
-    "vote_count": 3668
+    "vote_average": 6.559,
+    "vote_count": 1010
   },
   {
     "adult": false,
-    "backdrop_path": "/xqO4sV74bfXpk4Yh5K9Yqa11Jcj.jpg",
+    "backdrop_path": "/aI3Wz1F6ie9DY94jp5F42Yg5ZYK.jpg",
     "genre_ids": [
-      10749,
+      16,
+      28,
+      14,
+      53
+    ],
+    "id": 1311031,
+    "original_language": "ja",
+    "original_title": "劇場版「鬼滅の刃」無限城編",
+    "overview": "As the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming battle against the demons, Muzan Kibutsuji appears at the Ubuyashiki Mansion. With the head of the Demon Corps in danger, Tanjiro and the Hashira rush to the headquarters but are plunged into a deep descent to a mysterious space by the hands of Muzan Kibutsuji.  The destination of where Tanjiro and Demon Slayer Corps have fallen is the demons' stronghold – the Infinity Castle. And so, the battleground is set as the final battle between the Demon Slayer Corps and the demons ignites.",
+    "popularity": 10.512,
+    "poster_path": "/aFRDH3P7TX61FVGpaLhKr6QiOC1.jpg",
+    "release_date": "2025-07-18",
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/l6qZSvM5bjLy9DIGj1cflIVtMKe.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 719221,
+    "original_language": "en",
+    "original_title": "Tarot",
+    "overview": "When a group of friends recklessly violate the sacred rule of Tarot readings, they unknowingly unleash an unspeakable evil trapped within the cursed cards. One by one, they come face to face with fate and end up in a race against death.",
+    "popularity": 9.8165,
+    "poster_path": "/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg",
+    "release_date": "2024-05-01",
+    "title": "Tarot",
+    "video": false,
+    "vote_average": 6.465,
+    "vote_count": 1188
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gLQoJ9P79g501oEEtrN8zMlCPpx.jpg",
+    "genre_ids": [
+      36,
       18,
-      878
-    ],
-    "id": 1167366,
-    "original_language": "th",
-    "original_title": "ยูเรนัส 2324",
-    "overview": "Bonded in their youth and separated by tragedy, an astronaut and a free diver bend the laws of space and time in their efforts to be together again.",
-    "popularity": 11.2691,
-    "poster_path": "/zTD9HytRG1nfP5pdOAYmPyXj05d.jpg",
-    "release_date": "2024-07-04",
-    "title": "Uranus 2324",
-    "video": false,
-    "vote_average": 7.228,
-    "vote_count": 81
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1n00NlOGRFZVs8coBxyZLm5l4EC.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "id": 335988,
-    "original_language": "en",
-    "original_title": "Transformers: The Last Knight",
-    "overview": "Humans and Transformers are at war. Optimus Prime is gone. The key to saving our future lies buried in the secrets of the past, in the hidden history of Transformers on Earth. Saving our world falls upon the shoulders of an unlikely alliance: Cade Yeager; Bumblebee; an English Lord; and an Oxford Professor.",
-    "popularity": 11.2163,
-    "poster_path": "/s5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg",
-    "release_date": "2017-06-16",
-    "title": "Transformers: The Last Knight",
-    "video": false,
-    "vote_average": 6.1,
-    "vote_count": 6359
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/eIDhmgup0dxhUyqVLFfhX78N5Gq.jpg",
-    "genre_ids": [
-      28,
       53,
       10752
     ],
-    "id": 7555,
+    "id": 205596,
     "original_language": "en",
-    "original_title": "Rambo",
-    "overview": "In Thailand, ex-Green Beret John James Rambo joins a group of mercenaries to venture into war-torn neighboring Myanmar to rescue a group of Christian aid workers who have been kidnapped by a ruthless local infantry unit.",
-    "popularity": 11.1613,
-    "poster_path": "/3mInub5c8o00H7EJ1TrjAqOzIuc.jpg",
-    "release_date": "2008-01-24",
-    "title": "Rambo",
+    "original_title": "The Imitation Game",
+    "overview": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+    "popularity": 11.5984,
+    "poster_path": "/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+    "release_date": "2014-11-14",
+    "title": "The Imitation Game",
     "video": false,
-    "vote_average": 6.683,
-    "vote_count": 4010
+    "vote_average": 7.994,
+    "vote_count": 17331
   },
   {
     "adult": false,
-    "backdrop_path": "/1M2i4Mxd03elGOTmEkIvqrHfmyS.jpg",
+    "backdrop_path": "/qjMDwBWbG5hAP43q3meplZFreFQ.jpg",
     "genre_ids": [
+      27,
       35,
-      18,
-      10749
+      878
     ],
-    "id": 19913,
+    "id": 974931,
     "original_language": "en",
-    "original_title": "(500) Days of Summer",
-    "overview": "Tom, greeting-card writer and hopeless romantic, is caught completely off-guard when his girlfriend, Summer, suddenly dumps him. He reflects on their 500 days together to try to figure out where their love affair went sour, and in doing so, Tom rediscovers his true passions in life.",
-    "popularity": 11.1481,
-    "poster_path": "/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg",
-    "release_date": "2009-07-17",
-    "title": "(500) Days of Summer",
+    "original_title": "Totally Killer",
+    "overview": "When the infamous \"Sweet Sixteen Killer\" returns 35 years after his first murder spree to claim another victim, 17-year-old Jamie accidentally travels back in time to 1987, determined to stop the killer before he can start.",
+    "popularity": 11.2108,
+    "poster_path": "/52YBwGJ3cJs54fpBzwnT1lnqgTo.jpg",
+    "release_date": "2023-09-28",
+    "title": "Totally Killer",
     "video": false,
-    "vote_average": 7.295,
-    "vote_count": 10406
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bWftGh0aLMzb8wetgziLq3fHpTJ.jpg",
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "id": 9769,
-    "original_language": "en",
-    "original_title": "Lolita",
-    "overview": "Humbert Humbert is a middle-aged British novelist who is both appalled by and attracted to the vulgarity of American culture. When he comes to stay at the boarding house run by Charlotte Haze, he soon becomes obsessed with Lolita, the woman's teenaged daughter.",
-    "popularity": 11.1124,
-    "poster_path": "/6F4bV1DsCHjYCXRwIA6NZY7dcnD.jpg",
-    "release_date": "1997-09-27",
-    "title": "Lolita",
-    "video": false,
-    "vote_average": 7.141,
-    "vote_count": 1842
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3kvS6Ws5usxSk1wIbKZ7YPug2V2.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 1103621,
-    "original_language": "th",
-    "original_title": "หลานม่า",
-    "overview": "M, a university dropout low on money and luck, volunteers to take care of his terminally ill grandmother, in the hope of pocketing an inheritance.",
-    "popularity": 11.1102,
-    "poster_path": "/9Xa0Grd2jq2lM2gqcoTB4F9TjMd.jpg",
-    "release_date": "2024-04-04",
-    "title": "How to Make Millions Before Grandma Dies",
-    "video": false,
-    "vote_average": 8.093,
-    "vote_count": 225
+    "vote_average": 6.831,
+    "vote_count": 940
   }
 ]

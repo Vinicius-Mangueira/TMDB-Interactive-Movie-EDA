@@ -1,180 +1,217 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/mkXwF7FFWpf2dkOGCzQoeWX7M6R.jpg",
-    "genre_ids": [
-      80,
-      18,
-      53
-    ],
-    "id": 6977,
-    "original_language": "en",
-    "original_title": "No Country for Old Men",
-    "overview": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
-    "popularity": 14.1168,
-    "poster_path": "/bj1v6YKF8yHqA489VFfnQvOJpnc.jpg",
-    "release_date": "2007-06-13",
-    "title": "No Country for Old Men",
-    "video": false,
-    "vote_average": 7.946,
-    "vote_count": 12360
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xFYpUmB01nswPgbzi8EOCT1ZYFu.jpg",
-    "genre_ids": [
-      12,
-      28,
-      18
-    ],
-    "id": 980489,
-    "original_language": "en",
-    "original_title": "Gran Turismo",
-    "overview": "The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.",
-    "popularity": 14.0328,
-    "poster_path": "/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
-    "release_date": "2023-08-09",
-    "title": "Gran Turismo",
-    "video": false,
-    "vote_average": 7.757,
-    "vote_count": 2942
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8MksSPtPvqcSDruLdpibPmTP7LY.jpg",
+    "backdrop_path": "/r17jFHAemzcWPPtoO0UxjIX0xas.jpg",
     "genre_ids": [
       28,
       53,
-      878
-    ],
-    "id": 280,
-    "original_language": "en",
-    "original_title": "Terminator 2: Judgment Day",
-    "overview": "Set ten years after the events of the original, James Cameron’s classic sci-fi action flick tells the story of a second attempt to get rid of rebellion leader John Connor, this time targeting the boy himself. However, the rebellion has sent a reprogrammed terminator to protect Connor.",
-    "popularity": 13.9864,
-    "poster_path": "/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
-    "release_date": "1991-07-03",
-    "title": "Terminator 2: Judgment Day",
-    "video": false,
-    "vote_average": 8.125,
-    "vote_count": 13295
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/26OvB15pqk3eiKJG8LrXDVzO7Mw.jpg",
-    "genre_ids": [
-      14,
-      28,
-      27
-    ],
-    "id": 561,
-    "original_language": "en",
-    "original_title": "Constantine",
-    "overview": "John Constantine has literally been to Hell and back. When he teams up with a policewoman to solve the mysterious suicide of her twin sister, their investigation takes them through the world of demons and angels that exists beneath the landscape of contemporary Los Angeles.",
-    "popularity": 13.9373,
-    "poster_path": "/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg",
-    "release_date": "2005-02-08",
-    "title": "Constantine",
-    "video": false,
-    "vote_average": 7.105,
-    "vote_count": 7454
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bizhlTVjifYQUu4Xrdt7m3TYr7d.jpg",
-    "genre_ids": [
-      27,
       80
     ],
-    "id": 1226578,
+    "id": 324552,
     "original_language": "en",
-    "original_title": "Longlegs",
-    "overview": "FBI Agent Lee Harker is a gifted new recruit assigned to the unsolved case of an elusive serial killer. As the case takes complex turns, unearthing evidence of the occult, Harker discovers a personal connection to the merciless killer and must race against time to stop him before he claims the lives of another innocent family.",
-    "popularity": 13.9244,
-    "poster_path": "/1EwNyiiNFd863H4e8nWEzutnZD7.jpg",
-    "release_date": "2024-07-10",
-    "title": "Longlegs",
+    "original_title": "John Wick: Chapter 2",
+    "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.",
+    "popularity": 14.1814,
+    "poster_path": "/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+    "release_date": "2017-02-08",
+    "title": "John Wick: Chapter 2",
     "video": false,
-    "vote_average": 6.6,
-    "vote_count": 2028
+    "vote_average": 7.332,
+    "vote_count": 13395
   },
   {
     "adult": false,
-    "backdrop_path": "/yOm993lsJyPmBodlYjgpPwBjXP9.jpg",
+    "backdrop_path": "/gGgDMV1vN20q8qEdxV0K43UrK0y.jpg",
     "genre_ids": [
-      35,
-      10751,
-      14
+      27,
+      53
     ],
-    "id": 787699,
+    "id": 507089,
     "original_language": "en",
-    "original_title": "Wonka",
-    "overview": "Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.",
-    "popularity": 13.9117,
-    "poster_path": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
-    "release_date": "2023-12-06",
-    "title": "Wonka",
+    "original_title": "Five Nights at Freddy's",
+    "overview": "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
+    "popularity": 14.337,
+    "poster_path": "/4dKRTUylqwXQ4VJz0BS84fqW2wa.jpg",
+    "release_date": "2023-10-25",
+    "title": "Five Nights at Freddy's",
     "video": false,
-    "vote_average": 7.083,
-    "vote_count": 3871
+    "vote_average": 7.467,
+    "vote_count": 4339
   },
   {
     "adult": false,
-    "backdrop_path": "/n3pJwYuPnkw7JX7tOMbH0GRfBPn.jpg",
+    "backdrop_path": "/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 453,
+    "original_language": "en",
+    "original_title": "A Beautiful Mind",
+    "overview": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
+    "popularity": 11.2571,
+    "poster_path": "/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+    "release_date": "2001-12-14",
+    "title": "A Beautiful Mind",
+    "video": false,
+    "vote_average": 7.854,
+    "vote_count": 10456
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9qxBNfI1QFbiZS62fsgaUd563t2.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "id": 293670,
+    "original_language": "ko",
+    "original_title": "곡성",
+    "overview": "A stranger arrives in a little village and soon after a mysterious sickness starts spreading. A policeman is drawn into the incident and is forced to solve the mystery in order to save his daughter.",
+    "popularity": 12.7555,
+    "poster_path": "/aXlL7yYwpXInhltamtzKQFBG08G.jpg",
+    "release_date": "2016-05-12",
+    "title": "The Wailing",
+    "video": false,
+    "vote_average": 7.366,
+    "vote_count": 1811
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nv5wwZou159v5OC61i4ElR7OqyY.jpg",
     "genre_ids": [
       14,
       16,
-      10751
+      12
     ],
-    "id": 408,
-    "original_language": "en",
-    "original_title": "Snow White and the Seven Dwarfs",
-    "overview": "A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as \"the fairest in the land,\" and Snow White's beauty surpasses her own.",
-    "popularity": 13.8808,
-    "poster_path": "/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
-    "release_date": "1938-01-14",
-    "title": "Snow White and the Seven Dwarfs",
+    "id": 4935,
+    "original_language": "ja",
+    "original_title": "ハウルの動く城",
+    "overview": "Sophie, a young milliner, is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.",
+    "popularity": 13.369,
+    "poster_path": "/23hUJh7JdO23SpgUB5oiFDQk2wX.jpg",
+    "release_date": "2004-09-09",
+    "title": "Howl's Moving Castle",
     "video": false,
-    "vote_average": 7.122,
-    "vote_count": 7595
+    "vote_average": 8.397,
+    "vote_count": 10285
   },
   {
     "adult": false,
-    "backdrop_path": "/4rsomWxlqnHt3muGYK06auhOib6.jpg",
+    "backdrop_path": null,
     "genre_ids": [
-      10749,
-      18,
       35
     ],
-    "id": 818647,
-    "original_language": "es",
-    "original_title": "A través de mi ventana",
-    "overview": "Raquel's longtime crush on her next-door neighbor turns into something more when he starts developing feelings for her, despite his family's objections.",
-    "popularity": 13.857,
-    "poster_path": "/jmkpZvMVIRrMFevxzOubSBfG0s0.jpg",
-    "release_date": "2022-02-04",
-    "title": "Through My Window",
+    "id": 968171,
+    "original_language": "ja",
+    "original_title": "性教育ママ",
+    "overview": "An erotic comedy depicting the sex adventures of  young wives living in an apartment complex, that are not satisfied with just having sex with their husbands.",
+    "popularity": 7.8875,
+    "poster_path": "/xghWMg0pkBOdLHCTESyeyHU68wl.jpg",
+    "release_date": "1973-11-20",
+    "title": "Sex Education Mistresses",
     "video": false,
-    "vote_average": 7.365,
-    "vote_count": 3227
+    "vote_average": 5.9,
+    "vote_count": 5
   },
   {
     "adult": false,
-    "backdrop_path": "/utghtkDDOhwEDS7r9hhRhn7Wneg.jpg",
+    "backdrop_path": "/3CvNc04vTwTir5q3LBDuvUb8Ng6.jpg",
     "genre_ids": [
-      53,
+      16,
+      10751,
       878
     ],
-    "id": 220289,
+    "id": 10681,
     "original_language": "en",
-    "original_title": "Coherence",
-    "overview": "Four couples gather for dinner the night a mysterious and powerful comet passes overhead.",
-    "popularity": 13.8515,
-    "poster_path": "/ezUtb9m5DeLwL2gxi4gktzNCvQv.jpg",
-    "release_date": "2013-09-19",
-    "title": "Coherence",
+    "original_title": "WALL·E",
+    "overview": "What if mankind had to leave Earth and somebody forgot to turn the last robot off? After hundreds of years doing what he was built for, WALL•E discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL•E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL•E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+    "popularity": 15.0309,
+    "poster_path": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+    "release_date": "2008-06-22",
+    "title": "WALL·E",
     "video": false,
-    "vote_average": 7.234,
-    "vote_count": 3042
+    "vote_average": 8.098,
+    "vote_count": 19204
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wO15XEgeLbeijtf3MQAUqWCxSxc.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1007734,
+    "original_language": "en",
+    "original_title": "Nobody 2",
+    "overview": "Suburban dad Hutch Mansell, a former lethal assassin, is pulled back into his violent past after thwarting a home invasion, setting off a chain of events that unravels secrets about his wife Becca's past and his own.",
+    "popularity": 13.0825,
+    "poster_path": "/iyxwxDZCpIm0vIORaHpmgJv2BGF.jpg",
+    "release_date": "2025-08-13",
+    "title": "Nobody 2",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1fL2S8LKxCVE9KoPRBXeagmBtex.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1114513,
+    "original_language": "en",
+    "original_title": "Speak No Evil",
+    "overview": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+    "popularity": 14.082,
+    "poster_path": "/6NwAlU6ZH6ua3sYpFAUpUnoKUmi.jpg",
+    "release_date": "2024-09-11",
+    "title": "Speak No Evil",
+    "video": false,
+    "vote_average": 7.254,
+    "vote_count": 1460
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/s37s21YPqS7txyB0x0TRel24vgi.jpg",
+    "genre_ids": [
+      36,
+      28,
+      18
+    ],
+    "id": 1196943,
+    "original_language": "hi",
+    "original_title": "छावा",
+    "overview": "Shivaji's death sparks the Maratha-Mughal conflict. His son Sambhaji leads resistance against Aurangzeb's forces. Amid battles and intrigue, both sides face challenges in a struggle for power.",
+    "popularity": 12.4362,
+    "poster_path": "/ubRsrzb6NRW8YhVTJ6jG1kpNvCi.jpg",
+    "release_date": "2025-02-14",
+    "title": "Chhaava",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 29
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uT5G4fA7jKxlJNfwYPMm353f5AI.jpg",
+    "genre_ids": [
+      28,
+      12,
+      16,
+      35,
+      10751
+    ],
+    "id": 140300,
+    "original_language": "en",
+    "original_title": "Kung Fu Panda 3",
+    "overview": "While Po and his father are visiting a secret panda village, an evil spirit threatens all of China, forcing Po to form a ragtag army to fight back.",
+    "popularity": 12.8574,
+    "poster_path": "/oajNi4Su39WAByHI6EONu8G8HYn.jpg",
+    "release_date": "2016-01-23",
+    "title": "Kung Fu Panda 3",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 6192
   }
 ]

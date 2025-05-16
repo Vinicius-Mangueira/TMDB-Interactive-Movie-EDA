@@ -1,20 +1,375 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/yATuNOVifq933nYIqHX9LNp83Vx.jpg",
+    "backdrop_path": "/euYIwmwkmz95mnXvufEmbL6ovhZ.jpg",
     "genre_ids": [
-      99
+      28,
+      12,
+      18
     ],
-    "id": 1040159,
+    "id": 558449,
     "original_language": "en",
-    "original_title": "My Massive Cock",
-    "overview": "An extra-large penis is an object of desire for many. But for some men, extra-large seriously complicates their lives and relationships, and penis reduction surgery seems the only answer.",
-    "popularity": 41.8944,
-    "poster_path": "/9JQHViS8uugeWKfFsnEj3xTB2dZ.jpg",
-    "release_date": "2022-10-24",
-    "title": "My Massive Cock",
+    "original_title": "Gladiator II",
+    "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+    "popularity": 44.7112,
+    "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+    "release_date": "2024-11-13",
+    "title": "Gladiator II",
     "video": false,
-    "vote_average": 5.1,
+    "vote_average": 6.741,
+    "vote_count": 3323
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+    "genre_ids": [
+      16,
+      12,
+      35,
+      10751
+    ],
+    "id": 1022789,
+    "original_language": "en",
+    "original_title": "Inside Out 2",
+    "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+    "popularity": 45.844,
+    "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "release_date": "2024-06-11",
+    "title": "Inside Out 2",
+    "video": false,
+    "vote_average": 7.558,
+    "vote_count": 5824
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "id": 539972,
+    "original_language": "en",
+    "original_title": "Kraven the Hunter",
+    "overview": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
+    "popularity": 42.1753,
+    "poster_path": "/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
+    "release_date": "2024-12-11",
+    "title": "Kraven the Hunter",
+    "video": false,
+    "vote_average": 6.575,
+    "vote_count": 1668
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35,
+      878
+    ],
+    "id": 519182,
+    "original_language": "en",
+    "original_title": "Despicable Me 4",
+    "overview": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+    "popularity": 42.4491,
+    "poster_path": "/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+    "release_date": "2024-06-20",
+    "title": "Despicable Me 4",
+    "video": false,
+    "vote_average": 7.045,
+    "vote_count": 2754
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lNQD8NdJ37winY0xEwjp9hUFqLX.jpg",
+    "genre_ids": [
+      16,
+      10751
+    ],
+    "id": 1189423,
+    "original_language": "en",
+    "original_title": "The Sloth Lane",
+    "overview": "After a terrifying storm destroys their home, a speedy sloth named Laura and her kooky family move to the big city in their rusted old food truck, Gordito, hoping to make their business a success. The family's delicious food catches the eye of a quick-witted cheetah who will stop at nothing to revive her failing fast-food business.",
+    "popularity": 39.4291,
+    "poster_path": "/toBN1A9AnhoUzXyu9gaVyQVJehp.jpg",
+    "release_date": "2024-07-25",
+    "title": "The Sloth Lane",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 16
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/auJKGst3vXpJozHZh4nMFs0xWIU.jpg",
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "id": 181812,
+    "original_language": "en",
+    "original_title": "Star Wars: The Rise of Skywalker",
+    "overview": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
+    "popularity": 36.0059,
+    "poster_path": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+    "release_date": "2019-12-18",
+    "title": "Star Wars: The Rise of Skywalker",
+    "video": false,
+    "vote_average": 6.301,
+    "vote_count": 10175
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9WmLfENjz1RuL0MSMZAG3qjoYWR.jpg",
+    "genre_ids": [
+      878,
+      18,
+      28
+    ],
+    "id": 315837,
+    "original_language": "en",
+    "original_title": "Ghost in the Shell",
+    "overview": "In the near future, Major is the first of her kind: a human saved from a terrible crash, then cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals.",
+    "popularity": 34.8801,
+    "poster_path": "/zCtL3UBgCoZzd7XTVGhvl6XY75E.jpg",
+    "release_date": "2017-03-29",
+    "title": "Ghost in the Shell",
+    "video": false,
+    "vote_average": 6.091,
+    "vote_count": 8146
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ohE1z6FSjdvKKMR3Kzaj8XzFtIT.jpg",
+    "genre_ids": [
+      10752,
+      18
+    ],
+    "id": 1076291,
+    "original_language": "sr",
+    "original_title": "Олуја",
+    "overview": "Follow the story of the people who were expelled from Krajina in 1995 and the suffering of the Serb people in Croatia.",
+    "popularity": 36.6472,
+    "poster_path": "/l1RW2ZyL2W4bqjibbWFBX2Eo3a2.jpg",
+    "release_date": "2023-01-17",
+    "title": "Operation Storm",
+    "video": false,
+    "vote_average": 6.5,
     "vote_count": 7
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zTwoyVOAc6XCLjYfzWER6oQgpbO.jpg",
+    "genre_ids": [
+      53,
+      9648
+    ],
+    "id": 402,
+    "original_language": "en",
+    "original_title": "Basic Instinct",
+    "overview": "Catherine, a novelist with an insatiable sexual appetite, becomes a prime suspect when her boyfriend is brutally murdered -- a crime she had described in her latest story.",
+    "popularity": 33.2944,
+    "poster_path": "/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+    "release_date": "1992-03-20",
+    "title": "Basic Instinct",
+    "video": false,
+    "vote_average": 6.933,
+    "vote_count": 4032
+  },
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "genre_ids": [
+      16,
+      28
+    ],
+    "id": 950784,
+    "original_language": "ja",
+    "original_title": "烈火の炎 FINAL BURNING",
+    "overview": "A retold ending based on the final few chapters of the Flame of Recca manga series.",
+    "popularity": 38.5724,
+    "poster_path": "/mz4JRlydPga303keGQh5Ib0rLDC.jpg",
+    "release_date": "2004-06-10",
+    "title": "Flame of Recca: Final Burning",
+    "video": false,
+    "vote_average": 9.5,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kQGxGXzYiCumY8kmXXpgbZyZQK8.jpg",
+    "genre_ids": [
+      80,
+      9648,
+      53
+    ],
+    "id": 395834,
+    "original_language": "en",
+    "original_title": "Wind River",
+    "overview": "An FBI agent teams with the town's veteran game tracker to investigate a murder that occurred on a Native American reservation.",
+    "popularity": 33.7873,
+    "poster_path": "/pySivdR845Hom4u4T2WNkJxe6Ad.jpg",
+    "release_date": "2017-08-03",
+    "title": "Wind River",
+    "video": false,
+    "vote_average": 7.437,
+    "vote_count": 5373
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/k24eZq5I3jyz4htPkZCRpnUmBzE.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1156593,
+    "original_language": "es",
+    "original_title": "Culpa tuya",
+    "overview": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+    "popularity": 40.6206,
+    "poster_path": "/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+    "release_date": "2024-12-26",
+    "title": "Your Fault",
+    "video": false,
+    "vote_average": 7.142,
+    "vote_count": 1242
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kEYWal656zP5Q2Tohm91aw6orlT.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ],
+    "id": 1064213,
+    "original_language": "en",
+    "original_title": "Anora",
+    "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+    "popularity": 39.8488,
+    "poster_path": "/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
+    "release_date": "2024-10-14",
+    "title": "Anora",
+    "video": false,
+    "vote_average": 7.045,
+    "vote_count": 2149
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zksO4lVnRKRoaSYzh2EDn2Z3Pel.jpg",
+    "genre_ids": [
+      37,
+      28
+    ],
+    "id": 1293286,
+    "original_language": "en",
+    "original_title": "Gunslingers",
+    "overview": "When the most wanted man in America surfaces in a small Kentucky town, his violent history -- and a blood-thirsty mob seeking vengeance and a king’s ransom -- soon follow. As brothers face off against one another and bullets tear the town to shreds, this lightning-fast gunslinger makes his enemies pay the ultimate price for their greed.",
+    "popularity": 38.2757,
+    "poster_path": "/O7REXWPANWXvX2jhQydHjAq2DV.jpg",
+    "release_date": "2025-04-11",
+    "title": "Gunslingers",
+    "video": false,
+    "vote_average": 6.549,
+    "vote_count": 51
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/l33oR0mnvf20avWyIMxW02EtQxn.jpg",
+    "genre_ids": [
+      12,
+      18,
+      878
+    ],
+    "id": 157336,
+    "original_language": "en",
+    "original_title": "Interstellar",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "popularity": 37.7614,
+    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "release_date": "2014-11-05",
+    "title": "Interstellar",
+    "video": false,
+    "vote_average": 8.454,
+    "vote_count": 37099
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/b3mdmjYTEL70j7nuXATUAD9qgu4.jpg",
+    "genre_ids": [
+      16,
+      14,
+      12
+    ],
+    "id": 823219,
+    "original_language": "lv",
+    "original_title": "Straume",
+    "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+    "popularity": 37.2751,
+    "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
+    "release_date": "2024-08-29",
+    "title": "Flow",
+    "video": false,
+    "vote_average": 8.2,
+    "vote_count": 1925
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9Eu5yFP75Ky0JAPiF985mxCdIIY.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 1038392,
+    "original_language": "en",
+    "original_title": "The Conjuring: Last Rites",
+    "overview": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
+    "popularity": 36.496,
+    "poster_path": "/29ES27icY5CzTcMhlz1H4SdQRod.jpg",
+    "release_date": "2025-09-04",
+    "title": "The Conjuring: Last Rites",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2qluV8y79LnBBHaMpwewCjQ1Htk.jpg",
+    "genre_ids": [
+      878,
+      27,
+      53
+    ],
+    "id": 126889,
+    "original_language": "en",
+    "original_title": "Alien: Covenant",
+    "overview": "The crew of the colony ship Covenant, bound for a remote planet on the far side of the galaxy, discovers what they think is an uncharted paradise but is actually a dark, dangerous world.",
+    "popularity": 31.361,
+    "poster_path": "/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg",
+    "release_date": "2017-05-09",
+    "title": "Alien: Covenant",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 8883
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mXndmCbpvlqnD6po0EMfxEZcUSn.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 138843,
+    "original_language": "en",
+    "original_title": "The Conjuring",
+    "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+    "popularity": 39.7437,
+    "poster_path": "/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+    "release_date": "2013-07-18",
+    "title": "The Conjuring",
+    "video": false,
+    "vote_average": 7.54,
+    "vote_count": 11834
   }
 ]

@@ -1,181 +1,245 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/yOn8w3aGd6Rf9JYki7XaC9ZiyDg.jpg",
-    "genre_ids": [
-      18,
-      36,
-      53,
-      80,
-      10752,
-      28
-    ],
-    "id": 919207,
-    "original_language": "ko",
-    "original_title": "서울의 봄",
-    "overview": "After the assassination of President Park, martial law has been declared. A coup d'état bursts out by DefenseSecurity Commander Chun Doo-gwang and a private band of officers following him. Capital Defense Commander Lee Tae-shin, an obstinate soldier who believes the military should not take political actions, fights against Chun Doo-gwang to stop him. The conflict between the two grows while military leaders are holding their decision and Defense Minister is gone. In the midst of chaos, the spring of Seoul that everyone longed for heads to unexpected direction.",
-    "popularity": 20.2904,
-    "poster_path": "/vy14tKxsbJYdDyFl6kQuVkK2s44.jpg",
-    "release_date": "2023-11-22",
-    "title": "12.12: The Day",
-    "video": false,
-    "vote_average": 7.487,
-    "vote_count": 112
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "id": 337167,
-    "original_language": "en",
-    "original_title": "Fifty Shades Freed",
-    "overview": "Believing they have left behind shadowy figures from their past, newlyweds Christian and Ana fully embrace an inextricable connection and shared life of luxury. But just as she steps into her role as Mrs. Grey and he relaxes into an unfamiliar stability, new threats could jeopardize their happy ending before it even begins.",
-    "popularity": 20.1469,
-    "poster_path": "/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
-    "release_date": "2018-01-17",
-    "title": "Fifty Shades Freed",
-    "video": false,
-    "vote_average": 6.696,
-    "vote_count": 8118
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
-    "genre_ids": [
-      12,
-      14
-    ],
-    "id": 673,
-    "original_language": "en",
-    "original_title": "Harry Potter and the Prisoner of Azkaban",
-    "overview": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
-    "popularity": 20.0972,
-    "poster_path": "/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
-    "release_date": "2004-05-31",
-    "title": "Harry Potter and the Prisoner of Azkaban",
-    "video": false,
-    "vote_average": 8.0,
-    "vote_count": 22096
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/fZFSvqWsN8bQiwVmJmcgeoL9awe.jpg",
+    "backdrop_path": "/mhKQ5ntqlXyck0TWh1pCpn42aAx.jpg",
     "genre_ids": [
       28,
-      12,
-      18,
-      10751
+      80,
+      53
     ],
-    "id": 38575,
+    "id": 1217379,
     "original_language": "en",
-    "original_title": "The Karate Kid",
-    "overview": "Twelve-year-old Dre Parker could have been the most popular kid in Detroit, but his mother's latest career move has landed him in China. Dre immediately falls for his classmate Mei Ying but the cultural differences make such a friendship impossible. Even worse, Dre's feelings make him an enemy of the class bully, Cheng. With no friends in a strange land, Dre has nowhere to turn but maintenance man Mr. Han, who is a kung fu master. As Han teaches Dre that kung fu is not about punches and parries, but maturity and calm, Dre realizes that facing down the bullies will be the fight of his life.",
-    "popularity": 20.0111,
-    "poster_path": "/b1RBy3l297N0c7PHjlz35cClWju.jpg",
-    "release_date": "2010-06-10",
-    "title": "The Karate Kid",
+    "original_title": "Hellhound",
+    "overview": "Ready to leave his profession behind, Loreno, an assassin, lends help to an old friend, Cetan, and taking one last job in Thailand seeking out a local kingpin. A lapse in judgment means Loreno crosses paths with old colleague Paul.",
+    "popularity": 17.502,
+    "poster_path": "/f9hkaCIha8hIhRo0XXShhcosrPH.jpg",
+    "release_date": "2024-06-20",
+    "title": "Hellhound",
     "video": false,
-    "vote_average": 6.5,
-    "vote_count": 6168
+    "vote_average": 6.6,
+    "vote_count": 46
   },
   {
     "adult": false,
-    "backdrop_path": "/mkxGpqh4yOYqtENv01IrDcesFRf.jpg",
+    "backdrop_path": "/zViRwl3ySscZnbXZJ2Q9wq3SeUG.jpg",
     "genre_ids": [
+      16,
+      878,
+      12,
+      10751
+    ],
+    "id": 698687,
+    "original_language": "en",
+    "original_title": "Transformers One",
+    "overview": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
+    "popularity": 20.1515,
+    "poster_path": "/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",
+    "release_date": "2024-09-11",
+    "title": "Transformers One",
+    "video": false,
+    "vote_average": 8.09,
+    "vote_count": 1226
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
+    "genre_ids": [
+      12,
+      10751,
+      16,
       28,
       35
     ],
-    "id": 993710,
+    "id": 177572,
     "original_language": "en",
-    "original_title": "Back in Action",
-    "overview": "Fifteen years after vanishing from the CIA to start a family, elite spies Matt and Emily jump back into the world of espionage when their cover is blown.",
-    "popularity": 19.9621,
-    "poster_path": "/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg",
-    "release_date": "2025-01-15",
-    "title": "Back in Action",
+    "original_title": "Big Hero 6",
+    "overview": "A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+    "popularity": 19.4979,
+    "poster_path": "/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+    "release_date": "2014-10-24",
+    "title": "Big Hero 6",
     "video": false,
-    "vote_average": 6.453,
-    "vote_count": 1215
+    "vote_average": 7.729,
+    "vote_count": 15882
   },
   {
     "adult": false,
-    "backdrop_path": "/p0NppFDSjJZ9hqSLMnlrFTLwOK7.jpg",
+    "backdrop_path": "/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
     "genre_ids": [
-      53
-    ],
-    "id": 1150370,
-    "original_language": "en",
-    "original_title": "Cold Wallet",
-    "overview": "A team of Redditors lose everything after a cryptocurrency scam leads them to plot to kidnap the \"financial influencer\" who screwed them over.",
-    "popularity": 19.9612,
-    "poster_path": "/m6ZGxUu0JyV7Cyj9xDR8capgrzb.jpg",
-    "release_date": "2025-02-28",
-    "title": "Cold Wallet",
-    "video": false,
-    "vote_average": 5.964,
-    "vote_count": 14
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
-    "genre_ids": [
-      14,
-      12,
+      10751,
       16,
-      10751
+      10402,
+      12
     ],
-    "id": 10191,
+    "id": 354912,
     "original_language": "en",
-    "original_title": "How to Train Your Dragon",
-    "overview": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.",
-    "popularity": 19.882,
-    "poster_path": "/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
-    "release_date": "2010-03-18",
-    "title": "How to Train Your Dragon",
+    "original_title": "Coco",
+    "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+    "popularity": 20.4959,
+    "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+    "release_date": "2017-10-27",
+    "title": "Coco",
     "video": false,
-    "vote_average": 7.8,
-    "vote_count": 13385
+    "vote_average": 8.2,
+    "vote_count": 19953
   },
   {
     "adult": false,
-    "backdrop_path": "/9Er1TPFQg2N4yBJQnkJAwoiiE6A.jpg",
+    "backdrop_path": "/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
     "genre_ids": [
-      18,
-      53
+      10751,
+      16,
+      18
     ],
-    "id": 773543,
-    "original_language": "ru",
-    "original_title": "Соври мне правду",
-    "overview": "A couple in love spends time away from civilization. The sudden arrival of the younger sister first, and then the girl's ex-boyfriend, violate the country idyll. Each of the heroes has his own plan for this weekend, and together they become hostages of the situation and participants in cruel psychological games. Falling in love gives way to passion, and innocent flirting causes jealousy and can lead to mortal danger.",
-    "popularity": 19.685,
-    "poster_path": "/fPUI4KHQKggOdJg9YIBCFEecuU5.jpg",
-    "release_date": "2021-09-09",
-    "title": "Fib the Truth",
+    "id": 8587,
+    "original_language": "en",
+    "original_title": "The Lion King",
+    "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+    "popularity": 20.148,
+    "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "release_date": "1994-06-15",
+    "title": "The Lion King",
     "video": false,
-    "vote_average": 5.696,
-    "vote_count": 69
+    "vote_average": 8.258,
+    "vote_count": 18738
   },
   {
     "adult": false,
-    "backdrop_path": "/33dV6HAnXBmwKl640gO3U4auqUN.jpg",
+    "backdrop_path": "/9OO6I25MHhCDd0XwNk4oZl0fpwB.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "id": 1261050,
+    "original_language": "da",
+    "original_title": "De lydløse",
+    "overview": "In 2008, a group of men from Denmark and across Europe pull off the biggest heist of all time on Danish soil. Kasper, a boxer with few chances left in life, is offered the opportunity to plan the robbery by its foreign initiators.",
+    "popularity": 18.4172,
+    "poster_path": "/7NLY1jNwtZX1yVzwVoBeAhaBE8i.jpg",
+    "release_date": "2024-10-31",
+    "title": "The Quiet Ones",
+    "video": false,
+    "vote_average": 5.83,
+    "vote_count": 44
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 330459,
+    "original_language": "en",
+    "original_title": "Rogue One: A Star Wars Story",
+    "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+    "popularity": 23.5728,
+    "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+    "release_date": "2016-12-14",
+    "title": "Rogue One: A Star Wars Story",
+    "video": false,
+    "vote_average": 7.495,
+    "vote_count": 15573
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vIEuJiIZN9EclAJDmD49F2zUzuX.jpg",
     "genre_ids": [
       28,
       878,
-      18
+      53
     ],
-    "id": 110415,
-    "original_language": "ko",
-    "original_title": "Snowpiercer",
-    "overview": "In a future where a failed global-warming experiment kills off most life on the planet, a class system evolves aboard the Snowpiercer; a train that travels around the globe via a perpetual-motion engine.",
-    "popularity": 19.6826,
-    "poster_path": "/nzccOvhrLGI0nvAknCEAk8bchD9.jpg",
-    "release_date": "2013-08-01",
-    "title": "Snowpiercer",
+    "id": 274855,
+    "original_language": "en",
+    "original_title": "Geostorm",
+    "overview": "After an unprecedented series of natural disasters threatened the planet, the world's leaders came together to create an intricate network of satellites to control the global climate and keep everyone safe. But now, something has gone wrong: the system built to protect Earth is attacking it, and it becomes a race against the clock to uncover the real threat before a worldwide geostorm wipes out everything and everyone along with it.",
+    "popularity": 16.8991,
+    "poster_path": "/nrsx0jEaBgXq4PWo7SooSnYJTv.jpg",
+    "release_date": "2017-10-12",
+    "title": "Geostorm",
     "video": false,
-    "vote_average": 6.905,
-    "vote_count": 9806
+    "vote_average": 6.124,
+    "vote_count": 4898
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sV49hOlUky6AhVYl4K0d3rergTA.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 18785,
+    "original_language": "en",
+    "original_title": "The Hangover",
+    "overview": "When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug – who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.",
+    "popularity": 18.073,
+    "poster_path": "/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+    "release_date": "2009-06-02",
+    "title": "The Hangover",
+    "video": false,
+    "vote_average": 7.322,
+    "vote_count": 17229
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5iMAyVYs4rnQKQ9HDdmuqlb0VtS.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18,
+      10751
+    ],
+    "id": 1885,
+    "original_language": "en",
+    "original_title": "The Karate Kid",
+    "overview": "Daniel LaRusso moves to Los Angeles with his mother, Lucille, and soon strikes up a relationship with Ali. He quickly finds himself the target of bullying by a group of high school students, led by Ali's ex-boyfriend Johnny, who study karate at the Cobra Kai dojo under ruthless sensei, John Kreese. Fortunately, Daniel befriends Mr. Miyagi, an unassuming repairman who just happens to be a martial arts master himself. Miyagi takes Daniel under his wing, training him in a more compassionate form of karate for self-defense and, later, preparing him to compete against the brutal Cobra Kai.",
+    "popularity": 16.715,
+    "poster_path": "/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg",
+    "release_date": "1984-06-22",
+    "title": "The Karate Kid",
+    "video": false,
+    "vote_average": 7.202,
+    "vote_count": 4325
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+    "genre_ids": [
+      878,
+      12,
+      28,
+      35
+    ],
+    "id": 447365,
+    "original_language": "en",
+    "original_title": "Guardians of the Galaxy Vol. 3",
+    "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+    "popularity": 19.4716,
+    "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+    "release_date": "2023-05-03",
+    "title": "Guardians of the Galaxy Vol. 3",
+    "video": false,
+    "vote_average": 7.949,
+    "vote_count": 7329
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o67MmFburfckl6iPa4DVkranLi3.jpg",
+    "genre_ids": [
+      14,
+      18,
+      10749
+    ],
+    "id": 297,
+    "original_language": "en",
+    "original_title": "Meet Joe Black",
+    "overview": "William Parrish, media tycoon and loving father, is about to celebrate his 65th birthday. One morning, he is contacted by the inevitable, by hallucination, as he thinks. Later, Death enters his home and his life, personified in human form as Joe Black. His intention was to take William with him, but accidentally, Joe and William's beautiful daughter Susan have already met. Joe begins to develop certain interest in life on Earth, as well as in Susan, who has no clue with whom she's flirting.",
+    "popularity": 18.3653,
+    "poster_path": "/fDPAjvfPMomkKF7cMRmL5Anak61.jpg",
+    "release_date": "1998-11-12",
+    "title": "Meet Joe Black",
+    "video": false,
+    "vote_average": 7.349,
+    "vote_count": 5373
   }
 ]

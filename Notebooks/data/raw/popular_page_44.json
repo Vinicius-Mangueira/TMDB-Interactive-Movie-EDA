@@ -1,313 +1,59 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/o4mQHoP8LExn2Q9dn16OGqHvaiK.jpg",
+    "backdrop_path": "/jQ3oNUwwzOJCjIcHhXabbjXfFu1.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 30830,
+    "original_language": "en",
+    "original_title": "Fantasm Comes Again",
+    "overview": "Libbie is assigned to her paper's sexual advice column, \"Dear Collete\". She is taking over the job of Harry a crusty old journalist who shows her the pro's and cons of the job while running on a tight deadline to get the column finished for the morning's paper. During the course of the evening they reply to a wide variety of sexual experiences submitted by the readers, some these include, sex in a threesome at a drive-in theatre, sex in a gymnasium, and sex in a library where the \"Silence Please\" sign gives the male librarian an advantage over the female readers.",
+    "popularity": 8.5332,
+    "poster_path": "/85QcmpWio9AuitrqkcwoZnGsgPH.jpg",
+    "release_date": "1977-12-26",
+    "title": "Fantasm Comes Again",
+    "video": false,
+    "vote_average": 4.625,
+    "vote_count": 20
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
     "genre_ids": [
       12,
-      18,
-      10751
-    ],
-    "id": 1265,
-    "original_language": "en",
-    "original_title": "Bridge to Terabithia",
-    "overview": "Jesse Aarons trained all summer to become the fastest runner in school. So he's very upset when newcomer Leslie Burke outruns him and everyone else. Despite this and other differences including that she's rich, he's poor, she's a city girl, and he's a country boy the two become fast friends. Together they create Terabithia, a land of monsters, trolls, ogres, and giants where they rule as king and queen.",
-    "popularity": 10.6213,
-    "poster_path": "/3xFxGodKPMFLheS8rujFSmLfcq4.jpg",
-    "release_date": "2007-02-15",
-    "title": "Bridge to Terabithia",
-    "video": false,
-    "vote_average": 7.306,
-    "vote_count": 4920
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/2ZmbuDNbL6YUV2r8O5AAenKx01V.jpg",
-    "genre_ids": [
-      53,
-      18
-    ],
-    "id": 1147546,
-    "original_language": "hi",
-    "original_title": "राजनयिक",
-    "overview": "An Indian diplomat maneuvers political and moral tensions to free a young woman claiming forced marriage in Pakistan. Based on true events.",
-    "popularity": 10.6149,
-    "poster_path": "/uwl9Y4px8TTIQK4N19k6gnW1RnX.jpg",
-    "release_date": "2025-03-07",
-    "title": "The Diplomat",
-    "video": false,
-    "vote_average": 6.6,
-    "vote_count": 7
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/Eeuq1qmv8UEsd4sX6BSrGNYR19.jpg",
-    "genre_ids": [
-      53,
       28,
-      80
-    ],
-    "id": 1001274,
-    "original_language": "fr",
-    "original_title": "La Nuit se traîne",
-    "overview": "Mady, a student, works as a locksmith by night. He helps Claire get into her apartment and soon realizes that she lied to him about her identity and robbed something that belonged to a dangerous man, Yannick. Mady gets embroiled in a manhunt and will have one night to prove his innocence.",
-    "popularity": 10.6102,
-    "poster_path": "/5NYSdTdM1A4WKDmxwoph7PSFunv.jpg",
-    "release_date": "2024-08-28",
-    "title": "Night Call",
-    "video": false,
-    "vote_average": 6.766,
-    "vote_count": 92
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mo1eLCJTp5JGGz2tKlW98KXpRo0.jpg",
-    "genre_ids": [
-      16,
-      28,
-      35,
-      10751
-    ],
-    "id": 324849,
-    "original_language": "en",
-    "original_title": "The Lego Batman Movie",
-    "overview": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
-    "popularity": 10.5863,
-    "poster_path": "/snGwr2gag4Fcgx2OGmH9otl6ofW.jpg",
-    "release_date": "2017-02-08",
-    "title": "The Lego Batman Movie",
-    "video": false,
-    "vote_average": 7.225,
-    "vote_count": 5109
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
-    "genre_ids": [
-      16,
-      18,
-      10749
-    ],
-    "id": 378064,
-    "original_language": "ja",
-    "original_title": "映画 聲の形",
-    "overview": "Shouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because she is deaf. But as the teasing continues, the rest of the class starts to turn on Shouya for his lack of compassion. When they leave elementary school, Shouko and Shouya do not speak to each other again... until an older, wiser Shouya, tormented by his past behaviour, decides he must see Shouko once more. He wants to atone for his sins, but is it already too late...?",
-    "popularity": 10.585,
-    "poster_path": "/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg",
-    "release_date": "2016-09-17",
-    "title": "A Silent Voice: The Movie",
-    "video": false,
-    "vote_average": 8.385,
-    "vote_count": 4112
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/71FjlP0qZPc1iymcHf8u5vXfH50.jpg",
-    "genre_ids": [
-      16,
-      10751
-    ],
-    "id": 73723,
-    "original_language": "en",
-    "original_title": "The Lorax",
-    "overview": "A 12-year-old boy searches for the one thing that will enable him to win the affection of the girl of his dreams. To find it he must discover the story of the Lorax, the grumpy yet charming creature who fights to protect his world.",
-    "popularity": 10.5779,
-    "poster_path": "/tePFnZFw5JvjwjQjaKkqDPNMLPU.jpg",
-    "release_date": "2012-03-01",
-    "title": "The Lorax",
-    "video": false,
-    "vote_average": 6.505,
-    "vote_count": 3644
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/gLwJ5SsmTqqUVn3lahlBacYSrGH.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 481871,
-    "original_language": "ko",
-    "original_title": "엄마의 직업",
-    "overview": "A young man falls in love with his friend's mother.  Hyun-woo, who returned to the military, starts a part-time job at a bar in a difficult situation, where he meets Yoo-sun, a woman who captures the hearts of customers with her skillful ways. Then one day, Hyun-woo, who was alone with her, finds himself in a shock with his friends Min-seok and Yoo-sun. When Hyun-woo confesses the truth after a hard time, Yoo-sun asks her to keep her relationship secret. Hyun-woo, who failed to reject Min-seok's proposal to live in his own home, begins a breathtaking cohabitation with Yoo-sun.",
-    "popularity": 10.5635,
-    "poster_path": "/oIoJrYsyg34fe66BWndCit1ekUD.jpg",
-    "release_date": "2017-07-27",
-    "title": "Mother's Job",
-    "video": false,
-    "vote_average": 5.292,
-    "vote_count": 12
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/umyOinNa6vqqnqoVc9QqzyaapUz.jpg",
-    "genre_ids": [
-      27
-    ],
-    "id": 938614,
-    "original_language": "en",
-    "original_title": "Late Night with the Devil",
-    "overview": "A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
-    "popularity": 10.5522,
-    "poster_path": "/mu8LRWT9GHkfiyHm7kgxT6YNvMW.jpg",
-    "release_date": "2024-03-19",
-    "title": "Late Night with the Devil",
-    "video": false,
-    "vote_average": 7.128,
-    "vote_count": 1601
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xkXsV1WOiKfAJ6dzXiavdwsZ3E2.jpg",
-    "genre_ids": [
-      28,
-      53,
-      27,
-      80
-    ],
-    "id": 799379,
-    "original_language": "ko",
-    "original_title": "늑대사냥",
-    "overview": "While under heavily armed guard, the dangerous convicts aboard a cargo ship unite in a coordinated escape attempt that soon escalates into a bloody, all-out riot. But as the fugitives continue their brutal campaign of terror, they soon discover that not even the most vicious among them is safe from the horror they unknowingly unleashed from the darkness below deck.",
-    "popularity": 10.5485,
-    "poster_path": "/dniWicB6fa7NvpGbguxWlNPMc5f.jpg",
-    "release_date": "2022-09-21",
-    "title": "Project Wolf Hunting",
-    "video": false,
-    "vote_average": 6.387,
-    "vote_count": 385
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/kmLssINCNdXnIDjWkBsk6LUNSbe.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 1028196,
-    "original_language": "en",
-    "original_title": "Nickel Boys",
-    "overview": "Chronicles the powerful friendship between two young Black teenagers navigating the harrowing trials of reform school together in Florida.",
-    "popularity": 10.5405,
-    "poster_path": "/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg",
-    "release_date": "2024-12-13",
-    "title": "Nickel Boys",
-    "video": false,
-    "vote_average": 6.5,
-    "vote_count": 248
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/d72ROyJqXQtw2OupW0l15eicRAF.jpg",
-    "genre_ids": [
-      27,
-      12,
-      28
-    ],
-    "id": 7131,
-    "original_language": "en",
-    "original_title": "Van Helsing",
-    "overview": "Famed monster slayer Gabriel Van Helsing is dispatched to Transylvania to assist the last of the Valerious bloodline in defeating Count Dracula. Anna Valerious reveals that Dracula has formed an unholy alliance with Dr. Frankenstein's monster and is hell-bent on exacting a centuries-old curse on her family.",
-    "popularity": 10.5375,
-    "poster_path": "/qjdEHY5Bhebk5w2MAf0vFHiWwQS.jpg",
-    "release_date": "2004-05-03",
-    "title": "Van Helsing",
-    "video": false,
-    "vote_average": 6.4,
-    "vote_count": 6167
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cBBIk8jCSt6vIVJkaCwjjDLSMKH.jpg",
-    "genre_ids": [
-      80,
-      28
-    ],
-    "id": 1303236,
-    "original_language": "zh",
-    "original_title": "角頭－大橋頭",
-    "overview": "Drug Prince Michael and Scorpion are seizing the old fellows' turfs, the gangs families tornado spins three nobodies who are trying to survive. You'll never know who's gonna get bit by reality through the alternation of generations?",
-    "popularity": 10.5342,
-    "poster_path": "/rJnpwN59avSW5vOu9BPiReHkQl4.jpg",
-    "release_date": "2024-08-16",
-    "title": "GATAO: Like Father Like Son",
-    "video": false,
-    "vote_average": 7.1,
-    "vote_count": 9
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/fwrqW8Lp5VQuppFrODd4iJ8LySE.jpg",
-    "genre_ids": [
-      28,
-      12
-    ],
-    "id": 335787,
-    "original_language": "en",
-    "original_title": "Uncharted",
-    "overview": "A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.",
-    "popularity": 10.5305,
-    "poster_path": "/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg",
-    "release_date": "2022-02-10",
-    "title": "Uncharted",
-    "video": false,
-    "vote_average": 6.911,
-    "vote_count": 6244
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/uUJp5I4IbzuhdUiEx4R9OAoFpbz.jpg",
-    "genre_ids": [
-      27,
-      9648,
-      53
-    ],
-    "id": 951491,
-    "original_language": "en",
-    "original_title": "Saw X",
-    "overview": "Between the events of 'Saw' and 'Saw II', a sick and desperate John Kramer travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer, only to discover the entire operation is a scam to defraud the most vulnerable. Armed with a newfound purpose, the infamous serial killer returns to his work, turning the tables on the con artists in his signature visceral way through devious, deranged, and ingenious traps.",
-    "popularity": 10.512,
-    "poster_path": "/u7Lp1Hi8aBS73jv4KRMIv5aK4ax.jpg",
-    "release_date": "2023-09-27",
-    "title": "Saw X",
-    "video": false,
-    "vote_average": 7.211,
-    "vote_count": 2086
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yY76zq9XSuJ4nWyPDuwkdV7Wt0c.jpg",
-    "genre_ids": [
-      28,
-      53,
       878
     ],
-    "id": 577922,
+    "id": 1892,
     "original_language": "en",
-    "original_title": "Tenet",
-    "overview": "Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
-    "popularity": 10.4959,
-    "poster_path": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
-    "release_date": "2020-08-22",
-    "title": "Tenet",
+    "original_title": "Return of the Jedi",
+    "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+    "popularity": 9.7679,
+    "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+    "release_date": "1983-05-25",
+    "title": "Return of the Jedi",
     "video": false,
-    "vote_average": 7.18,
-    "vote_count": 10236
+    "vote_average": 7.9,
+    "vote_count": 16050
   },
   {
     "adult": false,
-    "backdrop_path": "/naNXYdBzTEb1KwOdi1RbBkM9Zv1.jpg",
+    "backdrop_path": "/nT0tpSovSldMoKQywsf46R9dXbe.jpg",
     "genre_ids": [
-      27,
-      53
+      53,
+      18
     ],
-    "id": 420634,
+    "id": 1145725,
     "original_language": "en",
-    "original_title": "Terrifier",
-    "overview": "A maniacal clown named Art terrorizes three young women on Halloween night and everyone else who stands in his way.",
-    "popularity": 10.4959,
-    "poster_path": "/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
-    "release_date": "2018-01-25",
-    "title": "Terrifier",
+    "original_title": "Tyler Perry's Duplicity",
+    "overview": "High-powered attorney Marley faces her most personal case yet when she is tasked with uncovering the truth behind the murder of her best friend Fela’s husband. With the help of her boyfriend – a former cop turned private investigator – Marley’s search for what really happened leads her down a treacherous maze of deception and betrayal.",
+    "popularity": 10.0949,
+    "poster_path": "/xNINmmVZuRn2MWo34Mj42OjBntN.jpg",
+    "release_date": "2025-03-19",
+    "title": "Tyler Perry's Duplicity",
     "video": false,
-    "vote_average": 6.341,
-    "vote_count": 2671
+    "vote_average": 6.6,
+    "vote_count": 110
   }
 ]

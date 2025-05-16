@@ -1,294 +1,120 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
-    "genre_ids": [
-      18,
-      36,
-      10752
-    ],
-    "id": 424,
-    "original_language": "en",
-    "original_title": "Schindler's List",
-    "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
-    "popularity": 18.9267,
-    "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
-    "release_date": "1993-12-15",
-    "title": "Schindler's List",
-    "video": false,
-    "vote_average": 8.565,
-    "vote_count": 16418
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/j0Ce4AsZi34NKYUZr61lh0PBQ7G.jpg",
-    "genre_ids": [
-      10749,
-      18
-    ],
-    "id": 11036,
-    "original_language": "en",
-    "original_title": "The Notebook",
-    "overview": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.",
-    "popularity": 18.9059,
-    "poster_path": "/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
-    "release_date": "2004-05-25",
-    "title": "The Notebook",
-    "video": false,
-    "vote_average": 7.89,
-    "vote_count": 11871
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
-    "genre_ids": [
-      878,
-      12,
-      28
-    ],
-    "id": 667538,
-    "original_language": "en",
-    "original_title": "Transformers: Rise of the Beasts",
-    "overview": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
-    "popularity": 18.9012,
-    "poster_path": "/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
-    "release_date": "2023-06-06",
-    "title": "Transformers: Rise of the Beasts",
-    "video": false,
-    "vote_average": 7.239,
-    "vote_count": 4892
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
-    "genre_ids": [
-      16,
-      28,
-      12,
-      878
-    ],
-    "id": 324857,
-    "original_language": "en",
-    "original_title": "Spider-Man: Into the Spider-Verse",
-    "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
-    "popularity": 18.8928,
-    "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
-    "release_date": "2018-12-06",
-    "title": "Spider-Man: Into the Spider-Verse",
-    "video": false,
-    "vote_average": 8.397,
-    "vote_count": 16116
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ie8OSgIHEl6yQiGJ90dsyBWOpQA.jpg",
-    "genre_ids": [
-      16,
-      14,
-      12,
-      28
-    ],
-    "id": 839033,
-    "original_language": "en",
-    "original_title": "The Lord of the Rings: The War of the Rohirrim",
-    "overview": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
-    "popularity": 18.881,
-    "poster_path": "/cXzCOx1hUuU9CfmiEv6rXjb6EqU.jpg",
-    "release_date": "2024-12-05",
-    "title": "The Lord of the Rings: The War of the Rohirrim",
-    "video": false,
-    "vote_average": 6.666,
-    "vote_count": 583
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5rrGVmRUuCKVbqUu41XIWTXJmNA.jpg",
-    "genre_ids": [
-      12,
-      14
-    ],
-    "id": 674,
-    "original_language": "en",
-    "original_title": "Harry Potter and the Goblet of Fire",
-    "overview": "When Harry Potter's name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools—the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named.",
-    "popularity": 18.815,
-    "poster_path": "/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
-    "release_date": "2005-11-16",
-    "title": "Harry Potter and the Goblet of Fire",
-    "video": false,
-    "vote_average": 7.802,
-    "vote_count": 21166
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/yBMGM7x8lPXUlmTNfCLZvHbpJmk.jpg",
+    "backdrop_path": "/pwfXx2O3eFXi5dtWCV5XJPQJgqN.jpg",
     "genre_ids": [
       28,
-      18,
       53,
-      10752
+      10752,
+      36
     ],
-    "id": 1043905,
-    "original_language": "en",
-    "original_title": "Dirty Angels",
-    "overview": "During the United States' 2021 withdrawal from Afghanistan, a group of female soldiers posing as medical relief are sent back in to rescue a group of kidnapped teenagers caught between ISIS and the Taliban.",
-    "popularity": 18.7448,
-    "poster_path": "/1y3TG8N8zwwMxqh0qzdyDs3IyCq.jpg",
-    "release_date": "2024-12-11",
-    "title": "Dirty Angels",
+    "id": 1143407,
+    "original_language": "hi",
+    "original_title": "स्काई फ़ोर्स",
+    "overview": "In the 1965 Indo-Pak War, India faces a devastating surprise attack. Wing Commander Ahuja leads a retaliatory strike, but Squadron Leader Vijaya goes missing after a heroic solo engagement against a superior enemy jet. Ahuja spends 23 years seeking the truth and uncovering a cover-up.",
+    "popularity": 19.3244,
+    "poster_path": "/pmtev9YTlIRDo25G7lN8dzyoszn.jpg",
+    "release_date": "2025-01-24",
+    "title": "Sky Force",
     "video": false,
-    "vote_average": 6.2,
-    "vote_count": 238
+    "vote_average": 6.426,
+    "vote_count": 34
   },
   {
     "adult": false,
-    "backdrop_path": "/AeGcldwZf1MN6680cx6HU6MVwjV.jpg",
-    "genre_ids": [
-      35
-    ],
-    "id": 38365,
-    "original_language": "en",
-    "original_title": "Grown Ups",
-    "overview": "After their high school basketball coach passes away, five good friends and former teammates reunite for a Fourth of July holiday weekend.",
-    "popularity": 18.6705,
-    "poster_path": "/ys0LscDFAuZxfUcpH5moiPeFfXs.jpg",
-    "release_date": "2010-06-24",
-    "title": "Grown Ups",
-    "video": false,
-    "vote_average": 6.394,
-    "vote_count": 6287
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9JqrqquYOarMFb3O4j6gdJZG36K.jpg",
-    "genre_ids": [
-      35
-    ],
-    "id": 1296500,
-    "original_language": "es",
-    "original_title": "Un lío de millones",
-    "overview": "In a village in the Sierra de Madrid, a couple feels that their children, who have since moved out, have forgotten about them. To get them back, they will pretend that they have won the lottery and that they are multimillionaires.",
-    "popularity": 18.61,
-    "poster_path": "/1gPOV4ExV0AAGMLpF3em6BSRVV8.jpg",
-    "release_date": "2024-12-20",
-    "title": "Un lío de millones",
-    "video": false,
-    "vote_average": 5.938,
-    "vote_count": 16
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/pqulyfkug9A7TmmRn5zrbRA8TAY.jpg",
+    "backdrop_path": "/ybSA7fUbYHw8VeRiSJ7tgKJnYWZ.jpg",
     "genre_ids": [
       28,
-      35
-    ],
-    "id": 1255788,
-    "original_language": "fr",
-    "original_title": "Le Jardinier",
-    "overview": "Every year the Prime Minister has a list of all kinds of troublemakers eliminated in the name of the famous Reason of State. Serge Shuster, Special Adviser to the President of the Republic, finds himself on this list, better known as the Matignon List.  Condemned to certain death and at the heart of an implacable plot and a state secret that also put his family in danger, Serge, his wife and children have only one hope left - their gardener, Léo, who hates it when « slugs » invade his garden... Especially those that want to kill innocent families.",
-    "popularity": 18.5035,
-    "poster_path": "/5T9WR7vIOnHm6xhVt5zBuPbBgt1.jpg",
-    "release_date": "2025-01-30",
-    "title": "The Gardener",
-    "video": false,
-    "vote_average": 6.236,
-    "vote_count": 138
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/fONtQBk12LGjQo4q6bXDROVQmTy.jpg",
-    "genre_ids": [
-      53,
-      12
-    ],
-    "id": 213,
-    "original_language": "en",
-    "original_title": "North by Northwest",
-    "overview": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
-    "popularity": 18.4259,
-    "poster_path": "/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
-    "release_date": "1959-07-08",
-    "title": "North by Northwest",
-    "video": false,
-    "vote_average": 7.983,
-    "vote_count": 4208
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/aCHn2TXYJfzPXQKA6r9mKPbMlUB.jpg",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "id": 37165,
-    "original_language": "en",
-    "original_title": "The Truman Show",
-    "overview": "Every second of every day, from the moment he was born, for the last thirty years, Truman Burbank has been the unwitting star of the longest running, most popular documentary-soap opera in history. The picture-perfect town of Seahaven that he calls home is actually a gigantic soundstage. Truman's friends and family - everyone he meets, in fact - are actors. He lives every moment under the unblinking gaze of thousands of hidden TV cameras.",
-    "popularity": 18.3558,
-    "poster_path": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
-    "release_date": "1998-06-04",
-    "title": "The Truman Show",
-    "video": false,
-    "vote_average": 8.147,
-    "vote_count": 18890
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/opNdWurarqYxrzqpVRPyZrbWb3K.jpg",
-    "genre_ids": [
-      27,
-      53,
-      9648
-    ],
-    "id": 1029880,
-    "original_language": "da",
-    "original_title": "Nattevagten - Dæmoner går i arv",
-    "overview": "Martin's daughter, Emma, takes up a night watch job to find out what happened to her parents almost thirty years ago. A meeting with Wörmer in his cell pulls the serial killer out of his coma and sets in motion a chain of fateful events.",
-    "popularity": 18.3526,
-    "poster_path": "/7Bj9qbmTiBdOmVlHeQqoEjsDxul.jpg",
-    "release_date": "2023-12-14",
-    "title": "Nightwatch: Demons Are Forever",
-    "video": false,
-    "vote_average": 6.208,
-    "vote_count": 65
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zvWnh0ABsJlco2tikliiATEKhLN.jpg",
-    "genre_ids": [
-      27,
       53
     ],
-    "id": 1249385,
+    "id": 1410082,
     "original_language": "en",
-    "original_title": "Ghost Game",
-    "overview": "As part of an internet challenge to live undetected in a stranger’s home, a daring couple target an infamous haunted house and endure a series of chilling incidents as they witness a family descending into madness.",
-    "popularity": 18.3354,
-    "poster_path": "/kxxWBEn7qTN2xumSferCHbDudcT.jpg",
-    "release_date": "2024-10-18",
-    "title": "Ghost Game",
+    "original_title": "Sniper: The Last Stand",
+    "overview": "To stop an arms dealer from unleashing a deadly superweapon, Ace sniper Brandon Beckett and Agent Zero are deployed to Costa Verde to lead a group of elite soldiers against an unrelenting militia. Taking an untested sniper under his wing, Beckett faces his newest challenge: giving orders instead of receiving them. With both time and ammo running low in a race to save humanity, the team must overcome all odds just to survive.",
+    "popularity": 18.4103,
+    "poster_path": "/TVvIyCsFCmLk9MRLbAZi4X8f32.jpg",
+    "release_date": "2025-01-21",
+    "title": "Sniper: The Last Stand",
     "video": false,
-    "vote_average": 3.778,
-    "vote_count": 27
+    "vote_average": 6.687,
+    "vote_count": 139
   },
   {
     "adult": false,
-    "backdrop_path": "/hdHIjZxq3SWFqpAz4NFhdbud0iz.jpg",
+    "backdrop_path": "/fjWcAbHRxCSR4kLGvsPEhNjR2ts.jpg",
     "genre_ids": [
-      27,
-      878
+      10749,
+      28,
+      35
     ],
-    "id": 348,
+    "id": 921636,
     "original_language": "en",
-    "original_title": "Alien",
-    "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
-    "popularity": 18.3235,
-    "poster_path": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
-    "release_date": "1979-05-25",
-    "title": "Alien",
+    "original_title": "The Out-Laws",
+    "overview": "A straight-laced bank manager is about to marry the love of his life. When his bank is held up by infamous Ghost Bandits during his wedding week, he believes his future in-laws who just arrived in town, are the infamous Out-Laws.",
+    "popularity": 14.7182,
+    "poster_path": "/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg",
+    "release_date": "2023-07-07",
+    "title": "The Out-Laws",
     "video": false,
-    "vote_average": 8.163,
-    "vote_count": 15263
+    "vote_average": 6.028,
+    "vote_count": 725
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ibpjFkCB4klvDOmmFhgmLnPNqAF.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1337395,
+    "original_language": "tl",
+    "original_title": "Kiskisan",
+    "overview": "A steamy tale of love, lust, and betrayal. When Adele's sister Bea returns with her girlfriend Cheska, a secret affair begins between Cheska and Adele's boyfriend, Rener, leading to a climactic ending when they're caught.",
+    "popularity": 25.4055,
+    "poster_path": "/xTKDqre2om0YHHkiQbkiFyMorE9.jpg",
+    "release_date": "2024-09-27",
+    "title": "Kiskisan",
+    "video": false,
+    "vote_average": 5.3,
+    "vote_count": 3
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5IbxcBXZ5EhVAttfNDMPncikudr.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "id": 541671,
+    "original_language": "en",
+    "original_title": "From the World of John Wick: Ballerina",
+    "overview": "Taking place during the events of John Wick: Chapter 3 - Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.",
+    "popularity": 18.4616,
+    "poster_path": "/mKp4euM5Cv3m2U1Vmby3OGwcD5y.jpg",
+    "release_date": "2025-06-04",
+    "title": "From the World of John Wick: Ballerina",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/y12HU18e5FHNeqkSZdvMBEOY6BU.jpg",
+    "genre_ids": [
+      53,
+      27,
+      28
+    ],
+    "id": 1407861,
+    "original_language": "en",
+    "original_title": "The Bayou",
+    "overview": "Vacation turns disaster when Houston grad Kyle and her friends survive a plane crash in the desolate Louisiana everglades, only to discover there's something way more dangerous lurking in the shallows.",
+    "popularity": 18.4024,
+    "poster_path": "/sf6j1SbgDf7VTjL1MRq5MAQSOyE.jpg",
+    "release_date": "2025-01-31",
+    "title": "The Bayou",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 77
   }
 ]

@@ -1,242 +1,177 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/1ZKHzSGJm0kvlCp4echAOtKnDTm.jpg",
-    "genre_ids": [
-      16,
-      18,
-      10751
-    ],
-    "id": 3170,
-    "original_language": "en",
-    "original_title": "Bambi",
-    "overview": "Bambi's tale unfolds from season to season as the young prince of the forest learns about life, love, and friends.",
-    "popularity": 13.79,
-    "poster_path": "/wV9e2y4myJ4KMFsyFfWYcUOawyK.jpg",
-    "release_date": "1942-08-14",
-    "title": "Bambi",
-    "video": false,
-    "vote_average": 7.01,
-    "vote_count": 5754
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/85k0kaoRgGmF6ACq0M61AFxhjLN.jpg",
-    "genre_ids": [
-      35,
-      80
-    ],
-    "id": 12153,
-    "original_language": "en",
-    "original_title": "White Chicks",
-    "overview": "Two FBI agent brothers, Marcus and Kevin Copeland, accidentally foil a drug bust. To avoid being fired they accept a mission escorting a pair of socialites to the Hamptons--but when the girls are disfigured in a car accident, they refuse to go. Left without options, Marcus and Kevin decide to pose as the sisters, transforming themselves from black men into rich white women.",
-    "popularity": 13.7489,
-    "poster_path": "/aHTUpo45qy9QYIOnVITGGqLoVcA.jpg",
-    "release_date": "2004-06-23",
-    "title": "White Chicks",
-    "video": false,
-    "vote_average": 6.929,
-    "vote_count": 4158
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg",
-    "genre_ids": [
-      18,
-      36,
-      10752
-    ],
-    "id": 857,
-    "original_language": "en",
-    "original_title": "Saving Private Ryan",
-    "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
-    "popularity": 13.7377,
-    "poster_path": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
-    "release_date": "1998-07-24",
-    "title": "Saving Private Ryan",
-    "video": false,
-    "vote_average": 8.218,
-    "vote_count": 16271
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/tPK1kSevALeVGPfDFv1pwyHnoJ9.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10751
-    ],
-    "id": 863,
-    "original_language": "en",
-    "original_title": "Toy Story 2",
-    "overview": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
-    "popularity": 13.7365,
-    "poster_path": "/yFWQkz2ynjwsazT6xQiIXEUsyuh.jpg",
-    "release_date": "1999-10-30",
-    "title": "Toy Story 2",
-    "video": false,
-    "vote_average": 7.598,
-    "vote_count": 14132
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/iWb6Kj2qDLPXut8JEvZb2xfwILH.jpg",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "id": 1086548,
-    "original_language": "es",
-    "original_title": "Vera y el placer de los otros",
-    "overview": "17-year-old Vera divides her days between volleyball and school and has a good time with friends like an average teenager. She appears to be a perfect daughter who never gets into trouble. But she has a secret hobby: she anonymously rents out an empty apartment to teenagers looking for a place to have sex. She steals the keys from her distracted mother (who manages different properties) and organizes everything. The teenagers come and go, using the apartment for a few uninterrupted hours making Vera the saviour of all their needs. With that she unlocks a new world for herself – playing invisible, Vera stays behind the closed door; her own sexual desires unfolding as she listens to other people’s pleasure.",
-    "popularity": 13.7338,
-    "poster_path": "/e0ESGyso9K95glbbnTRenFfCC7l.jpg",
-    "release_date": "2024-09-26",
-    "title": "Vera and the Pleasure of Others",
-    "video": false,
-    "vote_average": 6.615,
-    "vote_count": 26
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cq9N64ucEtfIc3eMxNr1VzY9LH9.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 37799,
-    "original_language": "en",
-    "original_title": "The Social Network",
-    "overview": "In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.",
-    "popularity": 13.7262,
-    "poster_path": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
-    "release_date": "2010-10-01",
-    "title": "The Social Network",
-    "video": false,
-    "vote_average": 7.4,
-    "vote_count": 12418
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3nYlM34QhzdtAvWRV5bN4nLtnTc.jpg",
+    "backdrop_path": "/chAGSv4DB9s3fsgULpSZQLN7LgN.jpg",
     "genre_ids": [
       27,
-      53,
-      12
+      53
     ],
-    "id": 578,
+    "id": 514593,
     "original_language": "en",
-    "original_title": "Jaws",
-    "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled hunter embark on a desperate quest to destroy the beast before it strikes again.",
-    "popularity": 13.7091,
-    "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
-    "release_date": "1975-06-20",
-    "title": "Jaws",
+    "original_title": "You Should Have Left",
+    "overview": "In an effort to repair their relationship, a couple books a vacation in the countryside for themselves and their daughter. What starts as a perfect retreat begins to fall apart as one loses their grip on reality, and a sinister force tries to tear them apart.",
+    "popularity": 12.0031,
+    "poster_path": "/tpOwE6xsWnu4lKeKbKW0R3iClM.jpg",
+    "release_date": "2020-06-18",
+    "title": "You Should Have Left",
     "video": false,
-    "vote_average": 7.665,
-    "vote_count": 10739
+    "vote_average": 6.095,
+    "vote_count": 878
   },
   {
     "adult": false,
-    "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+    "backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
     "genre_ids": [
-      878,
-      12,
-      28
-    ],
-    "id": 283995,
-    "original_language": "en",
-    "original_title": "Guardians of the Galaxy Vol. 2",
-    "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
-    "popularity": 13.6904,
-    "poster_path": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
-    "release_date": "2017-04-19",
-    "title": "Guardians of the Galaxy Vol. 2",
-    "video": false,
-    "vote_average": 7.612,
-    "vote_count": 21953
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3SszodoxSiJRQVoFg9IRjrMcSuJ.jpg",
-    "genre_ids": [
-      16,
-      12,
-      35,
-      10751,
+      14,
       28,
-      14
-    ],
-    "id": 62177,
-    "original_language": "en",
-    "original_title": "Brave",
-    "overview": "Brave is set in the mystical Scottish Highlands, where Mérida is the princess of a kingdom ruled by King Fergus and Queen Elinor. An unruly daughter and an accomplished archer, Mérida one day defies a sacred custom of the land and inadvertently brings turmoil to the kingdom. In an attempt to set things right, Mérida seeks out an eccentric old Wise Woman and is granted an ill-fated wish. Also figuring into Mérida’s quest — and serving as comic relief — are the kingdom’s three lords: the enormous Lord MacGuffin, the surly Lord Macintosh, and the disagreeable Lord Dingwall.",
-    "popularity": 13.6547,
-    "poster_path": "/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg",
-    "release_date": "2012-06-21",
-    "title": "Brave",
-    "video": false,
-    "vote_average": 7.021,
-    "vote_count": 13587
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/oJ1MIABA0WF0a7MDVQnnMvBdex8.jpg",
-    "genre_ids": [
-      27,
       35
     ],
-    "id": 567609,
+    "id": 616037,
     "original_language": "en",
-    "original_title": "Ready or Not",
-    "overview": "A young bride's wedding night turns into her worst nightmare when her ridiculously rich in-laws force her to play a gruesome game of hide-and-seek.",
-    "popularity": 13.6483,
-    "poster_path": "/oJD9KQFoObZmxAS1je56SIFVNJt.jpg",
-    "release_date": "2019-08-21",
-    "title": "Ready or Not",
+    "original_title": "Thor: Love and Thunder",
+    "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+    "popularity": 14.3934,
+    "poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+    "release_date": "2022-07-06",
+    "title": "Thor: Love and Thunder",
     "video": false,
-    "vote_average": 7.034,
-    "vote_count": 4780
+    "vote_average": 6.417,
+    "vote_count": 7905
   },
   {
     "adult": false,
-    "backdrop_path": "/4PPC7fKClu0u7NTbo5xgV4vb5VD.jpg",
+    "backdrop_path": "/4ybnt8HD4slaCykBXNZwZaLd5LQ.jpg",
     "genre_ids": [
-      80,
-      27,
-      9648
-    ],
-    "id": 4232,
-    "original_language": "en",
-    "original_title": "Scream",
-    "overview": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
-    "popularity": 13.5876,
-    "poster_path": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
-    "release_date": "1996-12-20",
-    "title": "Scream",
-    "video": false,
-    "vote_average": 7.4,
-    "vote_count": 7278
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg",
-    "genre_ids": [
-      16,
+      10749,
       35,
-      14,
-      12,
-      10751
+      18
     ],
-    "id": 508943,
+    "id": 1254786,
     "original_language": "en",
-    "original_title": "Luca",
-    "overview": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
-    "popularity": 13.5403,
-    "poster_path": "/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg",
-    "release_date": "2021-06-17",
-    "title": "Luca",
+    "original_title": "The Life List",
+    "overview": "When her mother sends her on a quest to complete a teenage bucket list, a young woman uncovers family secrets, finds romance — and rediscovers herself.",
+    "popularity": 13.2244,
+    "poster_path": "/5fg98cVo7da7OIK45csdLSd4NaU.jpg",
+    "release_date": "2025-03-27",
+    "title": "The Life List",
     "video": false,
-    "vote_average": 7.805,
-    "vote_count": 8518
+    "vote_average": 6.856,
+    "vote_count": 367
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/e29oMyfzzlWbhRlCBrzmZhlsw2m.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 121856,
+    "original_language": "en",
+    "original_title": "Assassin's Creed",
+    "overview": "Through a technology that unlocks the generic memories of his ancestor in 15th century Spain, Callum Lynch discovers he is a descendant of an ancient line of Assassins and amasses lethal skills to take on the oppressive Templar Order.",
+    "popularity": 10.511,
+    "poster_path": "/nhiShTvoga8fyGX8468hLj6pCtW.jpg",
+    "release_date": "2016-12-21",
+    "title": "Assassin's Creed",
+    "video": false,
+    "vote_average": 5.43,
+    "vote_count": 7823
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1DBDwevWS8OhiT3wqqlW7KGPd6m.jpg",
+    "genre_ids": [
+      53
+    ],
+    "id": 985939,
+    "original_language": "en",
+    "original_title": "Fall",
+    "overview": "For best friends Becky and Hunter, life is all about conquering fears and pushing limits. But after they climb 2,000 feet to the top of a remote, abandoned radio tower, they find themselves stranded with no way down. Now Becky and Hunter’s expert climbing skills will be put to the ultimate test as they desperately fight to survive the elements, a lack of supplies, and vertigo-inducing heights",
+    "popularity": 14.342,
+    "poster_path": "/v28T5F1IygM8vXWZIycfNEm3xcL.jpg",
+    "release_date": "2022-08-11",
+    "title": "Fall",
+    "video": false,
+    "vote_average": 7.144,
+    "vote_count": 4118
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eD7FnB7LLrBV5ewjdGLYTAoV9Mv.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 245891,
+    "original_language": "en",
+    "original_title": "John Wick",
+    "overview": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+    "popularity": 13.3181,
+    "poster_path": "/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+    "release_date": "2014-10-22",
+    "title": "John Wick",
+    "video": false,
+    "vote_average": 7.444,
+    "vote_count": 19671
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+    "genre_ids": [
+      18,
+      28,
+      36
+    ],
+    "id": 359724,
+    "original_language": "en",
+    "original_title": "Ford v Ferrari",
+    "overview": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
+    "popularity": 12.6712,
+    "poster_path": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+    "release_date": "2019-11-13",
+    "title": "Ford v Ferrari",
+    "video": false,
+    "vote_average": 8.003,
+    "vote_count": 8286
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zh6IdheEYinU4TPtorWsjx6qPQE.jpg",
+    "genre_ids": [
+      878,
+      10749,
+      35
+    ],
+    "id": 792307,
+    "original_language": "en",
+    "original_title": "Poor Things",
+    "overview": "Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+    "popularity": 12.7437,
+    "poster_path": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+    "release_date": "2023-12-07",
+    "title": "Poor Things",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 4722
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ozVwXlfxqNsariipatGwa5px3Pm.jpg",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "id": 240832,
+    "original_language": "en",
+    "original_title": "Lucy",
+    "overview": "A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.",
+    "popularity": 13.2183,
+    "poster_path": "/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg",
+    "release_date": "2014-07-25",
+    "title": "Lucy",
+    "video": false,
+    "vote_average": 6.462,
+    "vote_count": 16309
   }
 ]

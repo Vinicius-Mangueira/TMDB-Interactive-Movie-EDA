@@ -1,264 +1,135 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/hdQcJFEy1GSYzwVOE0VOOAAexs8.jpg",
+    "backdrop_path": "/qgIloYWwLdDBOVeoPUQj6sHkg5s.jpg",
     "genre_ids": [
       27,
-      9648,
-      80
-    ],
-    "id": 176,
-    "original_language": "en",
-    "original_title": "Saw",
-    "overview": "Two men wake up to find themselves shackled in a grimy, abandoned bathroom. As they struggle to comprehend their predicament, they discover a disturbing tape left behind by the sadistic mastermind known as Jigsaw. With a chilling voice and cryptic instructions, Jigsaw informs them that they must partake in a gruesome game in order to secure their freedom.",
-    "popularity": 9.7463,
-    "poster_path": "/4da0TS3iQ1IzuyhDS8elgkmOfrN.jpg",
-    "release_date": "2004-10-01",
-    "title": "Saw",
-    "video": false,
-    "vote_average": 7.419,
-    "vote_count": 9473
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rcEDPOOOUTLFxLLQJggfLffbofe.jpg",
-    "genre_ids": [
-      16,
-      28,
-      14
-    ],
-    "id": 810693,
-    "original_language": "ja",
-    "original_title": "劇場版 呪術廻戦 0",
-    "overview": "Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won't leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. Gojo convinces Yuta to enroll, but can he learn enough in time to confront the curse that haunts him?",
-    "popularity": 9.729,
-    "poster_path": "/23oJaeBh0FDk2mQ2P240PU9Xxfh.jpg",
-    "release_date": "2021-12-24",
-    "title": "Jujutsu Kaisen 0",
-    "video": false,
-    "vote_average": 8.131,
-    "vote_count": 1488
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vabhkZ3vwf8u7yXCSi3zbVzAVRa.jpg",
-    "genre_ids": [
-      80,
-      18,
-      53
-    ],
-    "id": 242582,
-    "original_language": "en",
-    "original_title": "Nightcrawler",
-    "overview": "When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.",
-    "popularity": 9.726,
-    "poster_path": "/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
-    "release_date": "2014-10-23",
-    "title": "Nightcrawler",
-    "video": false,
-    "vote_average": 7.7,
-    "vote_count": 11034
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9ly9pxGwiB6g5lIZXou2HKXl7ua.jpg",
-    "genre_ids": [
-      18,
       53,
-      80
+      18
     ],
-    "id": 64690,
+    "id": 1190462,
     "original_language": "en",
-    "original_title": "Drive",
-    "overview": "Driver is a skilled Hollywood stuntman who moonlights as a getaway driver for criminals. Though he projects an icy exterior, lately he's been warming up to a pretty neighbor named Irene and her young son, Benicio. When Irene's husband gets out of jail, he enlists Driver's help in a million-dollar heist. The job goes horribly wrong, and Driver must risk his life to protect Irene and Benicio from the vengeful masterminds behind the robbery.",
-    "popularity": 9.7158,
-    "poster_path": "/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
-    "release_date": "2011-09-15",
-    "title": "Drive",
+    "original_title": "Breathing In",
+    "overview": "1901, South Africa. As the Second Anglo-Boer War rages on, a wounded General seeks refuge in the small home of a woman and her young daughter. As the hurt man settles in, he begins noticing that something is off about the two women, particularly the daughter, and before long, he’ll learn the real reason for why they’ve invited him and for how they’ve survived on their own for so long.",
+    "popularity": 9.8521,
+    "poster_path": "/yy2dmnBlPhx21GUMUJUPxA9QUFp.jpg",
+    "release_date": "2023-10-18",
+    "title": "Breathing In",
     "video": false,
-    "vote_average": 7.581,
-    "vote_count": 12870
+    "vote_average": 4.969,
+    "vote_count": 16
   },
   {
     "adult": false,
-    "backdrop_path": "/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+    "backdrop_path": "/xaNBpBkONtupAVJqQBIW5EZa7xi.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 996821,
+    "original_language": "en",
+    "original_title": "You're Cordially Invited",
+    "overview": "When two weddings are accidentally booked on the same day at the same venue, each bridal party is challenged with preserving their family's special moment while making the most of the unanticipated tight quarters. In a hilarious battle of determination and grit, the father of the bride and sister of the other bride chaotically go head-to-head as they stop at nothing to uphold an unforgettable celebration for their loved ones.",
+    "popularity": 9.6194,
+    "poster_path": "/muXnwAdVdEEktto0NBNMyqK3uQH.jpg",
+    "release_date": "2025-01-29",
+    "title": "You're Cordially Invited",
+    "video": false,
+    "vote_average": 5.886,
+    "vote_count": 350
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/g1LcYjBXzjqNrGXYTRll1jNRTfb.jpg",
+    "genre_ids": [
+      10751,
+      14,
+      35
+    ],
+    "id": 25694,
+    "original_language": "en",
+    "original_title": "Alice in Wonderland",
+    "overview": "In Victorian England, a bored young girl dreams that she has entered a fantasy world called Wonderland, populated by even more fantastic characters.",
+    "popularity": 7.6202,
+    "poster_path": "/k4hlsqfhEtTrEtiDE647qxTR6PI.jpg",
+    "release_date": "1933-12-18",
+    "title": "Alice in Wonderland",
+    "video": false,
+    "vote_average": 5.983,
+    "vote_count": 59
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aWILNXgq07riueQknYXMvum11jo.jpg",
     "genre_ids": [
       28,
-      12,
-      16,
-      10751
-    ],
-    "id": 260513,
-    "original_language": "en",
-    "original_title": "Incredibles 2",
-    "overview": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.",
-    "popularity": 9.7138,
-    "poster_path": "/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
-    "release_date": "2018-06-14",
-    "title": "Incredibles 2",
-    "video": false,
-    "vote_average": 7.454,
-    "vote_count": 13054
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zGHdS1eLaU5wdYCJ6vY9QfQGCTo.jpg",
-    "genre_ids": [
-      878,
-      28,
-      12,
       53
     ],
-    "id": 346910,
+    "id": 1081012,
     "original_language": "en",
-    "original_title": "The Predator",
-    "overview": "When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled scientist can prevent the end of the human race.",
-    "popularity": 9.7133,
-    "poster_path": "/a3eWGF6YPF7No5Rbtjc8QpDvz7l.jpg",
-    "release_date": "2018-09-05",
-    "title": "The Predator",
+    "original_title": "Aftermath",
+    "overview": "A returning war veteran, stricken with PTSD, gets trapped with his teenage sister on Boston's Tobin Memorial Bridge when a heavily armed group of ex-military revolutionaries take everyone hostage.",
+    "popularity": 9.5815,
+    "poster_path": "/v9knhuvYKwMUAta6fltNOuun3zF.jpg",
+    "release_date": "2024-09-27",
+    "title": "Aftermath",
     "video": false,
-    "vote_average": 5.631,
-    "vote_count": 4788
+    "vote_average": 6.248,
+    "vote_count": 137
   },
   {
     "adult": false,
-    "backdrop_path": "/3oqmk6mNWPatBKcjOOJLp5WW9zN.jpg",
+    "backdrop_path": "/P3GAbRjzVo9RKU4WxzvtgwlITc.jpg",
     "genre_ids": [
-      27,
-      53
-    ],
-    "id": 758323,
-    "original_language": "en",
-    "original_title": "The Pope's Exorcist",
-    "overview": "Father Gabriele Amorth, Chief Exorcist of the Vatican, investigates a young boy's terrifying possession and ends up uncovering a centuries-old conspiracy the Vatican has desperately tried to keep hidden.",
-    "popularity": 9.6995,
-    "poster_path": "/jFC4LS5qTAT3PinzdEzINfu1CV9.jpg",
-    "release_date": "2023-04-05",
-    "title": "The Pope's Exorcist",
-    "video": false,
-    "vote_average": 6.958,
-    "vote_count": 2876
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/uvitbjFU4JqvMwIkMWHp69bmUzG.jpg",
-    "genre_ids": [
-      18,
-      80
-    ],
-    "id": 598,
-    "original_language": "pt",
-    "original_title": "Cidade de Deus",
-    "overview": "In the poverty-stricken favelas of Rio de Janeiro in the 1970s, two young men choose different paths. Rocket is a budding photographer who documents the increasing drug-related violence of his neighborhood, while José “Zé” Pequeno is an ambitious drug dealer diving into a dangerous life of crime.",
-    "popularity": 9.6873,
-    "poster_path": "/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
-    "release_date": "2002-08-30",
-    "title": "City of God",
-    "video": false,
-    "vote_average": 8.428,
-    "vote_count": 7629
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg",
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "id": 142,
-    "original_language": "en",
-    "original_title": "Brokeback Mountain",
-    "overview": "In 1960s Wyoming, two men develop a strong emotional and sexual relationship that endures as a lifelong connection complicating their lives as they get married and start families of their own.",
-    "popularity": 9.682,
-    "poster_path": "/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
-    "release_date": "2005-10-22",
-    "title": "Brokeback Mountain",
-    "video": false,
-    "vote_average": 7.784,
-    "vote_count": 7146
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/iKqItVltY6r0eJeIRdIZV8IrBpz.jpg",
-    "genre_ids": [
-      28,
-      10752,
-      53
-    ],
-    "id": 969492,
-    "original_language": "en",
-    "original_title": "Land of Bad",
-    "overview": "When a Delta Force special ops mission goes terribly wrong, Air Force drone pilot Reaper has 48 hours to remedy what has devolved into a wild rescue operation. With no weapons and no communication other than the drone above, the ground mission suddenly becomes a full-scale battle when the team is discovered by the enemy.",
-    "popularity": 9.6685,
-    "poster_path": "/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg",
-    "release_date": "2024-02-09",
-    "title": "Land of Bad",
-    "video": false,
-    "vote_average": 7.258,
-    "vote_count": 1262
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/dJwclPgKPnV7hX3OSlvSBiCmuvB.jpg",
-    "genre_ids": [
-      16,
       28,
       18
     ],
-    "id": 1104844,
-    "original_language": "ja",
-    "original_title": "劇場版ブルーロック -EPISODE 凪-",
-    "overview": "When apathetic gamer Nagi agrees to join his rich classmate Mikage in soccer, their partnership leads to the famous Blue Lock program — and to changes.",
-    "popularity": 9.654,
-    "poster_path": "/ae434jM5NG2kKX1rRkG5giMhpPI.jpg",
-    "release_date": "2024-04-19",
-    "title": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+    "id": 678512,
+    "original_language": "en",
+    "original_title": "Sound of Freedom",
+    "overview": "The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.",
+    "popularity": 8.6864,
+    "poster_path": "/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
+    "release_date": "2023-07-03",
+    "title": "Sound of Freedom",
     "video": false,
-    "vote_average": 7.413,
-    "vote_count": 190
+    "vote_average": 7.991,
+    "vote_count": 2540
   },
   {
     "adult": false,
-    "backdrop_path": "/7t7IQhdA5rO8jhinE3ig258hqlf.jpg",
+    "backdrop_path": "/z4nGKYC1aj2qy5fEKYiZQsdrEPB.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1144932,
+    "original_language": "en",
+    "original_title": "Queen of the Ring",
+    "overview": "In a time when pro wrestling for women was illegal all over the country, a small town single mother embraces the danger to change culture as she dominates America's most masculine sport to become the first million dollar female athlete in history.",
+    "popularity": 9.6848,
+    "poster_path": "/o5ugZxTNHFFm1gAt4eYJbFVKsBK.jpg",
+    "release_date": "2025-03-07",
+    "title": "Queen of the Ring",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 11
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zzK0HDEswyhHFDFWlPz6HdgXKH5.jpg",
     "genre_ids": [
       10749,
-      35,
-      14,
-      27
+      18
     ],
-    "id": 988402,
-    "original_language": "fr",
-    "original_title": "Vampire humaniste cherche suicidaire consentant",
-    "overview": "Sasha is a young vampire with a serious problem: she's too sensitive to kill. When her exasperated parents cut off her blood supply, Sasha's life is in jeopardy. Luckily, she meets Paul, a lonely teenager with suicidal tendencies who is willing to give his life to save hers. But their friendly agreement soon becomes a nocturnal quest to fulfill Paul's last wishes before day breaks.",
-    "popularity": 9.6539,
-    "poster_path": "/m5OItLBY5T38ew1YI4VSIXjl5G2.jpg",
-    "release_date": "2023-10-13",
-    "title": "Humanist Vampire Seeking Consenting Suicidal Person",
-    "video": false,
-    "vote_average": 7.396,
-    "vote_count": 268
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7dp5f7YPNBSuDJ1F2ae96eCzuSU.jpg",
-    "genre_ids": [
-      16,
-      35,
-      10751,
-      37,
-      12
-    ],
-    "id": 44896,
+    "id": 820525,
     "original_language": "en",
-    "original_title": "Rango",
-    "overview": "When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging town of Dirt, the less-than-courageous lizard suddenly finds he stands out. Welcomed as the last hope the town has been waiting for, new Sheriff Rango is forced to play his new role to the hilt.",
-    "popularity": 9.6396,
-    "poster_path": "/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
-    "release_date": "2011-03-02",
-    "title": "Rango",
+    "original_title": "After Everything",
+    "overview": "Besieged by writer’s block and the crushing breakup with Tessa, Hardin travels to Portugal in search of a woman he wronged in the past – and to find himself. Hoping to win back Tessa, he realizes he needs to change his ways before he can make the ultimate commitment.",
+    "popularity": 9.4468,
+    "poster_path": "/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg",
+    "release_date": "2023-09-13",
+    "title": "After Everything",
     "video": false,
-    "vote_average": 6.9,
-    "vote_count": 6665
+    "vote_average": 6.901,
+    "vote_count": 920
   }
 ]

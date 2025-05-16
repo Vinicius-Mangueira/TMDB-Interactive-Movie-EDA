@@ -1,220 +1,216 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/i4ZougHEyBAboDpi6jsaTUDTjUl.jpg",
+    "backdrop_path": "/jJJQ1PPXUEchqyZ9YyWzgSNU39Z.jpg",
     "genre_ids": [
-      14,
-      53,
+      80,
       28,
-      12,
-      27
-    ],
-    "id": 282035,
-    "original_language": "en",
-    "original_title": "The Mummy",
-    "overview": "Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.",
-    "popularity": 9.8587,
-    "poster_path": "/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg",
-    "release_date": "2017-06-06",
-    "title": "The Mummy",
-    "video": false,
-    "vote_average": 5.517,
-    "vote_count": 7316
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/u8VBaEESHAAc5tDWFc8IjXHw1eC.jpg",
-    "genre_ids": [
-      35,
-      18,
-      10749
-    ],
-    "id": 936621,
-    "original_language": "ko",
-    "original_title": "물오징어6969",
-    "overview": "Three married women had always been dissatisfied sexually with their husbands, and Hyoji, who recently divorced due to her husband's erectile dysfunction. They gathered after a long time and had a drink complaining to each other, and they received a business card from an unidentified handsome man, saying, \"Don't you want to play tteok pounding game?\" The four of them head to the meeting place and meet suspicious agents who were waiting for them.",
-    "popularity": 9.3554,
-    "poster_path": "/dgSR6qBiQSqaa9QfSMiODAEOF3O.jpg",
-    "release_date": "2022-01-27",
-    "title": "Sex Game 6969",
-    "video": false,
-    "vote_average": 6.17,
-    "vote_count": 44
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7ZP8HtgOIDaBs12krXgUIygqEsy.jpg",
-    "genre_ids": [
-      878,
-      28,
-      14,
-      12
-    ],
-    "id": 601796,
-    "original_language": "ko",
-    "original_title": "외계+인 1부",
-    "overview": "Gurus in the late Goryeo dynasty try to obtain a fabled, holy sword, and humans in 2022 hunt down an alien prisoner that is locked in a human's body. The two parties cross paths when a time-traveling portal opens up.",
-    "popularity": 9.8481,
-    "poster_path": "/8QVDXDiOGHRcAD4oM6MXjE0osSj.jpg",
-    "release_date": "2022-07-20",
-    "title": "Alienoid",
-    "video": false,
-    "vote_average": 6.843,
-    "vote_count": 470
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cqnVuxXe6vA7wfNWubak3x36DKJ.jpg",
-    "genre_ids": [
-      28,
-      12,
-      14
-    ],
-    "id": 639933,
-    "original_language": "en",
-    "original_title": "The Northman",
-    "overview": "Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy's mother. Two decades later, Amleth is now a Viking who's on a mission to save his mother, kill his uncle and avenge his father.",
-    "popularity": 9.8461,
-    "poster_path": "/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
-    "release_date": "2022-04-07",
-    "title": "The Northman",
-    "video": false,
-    "vote_average": 7.049,
-    "vote_count": 4533
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1EGJSlQsUxh6M1FfUEDby10mZ5q.jpg",
-    "genre_ids": [
-      16,
-      18,
-      10749
-    ],
-    "id": 21057,
-    "original_language": "ja",
-    "original_title": "海がきこえる",
-    "overview": "At Kichijōji Station, Tokyo, Taku Morisaki glimpses a familiar woman on the platform opposite boarding a train. Later, her photo falls from a shelf as he exits his apartment before flying to Kōchi Prefecture. Picking it up, he looks at it briefly before leaving. As the aeroplane takes off, he narrates the events that brought her into his life...",
-    "popularity": 9.8338,
-    "poster_path": "/fSR1LLMIJZ6WcQEkM82yKy4F9vQ.jpg",
-    "release_date": "1993-10-09",
-    "title": "Ocean Waves",
-    "video": false,
-    "vote_average": 6.4,
-    "vote_count": 903
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/lrNKm3HNvGdZoAfiBKu7b04FLHN.jpg",
-    "genre_ids": [
-      18
-    ],
-    "id": 316029,
-    "original_language": "en",
-    "original_title": "The Greatest Showman",
-    "overview": "The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.",
-    "popularity": 9.8126,
-    "poster_path": "/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
-    "release_date": "2017-12-20",
-    "title": "The Greatest Showman",
-    "video": false,
-    "vote_average": 7.877,
-    "vote_count": 9618
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/6aNKD81RHR1DqUUa8kOZ1TBY1Lp.jpg",
-    "genre_ids": [
-      35,
-      18
-    ],
-    "id": 637,
-    "original_language": "it",
-    "original_title": "La vita è bella",
-    "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
-    "popularity": 9.7833,
-    "poster_path": "/74hLDKjD5aGYOotO6esUVaeISa2.jpg",
-    "release_date": "1997-12-20",
-    "title": "Life Is Beautiful",
-    "video": false,
-    "vote_average": 8.448,
-    "vote_count": 13358
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/oihWVx3imvRKujnGmSDYhfG1gI5.jpg",
-    "genre_ids": [
-      35,
-      27
-    ],
-    "id": 19908,
-    "original_language": "en",
-    "original_title": "Zombieland",
-    "overview": "Columbus has made a habit of running from what scares him. Tallahassee doesn't have fears. If he did, he'd kick their ever-living ass. In a world overrun by zombies, these two are perfectly evolved survivors. But now, they're about to stare down the most terrifying prospect of all: each other.",
-    "popularity": 9.7724,
-    "poster_path": "/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg",
-    "release_date": "2009-10-02",
-    "title": "Zombieland",
-    "video": false,
-    "vote_average": 7.26,
-    "vote_count": 12501
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/sIZQA3FrXdVR5E6M3ctrAqitiQS.jpg",
-    "genre_ids": [
-      18,
-      10752,
-      36
-    ],
-    "id": 14574,
-    "original_language": "en",
-    "original_title": "The Boy in the Striped Pyjamas",
-    "overview": "When his family moves from their home in Berlin to a strange new house in Poland, young Bruno befriends Shmuel, a boy who lives on the other side of the fence where everyone seems to be wearing striped pajamas. Unaware of Shmuel's fate as a Jewish prisoner or the role his own Nazi father plays in his imprisonment, Bruno embarks on a dangerous journey inside the camp's walls.",
-    "popularity": 9.7719,
-    "poster_path": "/sLwYSEVVV3r047cjrpRAbGgNsfL.jpg",
-    "release_date": "2008-05-07",
-    "title": "The Boy in the Striped Pyjamas",
-    "video": false,
-    "vote_average": 7.827,
-    "vote_count": 7324
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/krYelh3x8VdSeAqOSd81NTek1aw.jpg",
-    "genre_ids": [
-      18,
-      80
-    ],
-    "id": 1607,
-    "original_language": "en",
-    "original_title": "A Bronx Tale",
-    "overview": "Set in the Bronx during the tumultuous 1960s, an adolescent boy is torn between his honest, working-class father and a violent yet charismatic crime boss. Complicating matters is the youngster's growing attraction - forbidden in his neighborhood - for a beautiful black girl.",
-    "popularity": 9.7584,
-    "poster_path": "/sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg",
-    "release_date": "1993-10-01",
-    "title": "A Bronx Tale",
-    "video": false,
-    "vote_average": 7.874,
-    "vote_count": 2602
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3tkDMNfM2YuIAJlvGO6rfIzAnfG.jpg",
-    "genre_ids": [
-      18,
-      878,
       53
     ],
-    "id": 619264,
-    "original_language": "es",
-    "original_title": "El hoyo",
-    "overview": "A slab of food descends down a vertical facility. The residents above eat heartily, leaving those below starving and desperate. A rebellion is imminent.",
-    "popularity": 9.7499,
-    "poster_path": "/iXvQnzy6JCAx1PiQEKXuTY04ZHl.jpg",
-    "release_date": "2019-11-08",
-    "title": "The Platform",
+    "id": 581528,
+    "original_language": "ko",
+    "original_title": "악인전",
+    "overview": "After barely surviving a brutal attack by a sadistic serial killer, crime boss Jang Dong-su is left humiliated. Determined to catch the killer known as K, he forms an uneasy alliance with Jung Tae-seok, a relentless and incorruptible detective who often disrupts his illegal business. However, while Jang Dong-su wants K dead, Jung Tae-suk is determined to bring him to justice. With a deal in place—whoever finds K first will decide his fate—the hunt begins, blurring the lines between crime and law.",
+    "popularity": 9.1883,
+    "poster_path": "/oHlM4abRm6BzrRcz9Nup1uidw9H.jpg",
+    "release_date": "2019-05-15",
+    "title": "The Gangster, the Cop, the Devil",
     "video": false,
-    "vote_average": 6.966,
-    "vote_count": 7351
+    "vote_average": 7.839,
+    "vote_count": 1279
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kQ35sVT8EBlsX9yilHi1zP4jd3l.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 1226572,
+    "original_language": "hi",
+    "original_title": "सुपरबॉय्ज़ ऑफ मालेगाँव",
+    "overview": "The residents of Malegaon look to Bollywood cinema for a much-needed escape from daily drudgery. Amateur filmmaker Nasir Shaikh gets inspired to make a film for the people of Malegaon, by the people of Malegaon. He bands together his ragtag group of friends to bring his vision to life, thereby bringing a fresh lease of life into the town.",
+    "popularity": 8.255,
+    "poster_path": "/l5PDjfWpC9uY5HdF5cbsJ4wjqoq.jpg",
+    "release_date": "2025-02-27",
+    "title": "Superboys of Malegaon",
+    "video": false,
+    "vote_average": 7.775,
+    "vote_count": 20
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uL5DoOuMho1QY7OK5IqacYH9QHK.jpg",
+    "genre_ids": [
+      12,
+      28,
+      53,
+      878
+    ],
+    "id": 9659,
+    "original_language": "en",
+    "original_title": "Mad Max",
+    "overview": "In the ravaged near-future, a savage motorcycle gang rules the road. Terrorizing innocent civilians while tearing up the streets, the ruthless gang laughs in the face of a police force hell-bent on stopping them.",
+    "popularity": 9.8764,
+    "poster_path": "/5LrI4GiCSrChgkdskVZiwv643Kg.jpg",
+    "release_date": "1979-04-12",
+    "title": "Mad Max",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 4585
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iC799S3B73BqVTWj10huKoj84eV.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 334543,
+    "original_language": "en",
+    "original_title": "Lion",
+    "overview": "A five-year-old Indian boy gets lost on the streets of Calcutta, thousands of kilometers from home. He survives many challenges before being adopted by a couple in Australia; 25 years later, he sets out to find his lost family.",
+    "popularity": 8.8952,
+    "poster_path": "/iBGRbLvg6kVc7wbS8wDdVHq6otm.jpg",
+    "release_date": "2016-11-24",
+    "title": "Lion",
+    "video": false,
+    "vote_average": 8.047,
+    "vote_count": 6692
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
+    "genre_ids": [
+      28,
+      80,
+      53
+    ],
+    "id": 273481,
+    "original_language": "en",
+    "original_title": "Sicario",
+    "overview": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+    "popularity": 11.2309,
+    "poster_path": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+    "release_date": "2015-09-17",
+    "title": "Sicario",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 8887
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/egyi9TQjLhNEQuEsK1dXovdHOHL.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 509,
+    "original_language": "en",
+    "original_title": "Notting Hill",
+    "overview": "London bookstore owner William Thacker's quiet life turns upside down when a chance encounter with famous actress Anna Scott sparks an unlikely romance challenged by their vastly different worlds.",
+    "popularity": 8.8265,
+    "poster_path": "/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg",
+    "release_date": "1999-05-21",
+    "title": "Notting Hill",
+    "video": false,
+    "vote_average": 7.263,
+    "vote_count": 6288
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/djPXXv9pPyTLGl9kMPCTyiBmIA5.jpg",
+    "genre_ids": [
+      37,
+      28
+    ],
+    "id": 11969,
+    "original_language": "en",
+    "original_title": "Tombstone",
+    "overview": "Legendary marshal Wyatt Earp, now a weary gunfighter, joins his brothers Morgan and Virgil to pursue their collective fortune in the thriving mining town of Tombstone. But Earp is forced to don a badge again and get help from his notorious pal Doc Holliday when a gang of renegade brigands and rustlers begins terrorizing the town.",
+    "popularity": 9.0223,
+    "poster_path": "/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
+    "release_date": "1993-12-25",
+    "title": "Tombstone",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 2216
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xHDynIimfsgj0ZOs0j5ma8v1vmM.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 120467,
+    "original_language": "en",
+    "original_title": "The Grand Budapest Hotel",
+    "overview": "The Grand Budapest Hotel tells of a legendary concierge at a famous European hotel between the wars and his friendship with a young employee who becomes his trusted protégé. The story involves the theft and recovery of a priceless Renaissance painting, the battle for an enormous family fortune and the slow and then sudden upheavals that transformed Europe during the first half of the 20th century.",
+    "popularity": 9.245,
+    "poster_path": "/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+    "release_date": "2014-02-26",
+    "title": "The Grand Budapest Hotel",
+    "video": false,
+    "vote_average": 8.042,
+    "vote_count": 15160
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zRQITMLvVi8z2Xz12Bi6wvbZE82.jpg",
+    "genre_ids": [
+      35,
+      28,
+      14
+    ],
+    "id": 594767,
+    "original_language": "en",
+    "original_title": "Shazam! Fury of the Gods",
+    "overview": "Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+    "popularity": 8.8349,
+    "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
+    "release_date": "2023-03-15",
+    "title": "Shazam! Fury of the Gods",
+    "video": false,
+    "vote_average": 6.48,
+    "vote_count": 3301
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/obiRaOMHKnRai2edJG8cIHK6qkR.jpg",
+    "genre_ids": [
+      18,
+      35,
+      53
+    ],
+    "id": 930564,
+    "original_language": "en",
+    "original_title": "Saltburn",
+    "overview": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
+    "popularity": 9.476,
+    "poster_path": "/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
+    "release_date": "2023-11-16",
+    "title": "Saltburn",
+    "video": false,
+    "vote_average": 6.986,
+    "vote_count": 2516
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5i6SjyDbDWqyun8klUuCxrlFbyw.jpg",
+    "genre_ids": [
+      18,
+      28
+    ],
+    "id": 677179,
+    "original_language": "en",
+    "original_title": "Creed III",
+    "overview": "After dominating the boxing world, Adonis Creed has thrived in his career and family life. When a childhood friend and former boxing prodigy, Damian Anderson, resurfaces after serving a long sentence in prison, he is eager to prove that he deserves his shot in the ring. The face-off between former friends is more than just a fight. To settle the score, Adonis must put his future on the line to battle Damian — a fighter with nothing to lose.",
+    "popularity": 8.9177,
+    "poster_path": "/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
+    "release_date": "2023-03-01",
+    "title": "Creed III",
+    "video": false,
+    "vote_average": 7.112,
+    "vote_count": 2631
   }
 ]

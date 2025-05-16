@@ -1,255 +1,160 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/7mHeyU0a538bgguOeF57I8ZroSk.jpg",
-    "genre_ids": [
-      28,
-      53
-    ],
-    "id": 324668,
-    "original_language": "en",
-    "original_title": "Jason Bourne",
-    "overview": "The most dangerous former operative of the CIA is drawn out of hiding to uncover hidden truths about his past.",
-    "popularity": 12.1511,
-    "poster_path": "/ziU0b3hRM6raH1u4wym02EYMLZ6.jpg",
-    "release_date": "2016-07-27",
-    "title": "Jason Bourne",
-    "video": false,
-    "vote_average": 6.363,
-    "vote_count": 5826
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/msgutegakwajb9vjC3Xgh4t7e0M.jpg",
-    "genre_ids": [
-      28,
-      18,
-      53
-    ],
-    "id": 348893,
-    "original_language": "en",
-    "original_title": "Boyka: Undisputed IV",
-    "overview": "In the fourth installment of the fighting franchise, Boyka is shooting for the big leagues when an accidental death in the ring makes him question everything he stands for. When he finds out the wife of the man he accidentally killed is in trouble, Boyka offers to fight in a series of impossible battles to free her from a life of servitude.",
-    "popularity": 12.1268,
-    "poster_path": "/7QGdIJWWTkPhVjpQ0zA6z69khod.jpg",
-    "release_date": "2016-08-01",
-    "title": "Boyka: Undisputed IV",
-    "video": false,
-    "vote_average": 7.15,
-    "vote_count": 1364
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/u5JKxjMuKk0dVXqmS4e4gHo8pfg.jpg",
-    "genre_ids": [
-      878,
-      53
-    ],
-    "id": 206487,
-    "original_language": "en",
-    "original_title": "Predestination",
-    "overview": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
-    "popularity": 12.1196,
-    "poster_path": "/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
-    "release_date": "2014-08-28",
-    "title": "Predestination",
-    "video": false,
-    "vote_average": 7.424,
-    "vote_count": 6622
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zQKFPx03M9RKfEcRETXR2HoUZn1.jpg",
-    "genre_ids": [
-      10749
-    ],
-    "id": 587727,
-    "original_language": "ko",
-    "original_title": "가슴 큰 여자친구",
-    "overview": "Mincheol and Suhee go to greet Minchul father (grandmother) before marriage. Dae - sik welcomes her daughter - in - law, Su - hee. But before marriage, Minchol and Suhee are separated by the difference in personality. Soon-hee, who was only preparing for marriage, is soon to live.",
-    "popularity": 12.0709,
-    "poster_path": "/f6PfAXtFEkJRcBtOjbzOgz8qqSK.jpg",
-    "release_date": "2019-03-08",
-    "title": "Busty Girlfriend",
-    "video": false,
-    "vote_average": 7.3,
-    "vote_count": 32
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/tXJwsqVttZBTuuTI9iG2SilfOJT.jpg",
-    "genre_ids": [
-      99
-    ],
-    "id": 1457124,
-    "original_language": "en",
-    "original_title": "Titanic: The Digital Resurrection",
-    "overview": "Using cutting-edge scanning technology and state-of-the-art CGI, a team of experts creates the first high-resolution 3D digital twin of the Titanic wreck. Through a groundbreaking immersive investigation, they uncover the ship’s final moments, shedding light on the acts of heroism and cowardice aboard—and revealing the true story behind the sinking of the “unsinkable” ship.",
-    "popularity": 12.0704,
-    "poster_path": "/mJNpxvtUNRVOfhFwukNewSf3gkf.jpg",
-    "release_date": "2025-04-12",
-    "title": "Titanic: The Digital Resurrection",
-    "video": false,
-    "vote_average": 7.974,
-    "vote_count": 19
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/iSbgsxHTN6q3YA34DAoQtXw5oIv.jpg",
+    "backdrop_path": "/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
     "genre_ids": [
       18,
-      10749
+      36
     ],
-    "id": 1127227,
-    "original_language": "tl",
-    "original_title": "Tayuan",
-    "overview": "Ella, an events project manager, usually takes a private transportation service. However, she is forced to take a bus, where bus conductor Rico becomes aroused when her body gets pressed into him due to the thick crowd.  This encounter deeply affects Ella, and from that night on, she starts pursuing Rico. Even after discovering that Rico already has a live-in partner and a daughter, Ella doesn’t care at all and she’ll do anything to make him want her just as much.",
-    "popularity": 12.0641,
-    "poster_path": "/5eX2JxR8djmoPBQhU0327uehqBf.jpg",
-    "release_date": "2023-06-23",
-    "title": "Tayuan",
+    "id": 381284,
+    "original_language": "en",
+    "original_title": "Hidden Figures",
+    "overview": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson – brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history – the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.",
+    "popularity": 11.8302,
+    "poster_path": "/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+    "release_date": "2016-12-10",
+    "title": "Hidden Figures",
     "video": false,
-    "vote_average": 6.0,
-    "vote_count": 11
+    "vote_average": 8.055,
+    "vote_count": 9944
   },
   {
     "adult": false,
-    "backdrop_path": "/iVped1djsF0tvGkvnHbzsE3ZPTF.jpg",
+    "backdrop_path": "/zTxHf9iIOCqRbxvl8W5QYKrsMLq.jpg",
     "genre_ids": [
-      28,
       12,
-      878
-    ],
-    "id": 68721,
-    "original_language": "en",
-    "original_title": "Iron Man 3",
-    "overview": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
-    "popularity": 12.0448,
-    "poster_path": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
-    "release_date": "2013-04-18",
-    "title": "Iron Man 3",
-    "video": false,
-    "vote_average": 6.93,
-    "vote_count": 22540
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7QabKu8tizoqy8qCZJXljdSpP4A.jpg",
-    "genre_ids": [
-      16,
       35,
-      10751,
-      12,
       14
     ],
-    "id": 585083,
+    "id": 512200,
     "original_language": "en",
-    "original_title": "Hotel Transylvania: Transformania",
-    "overview": "When Van Helsing's mysterious invention, the \"Monsterfication Ray,\" goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac and Johnny must team up and race across the globe to find a cure before it's too late, and before they drive each other crazy.",
-    "popularity": 12.0432,
-    "poster_path": "/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg",
-    "release_date": "2022-01-31",
-    "title": "Hotel Transylvania: Transformania",
+    "original_title": "Jumanji: The Next Level",
+    "overview": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
+    "popularity": 11.527,
+    "poster_path": "/4kh9dxAiClS2GMUpkRyzGwpNWWX.jpg",
+    "release_date": "2019-12-04",
+    "title": "Jumanji: The Next Level",
     "video": false,
-    "vote_average": 7.072,
-    "vote_count": 2853
+    "vote_average": 6.895,
+    "vote_count": 8876
   },
   {
     "adult": false,
-    "backdrop_path": "/gN0eu6s2qIzsHgznnsgMIfbPw3u.jpg",
+    "backdrop_path": "/dVr11o9or7AS8AMPfwjSpEU83iU.jpg",
+    "genre_ids": [
+      18,
+      10752
+    ],
+    "id": 423,
+    "original_language": "en",
+    "original_title": "The Pianist",
+    "overview": "The true story of pianist Władysław Szpilman's experiences in Warsaw during the Nazi occupation. When the Jews of the city find themselves forced into a ghetto, Szpilman finds work playing in a café; and when his family is deported in 1942, he stays behind, works for a while as a laborer, and eventually goes into hiding in the ruins of the war-torn city.",
+    "popularity": 11.4259,
+    "poster_path": "/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+    "release_date": "2002-09-17",
+    "title": "The Pianist",
+    "video": false,
+    "vote_average": 8.379,
+    "vote_count": 9514
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg",
+    "genre_ids": [
+      80,
+      18,
+      36
+    ],
+    "id": 398978,
+    "original_language": "en",
+    "original_title": "The Irishman",
+    "overview": "Pennsylvania, 1956. Frank Sheeran, a war veteran of Irish origin who works as a truck driver, accidentally meets mobster Russell Bufalino. Once Frank becomes his trusted man, Bufalino sends him to Chicago with the task of helping Jimmy Hoffa, a powerful union leader related to organized crime, with whom Frank will maintain a close friendship for nearly twenty years.",
+    "popularity": 11.137,
+    "poster_path": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+    "release_date": "2019-11-01",
+    "title": "The Irishman",
+    "video": false,
+    "vote_average": 7.592,
+    "vote_count": 7026
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4JNggqfyJWREqb0enzpUMbvIniV.jpg",
     "genre_ids": [
       16,
-      18,
       10751,
+      35,
       14
     ],
-    "id": 1181107,
+    "id": 508442,
     "original_language": "en",
-    "original_title": "The King of Kings",
-    "overview": "Charles Dickens tells his young son Walter the greatest story ever told, and what begins as a bedtime tale becomes a life-changing journey. Through vivid imagination, the boy walks alongside Jesus, witnessing His miracles, facing His trials, and understanding His ultimate sacrifice.",
-    "popularity": 12.0398,
-    "poster_path": "/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg",
-    "release_date": "2025-04-07",
-    "title": "The King of Kings",
+    "original_title": "Soul",
+    "overview": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful audition at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+    "popularity": 11.5981,
+    "poster_path": "/pEz5aROvfy5FBW1OTlrDO3VryWO.jpg",
+    "release_date": "2020-12-25",
+    "title": "Soul",
     "video": false,
-    "vote_average": 7.786,
-    "vote_count": 21
+    "vote_average": 8.109,
+    "vote_count": 10757
   },
   {
     "adult": false,
-    "backdrop_path": "/35z8hWuzfFUZQaYog8E9LsXW3iI.jpg",
-    "genre_ids": [
-      12,
-      28
-    ],
-    "id": 335977,
-    "original_language": "en",
-    "original_title": "Indiana Jones and the Dial of Destiny",
-    "overview": "Finding himself in a new era, and approaching retirement, Indy wrestles with fitting into a world that seems to have outgrown him. But as the tentacles of an all-too-familiar evil return in the form of an old rival, Indy must don his hat and pick up his whip once more to make sure an ancient and powerful artifact doesn't fall into the wrong hands.",
-    "popularity": 12.0393,
-    "poster_path": "/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
-    "release_date": "2023-06-25",
-    "title": "Indiana Jones and the Dial of Destiny",
-    "video": false,
-    "vote_average": 6.555,
-    "vote_count": 3647
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9YRKhVQx174hQn35f8k1MWKLAFQ.jpg",
+    "backdrop_path": "/gg4zZoTggZmpAQ32qIrP5dtnkEZ.jpg",
     "genre_ids": [
       28,
-      35,
+      53,
       80
     ],
-    "id": 2109,
+    "id": 891699,
     "original_language": "en",
-    "original_title": "Rush Hour",
-    "overview": "When Hong Kong Inspector Lee is summoned to Los Angeles to investigate a kidnapping, the FBI doesn't want any outside help and assigns cocky LAPD Detective James Carter to distract Lee from the case. Not content to watch the action from the sidelines, Lee and Carter form an unlikely partnership and investigate the case themselves.",
-    "popularity": 12.0328,
-    "poster_path": "/3WsLE6FtxEPRa6U9sbY1ckrn39s.jpg",
-    "release_date": "1998-09-18",
-    "title": "Rush Hour",
+    "original_title": "Silent Night",
+    "overview": "A tormented father witnesses his young son die when caught in a gang's crossfire on Christmas Eve. While recovering from a wound that costs him his voice, he makes vengeance his life's mission and embarks on a punishing training regimen in order to avenge his son's death.",
+    "popularity": 10.463,
+    "poster_path": "/tlcuhdNMKNGEVpGqBZrAaOOf1A6.jpg",
+    "release_date": "2023-11-30",
+    "title": "Silent Night",
     "video": false,
-    "vote_average": 7.045,
-    "vote_count": 5159
+    "vote_average": 6.203,
+    "vote_count": 817
   },
   {
     "adult": false,
-    "backdrop_path": "/69EFgWWPFWbRNHmQgYdSnyJ94Ge.jpg",
+    "backdrop_path": "/rcY15o06DwI8Agt9lh6i5Ruv6QJ.jpg",
     "genre_ids": [
-      28,
-      12,
-      878
+      878,
+      12
     ],
-    "id": 49521,
+    "id": 2157,
     "original_language": "en",
-    "original_title": "Man of Steel",
-    "overview": "A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.",
-    "popularity": 12.0162,
-    "poster_path": "/dksTL9NXc3GqPBRHYHcy1aIwjS.jpg",
-    "release_date": "2013-06-12",
-    "title": "Man of Steel",
+    "original_title": "Lost in Space",
+    "overview": "The prospects for continuing life on Earth in the year 2058 are grim. So the Robinsons are launched into space to colonize Alpha Prime, the only other inhabitable planet in the galaxy. But when a stowaway sabotages the mission, the Robinsons find themselves hurtling through uncharted space.",
+    "popularity": 9.4705,
+    "poster_path": "/fCocPDUFuKswY2GxDdfYsT9BXMd.jpg",
+    "release_date": "1998-04-03",
+    "title": "Lost in Space",
     "video": false,
-    "vote_average": 6.632,
-    "vote_count": 15403
+    "vote_average": 5.4,
+    "vote_count": 1229
   },
   {
     "adult": false,
-    "backdrop_path": "/dcyPj11c00lOhMESAVWtJKzlHt4.jpg",
+    "backdrop_path": "/747dgDfL5d8esobk7h4odaOFhUq.jpg",
     "genre_ids": [
-      18
+      80,
+      18,
+      53
     ],
-    "id": 250538,
+    "id": 275,
     "original_language": "en",
-    "original_title": "The Good Lie",
-    "overview": "A young refugee of the Sudanese Civil War who wins a lottery for relocation to the United States with three other lost boys. Encountering the modern world for the first time, they develop an unlikely friendship with a brash American woman assigned to help them, but the young man struggles to adjust to this new life and his feelings of guilt about the brother he left behind.",
-    "popularity": 12.0149,
-    "poster_path": "/yAhoeIwwtPxJ7uf9HLIMHIqWFnL.jpg",
-    "release_date": "2014-09-10",
-    "title": "The Good Lie",
+    "original_title": "Fargo",
+    "overview": "Jerry, a small-town Minnesota car salesman is bursting at the seams with debt... but he's got a plan. He's going to hire two thugs to kidnap his wife in a scheme to collect a hefty ransom from his wealthy father-in-law. It's going to be a snap and nobody's going to get hurt... until people start dying. Enter Police Chief Marge, a coffee-drinking, parka-wearing - and extremely pregnant - investigator who'll stop at nothing to get her man. And if you think her small-time investigative skills will give the crooks a run for their ransom... you betcha!",
+    "popularity": 10.7983,
+    "poster_path": "/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+    "release_date": "1996-03-08",
+    "title": "Fargo",
     "video": false,
-    "vote_average": 7.339,
-    "vote_count": 514
+    "vote_average": 7.855,
+    "vote_count": 8378
   }
 ]

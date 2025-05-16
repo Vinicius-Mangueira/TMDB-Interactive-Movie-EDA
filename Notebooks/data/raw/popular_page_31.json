@@ -1,139 +1,238 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/7QDWTqSGqI2Q5dOBtvT64MOhmwJ.jpg",
+    "backdrop_path": "/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg",
     "genre_ids": [
+      28,
       35,
-      10749
+      53
     ],
-    "id": 930094,
+    "id": 718930,
     "original_language": "en",
-    "original_title": "Red, White & Royal Blue",
-    "overview": "After an altercation between Alex, the president's son, and Britain's Prince Henry at a royal event becomes tabloid fodder, their long-running feud now threatens to drive a wedge in U.S./British relations. When the rivals are forced into a staged truce, their icy relationship begins to thaw and the friction between them sparks something deeper than they ever expected.",
-    "popularity": 13.2443,
-    "poster_path": "/ta3ReqbdEcLJM3mcHMzbYFZI8v7.jpg",
-    "release_date": "2023-07-27",
-    "title": "Red, White & Royal Blue",
+    "original_title": "Bullet Train",
+    "overview": "Unlucky assassin Ladybug is determined to do his job peacefully after one too many gigs gone off the rails. Fate, however, may have other plans, as Ladybug's latest mission puts him on a collision course with lethal adversaries from around the globe—all with connected, yet conflicting, objectives—on the world's fastest train.",
+    "popularity": 12.1502,
+    "poster_path": "/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+    "release_date": "2022-08-03",
+    "title": "Bullet Train",
     "video": false,
-    "vote_average": 7.99,
-    "vote_count": 1369
+    "vote_average": 7.439,
+    "vote_count": 6643
   },
   {
     "adult": false,
-    "backdrop_path": "/46Os8U0DEPmI0OnvKDxucl6SLVZ.jpg",
+    "backdrop_path": "/4kCDWJhceLHwPbRWd9uTR8bJpLz.jpg",
     "genre_ids": [
-      27
+      28,
+      12,
+      18
     ],
-    "id": 1008042,
+    "id": 290595,
     "original_language": "en",
-    "original_title": "Talk to Me",
-    "overview": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
-    "popularity": 13.2122,
-    "poster_path": "/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
-    "release_date": "2023-07-26",
-    "title": "Talk to Me",
+    "original_title": "The Huntsman: Winter's War",
+    "overview": "As two evil sisters prepare to conquer the land, two renegades—Eric the Huntsman, who aided Snow White in defeating Ravenna in Snowwhite and the Huntsman, and his forbidden lover, Sara—set out to stop them.",
+    "popularity": 11.2929,
+    "poster_path": "/ci1QXfBSUBVpLuzxi9A208uwUVi.jpg",
+    "release_date": "2016-04-06",
+    "title": "The Huntsman: Winter's War",
     "video": false,
-    "vote_average": 7.161,
-    "vote_count": 3211
+    "vote_average": 6.288,
+    "vote_count": 4859
   },
   {
     "adult": false,
-    "backdrop_path": "/pbmlCNeOwvCqum8yvMERbgnrSr7.jpg",
+    "backdrop_path": "/6RcBQkC2PZJwwbFugqzgvN3moYL.jpg",
     "genre_ids": [
-      80,
       53,
       28
     ],
-    "id": 413846,
+    "id": 1005331,
     "original_language": "en",
-    "original_title": "1992",
-    "overview": "In 1992, Mercer is desperately trying to rebuild his life and his relationship with his son amidst the turbulent Los Angeles uprising following the Rodney King verdict. Across town, another father and son put their own strained relationship to the test as they plot a dangerous heist to steal catalytic converters, which contain valuable platinum from the factory where Mercer works. As tensions rise and chaos erupts, both families reach their boiling points when their worlds collide.",
-    "popularity": 13.1861,
-    "poster_path": "/tPvFmQZM5HMspryyYbrtW02NR0G.jpg",
-    "release_date": "2024-08-29",
-    "title": "1992",
+    "original_title": "Carry-On",
+    "overview": "An airport security officer races to outsmart a mysterious traveler forcing him to let a dangerous item slip onto a Christmas Eve flight.",
+    "popularity": 12.4986,
+    "poster_path": "/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",
+    "release_date": "2024-12-05",
+    "title": "Carry-On",
+    "video": false,
+    "vote_average": 6.909,
+    "vote_count": 2190
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/58D6ZAvOKxlHjyX9S8qNKSBE9Y.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 718821,
+    "original_language": "en",
+    "original_title": "Twisters",
+    "overview": "As storm season intensifies, the paths of former storm chaser Kate Carter and reckless social-media superstar Tyler Owens collide when terrifying phenomena never seen before are unleashed. The pair and their competing teams find themselves squarely in the paths of multiple storm systems converging over central Oklahoma in the fight of their lives.",
+    "popularity": 11.7287,
+    "poster_path": "/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
+    "release_date": "2024-07-10",
+    "title": "Twisters",
     "video": false,
     "vote_average": 6.8,
-    "vote_count": 127
+    "vote_count": 2446
   },
   {
     "adult": false,
-    "backdrop_path": "/iQcCAm8hKWZyUntqrvzyEGtXyJl.jpg",
+    "backdrop_path": "/rAgsOIhqRS6tUthmHoqnqh9PIAE.jpg",
     "genre_ids": [
-      878,
       28,
+      35,
       12
     ],
-    "id": 670292,
+    "id": 436969,
     "original_language": "en",
-    "original_title": "The Creator",
-    "overview": "Amid a future war between the human race and the forces of artificial intelligence, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war—and mankind itself.",
-    "popularity": 13.0977,
-    "poster_path": "/3dSivDtOuyxLDxPH4v2tcNG1fP7.jpg",
-    "release_date": "2023-09-27",
-    "title": "The Creator",
+    "original_title": "The Suicide Squad",
+    "overview": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+    "popularity": 13.099,
+    "poster_path": "/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+    "release_date": "2021-07-28",
+    "title": "The Suicide Squad",
     "video": false,
-    "vote_average": 7.056,
-    "vote_count": 3331
+    "vote_average": 7.488,
+    "vote_count": 8883
   },
   {
     "adult": false,
-    "backdrop_path": "/vYA4qUPWY0EbjpcIXAL4h4pVmTC.jpg",
+    "backdrop_path": "/s5TJ2SkHookM77fSk4BvY2yCN5r.jpg",
     "genre_ids": [
+      10749,
+      16
+    ],
+    "id": 1445276,
+    "original_language": "ja",
+    "original_title": "たまらないのは恋なのか",
+    "overview": "Misuzu was branded a delinquent when a small incident left him isolated. But one day, he sees the top student, Kitahara, get surrounded by bullies and decides to help him out. That sparked Kitahara's interest in the lonely boy, but Misuzu pushes Kitahara away. \"If you get involved with me, you'll get ostracized by everyone else too.\" But it won't take long for Misuzu's resolve to falter...",
+    "popularity": 13.218,
+    "poster_path": "/zESBv0bTqtb4ICJ9oYn2HFec8JV.jpg",
+    "release_date": "2025-04-06",
+    "title": "A Love Too Captivating",
+    "video": false,
+    "vote_average": 5.0,
+    "vote_count": 1
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uU1Mt4JWhDvl4vKb3AfxNsorkoM.jpg",
+    "genre_ids": [
+      10751,
+      14,
+      10749
+    ],
+    "id": 321612,
+    "original_language": "en",
+    "original_title": "Beauty and the Beast",
+    "overview": "A live-action adaptation of Disney's version of the classic tale of a cursed prince and a beautiful young woman who helps him break the spell.",
+    "popularity": 12.8527,
+    "poster_path": "/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+    "release_date": "2017-03-16",
+    "title": "Beauty and the Beast",
+    "video": false,
+    "vote_average": 6.972,
+    "vote_count": 15620
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aAM3cQmYGjjLQ24m0F0RWfjKQ57.jpg",
+    "genre_ids": [
+      27,
       18,
-      53,
       9648
     ],
-    "id": 345,
+    "id": 530385,
     "original_language": "en",
-    "original_title": "Eyes Wide Shut",
-    "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
-    "popularity": 13.0688,
-    "poster_path": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
-    "release_date": "1999-07-16",
-    "title": "Eyes Wide Shut",
+    "original_title": "Midsommar",
+    "overview": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
+    "popularity": 13.0536,
+    "poster_path": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+    "release_date": "2019-07-03",
+    "title": "Midsommar",
     "video": false,
-    "vote_average": 7.5,
-    "vote_count": 6410
+    "vote_average": 7.152,
+    "vote_count": 7397
   },
   {
     "adult": false,
-    "backdrop_path": "/qr7dUqleMRd0VgollazbmyP9XjI.jpg",
+    "backdrop_path": "/hBwDYiOPwXHuwiYGP82ekFNSeBr.jpg",
     "genre_ids": [
-      878,
+      12,
+      14,
+      10749
+    ],
+    "id": 50619,
+    "original_language": "en",
+    "original_title": "The Twilight Saga: Breaking Dawn - Part 1",
+    "overview": "Bella Swan and Edward Cullen's honeymoon phase is abruptly disrupted by betrayals and unforeseen tragedies that endanger their world.",
+    "popularity": 11.6032,
+    "poster_path": "/qs8LsHKYlVRmJbFUiSUhhRAygwj.jpg",
+    "release_date": "2011-11-16",
+    "title": "The Twilight Saga: Breaking Dawn - Part 1",
+    "video": false,
+    "vote_average": 6.196,
+    "vote_count": 8907
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/e3gVl1gnxEFKLTF6pn6KRqUPi9K.jpg",
+    "genre_ids": [
+      10749,
+      18
+    ],
+    "id": 1127166,
+    "original_language": "it",
+    "original_title": "Fabbricante di lacrime",
+    "overview": "Adopted together after a tough childhood in an orphanage, Nica and Rigel realize that unexpected but irresistible feelings pull them together.",
+    "popularity": 12.296,
+    "poster_path": "/uoBHsxSgfc3PQsSn98RfnbePHOy.jpg",
+    "release_date": "2024-04-03",
+    "title": "The Tearsmith",
+    "video": false,
+    "vote_average": 6.517,
+    "vote_count": 870
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+    "genre_ids": [
+      35,
+      80,
+      9648
+    ],
+    "id": 546554,
+    "original_language": "en",
+    "original_title": "Knives Out",
+    "overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+    "popularity": 12.8513,
+    "poster_path": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+    "release_date": "2019-11-27",
+    "title": "Knives Out",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 12832
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tOkSenL74N23O4S7wjJSUHz7Aeh.jpg",
+    "genre_ids": [
+      80,
       18,
       53
     ],
-    "id": 78,
+    "id": 388,
     "original_language": "en",
-    "original_title": "Blade Runner",
-    "overview": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
-    "popularity": 13.0198,
-    "poster_path": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
-    "release_date": "1982-06-25",
-    "title": "Blade Runner",
+    "original_title": "Inside Man",
+    "overview": "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+    "popularity": 11.0192,
+    "poster_path": "/ffMUgkDZICNiyaws1Jkv8qG8uFW.jpg",
+    "release_date": "2006-03-17",
+    "title": "Inside Man",
     "video": false,
-    "vote_average": 7.939,
-    "vote_count": 14125
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4mM7m9L3XlPLq4vNNy3P8yDSXNM.jpg",
-    "genre_ids": [
-      53,
-      80,
-      18
-    ],
-    "id": 1371202,
-    "original_language": "nl",
-    "original_title": "iHostage",
-    "overview": "When a gunman enters an Apple Store in the heart of Amsterdam, the police face a delicate challenge to resolve the standoff.",
-    "popularity": 12.9857,
-    "poster_path": "/tn3Ckxyc7OWXnhMPkiIBvqLdFC6.jpg",
-    "release_date": "2025-04-18",
-    "title": "iHostage",
-    "video": false,
-    "vote_average": 6.066,
-    "vote_count": 188
+    "vote_average": 7.395,
+    "vote_count": 5951
   }
 ]

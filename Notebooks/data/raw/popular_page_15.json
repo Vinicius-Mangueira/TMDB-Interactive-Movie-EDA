@@ -1,241 +1,157 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/3zvZ699gMW2RhWc0GisIukzq0Ls.jpg",
+    "backdrop_path": "/cBwIDMNMvvVVYP1MOCdJTH2hb9R.jpg",
     "genre_ids": [
-      28,
-      12,
-      14
-    ],
-    "id": 284052,
-    "original_language": "en",
-    "original_title": "Doctor Strange",
-    "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
-    "popularity": 21.0088,
-    "poster_path": "/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg",
-    "release_date": "2016-10-25",
-    "title": "Doctor Strange",
-    "video": false,
-    "vote_average": 7.418,
-    "vote_count": 22518
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/n5A7brJCjejceZmHyujwUTVgQNC.jpg",
-    "genre_ids": [
-      14,
-      12
-    ],
-    "id": 12445,
-    "original_language": "en",
-    "original_title": "Harry Potter and the Deathly Hallows: Part 2",
-    "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
-    "popularity": 20.8836,
-    "poster_path": "/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
-    "release_date": "2011-07-12",
-    "title": "Harry Potter and the Deathly Hallows: Part 2",
-    "video": false,
-    "vote_average": 8.087,
-    "vote_count": 21011
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/6YInbRTk39ckuLYFmUgBCKcKNjb.jpg",
-    "genre_ids": [
-      16,
       35,
-      10751,
-      14,
-      10749
+      18
     ],
-    "id": 976573,
-    "original_language": "en",
-    "original_title": "Elemental",
-    "overview": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
-    "popularity": 20.8782,
-    "poster_path": "/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
-    "release_date": "2023-06-14",
-    "title": "Elemental",
-    "video": false,
-    "vote_average": 7.6,
-    "vote_count": 4795
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/5Iw7zQTHVRBOYpA0V6z0yypOPZh.jpg",
-    "genre_ids": [
-      12,
-      28,
-      878
-    ],
-    "id": 181808,
-    "original_language": "en",
-    "original_title": "Star Wars: The Last Jedi",
-    "overview": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
-    "popularity": 20.8707,
-    "poster_path": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
-    "release_date": "2017-12-13",
-    "title": "Star Wars: The Last Jedi",
-    "video": false,
-    "vote_average": 6.8,
-    "vote_count": 15593
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/fVpFOcQyHJM2di9upgSIwWD5wac.jpg",
-    "genre_ids": [
-      27,
-      53,
-      28,
-      12
-    ],
-    "id": 396535,
-    "original_language": "ko",
-    "original_title": "부산행",
-    "overview": "When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival.",
-    "popularity": 20.8272,
-    "poster_path": "/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",
-    "release_date": "2016-07-20",
-    "title": "Train to Busan",
-    "video": false,
-    "vote_average": 7.75,
-    "vote_count": 7752
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cMnVmutb5mVgIBeiMOncAbwNjvG.jpg",
-    "genre_ids": [
-      27
-    ],
-    "id": 439079,
-    "original_language": "en",
-    "original_title": "The Nun",
-    "overview": "A priest with a haunted past and a novice on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun in Romania and confront a malevolent force in the form of a demonic nun.",
-    "popularity": 20.6536,
-    "poster_path": "/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg",
-    "release_date": "2018-09-05",
-    "title": "The Nun",
-    "video": false,
-    "vote_average": 5.896,
-    "vote_count": 6785
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
-    "genre_ids": [
-      28,
-      80,
-      53
-    ],
-    "id": 866398,
-    "original_language": "en",
-    "original_title": "The Beekeeper",
-    "overview": "One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
-    "popularity": 20.5978,
-    "poster_path": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
-    "release_date": "2024-01-08",
-    "title": "The Beekeeper",
-    "video": false,
-    "vote_average": 7.324,
-    "vote_count": 3529
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xIAaN3AQqaJiN5RJ0WsmBady8Hq.jpg",
-    "genre_ids": [
-      28,
-      53,
-      80,
-      9648,
-      878
-    ],
-    "id": 440471,
-    "original_language": "en",
-    "original_title": "Escape Plan 2: Hades",
-    "overview": "Ray Breslin manages an elite team of security specialists trained in the art of breaking people out of the world's most impenetrable prisons. When his most trusted operative, Shu Ren, is kidnapped and disappears inside the most elaborate prison ever built, Ray must track him down with the help of some of his former friends.",
-    "popularity": 20.5111,
-    "poster_path": "/A6tb8JNrie2qT8JC2tGqshayuck.jpg",
-    "release_date": "2018-06-05",
-    "title": "Escape Plan 2: Hades",
-    "video": false,
-    "vote_average": 5.157,
-    "vote_count": 1467
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rrsG3xYrWifoduZtsIZ4ntoDfBY.jpg",
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "id": 289,
-    "original_language": "en",
-    "original_title": "Casablanca",
-    "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
-    "popularity": 20.3775,
-    "poster_path": "/oyGRZVIthHJjc98ekKpeWpDh8Ws.jpg",
-    "release_date": "1943-01-15",
-    "title": "Casablanca",
-    "video": false,
-    "vote_average": 8.157,
-    "vote_count": 5618
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/abSLxmkkXb3W2TXk8E9KbR7KQRj.jpg",
-    "genre_ids": [
-      28,
-      27,
-      53
-    ],
-    "id": 970450,
-    "original_language": "en",
-    "original_title": "Werewolves",
-    "overview": "A year after a supermoon’s light activated a dormant gene, transforming humans into bloodthirsty werewolves and causing nearly a billion deaths, the nightmare resurfaces as the supermoon rises again. Two scientists attempt to stop the mutation but fail and must now struggle to reach one of their family homes.",
-    "popularity": 20.3742,
-    "poster_path": "/otXBlMPbFBRs6o2Xt6KX59Qw6dL.jpg",
-    "release_date": "2024-12-04",
-    "title": "Werewolves",
-    "video": false,
-    "vote_average": 6.154,
-    "vote_count": 370
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/4YZ9vmO2qhcizSW5oO63Jz4nDTq.jpg",
-    "genre_ids": [
-      35
-    ],
-    "id": 1088257,
-    "original_language": "en",
-    "original_title": "Rockbottom",
-    "overview": "Follows hair metal band CougarSnake of 1980s, whose career ended just as it was starting due to clashes over the direction of the group.",
-    "popularity": 20.3088,
-    "poster_path": "/agfX4Q5TRNI1TMKe8YYhgry4Tg2.jpg",
-    "release_date": "2024-02-24",
-    "title": "Rockbottom",
+    "id": 1390681,
+    "original_language": "ca",
+    "original_title": "El Cas Àngelus. La fascinació de Dalí",
+    "overview": "",
+    "popularity": 22.1607,
+    "poster_path": "/mMtEi3elbwRcZO7XlfeippFuAKr.jpg",
+    "release_date": "2024-04-12",
+    "title": "El Cas Àngelus. La fascinació de Dalí",
     "video": false,
     "vote_average": 0.0,
     "vote_count": 0
   },
   {
     "adult": false,
-    "backdrop_path": "/1mCEzHxDcJdkM3Ye7CTeZ04HVBB.jpg",
+    "backdrop_path": "/t4mzypFVjY6toyBXAmfrIaWcUXa.jpg",
     "genre_ids": [
       28,
-      80,
+      53,
+      80
+    ],
+    "id": 706503,
+    "original_language": "fr",
+    "original_title": "Balle perdue",
+    "overview": "A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.",
+    "popularity": 17.5814,
+    "poster_path": "/qnlChF8U4diiykXQYs1miigGy7t.jpg",
+    "release_date": "2020-06-19",
+    "title": "Lost Bullet",
+    "video": false,
+    "vote_average": 6.614,
+    "vote_count": 833
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rDYSuBYKR4US3A0XfuCiFzVq5CJ.jpg",
+    "genre_ids": [
+      27,
+      35,
+      10749
+    ],
+    "id": 1302916,
+    "original_language": "en",
+    "original_title": "Heart Eyes",
+    "overview": "When the \"Heart Eyes Killer\" strikes Seattle, a pair of co-workers pulling overtime on Valentine's Day are mistaken for a couple by the elusive couple-hunting killer. Now, they must spend the most romantic night of the year running for their lives.",
+    "popularity": 19.5022,
+    "poster_path": "/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg",
+    "release_date": "2025-02-06",
+    "title": "Heart Eyes",
+    "video": false,
+    "vote_average": 6.408,
+    "vote_count": 207
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/q2DZEtjm6ZXqy43nnWVzkP59EBk.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 1125880,
+    "original_language": "pl",
+    "original_title": "Rój",
+    "overview": "A secluded island somewhere on a seas of the Northern Europe. A family of four has lived here for over ten years, perfecting the art of survival. They had moved onto an island to escape a falling civilization, to live in freedom, close to nature.  But, things can’t be solved by simply escaping the world, and problems arise when the Mother becomes pregnant again. Moreover, Winter is coming. It seems the only solution is in leaving the island, but this meets with stern dissent from the Father, who sees the place as the only safe haven on earth. Will the others find the courage to stand up to the Father? Can their family survive what comes next?",
+    "popularity": 17.9462,
+    "poster_path": "/6Cmu2RgUd7u5Bk8AaKZktLbxMbW.jpg",
+    "release_date": "2023-05-11",
+    "title": "Swarm",
+    "video": false,
+    "vote_average": 4.5,
+    "vote_count": 2
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14
+    ],
+    "id": 129,
+    "original_language": "ja",
+    "original_title": "千と千尋の神隠し",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "popularity": 20.221,
+    "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "release_date": "2001-07-20",
+    "title": "Spirited Away",
+    "video": false,
+    "vote_average": 8.537,
+    "vote_count": 17130
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hu4psJoKxDYezvvS4GlLF531fom.jpg",
+    "genre_ids": [
+      14,
+      28,
       53
     ],
-    "id": 604685,
+    "id": 400106,
     "original_language": "en",
-    "original_title": "Den of Thieves 2: Pantera",
-    "overview": "Big Nick is back on the hunt in Europe and closing in on Donnie, who is embroiled in the treacherous and unpredictable world of diamond thieves and the infamous Panther mafia, as they plot a massive heist of the world's largest diamond exchange.",
-    "popularity": 20.3064,
-    "poster_path": "/rxcyxxarD17xMliStDEhM6y2AYQ.jpg",
-    "release_date": "2025-01-08",
-    "title": "Den of Thieves 2: Pantera",
+    "original_title": "Bright",
+    "overview": "In an alternate present-day where magical creatures live among us, two L.A. cops become embroiled in a prophesied turf battle.",
+    "popularity": 16.6651,
+    "poster_path": "/whkT53Sv2vKAUiknQ13pqcWaPXB.jpg",
+    "release_date": "2017-12-22",
+    "title": "Bright",
     "video": false,
-    "vote_average": 6.7,
-    "vote_count": 469
+    "vote_average": 6.157,
+    "vote_count": 5726
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jiKwojRdwMYsDEMxQp5NFS3sOKb.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1282980,
+    "original_language": "en",
+    "original_title": "825 Forest Road",
+    "overview": "After a family tragedy, Chuck Wilson hopes to start a new life in Ashland Falls with his wife Maria and little sister Elizabeth, but he quickly discovers that the town has a dark history of being haunted by a ghostly woman who drives residents to suicide.",
+    "popularity": 19.6769,
+    "poster_path": "/ohESp5Nw49OD4ExCeNYCEIGX2iq.jpg",
+    "release_date": "2025-04-24",
+    "title": "825 Forest Road",
+    "video": false,
+    "vote_average": 6.121,
+    "vote_count": 29
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ag66gJCiZ06q1GSJuQlhGLi3Udx.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1138194,
+    "original_language": "en",
+    "original_title": "Heretic",
+    "overview": "Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed, becoming ensnared in his deadly game of cat-and-mouse.",
+    "popularity": 19.1405,
+    "poster_path": "/fr96XzlzsONrQrGfdLMiwtQjott.jpg",
+    "release_date": "2024-10-31",
+    "title": "Heretic",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 1654
   }
 ]

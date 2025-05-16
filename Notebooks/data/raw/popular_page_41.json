@@ -1,181 +1,219 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/aitUECW88Rve2mprcvwVchToE8A.jpg",
+    "backdrop_path": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
     "genre_ids": [
-      35,
-      10749
+      9648,
+      53
     ],
-    "id": 50546,
+    "id": 77,
     "original_language": "en",
-    "original_title": "Just Go with It",
-    "overview": "While romancing Palmer, a much younger schoolteacher, plastic surgeon Danny Maccabee enlists his loyal assistant Katherine to pretend to be his soon to be ex-wife, in order to cover up a careless lie. When more lies backfire, Katherine's kids become involved, and everyone heads off for a weekend in Hawaii that will change all their lives.",
-    "popularity": 11.0821,
-    "poster_path": "/ez1EDULOCUUCySHOZU6tz97qbtM.jpg",
-    "release_date": "2011-02-10",
-    "title": "Just Go with It",
+    "original_title": "Memento",
+    "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+    "popularity": 10.9713,
+    "poster_path": "/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+    "release_date": "2000-10-11",
+    "title": "Memento",
     "video": false,
-    "vote_average": 6.703,
-    "vote_count": 5822
+    "vote_average": 8.179,
+    "vote_count": 15277
   },
   {
     "adult": false,
-    "backdrop_path": "/9PgmMBjbtEw4Q3ue94CRMxvIxXY.jpg",
+    "backdrop_path": "/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
     "genre_ids": [
-      35,
-      10749
+      28,
+      18,
+      36,
+      10752
     ],
-    "id": 1450863,
+    "id": 197,
     "original_language": "en",
-    "original_title": "Meet the Khumalos",
-    "overview": "Two moms — once best friends, now arch-enemies — start a neighborhood war against each other when they find out their kids are head-over-heels in love.",
-    "popularity": 11.0417,
-    "poster_path": "/dEZHHgL1g4oA6OCntHGudDIgQlb.jpg",
-    "release_date": "2025-04-10",
-    "title": "Meet the Khumalos",
+    "original_title": "Braveheart",
+    "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+    "popularity": 11.1302,
+    "poster_path": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+    "release_date": "1995-05-24",
+    "title": "Braveheart",
     "video": false,
-    "vote_average": 5.423,
-    "vote_count": 13
+    "vote_average": 7.944,
+    "vote_count": 10402
   },
   {
     "adult": false,
-    "backdrop_path": "/aJxmgoNtP2BH7mRYvuf7AHB0VC3.jpg",
+    "backdrop_path": "/sGOw65ZmfgGfistCjuNsazjs6j9.jpg",
+    "genre_ids": [
+      37,
+      18,
+      12
+    ],
+    "id": 281957,
+    "original_language": "en",
+    "original_title": "The Revenant",
+    "overview": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+    "popularity": 10.491,
+    "poster_path": "/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+    "release_date": "2015-12-25",
+    "title": "The Revenant",
+    "video": false,
+    "vote_average": 7.534,
+    "vote_count": 18429
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2lY2NutDGAmqyNdNZcDm8REmKYt.jpg",
+    "genre_ids": [
+      10749
+    ],
+    "id": 372049,
+    "original_language": "ko",
+    "original_title": "내 친구의 아내",
+    "overview": "I want to spend all night with my friend's wife who is extremely sexy. Jeong-woo is a husband who can't get an erection while his marriage is going down the drain.  A friend and his wife from the States suggest a couples trip and Jeong-woo meets his friend's wife Hye-sook who is extremely sexy. His 'package' keeps getting stimlated every time he sees her. He tries to ignore it but every time he sees her, he gets sexual fantasies. Finally, he suggests to his friend, to 'switch' partners...",
+    "popularity": 11.0704,
+    "poster_path": "/6BZKRq3bvTOuG4G01H1jcE0F5TG.jpg",
+    "release_date": "2015-12-03",
+    "title": "My Friend's Wife",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 11
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uXx9wjfJEzLlfqB8GW67SYBrhVT.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      878
+    ],
+    "id": 340837,
+    "original_language": "en",
+    "original_title": "A Cure for Wellness",
+    "overview": "An ambitious young executive is sent to retrieve his company's CEO from an idyllic but mysterious \"wellness center\" at a remote location in the Swiss Alps but soon suspects that the spa's miraculous treatments are not what they seem.",
+    "popularity": 8.933,
+    "poster_path": "/d4fXuJS3zZcAZfz2HYDtnwqtnwn.jpg",
+    "release_date": "2017-02-15",
+    "title": "A Cure for Wellness",
+    "video": false,
+    "vote_average": 6.338,
+    "vote_count": 3909
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jjNF8QxFZSPzH0RcP2y8aZwCTsN.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "id": 50646,
+    "original_language": "en",
+    "original_title": "Crazy, Stupid, Love.",
+    "overview": "Cal Weaver is living the American dream. He has a good job, a beautiful house, great children and a beautiful wife, named Emily. Cal's seemingly perfect life unravels, however, when he learns that Emily has been unfaithful and wants a divorce. Over 40 and suddenly single, Cal is adrift in the fickle world of dating. Enter, Jacob Palmer, a self-styled player who takes Cal under his wing and teaches him how to be a hit with the ladies.",
+    "popularity": 10.0869,
+    "poster_path": "/p4RafgAPk558muOjnBMHhMArjS2.jpg",
+    "release_date": "2011-07-29",
+    "title": "Crazy, Stupid, Love.",
+    "video": false,
+    "vote_average": 7.267,
+    "vote_count": 8741
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bgfqWW9mLs24hXuqiIcxU1j7Fgd.jpg",
     "genre_ids": [
       18
     ],
-    "id": 1302004,
-    "original_language": "tl",
-    "original_title": "Kaskasero",
-    "overview": "A talented mechanic and driver, Migs quickly finds success when a customer he likes, Gabbi, leads him into the life of street car racing. But as he goes along this life and learns of Gabbi’s past, Migs makes rash decisions that might put the brakes on their relationship.",
-    "popularity": 11.0327,
-    "poster_path": "/qSpFNnFC3il0bdhyynzJgwlMRnv.jpg",
-    "release_date": "2024-07-26",
-    "title": "Kaskasero",
-    "video": false,
-    "vote_average": 6.0,
-    "vote_count": 1
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg",
-    "genre_ids": [
-      28,
-      12,
-      53
-    ],
-    "id": 299054,
+    "id": 784524,
     "original_language": "en",
-    "original_title": "Expend4bles",
-    "overview": "Armed with every weapon they can get their hands on and the skills to use them, The Expendables are the world’s last line of defense and the team that gets called when all other options are off the table. But new team members with new styles and tactics are going to give “new blood” a whole new meaning.",
-    "popularity": 11.0207,
-    "poster_path": "/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",
-    "release_date": "2023-09-15",
-    "title": "Expend4bles",
+    "original_title": "Magazine Dreams",
+    "overview": "Aspiring bodybuilder Killian Maddox struggles to find human connection in this exploration of celebrity and violence. Nothing deters him from his fiercely protected dream of superstardom, not even the doctors who warn him of the permanent damage he causes to himself with his quest.",
+    "popularity": 11.2276,
+    "poster_path": "/vSidx9NHKuQIPEQ4yI9b9zkTeh3.jpg",
+    "release_date": "2025-03-21",
+    "title": "Magazine Dreams",
     "video": false,
-    "vote_average": 6.123,
-    "vote_count": 1664
+    "vote_average": 6.44,
+    "vote_count": 25
   },
   {
     "adult": false,
-    "backdrop_path": "/7rfcRXbFD0xr8NteNq1hwXUd4Af.jpg",
+    "backdrop_path": "/mFt3dvxKugYPgUQgV16M6K2nEtc.jpg",
     "genre_ids": [
-      12,
-      18,
-      28,
-      10749,
-      10751
-    ],
-    "id": 8856,
-    "original_language": "en",
-    "original_title": "The Karate Kid Part II",
-    "overview": "Summoned by his dying father, Miyagi returns to his homeland of Okinawa, with Daniel, after a 40-year exile. There he must confront Yukie, the love of his youth, and Sato, his former best friend turned vengeful rival. Sato is bent on a fight to the death, even if it means the destruction of their village. Daniel finds his own love in Yukia's niece, Kumiko, and his own enemy in Sato's nephew, the vicious Chozen. Now, far away from the tournaments, cheering crowds and safety of home, Daniel will face his greatest challenge ever when the cost of honor is life itself.",
-    "popularity": 11.0077,
-    "poster_path": "/k0OwgRR6PNu7h3SiqpCbRdZWNaG.jpg",
-    "release_date": "1986-06-18",
-    "title": "The Karate Kid Part II",
-    "video": false,
-    "vote_average": 6.304,
-    "vote_count": 2265
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/rcUcYzGGicDvhDs58uM44tJKB9F.jpg",
-    "genre_ids": [
-      16,
-      10751,
-      14,
-      28,
-      12
-    ],
-    "id": 527774,
-    "original_language": "en",
-    "original_title": "Raya and the Last Dragon",
-    "overview": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
-    "popularity": 11.0055,
-    "poster_path": "/5nVhgCzxKbK47OLIKxCR1syulOn.jpg",
-    "release_date": "2021-03-03",
-    "title": "Raya and the Last Dragon",
-    "video": false,
-    "vote_average": 7.837,
-    "vote_count": 6919
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mEP3mYBwuyS6jpGsSrCjPXPSgOX.jpg",
-    "genre_ids": [
-      53,
-      9648,
-      27
-    ],
-    "id": 1032823,
-    "original_language": "en",
-    "original_title": "Trap",
-    "overview": "A father and teen daughter attend a pop concert, where they realize they're at the center of a dark and sinister event.",
-    "popularity": 10.9539,
-    "poster_path": "/jwoaKYVqPgYemFpaANL941EF94R.jpg",
-    "release_date": "2024-07-31",
-    "title": "Trap",
-    "video": false,
-    "vote_average": 6.32,
-    "vote_count": 2175
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/koSWhCzMJfJOramu4KD0ZZifqpi.jpg",
-    "genre_ids": [
-      10749,
       35
     ],
-    "id": 621,
+    "id": 8363,
     "original_language": "en",
-    "original_title": "Grease",
-    "overview": "Australian good girl Sandy and greaser Danny fell in love over the summer. But when they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance despite their eccentric friends?",
-    "popularity": 10.9518,
-    "poster_path": "/czVhhAaSBFpakur7U8pOIDV9NUG.jpg",
-    "release_date": "1978-06-16",
-    "title": "Grease",
+    "original_title": "Superbad",
+    "overview": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+    "popularity": 10.4413,
+    "poster_path": "/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+    "release_date": "2007-08-17",
+    "title": "Superbad",
     "video": false,
-    "vote_average": 7.38,
-    "vote_count": 7356
+    "vote_average": 7.256,
+    "vote_count": 7523
   },
   {
     "adult": false,
-    "backdrop_path": "/14FK4FjArsTdpmbqwlROrWA4Npl.jpg",
+    "backdrop_path": "/abnlAkFwatSSerPCcE0uUMDHoTD.jpg",
     "genre_ids": [
-      12,
-      28,
-      878
+      18,
+      878,
+      53
     ],
-    "id": 101299,
+    "id": 6479,
     "original_language": "en",
-    "original_title": "The Hunger Games: Catching Fire",
-    "overview": "Katniss Everdeen has returned home safe after winning the 74th Annual Hunger Games along with fellow tribute Peeta Mellark. Winning means that they must turn around and leave their family and close friends, embarking on a \"Victor's Tour\" of the districts. Along the way Katniss senses that a rebellion is simmering, but the Capitol is still very much in control as President Snow prepares the 75th Annual Hunger Games (The Quarter Quell) - a competition that could change Panem forever.",
-    "popularity": 10.951,
-    "poster_path": "/qdXXEFGuLLfMWa1DGEkWFUo8Zwd.jpg",
-    "release_date": "2013-11-15",
-    "title": "The Hunger Games: Catching Fire",
+    "original_title": "I Am Legend",
+    "overview": "Robert Neville is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone.",
+    "popularity": 11.1414,
+    "poster_path": "/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg",
+    "release_date": "2007-12-12",
+    "title": "I Am Legend",
     "video": false,
-    "vote_average": 7.428,
-    "vote_count": 17666
+    "vote_average": 7.209,
+    "vote_count": 16045
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/75nSb1fbWooipwcSU5bUttiOriI.jpg",
+    "genre_ids": [
+      16,
+      12,
+      14,
+      10751,
+      18
+    ],
+    "id": 508883,
+    "original_language": "ja",
+    "original_title": "君たちはどう生きるか",
+    "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother. As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
+    "popularity": 11.2525,
+    "poster_path": "/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
+    "release_date": "2023-07-14",
+    "title": "The Boy and the Heron",
+    "video": false,
+    "vote_average": 7.447,
+    "vote_count": 2169
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zgQQF04u3OgNBJqClRNby1FPz9s.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      16
+    ],
+    "id": 893723,
+    "original_language": "en",
+    "original_title": "PAW Patrol: The Mighty Movie",
+    "overview": "A magical meteor crash lands in Adventure City and gives the PAW Patrol pups superpowers, transforming them into The Mighty Pups.",
+    "popularity": 10.1175,
+    "poster_path": "/aTvePCU7exLepwg5hWySjwxojQK.jpg",
+    "release_date": "2023-09-21",
+    "title": "PAW Patrol: The Mighty Movie",
+    "video": false,
+    "vote_average": 7.068,
+    "vote_count": 486
   }
 ]

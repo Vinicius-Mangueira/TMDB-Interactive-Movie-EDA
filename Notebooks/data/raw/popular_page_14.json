@@ -1,160 +1,219 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/bMdSmfI0qwpAkvhAL7sqpjmwgf4.jpg",
+    "backdrop_path": "/1nn7nCFRTKeWOXbtjrFxfSvf1EI.jpg",
     "genre_ids": [
-      878,
-      18
-    ],
-    "id": 335984,
-    "original_language": "en",
-    "original_title": "Blade Runner 2049",
-    "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
-    "popularity": 22.032,
-    "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
-    "release_date": "2017-10-04",
-    "title": "Blade Runner 2049",
-    "video": false,
-    "vote_average": 7.58,
-    "vote_count": 14115
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/fzv87rT0jlAkh5Uf9PpIlUj6Nj8.jpg",
-    "genre_ids": [
-      28,
-      53,
-      80
-    ],
-    "id": 1195585,
-    "original_language": "en",
-    "original_title": "The Hard Hit",
-    "overview": "An Interpol agent hunting the head of a global crime syndicate tracks his target to Las Vegas, but when the criminal organization kills his wife and daughter, he goes above the law to get his revenge.",
-    "popularity": 21.8099,
-    "poster_path": "/whkFbOZTamHeugEG95jvQehSzAH.jpg",
-    "release_date": "2023-10-20",
-    "title": "The Hard Hit",
-    "video": false,
-    "vote_average": 6.8,
-    "vote_count": 18
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zTMtN7DjyqYuTFwBXw1ywl3JyTO.jpg",
-    "genre_ids": [
+      35,
       18,
-      10749
+      10402
     ],
-    "id": 446696,
+    "id": 1122099,
     "original_language": "en",
-    "original_title": "Life Itself",
-    "overview": "As a young New York couple goes from college romance to marriage and the birth of their first child, the unexpected twists of their journey create reverberations that echo over continents and through lifetimes.",
-    "popularity": 21.7042,
-    "poster_path": "/pE2hxC8bPbIi9tGyhFg5xiFW6dA.jpg",
-    "release_date": "2018-09-21",
-    "title": "Life Itself",
+    "original_title": "The Ballad of Wallis Island",
+    "overview": "Eccentric lottery winner Charles lives alone on a remote island but dreams of hiring his favourite musician, Herb McGwyer, to play an exclusive, private gig. Unbeknownst to Herb, Charles has also hired Herb’s ex-bandmate and ex-girlfriend, Nell, with her new husband in tow, to perform the old favourites. As tempers flare and old tensions resurface, the stormy weather traps them all on the island and Charles desperately looks for a way to salvage his dream gig.",
+    "popularity": 18.4076,
+    "poster_path": "/AhmJOYdUn9katXqDk0ZpZanQ0xp.jpg",
+    "release_date": "2025-03-28",
+    "title": "The Ballad of Wallis Island",
     "video": false,
-    "vote_average": 7.221,
-    "vote_count": 578
+    "vote_average": 6.9,
+    "vote_count": 20
   },
   {
     "adult": false,
-    "backdrop_path": "/hRn5oyuhrVFjLwDpe73UvqgvPht.jpg",
+    "backdrop_path": "/cyecB7godJ6kNHGONFjUyVN9OX5.jpg",
     "genre_ids": [
       28,
-      14,
-      27
-    ],
-    "id": 793387,
-    "original_language": "ko",
-    "original_title": "거룩한 밤: 데몬 헌터스",
-    "overview": "When a devil-worshipping criminal network plunges Seoul into chaos, the police turn to Holy Night—a trio of supernatural demon hunters—to restore order and defeat the rising evil.",
-    "popularity": 21.5118,
-    "poster_path": "/v3Mo77Qjp6pctpD4eJaNT6kFRSB.jpg",
-    "release_date": "2025-04-30",
-    "title": "Holy Night: Demon Hunters",
-    "video": false,
-    "vote_average": 4.75,
-    "vote_count": 2
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/csQSGH0QU8D3Ov5YLEYuHep8ihA.jpg",
-    "genre_ids": [
       878,
-      53,
-      12,
-      28
+      12
     ],
-    "id": 1196470,
-    "original_language": "fr",
-    "original_title": "Survivre",
-    "overview": "A couple celebrates their son’s birthday in the middle of the ocean on their boat. A violent storm hits and it brings up hungry creatures from the depths and they fight for their survival.",
-    "popularity": 21.3117,
-    "poster_path": "/7fR3KxswtY8OHHZuOUB9td58CRX.jpg",
-    "release_date": "2024-06-19",
-    "title": "Survive",
+    "id": 1726,
+    "original_language": "en",
+    "original_title": "Iron Man",
+    "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "popularity": 20.4574,
+    "poster_path": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+    "release_date": "2008-04-30",
+    "title": "Iron Man",
     "video": false,
-    "vote_average": 5.8,
-    "vote_count": 226
+    "vote_average": 7.651,
+    "vote_count": 26947
   },
   {
     "adult": false,
-    "backdrop_path": "/kpWusrV8GePdx42GLJjZ7RJhkfz.jpg",
+    "backdrop_path": "/5FzFpmoZ4sJZXimbiXlRAA8SvEa.jpg",
     "genre_ids": [
+      28,
       27,
-      18,
       53
     ],
-    "id": 1140535,
+    "id": 1029235,
     "original_language": "en",
-    "original_title": "Presence",
-    "overview": "A couple and their children move into a seemingly normal suburban home. When strange events occur, they begin to believe there is something else in the house with them. The presence is about to disrupt their lives in unimaginable ways.",
-    "popularity": 21.2574,
-    "poster_path": "/hZ8dTeBzigV5SVgwG1ikSROAFiS.jpg",
-    "release_date": "2025-01-16",
-    "title": "Presence",
+    "original_title": "Azrael",
+    "overview": "In a world where no one speaks, a devout female hunts down a young woman who has escaped her imprisonment. Recaptured by its ruthless leaders, Azrael is due to be sacrificed to pacify an ancient evil deep within the surrounding wilderness.",
+    "popularity": 19.9771,
+    "poster_path": "/qpdFKDvJS7oLKTcBLXOaMwUESbs.jpg",
+    "release_date": "2024-09-27",
+    "title": "Azrael",
     "video": false,
     "vote_average": 6.0,
-    "vote_count": 318
+    "vote_count": 301
   },
   {
     "adult": false,
-    "backdrop_path": "/4o0R4OdnRobrpVq1xYmj6aJyM7e.jpg",
+    "backdrop_path": "/bxT8jFcWNuWK5LmVo1oGhAm4dnZ.jpg",
     "genre_ids": [
-      27,
-      9648
+      12,
+      28,
+      18
     ],
-    "id": 338947,
-    "original_language": "en",
-    "original_title": "Hellraiser",
-    "overview": "A young woman struggling with addiction comes into possession of an ancient puzzle box, unaware that its purpose is to summon the Cenobites, a group of sadistic supernatural beings from another dimension.",
-    "popularity": 21.218,
-    "poster_path": "/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg",
-    "release_date": "2022-09-28",
-    "title": "Hellraiser",
+    "id": 1084736,
+    "original_language": "fr",
+    "original_title": "Le Comte de Monte-Cristo",
+    "overview": "Edmond Dantes becomes the target of a sinister plot and is arrested on his wedding day for a crime he did not commit. After 14 years in the island prison of Château d’If, he manages a daring escape. Now rich beyond his dreams, he assumes the identity of the Count of Monte-Cristo and exacts his revenge on the three men who betrayed him.",
+    "popularity": 20.7983,
+    "poster_path": "/sAT1P3FGhtJ68anUyJScnMu8t1l.jpg",
+    "release_date": "2024-06-28",
+    "title": "The Count of Monte Cristo",
     "video": false,
-    "vote_average": 6.169,
-    "vote_count": 873
+    "vote_average": 8.0,
+    "vote_count": 1607
   },
   {
     "adult": false,
-    "backdrop_path": "/zxWAv1A34kdYslBi4ekMDtgIGUt.jpg",
+    "backdrop_path": "/1uKHoFWyYJn060dpIXUCU7Wbc15.jpg",
+    "genre_ids": [
+      10752,
+      18,
+      28
+    ],
+    "id": 228150,
+    "original_language": "en",
+    "original_title": "Fury",
+    "overview": "In the last months of World War II, as the Allies make their final push in the European theatre, a battle-hardened U.S. Army sergeant named 'Wardaddy' commands a Sherman tank called 'Fury' and its five-man crew on a deadly mission behind enemy lines. Outnumbered and outgunned, Wardaddy and his men face overwhelming odds in their heroic attempts to strike at the heart of Nazi Germany.",
+    "popularity": 20.8073,
+    "poster_path": "/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+    "release_date": "2014-10-15",
+    "title": "Fury",
+    "video": false,
+    "vote_average": 7.54,
+    "vote_count": 12279
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9vAoubhoZE8aSkUZoSfxs3UWZhO.jpg",
+    "genre_ids": [
+      53,
+      28,
+      80
+    ],
+    "id": 156022,
+    "original_language": "en",
+    "original_title": "The Equalizer",
+    "overview": "McCall believes he has put his mysterious past behind him and dedicated himself to beginning a new, quiet life. But when he meets Teri, a young girl under the control of ultra-violent Russian gangsters, he can’t stand idly by – he has to help her. Armed with hidden skills that allow him to serve vengeance against anyone who would brutalize the helpless, McCall comes out of his self-imposed retirement and finds his desire for justice reawakened. If someone has a problem, if the odds are stacked against them, if they have nowhere else to turn, McCall will help. He is The Equalizer.",
+    "popularity": 19.2877,
+    "poster_path": "/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg",
+    "release_date": "2014-09-24",
+    "title": "The Equalizer",
+    "video": false,
+    "vote_average": 7.28,
+    "vote_count": 9314
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2PDTWfuBWQKVC7aPAqJK5UCpz08.jpg",
     "genre_ids": [
       28,
+      878
+    ],
+    "id": 557,
+    "original_language": "en",
+    "original_title": "Spider-Man",
+    "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+    "popularity": 19.9442,
+    "poster_path": "/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
+    "release_date": "2002-05-01",
+    "title": "Spider-Man",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 19582
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yHzyPJrVqlTySQ9mc379yxrLBYQ.jpg",
+    "genre_ids": [
       12,
       14
     ],
-    "id": 566525,
+    "id": 672,
     "original_language": "en",
-    "original_title": "Shang-Chi and the Legend of the Ten Rings",
-    "overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
-    "popularity": 21.2113,
-    "poster_path": "/d08HqqeBQSwN8i8MEvpsZ8Cb438.jpg",
-    "release_date": "2021-09-01",
-    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "original_title": "Harry Potter and the Chamber of Secrets",
+    "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione’s magical abilities and courage.",
+    "popularity": 20.4031,
+    "poster_path": "/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+    "release_date": "2002-11-13",
+    "title": "Harry Potter and the Chamber of Secrets",
     "video": false,
-    "vote_average": 7.524,
-    "vote_count": 9707
+    "vote_average": 7.708,
+    "vote_count": 22515
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
+    "genre_ids": [
+      16,
+      14,
+      12
+    ],
+    "id": 980477,
+    "original_language": "zh",
+    "original_title": "哪吒之魔童闹海",
+    "overview": "Following the Tribulation, although the souls of Ne Zha and Ao Bing were preserved, their physical bodies will soon be destroyed. Tai Yi Zhen Ren plans to use the Seven Colored Lotus to reshape their physical forms, but encounters numerous difficulties. What will become of Ne Zha and Ao Bing?",
+    "popularity": 20.3861,
+    "poster_path": "/5lUmWTGkEcYnXujixXn31o9q2T0.jpg",
+    "release_date": "2025-01-29",
+    "title": "Ne Zha 2",
+    "video": false,
+    "vote_average": 7.908,
+    "vote_count": 168
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7Iz55ystlGDNlavsKnP7iaJeLma.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      53
+    ],
+    "id": 216015,
+    "original_language": "en",
+    "original_title": "Fifty Shades of Grey",
+    "overview": "When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
+    "popularity": 20.0822,
+    "poster_path": "/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg",
+    "release_date": "2015-02-11",
+    "title": "Fifty Shades of Grey",
+    "video": false,
+    "vote_average": 5.887,
+    "vote_count": 11973
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gJduZE3cAmLVQknEfiR5t0vT4Ie.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 1096838,
+    "original_language": "en",
+    "original_title": "Here After",
+    "overview": "When her teen daughter displays increasingly disturbing behavior after a near death experience, a mother becomes convinced the girl brought something evil back from the other side.",
+    "popularity": 20.2755,
+    "poster_path": "/by3EEDIVTdhNJolYK2Msn1RHRFH.jpg",
+    "release_date": "2024-07-25",
+    "title": "Here After",
+    "video": false,
+    "vote_average": 5.336,
+    "vote_count": 70
   }
 ]

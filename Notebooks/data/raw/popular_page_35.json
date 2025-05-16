@@ -1,257 +1,121 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/wxr4Z6E83h14CogsZOzDm1vuDX3.jpg",
+    "backdrop_path": "/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
     "genre_ids": [
-      878,
       28,
-      12
-    ],
-    "id": 91314,
-    "original_language": "en",
-    "original_title": "Transformers: Age of Extinction",
-    "overview": "As humanity picks up the pieces after the battle of Chicago, a shadowy group reveals itself in an attempt to control the direction of history…while an ancient, powerful new menace sets Earth in its crosshairs. With help from Cade Yeager, Optimus Prime and the Autobots rise to meet their most fearsome challenge yet.",
-    "popularity": 12.3155,
-    "poster_path": "/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg",
-    "release_date": "2014-06-25",
-    "title": "Transformers: Age of Extinction",
-    "video": false,
-    "vote_average": 5.9,
-    "vote_count": 8314
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3tWw50B1xXlCnJ9A7NX4nNzZF4j.jpg",
-    "genre_ids": [
-      18,
-      35
-    ],
-    "id": 350,
-    "original_language": "en",
-    "original_title": "The Devil Wears Prada",
-    "overview": "Andy moves to New York to work in the fashion industry. Her boss is extremely demanding, cruel and won't let her succeed if she doesn't fit into the high class elegant look of their magazine.",
-    "popularity": 12.3052,
-    "poster_path": "/1LwW0W0Zyik00OmQPTnCUjmCh1C.jpg",
-    "release_date": "2006-06-29",
-    "title": "The Devil Wears Prada",
-    "video": false,
-    "vote_average": 7.4,
-    "vote_count": 12293
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/bguFhzIGpQdGQ6uizm07oMKbgHi.jpg",
-    "genre_ids": [
-      80,
-      18,
-      28
-    ],
-    "id": 101,
-    "original_language": "fr",
-    "original_title": "Léon",
-    "overview": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
-    "popularity": 12.2631,
-    "poster_path": "/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg",
-    "release_date": "1994-09-14",
-    "title": "Léon: The Professional",
-    "video": false,
-    "vote_average": 8.301,
-    "vote_count": 15187
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/sOJqNAx4RFrCRn8HS99LEc8aenI.jpg",
-    "genre_ids": [
-      18,
-      10749,
-      36
-    ],
-    "id": 331482,
-    "original_language": "en",
-    "original_title": "Little Women",
-    "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
-    "popularity": 12.2517,
-    "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
-    "release_date": "2019-12-25",
-    "title": "Little Women",
-    "video": false,
-    "vote_average": 7.862,
-    "vote_count": 6439
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/XNVdWNgiAHu8y4BsJv5ndUHXxN.jpg",
-    "genre_ids": [
-      10751,
-      35,
       12,
-      16
+      14
     ],
-    "id": 929204,
+    "id": 209112,
     "original_language": "en",
-    "original_title": "Wallace & Gromit: Vengeance Most Fowl",
-    "overview": "Gromit’s concern that Wallace is becoming too dependent on his inventions proves justified, when Wallace invents a “smart” gnome that seems to develop a mind of its own. When it emerges that a vengeful figure from the past might be masterminding things, it falls to Gromit to battle sinister forces and save his master… or Wallace may never be able to invent again!",
-    "popularity": 12.2407,
-    "poster_path": "/6BxK38ehxuX2dJmZIMpJcVNbYks.jpg",
-    "release_date": "2024-12-18",
-    "title": "Wallace & Gromit: Vengeance Most Fowl",
+    "original_title": "Batman v Superman: Dawn of Justice",
+    "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
+    "popularity": 12.3088,
+    "poster_path": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+    "release_date": "2016-03-23",
+    "title": "Batman v Superman: Dawn of Justice",
     "video": false,
-    "vote_average": 7.553,
-    "vote_count": 478
+    "vote_average": 6.0,
+    "vote_count": 18257
   },
   {
     "adult": false,
-    "backdrop_path": "/d84M69u6Q202dm6EvhVxbiqrK9f.jpg",
+    "backdrop_path": "/eW2e6xkVNkWanabMkuYmF9jwgW9.jpg",
     "genre_ids": [
-      12,
       18
     ],
-    "id": 334533,
-    "original_language": "en",
-    "original_title": "Captain Fantastic",
-    "overview": "Deep in the forests of the Pacific Northwest, a father devoted to raising his six kids with a rigorous physical and intellectual education is forced to leave his paradise and enter the world, beginning a journey that challenges his idea of what it means to be a parent.",
-    "popularity": 12.2362,
-    "poster_path": "/2sFME73GaD8UsUxPUKe60cPdLif.jpg",
-    "release_date": "2016-07-08",
-    "title": "Captain Fantastic",
+    "id": 1395724,
+    "original_language": "ja",
+    "original_title": "痴人の愛",
+    "overview": "Kawai Joji, an aspiring screenwriter who has won a screenplay competition but has yet to make his professional debut, meets a beautiful woman, Naomi, in a rundown bar one day. Naomi says she is working at the bar while aiming to become an actress. On another day, Joji is asked by his screenplay instructor if he would like to write a screenplay for a film based on Tanizaki Junichiro's \"A Fool's Love\" on his behalf. Joji is determined to succeed this time, but struggles to write the script. Meanwhile, Joji meets Naomi again, and the two of them quickly become closer, but...",
+    "popularity": 11.4792,
+    "poster_path": "/fKNBwFKX4VMC73hJr81GpsoUsQO.jpg",
+    "release_date": "2024-11-29",
+    "title": "Chijin no Ai",
     "video": false,
-    "vote_average": 7.897,
-    "vote_count": 6515
+    "vote_average": 6.0,
+    "vote_count": 1
   },
   {
     "adult": false,
-    "backdrop_path": "/tehewlwOPFDDf4syutyopaY23AY.jpg",
+    "backdrop_path": "/oYiPf8oR2ZrjvGIVzGTw1BZihDP.jpg",
     "genre_ids": [
-      27
-    ],
-    "id": 1352774,
-    "original_language": "en",
-    "original_title": "Piglet",
-    "overview": "On Kate's 21st birthday camping trip, her friends encounter Piglet, a monstrous human-pig hybrid who brutally murders one of them. They uncover Piglet's origins and Kate must confront her past to survive the relentless killer.",
-    "popularity": 12.2315,
-    "poster_path": "/5wZNFUJAwyX6RCxdqrLO9lLWJ20.jpg",
-    "release_date": "2025-01-25",
-    "title": "Piglet",
-    "video": false,
-    "vote_average": 5.735,
-    "vote_count": 17
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jPu8yiadqgzwFPGKJmGo637ASVP.jpg",
-    "genre_ids": [
-      878,
-      28,
-      12
-    ],
-    "id": 1724,
-    "original_language": "en",
-    "original_title": "The Incredible Hulk",
-    "overview": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.",
-    "popularity": 12.2078,
-    "poster_path": "/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
-    "release_date": "2008-06-12",
-    "title": "The Incredible Hulk",
-    "video": false,
-    "vote_average": 6.221,
-    "vote_count": 12039
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/y5tad0a4yRbxYgOHGllEIEeCCKt.jpg",
-    "genre_ids": [
-      16,
+      9648,
+      18,
       10749,
-      14,
-      10751
-    ],
-    "id": 10198,
-    "original_language": "en",
-    "original_title": "The Princess and the Frog",
-    "overview": "A waitress, desperate to fulfill her dreams as a restaurant owner, is set on a journey to turn a frog prince back into a human being, but she has to face the same problem after she kisses him.",
-    "popularity": 12.2074,
-    "poster_path": "/v6nAUs62OJ4DXmnnmPFeVmMz8H9.jpg",
-    "release_date": "2009-12-08",
-    "title": "The Princess and the Frog",
-    "video": false,
-    "vote_average": 7.221,
-    "vote_count": 5768
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/se5Hxz7PArQZOG3Nx2bpfOhLhtV.jpg",
-    "genre_ids": [
-      28,
-      12,
-      16,
-      10751
-    ],
-    "id": 9806,
-    "original_language": "en",
-    "original_title": "The Incredibles",
-    "overview": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
-    "popularity": 12.2036,
-    "poster_path": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
-    "release_date": "2004-10-27",
-    "title": "The Incredibles",
-    "video": false,
-    "vote_average": 7.71,
-    "vote_count": 17986
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/jB98SrdXAYSbiprjIwc7WfVCuCV.jpg",
-    "genre_ids": [
-      27
-    ],
-    "id": 521029,
-    "original_language": "en",
-    "original_title": "Annabelle Comes Home",
-    "overview": "Determined to keep Annabelle from wreaking more havoc, demonologists Ed and Lorraine Warren bring the possessed doll to the locked artifacts room in their home, placing her “safely” behind sacred glass and enlisting a priest’s holy blessing. But an unholy night of horror awaits as Annabelle awakens the evil spirits in the room, who all set their sights on a new target—the Warrens' ten-year-old daughter, Judy, and her friends.",
-    "popularity": 12.1971,
-    "poster_path": "/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg",
-    "release_date": "2019-06-26",
-    "title": "Annabelle Comes Home",
-    "video": false,
-    "vote_average": 6.4,
-    "vote_count": 3588
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
-    "genre_ids": [
-      27,
       53
     ],
-    "id": 694,
+    "id": 153104,
     "original_language": "en",
-    "original_title": "The Shining",
-    "overview": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
-    "popularity": 12.1756,
-    "poster_path": "/xazWoLealQwEgqZ89MLZklLZD3k.jpg",
-    "release_date": "1980-05-23",
-    "title": "The Shining",
+    "original_title": "Wicked Minds",
+    "overview": "Holden returns home from college and is surprised to find his overpowering competitive father married to a much younger woman Lana. Holden quickly falls for the beauty and charisma of his step mother. A passionate affair begins between son and stepmother.",
+    "popularity": 10.5913,
+    "poster_path": "/A6A15cDR8mpdOxW4y7UzFanzbM0.jpg",
+    "release_date": "2003-03-01",
+    "title": "Wicked Minds",
     "video": false,
-    "vote_average": 8.2,
-    "vote_count": 17911
+    "vote_average": 6.43,
+    "vote_count": 43
   },
   {
     "adult": false,
-    "backdrop_path": "/i7UCf0ysjbYYaqcSKUox9BJz4Kp.jpg",
+    "backdrop_path": "/co7oxvpWxgd6FZU24DnljDDHYQA.jpg",
     "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "id": 1064028,
+    "original_language": "en",
+    "original_title": "Subservience",
+    "overview": "With his wife out sick, a struggling father brings home a lifelike AI, only to have his self-aware new help want everything her new family has to offer... Like the affection of her owner and she'll kill to get it.",
+    "popularity": 11.7269,
+    "poster_path": "/gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg",
+    "release_date": "2024-08-15",
+    "title": "Subservience",
+    "video": false,
+    "vote_average": 6.704,
+    "vote_count": 705
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zwSDvbnN51JqU1ULzPnEc22DkqV.jpg",
+    "genre_ids": [
+      10749,
       35,
       18
     ],
-    "id": 318846,
+    "id": 1272149,
     "original_language": "en",
-    "original_title": "The Big Short",
-    "overview": "The men who made millions from a global economic meltdown.",
-    "popularity": 12.1718,
-    "poster_path": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
-    "release_date": "2015-12-11",
-    "title": "The Big Short",
+    "original_title": "Bridget Jones: Mad About the Boy",
+    "overview": "Bridget Jones navigates life as a widow and single mum with the help of her family, friends, and former lover, Daniel. Back to work and on the apps, she's pursued by a younger man and maybe – just maybe – her son's science teacher.",
+    "popularity": 12.1481,
+    "poster_path": "/taEVBdVSqYo9YeN3ycw2SosklZL.jpg",
+    "release_date": "2025-02-12",
+    "title": "Bridget Jones: Mad About the Boy",
     "video": false,
-    "vote_average": 7.355,
-    "vote_count": 9227
+    "vote_average": 6.631,
+    "vote_count": 317
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7aDM1Rba57BeXr0jWRa3kBgEDUz.jpg",
+    "genre_ids": [
+      18,
+      80,
+      53
+    ],
+    "id": 889737,
+    "original_language": "en",
+    "original_title": "Joker: Folie à Deux",
+    "overview": "While struggling with his dual identity, Arthur Fleck not only stumbles upon true love, but also finds the music that's always been inside him.",
+    "popularity": 11.4276,
+    "poster_path": "/zPOOyw6HBb5Qo6uaWJ5UxrBR6Ll.jpg",
+    "release_date": "2024-10-01",
+    "title": "Joker: Folie à Deux",
+    "video": false,
+    "vote_average": 5.442,
+    "vote_count": 2352
   }
 ]

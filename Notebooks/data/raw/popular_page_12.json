@@ -1,223 +1,181 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/3R5f4972Iu2qsc5rRryNdd3T6wq.jpg",
+    "backdrop_path": "/hNCqkXbWd40eftqSdjq8TmV7Mqr.jpg",
     "genre_ids": [
-      16,
+      18,
       878,
-      10751,
-      35
+      9648
     ],
-    "id": 482321,
+    "id": 329865,
     "original_language": "en",
-    "original_title": "Ron's Gone Wrong",
-    "overview": "In a world where walking, talking, digitally connected bots have become children's best friends, an 11-year-old finds that his robot buddy doesn't quite work the same as the others do.",
-    "popularity": 23.8437,
-    "poster_path": "/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg",
-    "release_date": "2021-10-14",
-    "title": "Ron's Gone Wrong",
+    "original_title": "Arrival",
+    "overview": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+    "popularity": 22.7302,
+    "poster_path": "/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+    "release_date": "2016-11-10",
+    "title": "Arrival",
     "video": false,
-    "vote_average": 7.899,
-    "vote_count": 1902
+    "vote_average": 7.613,
+    "vote_count": 18231
   },
   {
     "adult": false,
-    "backdrop_path": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+    "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+    "genre_ids": [
+      12,
+      14,
+      28
+    ],
+    "id": 120,
+    "original_language": "en",
+    "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+    "popularity": 23.8914,
+    "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+    "release_date": "2001-12-18",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "video": false,
+    "vote_average": 8.421,
+    "vote_count": 25951
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fYnEbgoNCxW9kL0IgOgtJb9JTBU.jpg",
+    "genre_ids": [
+      27,
+      14
+    ],
+    "id": 426063,
+    "original_language": "en",
+    "original_title": "Nosferatu",
+    "overview": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+    "popularity": 23.0926,
+    "poster_path": "/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+    "release_date": "2024-12-25",
+    "title": "Nosferatu",
+    "video": false,
+    "vote_average": 6.716,
+    "vote_count": 2633
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nvW0QfRJ7ga9TK8DKwBfAPA8ywP.jpg",
+    "genre_ids": [
+      28,
+      18,
+      80
+    ],
+    "id": 944401,
+    "original_language": "fr",
+    "original_title": "Dogman",
+    "overview": "A boy, bruised by life, finds his salvation through the love of his dogs.",
+    "popularity": 20.7982,
+    "poster_path": "/5RuUD7J4vO0El7TRL9guZIik0I0.jpg",
+    "release_date": "2023-09-27",
+    "title": "Dogman",
+    "video": false,
+    "vote_average": 7.903,
+    "vote_count": 1192
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ojHCeDULAkQK25700fhRU75Tur2.jpg",
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "id": 348350,
+    "original_language": "en",
+    "original_title": "Solo: A Star Wars Story",
+    "overview": "Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.",
+    "popularity": 19.9553,
+    "poster_path": "/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+    "release_date": "2018-05-15",
+    "title": "Solo: A Star Wars Story",
+    "video": false,
+    "vote_average": 6.558,
+    "vote_count": 8753
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tlEFuIlaxRPXIYVHXbOSAMCfWqk.jpg",
     "genre_ids": [
       35,
       18,
-      10749,
-      10402
-    ],
-    "id": 313369,
-    "original_language": "en",
-    "original_title": "La La Land",
-    "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
-    "popularity": 23.7526,
-    "poster_path": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
-    "release_date": "2016-12-01",
-    "title": "La La Land",
-    "video": false,
-    "vote_average": 7.9,
-    "vote_count": 17276
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/cS992RPEJQ4S45IiNSLqlMl2ins.jpg",
-    "genre_ids": [
-      9648,
-      878
-    ],
-    "id": 2666,
-    "original_language": "en",
-    "original_title": "Dark City",
-    "overview": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
-    "popularity": 23.7479,
-    "poster_path": "/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg",
-    "release_date": "1998-02-27",
-    "title": "Dark City",
-    "video": false,
-    "vote_average": 7.327,
-    "vote_count": 2902
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/9o9ci7ZH9chSy8B7YXCBYih8Kkd.jpg",
-    "genre_ids": [
-      53,
-      18,
       10749
     ],
-    "id": 290098,
-    "original_language": "ko",
-    "original_title": "아가씨",
-    "overview": "1930s Korea, in the period of Japanese occupation, a new girl, Sookee, is hired as a handmaiden to a Japanese heiress, Hideko, who lives a secluded life on a large countryside estate with her domineering Uncle Kouzuki. But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count to help him seduce the Lady to elope with him, rob her of her fortune, and lock her up in a madhouse. The plan seems to proceed according to plan until Sookee and Hideko discover some unexpected emotions.",
-    "popularity": 23.7212,
-    "poster_path": "/dLlH4aNHdnmf62umnInL8xPlPzw.jpg",
-    "release_date": "2016-06-01",
-    "title": "The Handmaiden",
-    "video": false,
-    "vote_average": 8.2,
-    "vote_count": 3922
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/qSOMdbZ6AOdHR999HWwVAh6ALFI.jpg",
-    "genre_ids": [
-      28,
-      80,
-      53
-    ],
-    "id": 1249289,
+    "id": 13,
     "original_language": "en",
-    "original_title": "Alarum",
-    "overview": "Two married spies caught in the crosshairs of an international intelligence network will stop at nothing to obtain a critical asset. Joe and Lara are agents living off the grid whose quiet retreat at a winter resort is blown to shreds when members of the old guard suspect the two may have joined an elite team of rogue spies, known as Alarum.",
-    "popularity": 23.6845,
-    "poster_path": "/v313aUGmMNj6yNveaiQXysBmjVS.jpg",
-    "release_date": "2025-01-16",
-    "title": "Alarum",
+    "original_title": "Forrest Gump",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "popularity": 23.3367,
+    "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "release_date": "1994-06-23",
+    "title": "Forrest Gump",
     "video": false,
-    "vote_average": 5.745,
-    "vote_count": 274
+    "vote_average": 8.468,
+    "vote_count": 28192
   },
   {
     "adult": false,
-    "backdrop_path": "/30TgnSvXiL7NQoQ5WWwHqw0FRhA.jpg",
-    "genre_ids": [
-      18,
-      10749
-    ],
-    "id": 48650,
-    "original_language": "es",
-    "original_title": "Habitación en Roma",
-    "overview": "A hotel room in the center of Rome serves as the setting for Alba and Natasha, two sexy and recently acquainted women, to have a physical adventure that touches their very souls.",
-    "popularity": 23.6825,
-    "poster_path": "/gx2ENSap1D4nbjcz7cLLAs4S3fy.jpg",
-    "release_date": "2010-05-07",
-    "title": "Room in Rome",
-    "video": false,
-    "vote_average": 6.411,
-    "vote_count": 768
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/997ToEZvF2Obp9zNZbY5ELVnmrW.jpg",
-    "genre_ids": [
-      10749,
-      18
-    ],
-    "id": 537915,
-    "original_language": "en",
-    "original_title": "After",
-    "overview": "Tessa Young is a dedicated student, dutiful daughter and loyal girlfriend to her high school sweetheart. Entering her first semester of college, Tessa's guarded world opens up when she meets Hardin Scott, a mysterious and brooding rebel who makes her question all she thought she knew about herself -- and what she wants out of life.",
-    "popularity": 23.5093,
-    "poster_path": "/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg",
-    "release_date": "2019-04-11",
-    "title": "After",
-    "video": false,
-    "vote_average": 7.122,
-    "vote_count": 8335
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/63y4XSVTZ7mRzAzkqwi3o0ajDZZ.jpg",
-    "genre_ids": [
-      80,
-      18,
-      35
-    ],
-    "id": 106646,
-    "original_language": "en",
-    "original_title": "The Wolf of Wall Street",
-    "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
-    "popularity": 23.5026,
-    "poster_path": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
-    "release_date": "2013-12-25",
-    "title": "The Wolf of Wall Street",
-    "video": false,
-    "vote_average": 8.0,
-    "vote_count": 24584
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/nNh7vHHISVAaziJEqAq0P9iL52w.jpg",
+    "backdrop_path": "/lljZTHeXJ3mNt3IC5Kh7MPXVKeZ.jpg",
     "genre_ids": [
       27,
-      878,
-      9648,
-      53
+      35,
+      14
     ],
-    "id": 395992,
+    "id": 1201176,
     "original_language": "en",
-    "original_title": "Life",
-    "overview": "The six-member crew of the International Space Station is tasked with studying a sample from Mars that may be the first proof of extra-terrestrial life, which proves more intelligent than ever expected.",
-    "popularity": 23.2593,
-    "poster_path": "/wztfli5NgYDgurVgShNflvnyA3Z.jpg",
-    "release_date": "2017-03-22",
-    "title": "Life",
+    "original_title": "Easter Bloody Easter",
+    "overview": "A woman must protect her small town from the Jackalope (based on the mythical rabbit-antelope creature of North American folklore) and his army of devilish bunnies as they embark on a murder spree over the Easter weekend.",
+    "popularity": 23.1732,
+    "poster_path": "/8tGYZlPttiOjEe61GvszRcrnpEi.jpg",
+    "release_date": "2024-03-25",
+    "title": "Easter Bloody Easter",
     "video": false,
-    "vote_average": 6.441,
-    "vote_count": 7502
+    "vote_average": 4.5,
+    "vote_count": 6
   },
   {
     "adult": false,
-    "backdrop_path": "/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+    "backdrop_path": "/2kfkOigqC6B3P7UVB332EC0Eyz3.jpg",
     "genre_ids": [
-      16,
       12,
-      10751,
-      35
+      35,
+      18
     ],
-    "id": 862,
+    "id": 371645,
     "original_language": "en",
-    "original_title": "Toy Story",
-    "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
-    "popularity": 23.196,
-    "poster_path": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
-    "release_date": "1995-11-22",
-    "title": "Toy Story",
+    "original_title": "Hunt for the Wilderpeople",
+    "overview": "Ricky is a defiant young city kid who finds himself on the run with his cantankerous foster uncle in the wild New Zealand bush. A national manhunt ensues, and the two are forced to put aside their differences and work together to survive.",
+    "popularity": 18.4406,
+    "poster_path": "/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
+    "release_date": "2016-03-31",
+    "title": "Hunt for the Wilderpeople",
     "video": false,
-    "vote_average": 7.967,
-    "vote_count": 18814
+    "vote_average": 7.646,
+    "vote_count": 2128
   },
   {
     "adult": false,
-    "backdrop_path": "/7Y3LdmsZukXhmwxtO0UF95BFBTt.jpg",
+    "backdrop_path": "/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
     "genre_ids": [
-      18,
-      9648,
-      10749
+      28,
+      53,
+      80
     ],
-    "id": 682507,
+    "id": 603692,
     "original_language": "en",
-    "original_title": "Where the Crawdads Sing",
-    "overview": "Abandoned by her family, Kya raises herself all alone in the marshes outside of her small town. When her former boyfriend is found dead, Kya is instantly branded by the local townspeople and law enforcement as the prime suspect for his murder.",
-    "popularity": 23.0827,
-    "poster_path": "/n1el846gLDXfhOvrRCsyvaAOQWv.jpg",
-    "release_date": "2022-07-14",
-    "title": "Where the Crawdads Sing",
+    "original_title": "John Wick: Chapter 4",
+    "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+    "popularity": 23.5894,
+    "poster_path": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+    "release_date": "2023-03-22",
+    "title": "John Wick: Chapter 4",
     "video": false,
-    "vote_average": 7.563,
-    "vote_count": 1960
+    "vote_average": 7.724,
+    "vote_count": 7050
   }
 ]

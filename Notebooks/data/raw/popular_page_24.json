@@ -1,285 +1,83 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/8U1xsLUtWSN8WlH0xzwYGZxHMUi.jpg",
+    "backdrop_path": "/nP3y0TkR6XniFs9J53qQkg4Bnnk.jpg",
     "genre_ids": [
+      18,
       35
     ],
-    "id": 1304594,
-    "original_language": "es",
-    "original_title": "Una pequeña confusión",
-    "overview": "Lola and Cuau, a progressive middle-class pair, and Iñigo and Majo, a young conservative, well-heeled duo, turn to artificial insemination as a last resort to have children. In a madcap twist based on actual events, a mix-up at the clinic results in each mom-to-be carrying the other one's baby.",
-    "popularity": 15.5769,
-    "poster_path": "/ApXr9phfcvIX06tLGhxOH2kmndb.jpg",
-    "release_date": "2024-12-25",
-    "title": "Una pequeña confusión",
+    "id": 10625,
+    "original_language": "en",
+    "original_title": "Mean Girls",
+    "overview": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+    "popularity": 17.1705,
+    "poster_path": "/alKvY5LuVcXraRBfi5UtVV8Ii6Y.jpg",
+    "release_date": "2004-04-30",
+    "title": "Mean Girls",
     "video": false,
-    "vote_average": 7.4,
-    "vote_count": 70
+    "vote_average": 7.219,
+    "vote_count": 8998
   },
   {
     "adult": false,
-    "backdrop_path": "/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
+    "backdrop_path": "/1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg",
     "genre_ids": [
-      18,
-      28,
       12,
-      36,
-      10752
-    ],
-    "id": 1495,
-    "original_language": "en",
-    "original_title": "Kingdom of Heaven",
-    "overview": "After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.",
-    "popularity": 15.5499,
-    "poster_path": "/rNaBe4TwbMef71sgscqabpGKsxh.jpg",
-    "release_date": "2005-05-03",
-    "title": "Kingdom of Heaven",
-    "video": false,
-    "vote_average": 6.98,
-    "vote_count": 4465
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/ew5FcYiRhTYNJAkxoVPMNlCOdVn.jpg",
-    "genre_ids": [
-      28,
-      80,
-      18
-    ],
-    "id": 272,
-    "original_language": "en",
-    "original_title": "Batman Begins",
-    "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
-    "popularity": 15.5336,
-    "poster_path": "/4MpN4kIEqUjW8OPtOQJXlTdHiJV.jpg",
-    "release_date": "2005-06-10",
-    "title": "Batman Begins",
-    "video": false,
-    "vote_average": 7.712,
-    "vote_count": 21445
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/7q5RVohE85yuQ9uZWXEXlHmfUOE.jpg",
-    "genre_ids": [
-      28,
-      27
-    ],
-    "id": 1062276,
-    "original_language": "en",
-    "original_title": "Dark Match",
-    "overview": "A small-time wrestling company accepts a well-paying gig in a backwoods town only to learn, too late, that the community is run by a mysterious cult leader with devious plans for their match.",
-    "popularity": 15.5296,
-    "poster_path": "/6E6fBED3ix7FmrWUWZdeYG4vqK8.jpg",
-    "release_date": "2024-07-21",
-    "title": "Dark Match",
-    "video": false,
-    "vote_average": 5.0,
-    "vote_count": 15
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg",
-    "genre_ids": [
-      16,
-      35,
+      18,
       10751,
-      14
+      16
     ],
-    "id": 568124,
+    "id": 420818,
     "original_language": "en",
-    "original_title": "Encanto",
-    "overview": "The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.",
-    "popularity": 15.5277,
-    "poster_path": "/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
-    "release_date": "2021-10-13",
-    "title": "Encanto",
+    "original_title": "The Lion King",
+    "overview": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.",
+    "popularity": 15.3219,
+    "poster_path": "/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+    "release_date": "2019-07-12",
+    "title": "The Lion King",
     "video": false,
-    "vote_average": 7.593,
-    "vote_count": 9709
+    "vote_average": 7.1,
+    "vote_count": 10346
   },
   {
     "adult": false,
-    "backdrop_path": "/bSvUW4JQ6g4QiKvwejcfcPRd4Ke.jpg",
+    "backdrop_path": "/xi1VSt3DtkevUmzCx2mNlCoDe74.jpg",
     "genre_ids": [
-      12,
-      35,
-      10751,
-      14
-    ],
-    "id": 118,
-    "original_language": "en",
-    "original_title": "Charlie and the Chocolate Factory",
-    "overview": "A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.",
-    "popularity": 15.5096,
-    "poster_path": "/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg",
-    "release_date": "2005-07-13",
-    "title": "Charlie and the Chocolate Factory",
-    "video": false,
-    "vote_average": 7.042,
-    "vote_count": 15451
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/12IP1jQLj3r2rUvO8WJ7KGEFlCR.jpg",
-    "genre_ids": [
-      53,
-      18,
-      80
-    ],
-    "id": 1058615,
-    "original_language": "en",
-    "original_title": "The Accidental Getaway Driver",
-    "overview": "During a routine pickup, an elderly Vietnamese cab driver is taken hostage by three recently escaped Orange County convicts. Based on a true story.",
-    "popularity": 15.5094,
-    "poster_path": "/1JpJK5nOQWBl6aaft1Tt1ymD3kK.jpg",
-    "release_date": "2025-02-28",
-    "title": "The Accidental Getaway Driver",
-    "video": false,
-    "vote_average": 9.5,
-    "vote_count": 4
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/X7zKxmyrVmYCfcyvDgVLH8iNzA.jpg",
-    "genre_ids": [
-      80,
-      18,
-      28
-    ],
-    "id": 949,
-    "original_language": "en",
-    "original_title": "Heat",
-    "overview": "Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.",
-    "popularity": 15.5093,
-    "poster_path": "/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
-    "release_date": "1995-12-15",
-    "title": "Heat",
-    "video": false,
-    "vote_average": 7.92,
-    "vote_count": 7592
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/mKOBdgaEFguADkJhfFslY7TYxIh.jpg",
-    "genre_ids": [
-      28,
-      878,
-      35
-    ],
-    "id": 365177,
-    "original_language": "en",
-    "original_title": "Borderlands",
-    "overview": "Returning to her home planet, an infamous bounty hunter forms an unexpected alliance with a team of unlikely heroes. Together, they battle monsters and dangerous bandits to protect a young girl who holds the key to unimaginable power.",
-    "popularity": 15.4728,
-    "poster_path": "/4JGoZu1ZKFpMJTWAP35PCfkMgu8.jpg",
-    "release_date": "2024-08-07",
-    "title": "Borderlands",
-    "video": false,
-    "vote_average": 5.67,
-    "vote_count": 1192
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/zZKmEmRDc7ZjFucPm2UGNgDRlDc.jpg",
-    "genre_ids": [
-      12,
-      35,
-      14,
-      28,
-      10751
-    ],
-    "id": 353486,
-    "original_language": "en",
-    "original_title": "Jumanji: Welcome to the Jungle",
-    "overview": "Four teenagers in detention discover an old video game console with a game they’ve never heard of. When they decide to play, they are immediately sucked into the jungle world of Jumanji in the bodies of their avatars. They’ll have to complete the adventure of their lives filled with fun, thrills and danger or be stuck in the game forever!",
-    "popularity": 15.4257,
-    "poster_path": "/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg",
-    "release_date": "2017-12-09",
-    "title": "Jumanji: Welcome to the Jungle",
-    "video": false,
-    "vote_average": 6.82,
-    "vote_count": 13874
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
-    "genre_ids": [
-      28,
-      12,
-      878
-    ],
-    "id": 284054,
-    "original_language": "en",
-    "original_title": "Black Panther",
-    "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
-    "popularity": 15.4244,
-    "poster_path": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
-    "release_date": "2018-02-13",
-    "title": "Black Panther",
-    "video": false,
-    "vote_average": 7.373,
-    "vote_count": 22545
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/pu6twJJq87vzYvtu0OftcN0AkNU.jpg",
-    "genre_ids": [
-      878,
       27,
-      28
-    ],
-    "id": 940721,
-    "original_language": "ja",
-    "original_title": "ゴジラ-1.0",
-    "overview": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-    "popularity": 15.4109,
-    "poster_path": "/2E2WTX0TJEflAged6kzErwqX1kt.jpg",
-    "release_date": "2023-11-03",
-    "title": "Godzilla Minus One",
-    "video": false,
-    "vote_average": 7.6,
-    "vote_count": 2648
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/en3GU5uGkKaYmSyetHV4csHHiH3.jpg",
-    "genre_ids": [
-      10752,
-      28,
-      18
-    ],
-    "id": 929590,
-    "original_language": "en",
-    "original_title": "Civil War",
-    "overview": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.",
-    "popularity": 15.4099,
-    "poster_path": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
-    "release_date": "2024-04-10",
-    "title": "Civil War",
-    "video": false,
-    "vote_average": 6.865,
-    "vote_count": 3558
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/xwgBHC2FgoIrQitl8jZwXXdsR9u.jpg",
-    "genre_ids": [
       35,
+      14
+    ],
+    "id": 917496,
+    "original_language": "en",
+    "original_title": "Beetlejuice Beetlejuice",
+    "overview": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Betelgeuse, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
+    "popularity": 14.0082,
+    "poster_path": "/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+    "release_date": "2024-09-04",
+    "title": "Beetlejuice Beetlejuice",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 2518
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/y2DB71C4nyIdMrANijz8mzvQtk6.jpg",
+    "genre_ids": [
+      28,
+      80,
       18,
       53
     ],
-    "id": 466272,
+    "id": 49026,
     "original_language": "en",
-    "original_title": "Once Upon a Time... in Hollywood",
-    "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
-    "popularity": 15.3269,
-    "poster_path": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
-    "release_date": "2019-07-24",
-    "title": "Once Upon a Time... in Hollywood",
+    "original_title": "The Dark Knight Rises",
+    "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+    "popularity": 13.4736,
+    "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+    "release_date": "2012-07-17",
+    "title": "The Dark Knight Rises",
     "video": false,
-    "vote_average": 7.429,
-    "vote_count": 13872
+    "vote_average": 7.785,
+    "vote_count": 23196
   }
 ]

@@ -1,119 +1,265 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/bgkFOoXEQMRjKkCvgoj7smdGbuh.jpg",
+    "backdrop_path": "/Kj14WdD0Xqk7wZ5jXqHiyBMKtv.jpg",
+    "genre_ids": [
+      27,
+      28,
+      53,
+      10752
+    ],
+    "id": 1244361,
+    "original_language": "th",
+    "original_title": "ช.พ.๑ สมรภูมิคืนชีพ",
+    "overview": "Inexperienced Thai soldiers battle a growing undead menace in this gruesome survival horror. A Japanese military experiment that turns men into monsters escapes containment, it’s up to these troops to save their nation from annihilation.",
+    "popularity": 10.8579,
+    "poster_path": "/rs10lMBnJFnJX1Y7MYpyB8JiNAF.jpg",
+    "release_date": "2024-07-20",
+    "title": "Operation Undead",
+    "video": false,
+    "vote_average": 3.929,
+    "vote_count": 14
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hjm1i9ZyueTaw7xCcpJmjKpb8Sv.jpg",
+    "genre_ids": [
+      16,
+      36,
+      28,
+      18,
+      14,
+      10749
+    ],
+    "id": 483456,
+    "original_language": "ja",
+    "original_title": "PEACE MAKER 鐵 前篇 想道~オモウミチ~",
+    "overview": "Although traumatized by witnessing the murder of his parents by one of the Choushuu, Ichimura Tetsunosuke's thirst for revenge leads him to desire strength. At the age of 15, Tetsunosuke approached the Shinsengumi, wanting to become one of its members. However, Tetsunosuke lacked the skill, mind, and will to emotionlessly cut down whoever threatened peace and the Shinsengumi. Even with the support of his brother Tatsunosuke and his newfound friends of the Shinsengumi, little did Tetsunosuke know the blood and pain he would have to face being part of this historical group.",
+    "popularity": 10.5629,
+    "poster_path": "/wbyIM5s7ZgwOmXycjBttBhhXtTq.jpg",
+    "release_date": "2018-06-02",
+    "title": "Peacemaker Kurogane: Belief",
+    "video": false,
+    "vote_average": 5.125,
+    "vote_count": 4
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2Y7nbXrDtHwAfcTX7KBN0z40OAy.jpg",
+    "genre_ids": [
+      12,
+      28
+    ],
+    "id": 89,
+    "original_language": "en",
+    "original_title": "Indiana Jones and the Last Crusade",
+    "overview": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
+    "popularity": 10.0551,
+    "poster_path": "/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
+    "release_date": "1989-05-24",
+    "title": "Indiana Jones and the Last Crusade",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 10411
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+    "genre_ids": [
+      18,
+      10752
+    ],
+    "id": 28,
+    "original_language": "en",
+    "original_title": "Apocalypse Now",
+    "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+    "popularity": 11.5899,
+    "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+    "release_date": "1979-05-19",
+    "title": "Apocalypse Now",
+    "video": false,
+    "vote_average": 8.271,
+    "vote_count": 8485
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/z7noaCJ4KtmhwHw7QcNtnMMo4Qy.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "id": 345887,
+    "original_language": "en",
+    "original_title": "The Equalizer 2",
+    "overview": "Robert McCall, who serves an unflinching justice for the exploited and oppressed, embarks on a relentless, globe-trotting quest for vengeance when his former partner is murdered.",
+    "popularity": 10.18,
+    "poster_path": "/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg",
+    "release_date": "2018-07-19",
+    "title": "The Equalizer 2",
+    "video": false,
+    "vote_average": 6.772,
+    "vote_count": 5534
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5U3VLeWr2H4Nd3G7IkHItFimsIz.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      16,
+      878
+    ],
+    "id": 870360,
+    "original_language": "en",
+    "original_title": "The Day the Earth Blew Up: A Looney Tunes Movie",
+    "overview": "Porky and Daffy, the classic animated odd couple, turn into unlikely heroes when their antics at the local bubble gum factory uncover a secret alien mind control plot. Against all odds, the two are determined to save their town (and the world!)...that is if they don't drive each other crazy in the process.",
+    "popularity": 10.7278,
+    "poster_path": "/s2lB1kaYCdGSnZX5meQCiOR6HfX.jpg",
+    "release_date": "2024-08-01",
+    "title": "The Day the Earth Blew Up: A Looney Tunes Movie",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 76
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lpZRUK5AuFW4Rw6bISIWOBJhS7P.jpg",
+    "genre_ids": [
+      99
+    ],
+    "id": 1100287,
+    "original_language": "en",
+    "original_title": "Making of The Last of Us",
+    "overview": "Featuring extensive interviews with the cast and crew, this all-access documentary gives a rare glimpse into the daunting behind-the-scenes efforts that went into the production of the HBO Original smash hit series The Last of Us.",
+    "popularity": 10.0504,
+    "poster_path": "/nter1KTaQjmkGCjvSu5u01FoecP.jpg",
+    "release_date": "2023-03-12",
+    "title": "Making of The Last of Us",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 23
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uhYoytlNaq46dG81wLmHqaSuzWu.jpg",
     "genre_ids": [
       28,
       12,
-      878
+      14
     ],
-    "id": 157350,
+    "id": 76338,
     "original_language": "en",
-    "original_title": "Divergent",
-    "overview": "In a world divided into factions based on personality types, Tris learns that she's been classified as Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.",
-    "popularity": 10.9261,
-    "poster_path": "/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg",
-    "release_date": "2014-03-14",
-    "title": "Divergent",
+    "original_title": "Thor: The Dark World",
+    "overview": "Thor fights to restore order across the cosmos… but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.",
+    "popularity": 10.8378,
+    "poster_path": "/wD6g4EcmR6R3VNbuBmNOVq2qWrM.jpg",
+    "release_date": "2013-10-30",
+    "title": "Thor: The Dark World",
     "video": false,
-    "vote_average": 6.915,
-    "vote_count": 12971
+    "vote_average": 6.516,
+    "vote_count": 17578
   },
   {
     "adult": false,
-    "backdrop_path": "/dB0CxRwLXJoOrRPUvsJjb2hnPtq.jpg",
+    "backdrop_path": "/5OeY4U2rzePxWq2rkqMajUx2gz7.jpg",
     "genre_ids": [
-      878,
-      28,
-      12
+      16,
+      10751,
+      12,
+      14,
+      10749
     ],
-    "id": 624860,
+    "id": 812,
     "original_language": "en",
-    "original_title": "The Matrix Resurrections",
-    "overview": "Plagued by strange memories, Neo's life takes an unexpected turn when he finds himself back inside the Matrix.",
-    "popularity": 10.9078,
-    "poster_path": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
-    "release_date": "2021-12-16",
-    "title": "The Matrix Resurrections",
+    "original_title": "Aladdin",
+    "overview": "In the boorish city of Agrabah, kind-hearted street urchin Aladdin and Princess Jasmine fall in love, although she can only marry a prince. He and power-hungry Grand Vizier Jafar vie for a magic lamp that can fulfill their wishes.",
+    "popularity": 11.6069,
+    "poster_path": "/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+    "release_date": "1992-11-25",
+    "title": "Aladdin",
     "video": false,
-    "vote_average": 6.379,
-    "vote_count": 5973
+    "vote_average": 7.652,
+    "vote_count": 11455
   },
   {
     "adult": false,
-    "backdrop_path": "/PN7yjmQdmG0J62jsrtmrPi8ezK.jpg",
+    "backdrop_path": "/rRwD4MoBlkBXWQ6PDnbKRSU5dDu.jpg",
     "genre_ids": [
-      27,
       53,
-      878
+      18,
+      80
     ],
-    "id": 1562,
+    "id": 1359,
     "original_language": "en",
-    "original_title": "28 Weeks Later",
-    "overview": "The inhabitants of the British Isles have lost their battle against the onslaught of disease, as the deadly rage virus has killed every citizen there. Six months later, a group of Americans dare to set foot on the Isles, convinced the danger has passed. But it soon becomes all too clear that the scourge continues to live, waiting to pounce on its next victims.",
-    "popularity": 10.8186,
-    "poster_path": "/ja8nzgtzhJq0vtX3BJcnbceIxCF.jpg",
-    "release_date": "2007-04-26",
-    "title": "28 Weeks Later",
+    "original_title": "American Psycho",
+    "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+    "popularity": 10.3761,
+    "poster_path": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+    "release_date": "2000-04-13",
+    "title": "American Psycho",
     "video": false,
-    "vote_average": 6.617,
-    "vote_count": 4524
+    "vote_average": 7.4,
+    "vote_count": 11369
   },
   {
     "adult": false,
-    "backdrop_path": "/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+    "backdrop_path": "/v23fWgJUEt8EMmvn19btIacxP8E.jpg",
     "genre_ids": [
-      9648,
-      53,
+      10749,
+      14,
+      16
+    ],
+    "id": 3933,
+    "original_language": "en",
+    "original_title": "Corpse Bride",
+    "overview": "In a 19th-century European village, a young man about to be married is whisked away to the underworld and wed to a mysterious corpse bride, while his real bride waits bereft in the land of the living.",
+    "popularity": 10.5006,
+    "poster_path": "/isb2Qow76GpqYmsSyfdMfsYAjts.jpg",
+    "release_date": "2005-09-12",
+    "title": "Corpse Bride",
+    "video": false,
+    "vote_average": 7.578,
+    "vote_count": 9531
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yvPbncYhMu9FfTjDhq0N5lgnVkO.jpg",
+    "genre_ids": [
+      35,
+      10749,
       18
     ],
-    "id": 745,
+    "id": 4951,
     "original_language": "en",
-    "original_title": "The Sixth Sense",
-    "overview": "Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine year old boy named Cole Sear, who is hiding a dark secret.",
-    "popularity": 10.8029,
-    "poster_path": "/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
-    "release_date": "1999-08-06",
-    "title": "The Sixth Sense",
+    "original_title": "10 Things I Hate About You",
+    "overview": "On the first day at his new school, Cameron instantly falls for Bianca, the gorgeous girl of his dreams. The only problem is that Bianca is forbidden to date until her ill-tempered, completely un-dateable older sister Kat goes out, too. In an attempt to solve his problem, Cameron singles out the only guy who could possibly be a match for Kat: a mysterious bad boy with a nasty reputation of his own.",
+    "popularity": 10.5722,
+    "poster_path": "/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+    "release_date": "1999-03-30",
+    "title": "10 Things I Hate About You",
     "video": false,
-    "vote_average": 7.952,
-    "vote_count": 12030
+    "vote_average": 7.594,
+    "vote_count": 8358
   },
   {
     "adult": false,
-    "backdrop_path": "/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+    "backdrop_path": "/3HnkKX1B9h4govdAa3Ku8qMZaoZ.jpg",
     "genre_ids": [
-      27
-    ],
-    "id": 9552,
-    "original_language": "en",
-    "original_title": "The Exorcist",
-    "overview": "When a charming 12-year-old girl takes on the characteristics and voices of others, doctors say there is nothing they can do. As people begin to die, the girl's mother realizes her daughter has been possessed by the Devil. Her daughter's only possible hope lies with two priests and the ancient rite of demonic exorcism.",
-    "popularity": 10.7921,
-    "poster_path": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
-    "release_date": "1973-12-26",
-    "title": "The Exorcist",
-    "video": false,
-    "vote_average": 7.732,
-    "vote_count": 8148
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/1aOPPkXASkd2By3EKIw66Ilx5qF.jpg",
-    "genre_ids": [
-      28,
+      27,
       53
     ],
-    "id": 1094974,
-    "original_language": "en",
-    "original_title": "Take Cover",
-    "overview": "A burned-out professional sniper finds himself trapped in an all-glass penthouse by a lethal competitor and must find a way to survive and escape with little to no cover between him and the killer.",
-    "popularity": 10.7879,
-    "poster_path": "/xNLiMNyFzKTL9PVIEulG55Hei8j.jpg",
-    "release_date": "2024-10-04",
-    "title": "Take Cover",
+    "id": 1100856,
+    "original_language": "ru",
+    "original_title": "Заклятье. Шепот ведьм",
+    "overview": "Mara, an ancient pagan spirit, hunts a group of teenagers taking their body parts to be reborn. A disillusioned and desperate investigator has to face his deepest fears to save the teenagers.",
+    "popularity": 10.3688,
+    "poster_path": "/raDMchyq3dJMqso2TVh75A123Xb.jpg",
+    "release_date": "2024-06-13",
+    "title": "Whisper of the Witch",
     "video": false,
-    "vote_average": 6.634,
-    "vote_count": 119
+    "vote_average": 6.5,
+    "vote_count": 41
   }
 ]
