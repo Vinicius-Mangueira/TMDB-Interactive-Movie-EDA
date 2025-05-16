@@ -178,4 +178,4 @@ cython_debug/
 .env.example
 
 # VS Code
-Notebooks/iframe_figures/
+Notebooks/iframe_figures/ 
